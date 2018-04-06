@@ -1,0 +1,270 @@
+<mods ID="id-CREC-2017-01-04-pt1-PgH71" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-05-03</dateIngested>
+</extension>
+<titleInfo>
+<title>THOROUGHLY INVESTIGATING RETALIATION AGAINST WHISTLEBLOWERS ACT</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-01-04/html/CREC-2017-01-04-pt1-PgH71.htm">
+<identifier type="FDsys Unique ID">D09002ee196a69978</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-01-04/pdf/CREC-2017-01-04-pt1-PgH71.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a69a4a</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H71</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-01-04/CREC-2017-01-04-pt1-PgH71</identifier>
+<identifier type="former granule identifier">CR04JA17-79</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-01-04/CREC-2017-01-04-pt1-PgH71/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-04/pdf/CREC-2017-01-04-pt1-PgH71.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-04/html/CREC-2017-01-04-pt1-PgH71.htm</url>
+</location>
+<physicalDescription>
+<extent>4 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H71</start>
+<end>H74</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Jason Chaffetz</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Rod Blum</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Wm. Lacy Clay</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Gerald E. Connolly</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Oversight and Government Reform</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H71</identifier>
+<extension>
+<searchTitle>THOROUGHLY INVESTIGATING RETALIATION AGAINST WHISTLEBLOWERS ACT; Congressional Record Vol. 163, No. 2</searchTitle>
+<associatedBills>H.R. 69, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-01-04-pt1-PgH71</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-01-04</granuleDate>
+<time from="13:15:00" to="13:30:00"/>
+<bill congress="115" context="HEADERLINE" number="69" type="HR"/>
+<bill congress="115" context="OTHER" number="69" type="HR"/>
+<congCommittee authorityId="hsgo00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Oversight and Government Reform</name>
+<name type="authority-short">Oversight and Government Reform</name>
+</congCommittee>
+<congMember authorityId="1956" bioGuideId="C001076" chamber="H" congress="115" gpoId="8191" party="R" role="SPEAKING" state="UT">
+<name type="parsed">Mr. CHAFFETZ</name>
+<name type="authority-fnf">Jason Chaffetz</name>
+<name type="authority-lnf">Chaffetz, Jason</name>
+</congMember>
+<congMember authorityId="2241" bioGuideId="B001294" chamber="H" congress="115" party="R" role="SPEAKING" state="IA">
+<name type="parsed">Mr. BLUM</name>
+<name type="authority-fnf">Rod Blum</name>
+<name type="authority-lnf">Blum, Rod</name>
+</congMember>
+<congMember authorityId="1654" bioGuideId="C001049" chamber="H" congress="115" gpoId="8009" party="D" role="SPEAKING" state="MO">
+<name type="parsed">Mr. CLAY</name>
+<name type="authority-fnf">Wm. Lacy Clay</name>
+<name type="authority-lnf">Clay, Wm. Lacy</name>
+<name type="authority-other">William Lacy Clay</name>
+</congMember>
+<congMember authorityId="1959" bioGuideId="C001078" chamber="H" congress="115" gpoId="8202" party="D" role="SPEAKING" state="VA">
+<name type="parsed">Mr. CONNOLLY</name>
+<name type="authority-fnf">Gerald E. Connolly</name>
+<name type="authority-lnf">Connolly, Gerald E.</name>
+<name type="authority-other">Mr. Gerald Connolly</name>
+</congMember>
+<law congress="103" isPrivate="false" number="424"/>
+<USCode title="5">
+<section detail="(b)" number="1212"/>
+<section number="1213"/>
+<section detail="(a)" number="1214"/>
+<section number="1218"/>
+<section detail="(a)(1)" number="1219"/>
+<section detail="note" number="5509"/>
+<section number="7326"/>
+<chapter number="12"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 69  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 69</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 69  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 69</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 5 Section 1212(b)</partNumber>
+<partNumber>Title 5 Section 1213</partNumber>
+<partNumber>Title 5 Section 1214(a)</partNumber>
+<partNumber>Title 5 Section 1218</partNumber>
+<partNumber>Title 5 Section 1219(a)(1)</partNumber>
+<partNumber>Title 5 Section 5509note</partNumber>
+<partNumber>Title 5 Section 7326</partNumber>
+<partNumber>Title 5 Chapter 12</partNumber>
+</titleInfo>
+<identifier type="USC citation">5 U.S.C. 1212(b)</identifier>
+<identifier type="USC citation">5 U.S.C. 1213</identifier>
+<identifier type="USC citation">5 U.S.C. 1214(a)</identifier>
+<identifier type="USC citation">5 U.S.C. 1218</identifier>
+<identifier type="USC citation">5 U.S.C. 1219(a)(1)</identifier>
+<identifier type="USC citation">5 U.S.C. 5509note</identifier>
+<identifier type="USC citation">5 U.S.C. 7326</identifier>
+<identifier type="USC citation">5 U.S.C. Chapter 12</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 103-424</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 103-424</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee1949f54ad" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 2</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-04/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-04/pdf/CREC-2017-01-04.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H55</start>
+<end>H99</end>
+</extent>
+<extent unit="pages">
+<start>S29</start>
+<end>S71</end>
+</extent>
+<extent unit="pages">
+<start>E15</start>
+<end>E22</end>
+</extent>
+<extent unit="pages">
+<start>D8</start>
+<end>D12</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-01-04</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>202 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-04</identifier>
+<identifier type="local">P0b002ee1949f54ad</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR04JA17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-05-03</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-01-04</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-01-04</accessId>
+<volume>163</volume>
+<issue>2</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

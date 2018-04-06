@@ -1,0 +1,822 @@
+<mods ID="id-CREC-2017-01-31-pt1-PgH817-2" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-02-10</dateIngested>
+</extension>
+<titleInfo>
+<title>PUBLIC BILLS AND RESOLUTIONS</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-01-31/html/CREC-2017-01-31-pt1-PgH817-2.htm">
+<identifier type="FDsys Unique ID">D09002ee196a6e96f</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-01-31/pdf/CREC-2017-01-31-pt1-PgH817-2.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a6ea20</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H817</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-01-31/CREC-2017-01-31-pt1-PgH817-2</identifier>
+<identifier type="former granule identifier">CR31JA17-123</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-01-31/CREC-2017-01-31-pt1-PgH817-2/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-31/pdf/CREC-2017-01-31-pt1-PgH817-2.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-31/html/CREC-2017-01-31-pt1-PgH817-2.htm</url>
+</location>
+<physicalDescription>
+<extent>4 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H817</start>
+<end>H820</end>
+</extent>
+</part>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Armed Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Appropriations</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Financial Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Oversight and Government Reform</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Veterans' Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Ways and Means</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Rules</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on the Budget</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Foreign Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on the Judiciary</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Natural Resources</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Transportation and Infrastructure</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Energy and Commerce</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Science, Space, and Technology</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on House Administration</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Permanent Select Committee on Intelligence</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Education and the Workforce</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H817</identifier>
+<extension>
+<searchTitle>PUBLIC BILLS AND RESOLUTIONS; Congressional Record Vol. 163, No. 16</searchTitle>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-01-31-pt1-PgH817-2</accessId>
+<subGranuleClass>HPUBBILLS</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-01-31</granuleDate>
+<time from="19:00:00" to="19:00:00"/>
+<bill congress="115" context="OTHER" number="15" type="HCONRES"/>
+<bill congress="115" context="OTHER" number="50" type="HJRES"/>
+<bill congress="115" context="OTHER" number="51" type="HJRES"/>
+<bill congress="115" context="OTHER" number="52" type="HJRES"/>
+<bill congress="115" context="OTHER" number="53" type="HJRES"/>
+<bill congress="115" context="OTHER" number="54" type="HJRES"/>
+<bill congress="115" context="OTHER" number="55" type="HJRES"/>
+<bill congress="115" context="OTHER" number="73" type="HRES"/>
+<bill congress="115" context="OTHER" number="75" type="HRES"/>
+<bill congress="115" context="OTHER" number="76" type="HRES"/>
+<bill congress="115" context="OTHER" number="77" type="HRES"/>
+<bill congress="115" context="OTHER" number="753" type="HR"/>
+<bill congress="115" context="OTHER" number="754" type="HR"/>
+<bill congress="115" context="OTHER" number="755" type="HR"/>
+<bill congress="115" context="OTHER" number="756" type="HR"/>
+<bill congress="115" context="OTHER" number="757" type="HR"/>
+<bill congress="115" context="OTHER" number="758" type="HR"/>
+<bill congress="115" context="OTHER" number="759" type="HR"/>
+<bill congress="115" context="OTHER" number="760" type="HR"/>
+<bill congress="115" context="OTHER" number="761" type="HR"/>
+<bill congress="115" context="OTHER" number="762" type="HR"/>
+<bill congress="115" context="OTHER" number="763" type="HR"/>
+<bill congress="115" context="OTHER" number="764" type="HR"/>
+<bill congress="115" context="OTHER" number="765" type="HR"/>
+<bill congress="115" context="OTHER" number="766" type="HR"/>
+<bill congress="115" context="OTHER" number="767" type="HR"/>
+<bill congress="115" context="OTHER" number="768" type="HR"/>
+<bill congress="115" context="OTHER" number="769" type="HR"/>
+<bill congress="115" context="OTHER" number="770" type="HR"/>
+<bill congress="115" context="OTHER" number="771" type="HR"/>
+<bill congress="115" context="OTHER" number="772" type="HR"/>
+<bill congress="115" context="OTHER" number="773" type="HR"/>
+<bill congress="115" context="OTHER" number="774" type="HR"/>
+<bill congress="115" context="OTHER" number="775" type="HR"/>
+<bill congress="115" context="OTHER" number="776" type="HR"/>
+<bill congress="115" context="OTHER" number="777" type="HR"/>
+<bill congress="115" context="OTHER" number="778" type="HR"/>
+<bill congress="115" context="OTHER" number="779" type="HR"/>
+<congCommittee authorityId="hsas00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Armed Services</name>
+<name type="authority-short">Armed Services</name>
+</congCommittee>
+<congCommittee authorityId="hsap00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Appropriations</name>
+<name type="authority-short">Appropriations</name>
+</congCommittee>
+<congCommittee authorityId="hsba00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Financial Services</name>
+<name type="authority-short">Financial Services</name>
+</congCommittee>
+<congCommittee authorityId="hsgo00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Oversight and Government Reform</name>
+<name type="authority-short">Oversight and Government Reform</name>
+</congCommittee>
+<congCommittee authorityId="hsvr00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Veterans' Affairs</name>
+<name type="authority-short">Veterans' Affairs</name>
+</congCommittee>
+<congCommittee authorityId="hswm00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Ways and Means</name>
+<name type="authority-short">Ways and Means</name>
+</congCommittee>
+<congCommittee authorityId="hsru00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Rules</name>
+<name type="authority-short">Rules</name>
+</congCommittee>
+<congCommittee authorityId="hsbu00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on the Budget</name>
+<name type="authority-short">The Budget</name>
+</congCommittee>
+<congCommittee authorityId="hsfa00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Foreign Affairs</name>
+<name type="authority-short">Foreign Affairs</name>
+</congCommittee>
+<congCommittee authorityId="hsju00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on the Judiciary</name>
+<name type="authority-short">Judiciary</name>
+</congCommittee>
+<congCommittee authorityId="hsii00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Natural Resources</name>
+<name type="authority-short">Natural Resources</name>
+</congCommittee>
+<congCommittee authorityId="hspw00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Transportation and Infrastructure</name>
+<name type="authority-short">Transportation</name>
+</congCommittee>
+<congCommittee authorityId="hsif00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Energy and Commerce</name>
+<name type="authority-short">Energy and Commerce</name>
+</congCommittee>
+<congCommittee authorityId="hssy00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Science, Space, and Technology</name>
+<name type="authority-short">Science, Space, and Technology</name>
+</congCommittee>
+<congCommittee authorityId="hsha00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on House Administration</name>
+<name type="authority-short">House Administration</name>
+</congCommittee>
+<congCommittee authorityId="hlig00" chamber="H" congress="115" type="L">
+<name type="authority-standard">Permanent Select Committee on Intelligence</name>
+<name type="authority-short">Intelligence (Permanent)</name>
+</congCommittee>
+<congCommittee authorityId="hsed00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Education and the Workforce</name>
+<name type="authority-short">Education and the Workforce</name>
+</congCommittee>
+<USCode title="5">
+<chapter number="8"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Concurrent Resolution 15  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Con. Res. 15</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Joint Resolution 50  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.J. Res. 50</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Joint Resolution 51  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.J. Res. 51</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Joint Resolution 52  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.J. Res. 52</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Joint Resolution 53  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.J. Res. 53</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Joint Resolution 54  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.J. Res. 54</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Joint Resolution 55  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.J. Res. 55</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 73  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 73</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 75  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 75</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 76  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 76</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 77  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 77</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 753  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 753</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 754  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 754</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 755  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 755</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 756  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 756</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 757  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 757</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 758  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 758</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 759  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 759</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 760  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 760</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 761  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 761</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 762  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 762</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 763  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 763</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 764  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 764</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 765  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 765</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 766  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 766</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 767  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 767</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 768  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 768</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 769  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 769</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 770  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 770</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 771  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 771</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 772  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 772</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 773  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 773</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 774  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 774</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 775  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 775</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 776  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 776</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 777  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 777</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 778  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 778</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 779  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 779</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 5 Chapter 8</partNumber>
+</titleInfo>
+<identifier type="USC citation">5 U.S.C. Chapter 8</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee193a74586" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 16</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-31/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-31/pdf/CREC-2017-01-31.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H749</start>
+<end>H822</end>
+</extent>
+<extent unit="pages">
+<start>S499</start>
+<end>S540</end>
+</extent>
+<extent unit="pages">
+<start>E105</start>
+<end>E110</end>
+</extent>
+<extent unit="pages">
+<start>D88</start>
+<end>D94</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-01-31</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>258 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-31</identifier>
+<identifier type="local">P0b002ee193a74586</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR31JA17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-02-10</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-01-31</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-01-31</accessId>
+<volume>163</volume>
+<issue>16</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

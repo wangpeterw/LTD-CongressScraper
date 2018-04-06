@@ -1,0 +1,398 @@
+<mods ID="id-CREC-2017-04-05-pt1-PgH2722" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-04-06</dateIngested>
+</extension>
+<titleInfo>
+<title>AMENDING THE VETERANS ACCESS, CHOICE, AND ACCOUNTABILITY ACT OF 2014</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-04-05/html/CREC-2017-04-05-pt1-PgH2722.htm">
+<identifier type="FDsys Unique ID">D09002ee196a72d24</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-04-05/pdf/CREC-2017-04-05-pt1-PgH2722.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a72e52</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H2722</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-04-05/CREC-2017-04-05-pt1-PgH2722</identifier>
+<identifier type="former granule identifier">cr05ap17-114</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-04-05/CREC-2017-04-05-pt1-PgH2722/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-04-05/pdf/CREC-2017-04-05-pt1-PgH2722.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-04-05/html/CREC-2017-04-05-pt1-PgH2722.htm</url>
+</location>
+<physicalDescription>
+<extent>5 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H2722</start>
+<end>H2726</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>David P. Roe</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Timothy J. Walz</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Gus M. Bilirakis</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ann M. Kuster</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mike Coffman</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mark Takano</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Leonard Lance</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Julia Brownley</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ryan A. Costello</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Beto O'Rourke</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>J. Luis Correa</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ruben J. Kihuen</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Veterans' Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H2722</identifier>
+<extension>
+<searchTitle>AMENDING THE VETERANS ACCESS, CHOICE, AND ACCOUNTABILITY ACT OF 2014; Congressional Record Vol. 163, No. 59</searchTitle>
+<associatedBills>S. 544, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-04-05-pt1-PgH2722</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-04-05</granuleDate>
+<time from="14:05:00" to="14:30:00"/>
+<bill congress="115" context="OTHER" number="369" type="HR"/>
+<bill congress="115" context="HEADERLINE" number="544" type="S"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="544" type="S"/>
+<bill congress="115" context="OTHER" number="544" type="S"/>
+<congCommittee authorityId="hsvr00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Veterans' Affairs</name>
+<name type="authority-short">Veterans' Affairs</name>
+</congCommittee>
+<congMember authorityId="1954" bioGuideId="R000582" chamber="H" congress="115" gpoId="8148" party="R" role="SPEAKING" state="TN">
+<name type="parsed">Mr. ROE of Tennessee</name>
+<name type="authority-fnf">David P. Roe</name>
+<name type="authority-lnf">Roe, David P.</name>
+<name type="authority-other">Mr. David Roe</name>
+</congMember>
+<congMember authorityId="1856" bioGuideId="W000799" chamber="H" congress="115" gpoId="8001" party="D" role="SPEAKING" state="MN">
+<name type="parsed">Mr. WALZ</name>
+<name type="authority-fnf">Timothy J. Walz</name>
+<name type="authority-lnf">Walz, Timothy J.</name>
+<name type="authority-other">Mr. Timothy Walz</name>
+</congMember>
+<congMember authorityId="1838" bioGuideId="B001257" chamber="H" congress="115" gpoId="7881" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Mr. BILIRAKIS</name>
+<name type="authority-fnf">Gus M. Bilirakis</name>
+<name type="authority-lnf">Bilirakis, Gus M.</name>
+<name type="authority-other">Mr. Gus Bilirakis</name>
+</congMember>
+<congMember authorityId="2145" bioGuideId="K000382" chamber="H" congress="115" party="D" role="SPEAKING" state="NH">
+<name type="parsed">Ms. KUSTER of New Hampshire</name>
+<name type="authority-fnf">Ann M. Kuster</name>
+<name type="authority-lnf">Kuster, Ann M.</name>
+<name type="authority-other">Ms. Ann Kuster</name>
+</congMember>
+<congMember authorityId="1912" bioGuideId="C001077" chamber="H" congress="115" gpoId="7864" party="R" role="SPEAKING" state="CO">
+<name type="parsed">Mr. COFFMAN</name>
+<name type="authority-fnf">Mike Coffman</name>
+<name type="authority-lnf">Coffman, Mike</name>
+</congMember>
+<congMember authorityId="2110" bioGuideId="T000472" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. TAKANO</name>
+<name type="authority-fnf">Mark Takano</name>
+<name type="authority-lnf">Takano, Mark</name>
+</congMember>
+<congMember authorityId="1936" bioGuideId="L000567" chamber="H" congress="115" gpoId="8049" party="R" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. LANCE</name>
+<name type="authority-fnf">Leonard Lance</name>
+<name type="authority-lnf">Lance, Leonard</name>
+</congMember>
+<congMember authorityId="2106" bioGuideId="B001285" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. BROWNLEY of California</name>
+<name type="authority-fnf">Julia Brownley</name>
+<name type="authority-lnf">Brownley, Julia</name>
+</congMember>
+<congMember authorityId="2266" bioGuideId="C001106" chamber="H" congress="115" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. COSTELLO of Pennsylvania</name>
+<name type="authority-fnf">Ryan A. Costello</name>
+<name type="authority-lnf">Costello, Ryan A.</name>
+<name type="authority-other">Mr. Ryan Costello</name>
+</congMember>
+<congMember authorityId="2162" bioGuideId="O000170" chamber="H" congress="115" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Mr. O'ROURKE</name>
+<name type="authority-fnf">Beto O'Rourke</name>
+<name type="authority-lnf">O'Rourke, Beto</name>
+</congMember>
+<congMember authorityId="2312" bioGuideId="C001110" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. CORREA</name>
+<name type="authority-fnf">J. Luis Correa</name>
+<name type="authority-lnf">Correa, J. Luis</name>
+</congMember>
+<congMember authorityId="2340" bioGuideId="K000390" chamber="H" congress="115" party="D" role="SPEAKING" state="NV">
+<name type="parsed">Mr. KIHUEN</name>
+<name type="authority-fnf">Ruben J. Kihuen</name>
+<name type="authority-lnf">Kihuen, Ruben J.</name>
+<name type="authority-other">Mr. Ruben Kihuen</name>
+</congMember>
+<law congress="87" isPrivate="false" number="693"/>
+<law congress="113" isPrivate="false" number="146"/>
+<USCode title="38">
+<section detail="note" number="1701"/>
+<section number="1729"/>
+<section detail="(b)(2)" number="7332"/>
+</USCode>
+<USCode title="42">
+<section detail="et seq." number="2651"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 369  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 369</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 544  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 544</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 544  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 544</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 544  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 544</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 38 Section 1701note</partNumber>
+<partNumber>Title 38 Section 1729</partNumber>
+<partNumber>Title 38 Section 7332(b)(2)</partNumber>
+</titleInfo>
+<identifier type="USC citation">38 U.S.C. 1701note</identifier>
+<identifier type="USC citation">38 U.S.C. 1729</identifier>
+<identifier type="USC citation">38 U.S.C. 7332(b)(2)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 2651et seq.</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 2651et seq.</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 87-693</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 87-693</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 113-146</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 113-146</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee19473731a" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 59</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-04-05/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-04-05/pdf/CREC-2017-04-05.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H2699</start>
+<end>H2756</end>
+</extent>
+<extent unit="pages">
+<start>E453</start>
+<end>E467</end>
+</extent>
+<extent unit="pages">
+<start>D401</start>
+<end>D406</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-04-05</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>158 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-04-05</identifier>
+<identifier type="local">P0b002ee19473731a</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr05ap17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-04-06</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-04-05</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-04-05</accessId>
+<volume>163</volume>
+<issue>59</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

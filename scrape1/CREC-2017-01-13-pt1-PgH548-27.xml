@@ -1,0 +1,689 @@
+<mods ID="id-CREC-2017-01-13-pt1-PgH548-27" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-05-03</dateIngested>
+</extension>
+<titleInfo>
+<title>ADDITIONAL SPONSORS</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-01-13/html/CREC-2017-01-13-pt1-PgH548-27.htm">
+<identifier type="FDsys Unique ID">D09002ee196a6d1ab</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-01-13/pdf/CREC-2017-01-13-pt1-PgH548-27.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a6d270</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H548</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-01-13/CREC-2017-01-13-pt1-PgH548-27</identifier>
+<identifier type="former granule identifier">CR13JA17-157</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-01-13/CREC-2017-01-13-pt1-PgH548-27/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-13/pdf/CREC-2017-01-13-pt1-PgH548-27.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-13/html/CREC-2017-01-13-pt1-PgH548-27.htm</url>
+</location>
+<physicalDescription>
+<extent>2 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H548</start>
+<end>H549</end>
+</extent>
+</part>
+<identifier type="preferred citation">163 Cong. Rec. H548</identifier>
+<extension>
+<searchTitle>ADDITIONAL SPONSORS; Congressional Record Vol. 163, No. 9</searchTitle>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-01-13-pt1-PgH548-27</accessId>
+<subGranuleClass>HADDSPONSORS</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-01-13</granuleDate>
+<time from="16:00:00" to="16:00:00"/>
+<bill congress="115" context="OTHER" number="5" type="HCONRES"/>
+<bill congress="115" context="OTHER" number="11" type="HJRES"/>
+<bill congress="115" context="OTHER" number="20" type="HRES"/>
+<bill congress="115" context="OTHER" number="23" type="HRES"/>
+<bill congress="115" context="OTHER" number="24" type="HR"/>
+<bill congress="115" context="OTHER" number="26" type="HJRES"/>
+<bill congress="115" context="OTHER" number="27" type="HJRES"/>
+<bill congress="115" context="OTHER" number="28" type="HRES"/>
+<bill congress="115" context="OTHER" number="29" type="HR"/>
+<bill congress="115" context="OTHER" number="36" type="HR"/>
+<bill congress="115" context="OTHER" number="37" type="HR"/>
+<bill congress="115" context="OTHER" number="38" type="HR"/>
+<bill congress="115" context="OTHER" number="60" type="HR"/>
+<bill congress="115" context="OTHER" number="80" type="HR"/>
+<bill congress="115" context="OTHER" number="82" type="HR"/>
+<bill congress="115" context="OTHER" number="113" type="HR"/>
+<bill congress="115" context="OTHER" number="115" type="HR"/>
+<bill congress="115" context="OTHER" number="116" type="HR"/>
+<bill congress="115" context="OTHER" number="147" type="HR"/>
+<bill congress="115" context="OTHER" number="161" type="HR"/>
+<bill congress="115" context="OTHER" number="173" type="HR"/>
+<bill congress="115" context="OTHER" number="198" type="HR"/>
+<bill congress="115" context="OTHER" number="244" type="HR"/>
+<bill congress="115" context="OTHER" number="246" type="HR"/>
+<bill congress="115" context="OTHER" number="257" type="HR"/>
+<bill congress="115" context="OTHER" number="299" type="HR"/>
+<bill congress="115" context="OTHER" number="333" type="HR"/>
+<bill congress="115" context="OTHER" number="350" type="HR"/>
+<bill congress="115" context="OTHER" number="355" type="HR"/>
+<bill congress="115" context="OTHER" number="358" type="HR"/>
+<bill congress="115" context="OTHER" number="360" type="HR"/>
+<bill congress="115" context="OTHER" number="367" type="HR"/>
+<bill congress="115" context="OTHER" number="369" type="HR"/>
+<bill congress="115" context="OTHER" number="371" type="HR"/>
+<bill congress="115" context="OTHER" number="377" type="HR"/>
+<bill congress="115" context="OTHER" number="390" type="HR"/>
+<bill congress="115" context="OTHER" number="406" type="HR"/>
+<bill congress="115" context="OTHER" number="411" type="HR"/>
+<bill congress="115" context="OTHER" number="432" type="HR"/>
+<bill congress="115" context="OTHER" number="437" type="HR"/>
+<bill congress="115" context="OTHER" number="439" type="HR"/>
+<bill congress="115" context="OTHER" number="441" type="HR"/>
+<bill congress="115" context="OTHER" number="442" type="HR"/>
+<bill congress="115" context="OTHER" number="459" type="HR"/>
+<bill congress="115" context="OTHER" number="471" type="HR"/>
+<bill congress="115" context="OTHER" number="475" type="HR"/>
+<bill congress="115" context="OTHER" number="499" type="HR"/>
+<bill congress="115" context="OTHER" number="502" type="HR"/>
+<bill congress="115" context="OTHER" number="505" type="HR"/>
+<bill congress="115" context="OTHER" number="512" type="HR"/>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Concurrent Resolution 5  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Con. Res. 5</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Joint Resolution 11  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.J. Res. 11</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 20  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 20</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 23  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 23</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 24  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 24</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Joint Resolution 26  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.J. Res. 26</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Joint Resolution 27  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.J. Res. 27</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 28  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 28</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 29  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 29</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 36  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 36</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 37  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 37</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 38  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 38</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 60  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 60</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 80  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 80</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 82  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 82</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 113  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 113</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 115  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 115</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 116  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 116</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 147  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 147</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 161  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 161</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 173  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 173</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 198  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 198</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 244  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 244</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 246  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 246</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 257  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 257</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 299  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 299</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 333  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 333</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 350  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 350</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 355  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 355</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 358  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 358</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 360  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 360</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 367  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 367</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 369  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 369</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 371  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 371</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 377  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 377</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 390  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 390</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 406  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 406</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 411  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 411</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 432  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 432</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 437  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 437</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 439  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 439</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 441  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 441</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 442  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 442</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 459  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 459</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 471  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 471</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 475  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 475</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 499  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 499</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 502  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 502</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 505  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 505</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 512  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 512</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee194bef173" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 9</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-13/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-13/pdf/CREC-2017-01-13.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H475</start>
+<end>H549</end>
+</extent>
+<extent unit="pages">
+<start>S321</start>
+<end>S321</end>
+</extent>
+<extent unit="pages">
+<start>E61</start>
+<end>E69</end>
+</extent>
+<extent unit="pages">
+<start>D48</start>
+<end>D50</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-01-13</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>176 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-13</identifier>
+<identifier type="local">P0b002ee194bef173</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR13JA17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-05-03</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-01-13</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-01-13</accessId>
+<volume>163</volume>
+<issue>9</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

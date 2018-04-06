@@ -1,0 +1,290 @@
+<mods ID="id-CREC-2017-03-07-pt1-PgH1550" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-07-04</dateIngested>
+</extension>
+<titleInfo>
+<title>FAIRNESS FOR BREASTFEEDING MOTHERS ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-03-07/html/CREC-2017-03-07-pt1-PgH1550.htm">
+<identifier type="FDsys Unique ID">D09002ee196a70cb7</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-03-07/pdf/CREC-2017-03-07-pt1-PgH1550.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a70cdc</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H1550</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-03-07/CREC-2017-03-07-pt1-PgH1550</identifier>
+<identifier type="former granule identifier">CR07MR17-73</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-03-07/CREC-2017-03-07-pt1-PgH1550/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-07/pdf/CREC-2017-03-07-pt1-PgH1550.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-07/html/CREC-2017-03-07-pt1-PgH1550.htm</url>
+</location>
+<physicalDescription>
+<extent>4 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H1550</start>
+<end>H1553</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Lou Barletta</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Henry C. "Hank" Johnson, Jr.</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Eleanor Holmes Norton</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Barbara Comstock</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mark Sanford</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Joseph P. Kennedy III</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Janice D. Schakowsky</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H1550</identifier>
+<extension>
+<searchTitle>FAIRNESS FOR BREASTFEEDING MOTHERS ACT OF 2017; Congressional Record Vol. 163, No. 39</searchTitle>
+<associatedBills>H.R. 1174, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-03-07-pt1-PgH1550</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-03-07</granuleDate>
+<time from="17:30:00" to="18:00:00"/>
+<bill congress="115" context="OTHER" number="375" type="HR"/>
+<bill congress="115" context="HEADERLINE" number="1174" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="1174" type="HR"/>
+<bill congress="115" context="OTHER" number="1174" type="HR"/>
+<congMember authorityId="2054" bioGuideId="B001269" chamber="H" congress="115" gpoId="8129" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. BARLETTA</name>
+<name type="authority-fnf">Lou Barletta</name>
+<name type="authority-lnf">Barletta, Lou</name>
+</congMember>
+<congMember authorityId="1843" bioGuideId="J000288" chamber="H" congress="115" gpoId="7901" party="D" role="SPEAKING" state="GA">
+<name type="parsed">Mr. JOHNSON of Georgia</name>
+<name type="authority-fnf">Henry C. "Hank" Johnson, Jr.</name>
+<name type="authority-lnf">Johnson, Henry C. "Hank," Jr.</name>
+<name type="authority-other">Mr. Henry Johnson Jr.</name>
+</congMember>
+<congMember authorityId="868" bioGuideId="N000147" chamber="H" congress="115" gpoId="7871" party="D" role="SPEAKING" state="DC">
+<name type="parsed">Ms. NORTON</name>
+<name type="authority-fnf">Eleanor Holmes Norton</name>
+<name type="authority-lnf">Norton, Eleanor Holmes</name>
+<name type="authority-other">Eleanor Norton</name>
+</congMember>
+<congMember authorityId="2273" bioGuideId="C001105" chamber="H" congress="115" party="R" role="SPEAKING" state="VA">
+<name type="parsed">Mrs. COMSTOCK</name>
+<name type="authority-fnf">Barbara Comstock</name>
+<name type="authority-lnf">Comstock, Barbara</name>
+</congMember>
+<congMember authorityId="1012" bioGuideId="S000051" chamber="H" congress="115" party="R" role="SPEAKING" state="SC">
+<name type="parsed">Mr. SANFORD</name>
+<name type="authority-fnf">Mark Sanford</name>
+<name type="authority-lnf">Sanford, Mark</name>
+</congMember>
+<congMember authorityId="2172" bioGuideId="K000379" chamber="H" congress="115" party="D" role="SPEAKING" state="MA">
+<name type="parsed">Mr. KENNEDY</name>
+<name type="authority-fnf">Joseph P. Kennedy III</name>
+<name type="authority-lnf">Kennedy, Joseph P., III</name>
+<name type="authority-other">Joseph Kennedy III</name>
+</congMember>
+<congMember authorityId="1588" bioGuideId="S001145" chamber="H" congress="115" gpoId="7929" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Ms. SCHAKOWSKY</name>
+<name type="authority-fnf">Janice D. Schakowsky</name>
+<name type="authority-lnf">Schakowsky, Janice D.</name>
+<name type="authority-other">Janice Schakowsky</name>
+</congMember>
+<USCode title="40">
+<chapter number="33"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 375  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 375</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1174  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1174</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1174  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1174</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1174  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1174</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 40 Chapter 33</partNumber>
+</titleInfo>
+<identifier type="USC citation">40 U.S.C. Chapter 33</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee1956dc0eb" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 39</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-07/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-07/pdf/CREC-2017-03-07.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H1539</start>
+<end>H1596</end>
+</extent>
+<extent unit="pages">
+<start>S1607</start>
+<end>S1647</end>
+</extent>
+<extent unit="pages">
+<start>E279</start>
+<end>E286</end>
+</extent>
+<extent unit="pages">
+<start>D229</start>
+<end>D234</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-03-07</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>226 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-07</identifier>
+<identifier type="local">P0b002ee1956dc0eb</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR07MR17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-07-04</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-03-07</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-03-07</accessId>
+<volume>163</volume>
+<issue>39</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

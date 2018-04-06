@@ -1,0 +1,453 @@
+<mods ID="id-CREC-2017-02-06-pt1-PgS745-4" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-01-31</dateIngested>
+</extension>
+<titleInfo>
+<title>INTRODUCTION OF BILLS AND JOINT RESOLUTIONS</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-02-06/html/CREC-2017-02-06-pt1-PgS745-4.htm">
+<identifier type="FDsys Unique ID">D09002ee198292b94</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-02-06/pdf/CREC-2017-02-06-pt1-PgS745-4.pdf">
+<identifier type="FDsys Unique ID">D09002ee198292c47</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S745</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-02-06/CREC-2017-02-06-pt1-PgS745-4</identifier>
+<identifier type="former granule identifier">cr06fe17-152</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-02-06/CREC-2017-02-06-pt1-PgS745-4/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-06/pdf/CREC-2017-02-06-pt1-PgS745-4.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-06/html/CREC-2017-02-06-pt1-PgS745-4.htm</url>
+</location>
+<physicalDescription>
+<extent>2 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S745</start>
+<end>S746</end>
+</extent>
+</part>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on the Budget</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Armed Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Finance</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Banking, Housing, and Urban Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Health, Education, Labor, and Pensions</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Energy and Natural Resources</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Veterans' Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Homeland Security and Governmental Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Judiciary</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Commerce, Science, and Transportation</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. S745</identifier>
+<extension>
+<searchTitle>INTRODUCTION OF BILLS AND JOINT RESOLUTIONS; Congressional Record Vol. 163, No. 20</searchTitle>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-02-06-pt1-PgS745-4</accessId>
+<subGranuleClass>SINTROBILLS</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-02-06</granuleDate>
+<bill congress="115" context="OTHER" number="306" type="S"/>
+<bill congress="115" context="OTHER" number="307" type="S"/>
+<bill congress="115" context="OTHER" number="308" type="S"/>
+<bill congress="115" context="OTHER" number="309" type="S"/>
+<bill congress="115" context="OTHER" number="310" type="S"/>
+<bill congress="115" context="OTHER" number="311" type="S"/>
+<bill congress="115" context="OTHER" number="312" type="S"/>
+<bill congress="115" context="OTHER" number="313" type="S"/>
+<bill congress="115" context="OTHER" number="314" type="S"/>
+<bill congress="115" context="OTHER" number="315" type="S"/>
+<bill congress="115" context="OTHER" number="316" type="S"/>
+<bill congress="115" context="OTHER" number="317" type="S"/>
+<bill congress="115" context="OTHER" number="318" type="S"/>
+<bill congress="115" context="OTHER" number="319" type="S"/>
+<bill congress="115" context="OTHER" number="320" type="S"/>
+<congCommittee authorityId="ssbu00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on the Budget</name>
+<name type="authority-short">Budget</name>
+</congCommittee>
+<congCommittee authorityId="ssas00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Armed Services</name>
+<name type="authority-short">Armed Services</name>
+</congCommittee>
+<congCommittee authorityId="ssfi00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Finance</name>
+<name type="authority-short">Finance</name>
+</congCommittee>
+<congCommittee authorityId="ssbk00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Banking, Housing, and Urban Affairs</name>
+<name type="authority-short">Banking</name>
+</congCommittee>
+<congCommittee authorityId="sshr00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Health, Education, Labor, and Pensions</name>
+<name type="authority-short">HELP</name>
+</congCommittee>
+<congCommittee authorityId="sseg00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Energy and Natural Resources</name>
+<name type="authority-short">Energy and Natural Resources</name>
+</congCommittee>
+<congCommittee authorityId="ssva00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Veterans' Affairs</name>
+<name type="authority-short">Veterans' Affairs</name>
+</congCommittee>
+<congCommittee authorityId="ssga00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Homeland Security and Governmental Affairs</name>
+<name type="authority-short">Homeland and Governmental Affairs</name>
+</congCommittee>
+<congCommittee authorityId="ssju00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Judiciary</name>
+<name type="authority-short">Judiciary</name>
+</congCommittee>
+<congCommittee authorityId="sscm00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Commerce, Science, and Transportation</name>
+<name type="authority-short">Commerce</name>
+</congCommittee>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 306  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 306</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 307  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 307</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 308  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 308</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 309  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 309</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 310  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 310</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 311  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 311</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 312  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 312</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 313  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 313</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 314  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 314</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 315  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 315</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 316  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 316</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 317  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 317</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 318  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 318</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 319  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 319</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 320  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 320</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee19828bd5f" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 20</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-06/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-06/pdf/CREC-2017-02-06.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H979</start>
+<end>H1014</end>
+</extent>
+<extent unit="pages">
+<start>S685</start>
+<end>S974</end>
+</extent>
+<extent unit="pages">
+<start>E143</start>
+<end>E151</end>
+</extent>
+<extent unit="pages">
+<start>D132</start>
+<end>D136</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-02-06</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>702 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-06</identifier>
+<identifier type="local">P0b002ee19828bd5f</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr06fe17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-01-31</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-01-31</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-02-06</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-02-06</accessId>
+<volume>163</volume>
+<issue>20</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>3</bookCount>
+</extension>
+</relatedItem>
+</mods>

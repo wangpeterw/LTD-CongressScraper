@@ -1,0 +1,408 @@
+<mods ID="id-CREC-2017-02-16-pt1-PgH1259-7" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-10-27</dateIngested>
+</extension>
+<titleInfo>
+<title>PROVIDING FOR CONGRESSIONAL DISAPPROVAL OF FINAL RULE OF DEPARTMENT OF THE INTERIOR</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-02-16/html/CREC-2017-02-16-pt1-PgH1259-7.htm">
+<identifier type="FDsys Unique ID">D09002ee197412ecf</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-02-16/pdf/CREC-2017-02-16-pt1-PgH1259-7.pdf">
+<identifier type="FDsys Unique ID">D09002ee197413056</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H1259</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-02-16/CREC-2017-02-16-pt1-PgH1259-7</identifier>
+<identifier type="former granule identifier">CR16FE17-98</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-02-16/CREC-2017-02-16-pt1-PgH1259-7/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-16/pdf/CREC-2017-02-16-pt1-PgH1259-7.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-16/html/CREC-2017-02-16-pt1-PgH1259-7.htm</url>
+</location>
+<physicalDescription>
+<extent>10 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H1259</start>
+<end>H1268</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Rob Bishop</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Don Young</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Donald S. Beyer, Jr.</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jeff Duncan</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Niki Tsongas</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Raul M. Grijalva</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tom McClintock</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Peter A. DeFazio</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bruce Westerman</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jared Polis</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Paul A. Gosar</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheila Jackson Lee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Austin Scott</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Earl Blumenauer</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Natural Resources</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H1259</identifier>
+<extension>
+<searchTitle>PROVIDING FOR CONGRESSIONAL DISAPPROVAL OF FINAL RULE OF DEPARTMENT OF THE INTERIOR; Congressional Record Vol. 163, No. 28</searchTitle>
+<associatedBills>H.J. Res. 69, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-02-16-pt1-PgH1259-7</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-02-16</granuleDate>
+<time from="12:30:00" to="13:30:00"/>
+<bill congress="115" context="OTHER" number="49" type="HJRES"/>
+<bill congress="115" context="HEADERLINE" number="69" type="HJRES"/>
+<bill congress="115" context="OTHER" number="69" type="HJRES"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="123" type="HRES"/>
+<bill congress="115" context="OTHER" number="123" type="HRES"/>
+<congCommittee authorityId="hsii00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Natural Resources</name>
+<name type="authority-short">Natural Resources</name>
+</congCommittee>
+<congMember authorityId="1753" bioGuideId="B001250" chamber="H" congress="115" gpoId="8189" party="R" role="SPEAKING" state="UT">
+<name type="parsed">Mr. BISHOP of Utah</name>
+<name type="authority-fnf">Rob Bishop</name>
+<name type="authority-lnf">Bishop, Rob</name>
+</congMember>
+<congMember authorityId="1256" bioGuideId="Y000033" chamber="H" congress="115" gpoId="7785" party="R" role="SPEAKING" state="AK">
+<name type="parsed">Mr. YOUNG of Alaska</name>
+<name type="authority-fnf">Don Young</name>
+<name type="authority-lnf">Young, Don</name>
+<name type="authority-other">Don E. Young</name>
+</congMember>
+<congMember authorityId="2272" bioGuideId="B001292" chamber="H" congress="115" party="D" role="SPEAKING" state="VA">
+<name type="parsed">Mr. BEYER</name>
+<name type="authority-fnf">Donald S. Beyer, Jr.</name>
+<name type="authority-lnf">Beyer, Donald S., Jr.</name>
+<name type="authority-other">Mr. Donald Beyer Jr.</name>
+</congMember>
+<congMember authorityId="2057" bioGuideId="D000615" chamber="H" congress="115" gpoId="8143" party="R" role="SPEAKING" state="SC">
+<name type="parsed">Mr. DUNCAN of South Carolina</name>
+<name type="authority-fnf">Jeff Duncan</name>
+<name type="authority-lnf">Duncan, Jeff</name>
+</congMember>
+<congMember authorityId="1884" bioGuideId="T000465" chamber="H" congress="115" gpoId="7970" party="D" role="SPEAKING" state="MA">
+<name type="parsed">Ms. TSONGAS</name>
+<name type="authority-fnf">Niki Tsongas</name>
+<name type="authority-lnf">Tsongas, Niki</name>
+</congMember>
+<congMember authorityId="1708" bioGuideId="G000551" chamber="H" congress="115" gpoId="7804" party="D" role="SPEAKING" state="AZ">
+<name type="parsed">Mr. GRIJALVA</name>
+<name type="authority-fnf">Raul M. Grijalva</name>
+<name type="authority-lnf">Grijalva, Raul M.</name>
+<name type="authority-other">Mr. Raul Grijalva</name>
+</congMember>
+<congMember authorityId="1908" bioGuideId="M001177" chamber="H" congress="115" gpoId="7809" party="R" role="SPEAKING" state="CA">
+<name type="parsed">Mr. McCLINTOCK</name>
+<name type="authority-fnf">Tom McClintock</name>
+<name type="authority-lnf">McClintock, Tom</name>
+</congMember>
+<congMember authorityId="279" bioGuideId="D000191" chamber="H" congress="115" gpoId="8117" party="D" role="SPEAKING" state="OR">
+<name type="parsed">Mr. DeFAZIO</name>
+<name type="authority-fnf">Peter A. DeFazio</name>
+<name type="authority-lnf">DeFazio, Peter A.</name>
+<name type="authority-other">Peter Defazio</name>
+</congMember>
+<congMember authorityId="2224" bioGuideId="W000821" chamber="H" congress="115" party="R" role="SPEAKING" state="AR">
+<name type="parsed">Mr. WESTERMAN</name>
+<name type="authority-fnf">Bruce Westerman</name>
+<name type="authority-lnf">Westerman, Bruce</name>
+</congMember>
+<congMember authorityId="1910" bioGuideId="P000598" chamber="H" congress="115" gpoId="7860" party="D" role="SPEAKING" state="CO">
+<name type="parsed">Mr. POLIS</name>
+<name type="authority-fnf">Jared Polis</name>
+<name type="authority-lnf">Polis, Jared</name>
+</congMember>
+<congMember authorityId="1992" bioGuideId="G000565" chamber="H" congress="115" gpoId="7798" party="R" role="SPEAKING" state="AZ">
+<name type="parsed">Mr. GOSAR</name>
+<name type="authority-fnf">Paul A. Gosar</name>
+<name type="authority-lnf">Gosar, Paul A.</name>
+<name type="authority-other">Mr. Paul Gosar</name>
+</congMember>
+<congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="115" gpoId="8174" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Ms. JACKSON LEE</name>
+<name type="authority-fnf">Sheila Jackson Lee</name>
+<name type="authority-lnf">Jackson Lee, Sheila</name>
+</congMember>
+<congMember authorityId="2009" bioGuideId="S001189" chamber="H" congress="115" gpoId="7905" party="R" role="SPEAKING" state="GA">
+<name type="parsed">Mr. AUSTIN SCOTT of Georgia</name>
+<name type="authority-fnf">Austin Scott</name>
+<name type="authority-lnf">Scott, Austin</name>
+</congMember>
+<congMember authorityId="99" bioGuideId="B000574" chamber="H" congress="115" gpoId="8116" party="D" role="SPEAKING" state="OR">
+<name type="parsed">Mr. BLUMENAUER</name>
+<name type="authority-fnf">Earl Blumenauer</name>
+<name type="authority-lnf">Blumenauer, Earl</name>
+</congMember>
+<USCode title="5">
+<chapter number="8"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Joint Resolution 49  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.J. Res. 49</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Joint Resolution 69  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.J. Res. 69</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Joint Resolution 69  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.J. Res. 69</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 123  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 123</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 123  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 123</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 5 Chapter 8</partNumber>
+</titleInfo>
+<identifier type="USC citation">5 U.S.C. Chapter 8</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee1973a1134" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 28</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-16/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-16/pdf/CREC-2017-02-16.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H1247</start>
+<end>H1307</end>
+</extent>
+<extent unit="pages">
+<start>S1223</start>
+<end>S1416</end>
+</extent>
+<extent unit="pages">
+<start>E207</start>
+<end>E219</end>
+</extent>
+<extent unit="pages">
+<start>D173</start>
+<end>D178</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-02-16</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>556 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-16</identifier>
+<identifier type="local">P0b002ee1973a1134</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR16FE17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-10-27</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-10-27</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-02-16</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-02-16</accessId>
+<volume>163</volume>
+<issue>28</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>2</bookCount>
+</extension>
+</relatedItem>
+</mods>

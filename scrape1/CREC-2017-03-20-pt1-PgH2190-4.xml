@@ -1,0 +1,304 @@
+<mods ID="id-CREC-2017-03-20-pt1-PgH2190-4" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-07-01</dateIngested>
+</extension>
+<titleInfo>
+<title>PESTICIDE REGISTRATION ENHANCEMENT ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-03-20/html/CREC-2017-03-20-pt1-PgH2190-4.htm">
+<identifier type="FDsys Unique ID">D09002ee196a716fb</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-03-20/pdf/CREC-2017-03-20-pt1-PgH2190-4.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a71746</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H2190</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-03-20/CREC-2017-03-20-pt1-PgH2190-4</identifier>
+<identifier type="former granule identifier">CR20MR17-64</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-03-20/CREC-2017-03-20-pt1-PgH2190-4/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-20/pdf/CREC-2017-03-20-pt1-PgH2190-4.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-20/html/CREC-2017-03-20-pt1-PgH2190-4.htm</url>
+</location>
+<physicalDescription>
+<extent>19 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H2190</start>
+<end>H2208</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Rodney Davis</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jimmy Panetta</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Agriculture</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Energy and Commerce</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H2190</identifier>
+<extension>
+<searchTitle>PESTICIDE REGISTRATION ENHANCEMENT ACT OF 2017; Congressional Record Vol. 163, No. 48</searchTitle>
+<associatedBills>H.R. 1029, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-03-20-pt1-PgH2190-4</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-03-20</granuleDate>
+<time from="15:32:00" to="15:32:00"/>
+<hasInsertedComments>true</hasInsertedComments>
+<bill congress="115" context="HEADERLINE" number="1029" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="1029" type="HR"/>
+<bill congress="115" context="OTHER" number="1029" type="HR"/>
+<congCommittee authorityId="hsag00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Agriculture</name>
+<name type="authority-short">Agriculture</name>
+</congCommittee>
+<congCommittee authorityId="hsif00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Energy and Commerce</name>
+<name type="authority-short">Energy and Commerce</name>
+</congCommittee>
+<congMember authorityId="2126" bioGuideId="D000619" chamber="H" congress="115" party="R" role="SPEAKING" state="IL">
+<name type="parsed">Mr. RODNEY DAVIS of Illinois</name>
+<name type="authority-fnf">Rodney Davis</name>
+<name type="authority-lnf">Davis, Rodney</name>
+</congMember>
+<congMember authorityId="2309" bioGuideId="P000613" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. PANETTA</name>
+<name type="authority-fnf">Jimmy Panetta</name>
+<name type="authority-lnf">Panetta, Jimmy</name>
+</congMember>
+<USCode title="7">
+<section detail="(i)(2)" number="136a-1"/>
+<section detail="(k)" number="136a-1"/>
+<section detail="(k)(2)(A)" number="136a-1"/>
+<section detail="(k)(3)(A)" number="136a-1"/>
+<section number="136a"/>
+<section detail="(a)" number="136c"/>
+<section detail="(b)" number="136w-8"/>
+<section detail="(c)(3)(B)" number="136w-8"/>
+<section detail="(e)" number="136w-8"/>
+<section detail="(f)(1)" number="136w-8"/>
+<section detail="(m)" number="136w-8"/>
+<section number="136w"/>
+</USCode>
+<USCode title="16">
+<section number="1531"/>
+</USCode>
+<USCode title="21">
+<section detail="(m)(3)" number="346a"/>
+</USCode>
+<cfr title="40">
+<part number="26"/>
+</cfr>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1029  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1029</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1029  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1029</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1029  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1029</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 7 Section 136a-1(i)(2)</partNumber>
+<partNumber>Title 7 Section 136a-1(k)</partNumber>
+<partNumber>Title 7 Section 136a-1(k)(2)(A)</partNumber>
+<partNumber>Title 7 Section 136a-1(k)(3)(A)</partNumber>
+<partNumber>Title 7 Section 136a</partNumber>
+<partNumber>Title 7 Section 136c(a)</partNumber>
+<partNumber>Title 7 Section 136w-8(b)</partNumber>
+<partNumber>Title 7 Section 136w-8(c)(3)(B)</partNumber>
+<partNumber>Title 7 Section 136w-8(e)</partNumber>
+<partNumber>Title 7 Section 136w-8(f)(1)</partNumber>
+<partNumber>Title 7 Section 136w-8(m)</partNumber>
+<partNumber>Title 7 Section 136w</partNumber>
+</titleInfo>
+<identifier type="USC citation">7 U.S.C. 136a-1(i)(2)</identifier>
+<identifier type="USC citation">7 U.S.C. 136a-1(k)</identifier>
+<identifier type="USC citation">7 U.S.C. 136a-1(k)(2)(A)</identifier>
+<identifier type="USC citation">7 U.S.C. 136a-1(k)(3)(A)</identifier>
+<identifier type="USC citation">7 U.S.C. 136a</identifier>
+<identifier type="USC citation">7 U.S.C. 136c(a)</identifier>
+<identifier type="USC citation">7 U.S.C. 136w-8(b)</identifier>
+<identifier type="USC citation">7 U.S.C. 136w-8(c)(3)(B)</identifier>
+<identifier type="USC citation">7 U.S.C. 136w-8(e)</identifier>
+<identifier type="USC citation">7 U.S.C. 136w-8(f)(1)</identifier>
+<identifier type="USC citation">7 U.S.C. 136w-8(m)</identifier>
+<identifier type="USC citation">7 U.S.C. 136w</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 16 Section 1531</partNumber>
+</titleInfo>
+<identifier type="USC citation">16 U.S.C. 1531</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 21 Section 346a(m)(3)</partNumber>
+</titleInfo>
+<identifier type="USC citation">21 U.S.C. 346a(m)(3)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>Code of Federal Regulations</title>
+<partNumber>Title 40 Part 26</partNumber>
+</titleInfo>
+<identifier type="CFR citation">40 CFR Part  26</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee19568350f" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 48</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-20/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-20/pdf/CREC-2017-03-20.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H2187</start>
+<end>H2242</end>
+</extent>
+<extent unit="pages">
+<start>S1855</start>
+<end>S1855</end>
+</extent>
+<extent unit="pages">
+<start>E345</start>
+<end>E351</end>
+</extent>
+<extent unit="pages">
+<start>D310</start>
+<end>D314</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-03-20</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>138 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-20</identifier>
+<identifier type="local">P0b002ee19568350f</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR20MR17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-07-01</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-03-20</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-03-20</accessId>
+<volume>163</volume>
+<issue>48</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

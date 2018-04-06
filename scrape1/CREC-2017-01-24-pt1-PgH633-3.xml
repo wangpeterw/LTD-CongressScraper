@@ -1,0 +1,852 @@
+<mods ID="id-CREC-2017-01-24-pt1-PgH633-3" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-02-01</dateIngested>
+</extension>
+<titleInfo>
+<title>NO TAXPAYER FUNDING FOR ABORTION AND ABORTION INSURANCE FULL DISCLOSURE ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-01-24/html/CREC-2017-01-24-pt1-PgH633-3.htm">
+<identifier type="FDsys Unique ID">D09002ee196a6e253</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-01-24/pdf/CREC-2017-01-24-pt1-PgH633-3.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a6e2ea</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H633</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-01-24/CREC-2017-01-24-pt1-PgH633-3</identifier>
+<identifier type="former granule identifier">CR24JA17-108</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-01-24/CREC-2017-01-24-pt1-PgH633-3/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-24/pdf/CREC-2017-01-24-pt1-PgH633-3.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-24/html/CREC-2017-01-24-pt1-PgH633-3.htm</url>
+</location>
+<physicalDescription>
+<extent>14 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H633</start>
+<end>H646</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Diane Black</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Diana DeGette</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bob Goodlatte</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Janice D. Schakowsky</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Kristi L. Noem</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Barbara Lee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Christopher H. Smith</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Pramila Jayapal</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Peter J. Roskam</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Gwen Moore</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Trent Franks</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Judy Chu</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Martha Roby</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jackie Speier</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Kevin Brady</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Lois Frankel</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ann Wagner</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Kathy Castor</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mia B. Love</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bill Foster</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ted S. Yoho</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Nydia M. Velazquez</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Steve Russell</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bonnie Watson Coleman</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Paul Mitchell</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sander M. Levin</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Darin LaHood</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Suzan K. DelBene</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Robert Pittenger</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jamie Raskin</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jeff Fortenberry</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Steve Cohen</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Robert B. Aderholt</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jerrold Nadler</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheila Jackson Lee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Eric Swalwell</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Nanette Diaz Barragan</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Theodore E. Deutch</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ted Lieu</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Rosa L. DeLauro</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Conyers, Jr.</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Frank Pallone, Jr.</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Gene Green</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>David N. Cicilline</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Energy and Commerce</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H633</identifier>
+<extension>
+<searchTitle>NO TAXPAYER FUNDING FOR ABORTION AND ABORTION INSURANCE FULL DISCLOSURE ACT OF 2017; Congressional Record Vol. 163, No. 13</searchTitle>
+<associatedBills>H.R. 7, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-01-24-pt1-PgH633-3</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-01-24</granuleDate>
+<time from="14:15:00" to="15:30:00"/>
+<bill congress="115" context="OTHER" number="2" type="HR"/>
+<bill congress="115" context="HEADERLINE" number="7" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="7" type="HR"/>
+<bill congress="115" context="OTHER" number="7" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="55" type="HRES"/>
+<bill congress="115" context="OTHER" number="55" type="HRES"/>
+<bill congress="115" context="OTHER" number="2029" type="HR"/>
+<congCommittee authorityId="hsif00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Energy and Commerce</name>
+<name type="authority-short">Energy and Commerce</name>
+</congCommittee>
+<congMember authorityId="2063" bioGuideId="B001273" chamber="H" congress="115" gpoId="8153" party="R" role="SPEAKING" state="TN">
+<name type="parsed">Mrs. BLACK</name>
+<name type="authority-fnf">Diane Black</name>
+<name type="authority-lnf">Black, Diane</name>
+</congMember>
+<congMember authorityId="1479" bioGuideId="D000197" chamber="H" congress="115" gpoId="7859" party="D" role="SPEAKING" state="CO">
+<name type="parsed">Ms. DeGETTE</name>
+<name type="authority-fnf">Diana DeGette</name>
+<name type="authority-lnf">DeGette, Diana</name>
+</congMember>
+<congMember authorityId="446" bioGuideId="G000289" chamber="H" congress="115" gpoId="8197" party="R" role="SPEAKING" state="VA">
+<name type="parsed">Mr. GOODLATTE</name>
+<name type="authority-fnf">Bob Goodlatte</name>
+<name type="authority-lnf">Goodlatte, Bob</name>
+<name type="authority-other">Robert Goodlatte</name>
+</congMember>
+<congMember authorityId="1588" bioGuideId="S001145" chamber="H" congress="115" gpoId="7929" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Ms. SCHAKOWSKY</name>
+<name type="authority-fnf">Janice D. Schakowsky</name>
+<name type="authority-lnf">Schakowsky, Janice D.</name>
+<name type="authority-other">Janice Schakowsky</name>
+</congMember>
+<congMember authorityId="2060" bioGuideId="N000184" chamber="H" congress="115" gpoId="8147" party="R" role="SPEAKING" state="SD">
+<name type="parsed">Mrs. NOEM</name>
+<name type="authority-fnf">Kristi L. Noem</name>
+<name type="authority-lnf">Noem, Kristi L.</name>
+<name type="authority-other">Mrs. Kristi Noem</name>
+</congMember>
+<congMember authorityId="1501" bioGuideId="L000551" chamber="H" congress="115" gpoId="7814" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. LEE</name>
+<name type="authority-fnf">Barbara Lee</name>
+<name type="authority-lnf">Lee, Barbara</name>
+</congMember>
+<congMember authorityId="1071" bioGuideId="S000522" chamber="H" congress="115" gpoId="8046" party="R" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. SMITH of New Jersey</name>
+<name type="authority-fnf">Christopher H. Smith</name>
+<name type="authority-lnf">Smith, Christopher H.</name>
+<name type="authority-other">Christopher Smith</name>
+</congMember>
+<congMember authorityId="2354" bioGuideId="J000298" chamber="H" congress="115" party="D" role="SPEAKING" state="WA">
+<name type="parsed">Ms. JAYAPAL</name>
+<name type="authority-fnf">Pramila Jayapal</name>
+<name type="authority-lnf">Jayapal, Pramila</name>
+</congMember>
+<congMember authorityId="1848" bioGuideId="R000580" chamber="H" congress="115" gpoId="7926" party="R" role="SPEAKING" state="IL">
+<name type="parsed">Mr. ROSKAM</name>
+<name type="authority-fnf">Peter J. Roskam</name>
+<name type="authority-lnf">Roskam, Peter J.</name>
+<name type="authority-other">Mr. Peter Roskam</name>
+</congMember>
+<congMember authorityId="1811" bioGuideId="M001160" chamber="H" congress="115" gpoId="8217" party="D" role="SPEAKING" state="WI">
+<name type="parsed">Ms. MOORE</name>
+<name type="authority-fnf">Gwen Moore</name>
+<name type="authority-lnf">Moore, Gwen</name>
+</congMember>
+<congMember authorityId="1707" bioGuideId="F000448" chamber="H" congress="115" gpoId="7799" party="R" role="SPEAKING" state="AZ">
+<name type="parsed">Mr. FRANKS of Arizona</name>
+<name type="authority-fnf">Trent Franks</name>
+<name type="authority-lnf">Franks, Trent</name>
+</congMember>
+<congMember authorityId="1970" bioGuideId="C001080" chamber="H" congress="115" gpoId="7837" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. JUDY CHU of California</name>
+<name type="authority-fnf">Judy Chu</name>
+<name type="authority-lnf">Chu, Judy</name>
+</congMember>
+<congMember authorityId="1986" bioGuideId="R000591" chamber="H" congress="115" gpoId="7787" party="R" role="SPEAKING" state="AL">
+<name type="parsed">Mrs. ROBY</name>
+<name type="authority-fnf">Martha Roby</name>
+<name type="authority-lnf">Roby, Martha</name>
+</congMember>
+<congMember authorityId="1890" bioGuideId="S001175" chamber="H" congress="115" gpoId="7817" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. SPEIER</name>
+<name type="authority-fnf">Jackie Speier</name>
+<name type="authority-lnf">Speier, Jackie</name>
+</congMember>
+<congMember authorityId="1468" bioGuideId="B000755" chamber="H" congress="115" gpoId="8164" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. BRADY of Texas</name>
+<name type="authority-fnf">Kevin Brady</name>
+<name type="authority-lnf">Brady, Kevin</name>
+</congMember>
+<congMember authorityId="2119" bioGuideId="F000462" chamber="H" congress="115" party="D" role="SPEAKING" state="FL">
+<name type="parsed">Ms. FRANKEL of Florida</name>
+<name type="authority-fnf">Lois Frankel</name>
+<name type="authority-lnf">Frankel, Lois</name>
+</congMember>
+<congMember authorityId="2137" bioGuideId="W000812" chamber="H" congress="115" party="R" role="SPEAKING" state="MO">
+<name type="parsed">Mrs. WAGNER</name>
+<name type="authority-fnf">Ann Wagner</name>
+<name type="authority-lnf">Wagner, Ann</name>
+</congMember>
+<congMember authorityId="1839" bioGuideId="C001066" chamber="H" congress="115" gpoId="7883" party="D" role="SPEAKING" state="FL">
+<name type="parsed">Ms. CASTOR of Florida</name>
+<name type="authority-fnf">Kathy Castor</name>
+<name type="authority-lnf">Castor, Kathy</name>
+</congMember>
+<congMember authorityId="2271" bioGuideId="L000584" chamber="H" congress="115" party="R" role="SPEAKING" state="UT">
+<name type="parsed">Mrs. LOVE</name>
+<name type="authority-fnf">Mia B. Love</name>
+<name type="authority-lnf">Love, Mia B.</name>
+<name type="authority-other">Mrs. Mia Love</name>
+</congMember>
+<congMember authorityId="1888" bioGuideId="F000454" chamber="H" congress="115" gpoId="7355" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Mr. FOSTER</name>
+<name type="authority-fnf">Bill Foster</name>
+<name type="authority-lnf">Foster, Bill</name>
+</congMember>
+<congMember authorityId="2115" bioGuideId="Y000065" chamber="H" congress="115" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Mr. YOHO</name>
+<name type="authority-fnf">Ted S. Yoho</name>
+<name type="authority-lnf">Yoho, Ted S.</name>
+<name type="authority-other">Mr. Ted Yoho</name>
+</congMember>
+<congMember authorityId="1184" bioGuideId="V000081" chamber="H" congress="115" gpoId="8073" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Ms. VELAZQUEZ</name>
+<name type="authority-fnf">Nydia M. Velazquez</name>
+<name type="authority-lnf">Velazquez, Nydia M.</name>
+<name type="authority-other">Nydia Velazquez</name>
+</congMember>
+<congMember authorityId="2265" bioGuideId="R000604" chamber="H" congress="115" party="R" role="SPEAKING" state="OK">
+<name type="parsed">Mr. RUSSELL</name>
+<name type="authority-fnf">Steve Russell</name>
+<name type="authority-lnf">Russell, Steve</name>
+</congMember>
+<congMember authorityId="2259" bioGuideId="W000822" chamber="H" congress="115" party="D" role="SPEAKING" state="NJ">
+<name type="parsed">Mrs. WATSON COLEMAN</name>
+<name type="authority-fnf">Bonnie Watson Coleman</name>
+<name type="authority-lnf">Watson Coleman, Bonnie</name>
+</congMember>
+<congMember authorityId="2334" bioGuideId="M001201" chamber="H" congress="115" party="R" role="SPEAKING" state="MI">
+<name type="parsed">Mr. MITCHELL</name>
+<name type="authority-fnf">Paul Mitchell</name>
+<name type="authority-lnf">Mitchell, Paul</name>
+</congMember>
+<congMember authorityId="683" bioGuideId="L000263" chamber="H" congress="115" gpoId="7997" party="D" role="SPEAKING" state="MI">
+<name type="parsed">Mr. LEVIN</name>
+<name type="authority-fnf">Sander M. Levin</name>
+<name type="authority-lnf">Levin, Sander M.</name>
+<name type="authority-other">Sander Levin</name>
+</congMember>
+<congMember authorityId="2295" bioGuideId="L000585" chamber="H" congress="115" party="R" role="SPEAKING" state="IL">
+<name type="parsed">Mr. LaHOOD</name>
+<name type="authority-fnf">Darin LaHood</name>
+<name type="authority-lnf">LaHood, Darin</name>
+</congMember>
+<congMember authorityId="2096" bioGuideId="D000617" chamber="H" congress="115" gpoId="8374" party="D" role="SPEAKING" state="WA">
+<name type="parsed">Ms. DelBENE</name>
+<name type="authority-fnf">Suzan K. DelBene</name>
+<name type="authority-lnf">DelBene, Suzan K.</name>
+<name type="authority-other">Ms. Suzan Delbene</name>
+</congMember>
+<congMember authorityId="2141" bioGuideId="P000606" chamber="H" congress="115" party="R" role="SPEAKING" state="NC">
+<name type="parsed">Mr. PITTENGER</name>
+<name type="authority-fnf">Robert Pittenger</name>
+<name type="authority-lnf">Pittenger, Robert</name>
+</congMember>
+<congMember authorityId="2332" bioGuideId="R000606" chamber="H" congress="115" party="D" role="SPEAKING" state="MD">
+<name type="parsed">Mr. RASKIN</name>
+<name type="authority-fnf">Jamie Raskin</name>
+<name type="authority-lnf">Raskin, Jamie</name>
+</congMember>
+<congMember authorityId="1793" bioGuideId="F000449" chamber="H" congress="115" gpoId="8038" party="R" role="SPEAKING" state="NE">
+<name type="parsed">Mr. FORTENBERRY</name>
+<name type="authority-fnf">Jeff Fortenberry</name>
+<name type="authority-lnf">Fortenberry, Jeff</name>
+</congMember>
+<congMember authorityId="1878" bioGuideId="C001068" chamber="H" congress="115" gpoId="8156" party="D" role="SPEAKING" state="TN">
+<name type="parsed">Mr. COHEN</name>
+<name type="authority-fnf">Steve Cohen</name>
+<name type="authority-lnf">Cohen, Steve</name>
+</congMember>
+<congMember authorityId="1460" bioGuideId="A000055" chamber="H" congress="115" gpoId="7789" party="R" role="SPEAKING" state="AL">
+<name type="parsed">Mr. ADERHOLT</name>
+<name type="authority-fnf">Robert B. Aderholt</name>
+<name type="authority-lnf">Aderholt, Robert B.</name>
+<name type="authority-other">Robert Aderholt</name>
+</congMember>
+<congMember authorityId="850" bioGuideId="N000002" chamber="H" congress="115" gpoId="8069" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mr. NADLER</name>
+<name type="authority-fnf">Jerrold Nadler</name>
+<name type="authority-lnf">Nadler, Jerrold</name>
+</congMember>
+<congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="115" gpoId="8174" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Ms. JACKSON LEE</name>
+<name type="authority-fnf">Sheila Jackson Lee</name>
+<name type="authority-lnf">Jackson Lee, Sheila</name>
+</congMember>
+<congMember authorityId="2104" bioGuideId="S001193" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. SWALWELL of California</name>
+<name type="authority-fnf">Eric Swalwell</name>
+<name type="authority-lnf">Swalwell, Eric</name>
+</congMember>
+<congMember authorityId="2311" bioGuideId="B001300" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. BARRAGAN</name>
+<name type="authority-fnf">Nanette Diaz Barragan</name>
+<name type="authority-lnf">Barragan, Nanette Diaz</name>
+<name type="authority-other">Ms. Nanette Barragan</name>
+</congMember>
+<congMember authorityId="1976" bioGuideId="D000610" chamber="H" congress="115" gpoId="7891" party="D" role="SPEAKING" state="FL">
+<name type="parsed">Mr. DEUTCH</name>
+<name type="authority-fnf">Theodore E. Deutch</name>
+<name type="authority-lnf">Deutch, Theodore E.</name>
+<name type="authority-other">Mr. Theodore Deutch</name>
+</congMember>
+<congMember authorityId="2230" bioGuideId="L000582" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. TED LIEU of California</name>
+<name type="authority-fnf">Ted Lieu</name>
+<name type="authority-lnf">Lieu, Ted</name>
+</congMember>
+<congMember authorityId="281" bioGuideId="D000216" chamber="H" congress="115" gpoId="7868" party="D" role="SPEAKING" state="CT">
+<name type="parsed">Ms. DeLAURO</name>
+<name type="authority-fnf">Rosa L. DeLauro</name>
+<name type="authority-lnf">DeLauro, Rosa L.</name>
+<name type="authority-other">Rosa Delauro</name>
+</congMember>
+<congMember authorityId="229" bioGuideId="C000714" chamber="H" congress="115" gpoId="7999" party="D" role="SPEAKING" state="MI">
+<name type="parsed">Mr. CONYERS</name>
+<name type="authority-fnf">John Conyers, Jr.</name>
+<name type="authority-lnf">Conyers, John, Jr.</name>
+<name type="authority-other">John Conyers Jr.</name>
+</congMember>
+<congMember authorityId="887" bioGuideId="P000034" chamber="H" congress="115" gpoId="8048" party="D" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. PALLONE</name>
+<name type="authority-fnf">Frank Pallone, Jr.</name>
+<name type="authority-lnf">Pallone, Frank, Jr.</name>
+<name type="authority-other">Frank Pallone Jr.</name>
+</congMember>
+<congMember authorityId="462" bioGuideId="G000410" chamber="H" congress="115" gpoId="8185" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Mr. GENE GREEN of Texas</name>
+<name type="authority-fnf">Gene Green</name>
+<name type="authority-lnf">Green, Gene</name>
+</congMember>
+<congMember authorityId="2055" bioGuideId="C001084" chamber="H" congress="115" gpoId="8139" party="D" role="SPEAKING" state="RI">
+<name type="parsed">Mr. CICILLINE</name>
+<name type="authority-fnf">David N. Cicilline</name>
+<name type="authority-lnf">Cicilline, David N.</name>
+<name type="authority-other">Mr. David Cicilline</name>
+</congMember>
+<law congress="111" isPrivate="false" number="148"/>
+<USCode title="1">
+<chapter number="4"/>
+</USCode>
+<USCode title="42">
+<section detail="(b)" number="18023"/>
+<section detail="(a)" number="18054"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 7  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 7</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 7  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 7</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 7  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 7</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 55  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 55</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 55  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 55</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2029  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2029</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 1 Chapter 4</partNumber>
+</titleInfo>
+<identifier type="USC citation">1 U.S.C. Chapter 4</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 18023(b)</partNumber>
+<partNumber>Title 42 Section 18054(a)</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 18023(b)</identifier>
+<identifier type="USC citation">42 U.S.C. 18054(a)</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 111-148</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 111-148</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee19388326b" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 13</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-24/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-24/pdf/CREC-2017-01-24.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H611</start>
+<end>H690</end>
+</extent>
+<extent unit="pages">
+<start>S407</start>
+<end>S458</end>
+</extent>
+<extent unit="pages">
+<start>E81</start>
+<end>E91</end>
+</extent>
+<extent unit="pages">
+<start>D68</start>
+<end>D74</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-01-24</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>300 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-24</identifier>
+<identifier type="local">P0b002ee19388326b</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR24JA17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-02-01</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-01-24</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-01-24</accessId>
+<volume>163</volume>
+<issue>13</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

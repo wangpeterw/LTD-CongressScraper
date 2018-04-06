@@ -1,0 +1,439 @@
+<mods ID="id-CREC-2017-03-02-pt1-PgS1579" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-07-04</dateIngested>
+</extension>
+<titleInfo>
+<title>STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-03-02/html/CREC-2017-03-02-pt1-PgS1579.htm">
+<identifier type="FDsys Unique ID">D09002ee196a7070f</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-03-02/pdf/CREC-2017-03-02-pt1-PgS1579.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a70821</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S1579</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-03-02/CREC-2017-03-02-pt1-PgS1579</identifier>
+<identifier type="former granule identifier">cr02mr17-180</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-03-02/CREC-2017-03-02-pt1-PgS1579/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-02/pdf/CREC-2017-03-02-pt1-PgS1579.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-02/html/CREC-2017-03-02-pt1-PgS1579.htm</url>
+</location>
+<physicalDescription>
+<extent>4 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S1579</start>
+<end>S1582</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Steve Daines</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Cornyn</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ron Wyden</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Energy and Natural Resources</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Finance</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. S1579</identifier>
+<extension>
+<searchTitle>STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS; Congressional Record Vol. 163, No. 37</searchTitle>
+<associatedBills>S.J. Res. 29, 115th Congress
+        </associatedBills>
+<associatedBills>S. 490, 115th Congress
+        </associatedBills>
+<associatedBills>S. 491, 115th Congress
+        </associatedBills>
+<associatedBills>S. 492, 115th Congress
+        </associatedBills>
+<associatedBills>S. 503, 115th Congress
+        </associatedBills>
+<associatedBills>S. 513, 115th Congress
+        </associatedBills>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-03-02-pt1-PgS1579</accessId>
+<subGranuleClass>SSTATEMENTS</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-03-02</granuleDate>
+<bill congress="115" context="HEADERLINE" number="29" type="SJRES"/>
+<bill congress="115" context="OTHER" number="29" type="SJRES"/>
+<bill congress="115" context="HEADERLINE" number="490" type="S"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="490" type="S"/>
+<bill congress="115" context="OTHER" number="490" type="S"/>
+<bill congress="115" context="HEADERLINE" number="491" type="S"/>
+<bill congress="115" context="OTHER" number="491" type="S"/>
+<bill congress="115" context="HEADERLINE" number="492" type="S"/>
+<bill congress="115" context="OTHER" number="492" type="S"/>
+<bill congress="115" context="HEADERLINE" number="503" type="S"/>
+<bill congress="115" context="OTHER" number="503" type="S"/>
+<bill congress="115" context="HEADERLINE" number="513" type="S"/>
+<bill congress="115" context="OTHER" number="513" type="S"/>
+<congCommittee authorityId="sseg00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Energy and Natural Resources</name>
+<name type="authority-short">Energy and Natural Resources</name>
+</congCommittee>
+<congCommittee authorityId="ssfi00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Finance</name>
+<name type="authority-short">Finance</name>
+</congCommittee>
+<congMember authorityId="2138" bioGuideId="D000618" chamber="S" congress="115" party="R" role="SPEAKING" state="MT">
+<name type="parsed">Mr. DAINES</name>
+<name type="authority-fnf">Steve Daines</name>
+<name type="authority-lnf">Daines, Steve</name>
+</congMember>
+<congMember authorityId="1692" bioGuideId="C001056" chamber="S" congress="115" gpoId="8295" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. CORNYN</name>
+<name type="authority-fnf">John Cornyn</name>
+<name type="authority-lnf">Cornyn, John</name>
+</congMember>
+<congMember authorityId="1247" bioGuideId="W000779" chamber="S" congress="115" gpoId="8265" party="D" role="SPEAKING" state="OR">
+<name type="parsed">Mr. WYDEN</name>
+<name type="authority-fnf">Ron Wyden</name>
+<name type="authority-lnf">Wyden, Ron</name>
+</congMember>
+<USCode title="5">
+<chapter number="8"/>
+</USCode>
+<USCode title="7">
+<section detail="et seq." number="2131"/>
+<section number="2133"/>
+<section number="2136"/>
+<section number="2142"/>
+<section number="2143"/>
+<section detail="(b)" number="2149"/>
+<section detail="(d)" number="2149"/>
+</USCode>
+<USCode title="15">
+<section detail="et seq." number="1821"/>
+<section detail="(c)" number="1823"/>
+<section detail="(a)" number="1825"/>
+<section detail="(b)" number="1825"/>
+</USCode>
+<USCode title="16">
+<section number="806"/>
+</USCode>
+<USCode title="37">
+<section number="101"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Joint Resolution 29  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S.J. Res. 29</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Joint Resolution 29  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S.J. Res. 29</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 490  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 490</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 490  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 490</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 490  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 490</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 491  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 491</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 491  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 491</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 492  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 492</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 492  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 492</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 503  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 503</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 503  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 503</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 513  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 513</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 513  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 513</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 5 Chapter 8</partNumber>
+</titleInfo>
+<identifier type="USC citation">5 U.S.C. Chapter 8</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 7 Section 2131et seq.</partNumber>
+<partNumber>Title 7 Section 2133</partNumber>
+<partNumber>Title 7 Section 2136</partNumber>
+<partNumber>Title 7 Section 2142</partNumber>
+<partNumber>Title 7 Section 2143</partNumber>
+<partNumber>Title 7 Section 2149(b)</partNumber>
+<partNumber>Title 7 Section 2149(d)</partNumber>
+</titleInfo>
+<identifier type="USC citation">7 U.S.C. 2131et seq.</identifier>
+<identifier type="USC citation">7 U.S.C. 2133</identifier>
+<identifier type="USC citation">7 U.S.C. 2136</identifier>
+<identifier type="USC citation">7 U.S.C. 2142</identifier>
+<identifier type="USC citation">7 U.S.C. 2143</identifier>
+<identifier type="USC citation">7 U.S.C. 2149(b)</identifier>
+<identifier type="USC citation">7 U.S.C. 2149(d)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 15 Section 1821et seq.</partNumber>
+<partNumber>Title 15 Section 1823(c)</partNumber>
+<partNumber>Title 15 Section 1825(a)</partNumber>
+<partNumber>Title 15 Section 1825(b)</partNumber>
+</titleInfo>
+<identifier type="USC citation">15 U.S.C. 1821et seq.</identifier>
+<identifier type="USC citation">15 U.S.C. 1823(c)</identifier>
+<identifier type="USC citation">15 U.S.C. 1825(a)</identifier>
+<identifier type="USC citation">15 U.S.C. 1825(b)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 16 Section 806</partNumber>
+</titleInfo>
+<identifier type="USC citation">16 U.S.C. 806</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 37 Section 101</partNumber>
+</titleInfo>
+<identifier type="USC citation">37 U.S.C. 101</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee195696880" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 37</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-02/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-02/pdf/CREC-2017-03-02.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H1467</start>
+<end>H1533</end>
+</extent>
+<extent unit="pages">
+<start>S1545</start>
+<end>S1587</end>
+</extent>
+<extent unit="pages">
+<start>E265</start>
+<end>E272</end>
+</extent>
+<extent unit="pages">
+<start>D218</start>
+<end>D222</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-03-02</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>246 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-02</identifier>
+<identifier type="local">P0b002ee195696880</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr02mr17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-07-04</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-03-02</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-03-02</accessId>
+<volume>163</volume>
+<issue>37</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

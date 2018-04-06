@@ -1,0 +1,486 @@
+<mods ID="id-CREC-2017-02-16-pt1-PgS1307" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-10-27</dateIngested>
+</extension>
+<titleInfo>
+<title>SUBMITTED RESOLUTIONS</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-02-16/html/CREC-2017-02-16-pt1-PgS1307.htm">
+<identifier type="FDsys Unique ID">D09002ee197412f50</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-02-16/pdf/CREC-2017-02-16-pt1-PgS1307.pdf">
+<identifier type="FDsys Unique ID">D09002ee1974130e8</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S1307</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-02-16/CREC-2017-02-16-pt1-PgS1307</identifier>
+<identifier type="former granule identifier">CR16FE17-283</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-02-16/CREC-2017-02-16-pt1-PgS1307/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-16/pdf/CREC-2017-02-16-pt1-PgS1307.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-16/html/CREC-2017-02-16-pt1-PgS1307.htm</url>
+</location>
+<physicalDescription>
+<extent>7 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S1307</start>
+<end>S1313</end>
+</extent>
+</part>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Rules and Administration</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Special Committee on Aging</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Select Committee on Intelligence</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Indian Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Agriculture, Nutrition, and Forestry</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Armed Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Banking, Housing, and Urban Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on the Budget</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Commerce, Science, and Transportation</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Energy and Natural Resources</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Environment and Public Works</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Finance</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Foreign Relations</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Health, Education, Labor, and Pensions</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Homeland Security and Governmental Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Judiciary</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Small Business and Entrepreneurship</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Veterans' Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. S1307</identifier>
+<extension>
+<searchTitle>SUBMITTED RESOLUTIONS; Congressional Record Vol. 163, No. 28</searchTitle>
+<associatedBills>S. Res. 62, 115th Congress
+        </associatedBills>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-02-16-pt1-PgS1307</accessId>
+<subGranuleClass>SSUBMITTED</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-02-16</granuleDate>
+<bill congress="115" context="OTHER" number="4" type="SRES"/>
+<bill congress="115" context="HEADERLINE" number="62" type="SRES"/>
+<bill congress="115" context="OTHER" number="62" type="SRES"/>
+<bill congress="115" context="OTHER" number="73" type="SRES"/>
+<bill congress="115" context="OTHER" number="400" type="SRES"/>
+<bill congress="115" context="OTHER" number="445" type="SRES"/>
+<congCommittee authorityId="ssra00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Rules and Administration</name>
+<name type="authority-short">Rules and Administration</name>
+</congCommittee>
+<congCommittee authorityId="spag00" chamber="S" congress="115" type="P">
+<name type="authority-standard">Special Committee on Aging</name>
+<name type="authority-short">Aging</name>
+</congCommittee>
+<congCommittee authorityId="slin00" chamber="S" congress="115" type="L">
+<name type="authority-standard">Select Committee on Intelligence</name>
+<name type="authority-short">Intelligence</name>
+</congCommittee>
+<congCommittee authorityId="slia00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Indian Affairs</name>
+<name type="authority-short">Indian Affairs</name>
+</congCommittee>
+<congCommittee authorityId="ssaf00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Agriculture, Nutrition, and Forestry</name>
+<name type="authority-short">Agriculture</name>
+</congCommittee>
+<congCommittee authorityId="ssas00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Armed Services</name>
+<name type="authority-short">Armed Services</name>
+</congCommittee>
+<congCommittee authorityId="ssbk00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Banking, Housing, and Urban Affairs</name>
+<name type="authority-short">Banking</name>
+</congCommittee>
+<congCommittee authorityId="ssbu00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on the Budget</name>
+<name type="authority-short">Budget</name>
+</congCommittee>
+<congCommittee authorityId="sscm00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Commerce, Science, and Transportation</name>
+<name type="authority-short">Commerce</name>
+</congCommittee>
+<congCommittee authorityId="sseg00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Energy and Natural Resources</name>
+<name type="authority-short">Energy and Natural Resources</name>
+</congCommittee>
+<congCommittee authorityId="ssev00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Environment and Public Works</name>
+<name type="authority-short">Environment and Public Works</name>
+</congCommittee>
+<congCommittee authorityId="ssfi00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Finance</name>
+<name type="authority-short">Finance</name>
+</congCommittee>
+<congCommittee authorityId="ssfr00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Foreign Relations</name>
+<name type="authority-short">Foreign Relations</name>
+</congCommittee>
+<congCommittee authorityId="sshr00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Health, Education, Labor, and Pensions</name>
+<name type="authority-short">HELP</name>
+</congCommittee>
+<congCommittee authorityId="ssga00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Homeland Security and Governmental Affairs</name>
+<name type="authority-short">Homeland and Governmental Affairs</name>
+</congCommittee>
+<congCommittee authorityId="ssju00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Judiciary</name>
+<name type="authority-short">Judiciary</name>
+</congCommittee>
+<congCommittee authorityId="sssb00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Small Business and Entrepreneurship</name>
+<name type="authority-short">Small Business</name>
+</congCommittee>
+<congCommittee authorityId="ssva00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Veterans' Affairs</name>
+<name type="authority-short">Veterans' Affairs</name>
+</congCommittee>
+<USCode title="2">
+<section detail="(i)" number="4301"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Resolution 4  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. Res. 4</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Resolution 62  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. Res. 62</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Resolution 62  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. Res. 62</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Resolution 73  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. Res. 73</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Resolution 400  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. Res. 400</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Resolution 445  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. Res. 445</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 2 Section 4301(i)</partNumber>
+</titleInfo>
+<identifier type="USC citation">2 U.S.C. 4301(i)</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee1973a1134" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 28</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-16/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-16/pdf/CREC-2017-02-16.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H1247</start>
+<end>H1307</end>
+</extent>
+<extent unit="pages">
+<start>S1223</start>
+<end>S1416</end>
+</extent>
+<extent unit="pages">
+<start>E207</start>
+<end>E219</end>
+</extent>
+<extent unit="pages">
+<start>D173</start>
+<end>D178</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-02-16</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>556 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-16</identifier>
+<identifier type="local">P0b002ee1973a1134</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR16FE17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-10-27</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-10-27</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-02-16</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-02-16</accessId>
+<volume>163</volume>
+<issue>28</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>2</bookCount>
+</extension>
+</relatedItem>
+</mods>

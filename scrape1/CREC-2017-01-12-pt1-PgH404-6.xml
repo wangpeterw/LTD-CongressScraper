@@ -1,0 +1,1116 @@
+<mods ID="id-CREC-2017-01-12-pt1-PgH404-6" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-05-03</dateIngested>
+</extension>
+<titleInfo>
+<title>COMMODITY END-USER RELIEF ACT</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-01-12/html/CREC-2017-01-12-pt1-PgH404-6.htm">
+<identifier type="FDsys Unique ID">D09002ee196a6cfa1</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-01-12/pdf/CREC-2017-01-12-pt1-PgH404-6.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a6d011</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H404</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-01-12/CREC-2017-01-12-pt1-PgH404-6</identifier>
+<identifier type="former granule identifier">CR12JA17-80</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-01-12/CREC-2017-01-12-pt1-PgH404-6/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-12/pdf/CREC-2017-01-12-pt1-PgH404-6.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-12/html/CREC-2017-01-12-pt1-PgH404-6.htm</url>
+</location>
+<physicalDescription>
+<extent>25 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H404</start>
+<end>H428</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>K. Michael Conaway</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Collin C. Peterson</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Eric A. "Rick" Crawford</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Stacey E. Plaskett</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Rodney Davis</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>James P. McGovern</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Vicky Hartzler</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tom O'Halleran</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ted S. Yoho</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Maxine Waters</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Doug LaMalfa</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Austin Scott</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bob Goodlatte</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Robert B. Aderholt</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Joe Courtney</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sean P. Duffy</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Frank D. Lucas</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Agriculture</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Financial Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on the Judiciary</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Agriculture, Nutrition, and Forestry</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H404</identifier>
+<extension>
+<searchTitle>COMMODITY END-USER RELIEF ACT; Congressional Record Vol. 163, No. 8</searchTitle>
+<associatedBills>H.R. 238, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-01-12-pt1-PgH404-6</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-01-12</granuleDate>
+<time from="12:15:00" to="14:00:00"/>
+<congReport congress="115" context="OTHER" number="3" type="H"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="1"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="2"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="3"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="4"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="5"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="6"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="8"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="1"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="1"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="2"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="2"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="3"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="3"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="4"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="4"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="5"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="5"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="6"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="6"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="7"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="7"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="8"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="8"/>
+<bill congress="115" context="OTHER" number="40" type="HRES"/>
+<bill congress="115" context="HEADERLINE" number="238" type="HR"/>
+<bill congress="115" context="OTHER" number="238" type="HR"/>
+<bill congress="115" context="OTHER" number="2289" type="HR"/>
+<bill congress="115" context="OTHER" number="4413" type="HR"/>
+<congCommittee authorityId="hsag00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Agriculture</name>
+<name type="authority-short">Agriculture</name>
+</congCommittee>
+<congCommittee authorityId="hsba00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Financial Services</name>
+<name type="authority-short">Financial Services</name>
+</congCommittee>
+<congCommittee authorityId="hsju00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on the Judiciary</name>
+<name type="authority-short">Judiciary</name>
+</congCommittee>
+<congCommittee authorityId="ssaf00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Agriculture, Nutrition, and Forestry</name>
+<name type="authority-short">Agriculture</name>
+</congCommittee>
+<congMember authorityId="1805" bioGuideId="C001062" chamber="H" congress="115" gpoId="8167" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. CONAWAY</name>
+<name type="authority-fnf">K. Michael Conaway</name>
+<name type="authority-lnf">Conaway, K. Michael</name>
+</congMember>
+<congMember authorityId="910" bioGuideId="P000258" chamber="H" congress="115" gpoId="8007" party="D" role="SPEAKING" state="MN">
+<name type="parsed">Mr. PETERSON</name>
+<name type="authority-fnf">Collin C. Peterson</name>
+<name type="authority-lnf">Peterson, Collin C.</name>
+<name type="authority-other">Collin Peterson</name>
+</congMember>
+<congMember authorityId="1989" bioGuideId="C001087" chamber="H" congress="115" gpoId="7793" party="R" role="SPEAKING" state="AR">
+<name type="parsed">Mr. CRAWFORD</name>
+<name type="authority-fnf">Eric A. "Rick" Crawford</name>
+<name type="authority-lnf">Crawford, Eric A. "Rick"</name>
+<name type="authority-other">Mr. Eric Crawford</name>
+</congMember>
+<congMember authorityId="2274" bioGuideId="P000610" chamber="H" congress="115" party="D" role="SPEAKING" state="VI">
+<name type="parsed">Ms. PLASKETT</name>
+<name type="authority-fnf">Stacey E. Plaskett</name>
+<name type="authority-lnf">Plaskett, Stacey E.</name>
+<name type="authority-other">Ms. Stacey Plaskett</name>
+</congMember>
+<congMember authorityId="2126" bioGuideId="D000619" chamber="H" congress="115" party="R" role="SPEAKING" state="IL">
+<name type="parsed">Mr. RODNEY DAVIS of Illinois</name>
+<name type="authority-fnf">Rodney Davis</name>
+<name type="authority-lnf">Davis, Rodney</name>
+</congMember>
+<congMember authorityId="1504" bioGuideId="M000312" chamber="H" congress="115" gpoId="7968" party="D" role="SPEAKING" state="MA">
+<name type="parsed">Mr. McGOVERN</name>
+<name type="authority-fnf">James P. McGovern</name>
+<name type="authority-lnf">McGovern, James P.</name>
+<name type="authority-other">James Mcgovern</name>
+</congMember>
+<congMember authorityId="2032" bioGuideId="H001053" chamber="H" congress="115" gpoId="8012" party="R" role="SPEAKING" state="MO">
+<name type="parsed">Mrs. HARTZLER</name>
+<name type="authority-fnf">Vicky Hartzler</name>
+<name type="authority-lnf">Hartzler, Vicky</name>
+</congMember>
+<congMember authorityId="2306" bioGuideId="O000171" chamber="H" congress="115" party="D" role="SPEAKING" state="AZ">
+<name type="parsed">Mr. O'HALLERAN</name>
+<name type="authority-fnf">Tom O'Halleran</name>
+<name type="authority-lnf">O'Halleran, Tom</name>
+</congMember>
+<congMember authorityId="2115" bioGuideId="Y000065" chamber="H" congress="115" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Mr. YOHO</name>
+<name type="authority-fnf">Ted S. Yoho</name>
+<name type="authority-lnf">Yoho, Ted S.</name>
+<name type="authority-other">Mr. Ted Yoho</name>
+</congMember>
+<congMember authorityId="1205" bioGuideId="W000187" chamber="H" congress="115" gpoId="7840" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. MAXINE WATERS of California</name>
+<name type="authority-fnf">Maxine Waters</name>
+<name type="authority-lnf">Waters, Maxine</name>
+</congMember>
+<congMember authorityId="2100" bioGuideId="L000578" chamber="H" congress="115" party="R" role="SPEAKING" state="CA">
+<name type="parsed">Mr. LaMALFA</name>
+<name type="authority-fnf">Doug LaMalfa</name>
+<name type="authority-lnf">LaMalfa, Doug</name>
+</congMember>
+<congMember authorityId="2009" bioGuideId="S001189" chamber="H" congress="115" gpoId="7905" party="R" role="SPEAKING" state="GA">
+<name type="parsed">Mr. AUSTIN SCOTT of Georgia</name>
+<name type="authority-fnf">Austin Scott</name>
+<name type="authority-lnf">Scott, Austin</name>
+</congMember>
+<congMember authorityId="446" bioGuideId="G000289" chamber="H" congress="115" gpoId="8197" party="R" role="SPEAKING" state="VA">
+<name type="parsed">Mr. GOODLATTE</name>
+<name type="authority-fnf">Bob Goodlatte</name>
+<name type="authority-lnf">Goodlatte, Bob</name>
+<name type="authority-other">Robert Goodlatte</name>
+</congMember>
+<congMember authorityId="1460" bioGuideId="A000055" chamber="H" congress="115" gpoId="7789" party="R" role="SPEAKING" state="AL">
+<name type="parsed">Mr. ADERHOLT</name>
+<name type="authority-fnf">Robert B. Aderholt</name>
+<name type="authority-lnf">Aderholt, Robert B.</name>
+<name type="authority-other">Robert Aderholt</name>
+</congMember>
+<congMember authorityId="1836" bioGuideId="C001069" chamber="H" congress="115" gpoId="7867" party="D" role="SPEAKING" state="CT">
+<name type="parsed">Mr. COURTNEY</name>
+<name type="authority-fnf">Joe Courtney</name>
+<name type="authority-lnf">Courtney, Joe</name>
+</congMember>
+<congMember authorityId="2072" bioGuideId="D000614" chamber="H" congress="115" gpoId="8220" party="R" role="SPEAKING" state="WI">
+<name type="parsed">Mr. DUFFY</name>
+<name type="authority-fnf">Sean P. Duffy</name>
+<name type="authority-lnf">Duffy, Sean P.</name>
+<name type="authority-other">Mr. Sean Duffy</name>
+</congMember>
+<congMember authorityId="711" bioGuideId="L000491" chamber="H" congress="115" gpoId="8111" party="R" role="SPEAKING" state="OK">
+<name type="parsed">Mr. LUCAS</name>
+<name type="authority-fnf">Frank D. Lucas</name>
+<name type="authority-lnf">Lucas, Frank D.</name>
+<name type="authority-other">Frank Lucas</name>
+</congMember>
+<law congress="97" isPrivate="false" number="444"/>
+<USCode title="5">
+<section number="552"/>
+<section number="553"/>
+</USCode>
+<USCode title="7">
+<section detail="(a)" number="10a"/>
+<section detail="(b)" number="10a"/>
+<section number="12a"/>
+<section number="12"/>
+<section detail="(1)" number="13a-2"/>
+<section number="13a"/>
+<section detail="(c)" number="13c"/>
+<section detail="(a)(2)" number="13"/>
+<section number="16a"/>
+<section detail="(b)(3)" number="16"/>
+<section detail="(b)(4)" number="16"/>
+<section detail="(d)" number="16"/>
+<section detail="(e)(1)(B)(i)" number="16"/>
+<section detail="(e)(2)" number="16"/>
+<section detail="(a)(2)" number="18"/>
+<section detail="(a)" number="19"/>
+<section number="1a"/>
+<section detail="(10)" number="1a"/>
+<section detail="(11)" number="1a"/>
+<section detail="(12)" number="1a"/>
+<section detail="(12)(A)(i)(II)" number="1a"/>
+<section detail="(12)(B)(vi)" number="1a"/>
+<section detail="(18)(A)(x)" number="1a"/>
+<section detail="(2)" number="1a"/>
+<section detail="(34)" number="1a"/>
+<section detail="(35)(B)(iii)(I)" number="1a"/>
+<section detail="(41)" number="1a"/>
+<section detail="(47)" number="1a"/>
+<section detail="(47)(A)(iii)" number="1a"/>
+<section detail="(47)(B)(ii)" number="1a"/>
+<section detail="(49)" number="1a"/>
+<section detail="(49)(D)" number="1a"/>
+<section detail="et seq." number="1"/>
+<section number="21"/>
+<section detail="(b)(10)(C)(ii)" number="21"/>
+<section detail="(b)(11)" number="21"/>
+<section detail="(b)(12)" number="21"/>
+<section detail="(b)(13)" number="21"/>
+<section detail="(b)(9)(D)" number="21"/>
+<section detail="(f)(4)(C)" number="24a"/>
+<section detail="(a)" number="24"/>
+<section detail="(b)(3)" number="25"/>
+<section detail="(b)(4)" number="25"/>
+<section detail="(f)" number="26"/>
+<section detail="(g)" number="26"/>
+<section detail="(a)" number="27"/>
+<section detail="(a)" number="2"/>
+<section detail="(a)(1)(C)(ii)" number="2"/>
+<section detail="(a)(1)(C)(ii)(III)" number="2"/>
+<section detail="(a)(1)(C)(iii)" number="2"/>
+<section detail="(a)(1)(C)(iv)" number="2"/>
+<section detail="(a)(1)(C)(v)" number="2"/>
+<section detail="(a)(1)(C)(v)(I)" number="2"/>
+<section detail="(a)(1)(C)(v)(II)" number="2"/>
+<section detail="(a)(1)(C)(v)(V)" number="2"/>
+<section detail="(a)(1)(C)(v)(VI)" number="2"/>
+<section detail="(a)(1)(D)(i)" number="2"/>
+<section detail="(a)(1)(D)(i)(IV)" number="2"/>
+<section detail="(a)(1)(D)(ii)(I)" number="2"/>
+<section detail="(a)(1)(D)(ii)(II)" number="2"/>
+<section detail="(a)(1)(D)(ii)(III)" number="2"/>
+<section detail="(a)(12)" number="2"/>
+<section detail="(a)(13)" number="2"/>
+<section detail="(a)(6)(A)" number="2"/>
+<section detail="(a)(6)(C)" number="2"/>
+<section detail="(a)(9)(B)(ii)" number="2"/>
+<section detail="(c)(1)" number="2"/>
+<section detail="(c)(2)" number="2"/>
+<section detail="(d)" number="2"/>
+<section detail="(h)(7)(C)" number="2"/>
+<section detail="(h)(7)(C)(iii)" number="2"/>
+<section detail="(h)(8)(A)(ii)" number="2"/>
+<section detail="(a)" number="6a"/>
+<section detail="(a)(1)" number="6a"/>
+<section detail="(c)" number="6a"/>
+<section detail="(c)(2)(A)(i)" number="6a"/>
+<section detail="(e)" number="6a"/>
+<section number="6c"/>
+<section detail="(c)" number="6c"/>
+<section detail="(g)" number="6c"/>
+<section number="6d"/>
+<section detail="(a)" number="6d"/>
+<section detail="(b)" number="6d"/>
+<section detail="(h)" number="6d"/>
+<section detail="(a)(1)" number="6"/>
+<section detail="(c)(1)" number="6"/>
+<section detail="(c)(1)(A)" number="6"/>
+<section detail="(c)(1)(A)(i)(I)" number="6"/>
+<section detail="(c)(3)(H)" number="6"/>
+<section number="6e"/>
+<section detail="(a)(4)(A)(i)" number="6f"/>
+<section detail="(b)" number="6f"/>
+<section detail="(c)(3)(A)" number="6f"/>
+<section detail="(c)(4)(A)" number="6f"/>
+<section detail="(c)(4)(B)" number="6f"/>
+<section detail="(a)" number="6g"/>
+<section detail="(e)" number="6g"/>
+<section number="6i"/>
+<section detail="(a)" number="6j"/>
+<section detail="(5)(A)" number="6k"/>
+<section number="6m"/>
+<section detail="(a)(1)" number="6o-1"/>
+<section detail="(a)" number="6p"/>
+<section detail="(b)" number="6p"/>
+<section detail="(e)" number="6s"/>
+<section detail="(f)(1)(D)" number="6s"/>
+<section detail="(h)(2)" number="6s"/>
+<section detail="(h)(5)(A)(i)" number="6s"/>
+<section detail="(k)(3)(B)" number="6s"/>
+<section detail="(b)(1)(C)" number="6t"/>
+<section number="7a-1"/>
+<section detail="(f)" number="7a-2"/>
+<section detail="(f)(1)" number="7a-2"/>
+<section number="7a"/>
+<section detail="(b)(1)" number="7b-1"/>
+<section number="7b"/>
+<section number="7"/>
+<section detail="(d)(23)" number="7"/>
+<section detail="(e)(1)" number="7"/>
+<section number="8"/>
+<section detail="(a)" number="8"/>
+<section detail="(b)" number="8"/>
+<section detail="(5)" number="9"/>
+</USCode>
+<USCode title="15">
+<section detail="(g)(3)(A)(v)" number="78c-3"/>
+<section detail="(a)(68)(A)(i)" number="78c"/>
+<section detail="(g)(5)(B)(i)" number="78f"/>
+<section detail="(e)" number="78o-10"/>
+<section detail="(h)(5)(A)(i)" number="78o-10"/>
+<section number="8301"/>
+</USCode>
+<USCode title="28">
+<section number="2112"/>
+</USCode>
+<cfr title="17">
+<part detail=".901" number="230"/>
+</cfr>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 40  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 40</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 238  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 238</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 238  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 238</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2289  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2289</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4413  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4413</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 5 Section 552</partNumber>
+<partNumber>Title 5 Section 553</partNumber>
+</titleInfo>
+<identifier type="USC citation">5 U.S.C. 552</identifier>
+<identifier type="USC citation">5 U.S.C. 553</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 7 Section 10a(a)</partNumber>
+<partNumber>Title 7 Section 10a(b)</partNumber>
+<partNumber>Title 7 Section 12a</partNumber>
+<partNumber>Title 7 Section 12</partNumber>
+<partNumber>Title 7 Section 13a-2(1)</partNumber>
+<partNumber>Title 7 Section 13a</partNumber>
+<partNumber>Title 7 Section 13c(c)</partNumber>
+<partNumber>Title 7 Section 13(a)(2)</partNumber>
+<partNumber>Title 7 Section 16a</partNumber>
+<partNumber>Title 7 Section 16(b)(3)</partNumber>
+<partNumber>Title 7 Section 16(b)(4)</partNumber>
+<partNumber>Title 7 Section 16(d)</partNumber>
+<partNumber>Title 7 Section 16(e)(1)(B)(i)</partNumber>
+<partNumber>Title 7 Section 16(e)(2)</partNumber>
+<partNumber>Title 7 Section 18(a)(2)</partNumber>
+<partNumber>Title 7 Section 19(a)</partNumber>
+<partNumber>Title 7 Section 1a</partNumber>
+<partNumber>Title 7 Section 1a(10)</partNumber>
+<partNumber>Title 7 Section 1a(11)</partNumber>
+<partNumber>Title 7 Section 1a(12)</partNumber>
+<partNumber>Title 7 Section 1a(12)(A)(i)(II)</partNumber>
+<partNumber>Title 7 Section 1a(12)(B)(vi)</partNumber>
+<partNumber>Title 7 Section 1a(18)(A)(x)</partNumber>
+<partNumber>Title 7 Section 1a(2)</partNumber>
+<partNumber>Title 7 Section 1a(34)</partNumber>
+<partNumber>Title 7 Section 1a(35)(B)(iii)(I)</partNumber>
+<partNumber>Title 7 Section 1a(41)</partNumber>
+<partNumber>Title 7 Section 1a(47)</partNumber>
+<partNumber>Title 7 Section 1a(47)(A)(iii)</partNumber>
+<partNumber>Title 7 Section 1a(47)(B)(ii)</partNumber>
+<partNumber>Title 7 Section 1a(49)</partNumber>
+<partNumber>Title 7 Section 1a(49)(D)</partNumber>
+<partNumber>Title 7 Section 1et seq.</partNumber>
+<partNumber>Title 7 Section 21</partNumber>
+<partNumber>Title 7 Section 21(b)(10)(C)(ii)</partNumber>
+<partNumber>Title 7 Section 21(b)(11)</partNumber>
+<partNumber>Title 7 Section 21(b)(12)</partNumber>
+<partNumber>Title 7 Section 21(b)(13)</partNumber>
+<partNumber>Title 7 Section 21(b)(9)(D)</partNumber>
+<partNumber>Title 7 Section 24a(f)(4)(C)</partNumber>
+<partNumber>Title 7 Section 24(a)</partNumber>
+<partNumber>Title 7 Section 25(b)(3)</partNumber>
+<partNumber>Title 7 Section 25(b)(4)</partNumber>
+<partNumber>Title 7 Section 26(f)</partNumber>
+<partNumber>Title 7 Section 26(g)</partNumber>
+<partNumber>Title 7 Section 27(a)</partNumber>
+<partNumber>Title 7 Section 2(a)</partNumber>
+<partNumber>Title 7 Section 2(a)(1)(C)(ii)</partNumber>
+<partNumber>Title 7 Section 2(a)(1)(C)(ii)(III)</partNumber>
+<partNumber>Title 7 Section 2(a)(1)(C)(iii)</partNumber>
+<partNumber>Title 7 Section 2(a)(1)(C)(iv)</partNumber>
+<partNumber>Title 7 Section 2(a)(1)(C)(v)</partNumber>
+<partNumber>Title 7 Section 2(a)(1)(C)(v)(I)</partNumber>
+<partNumber>Title 7 Section 2(a)(1)(C)(v)(II)</partNumber>
+<partNumber>Title 7 Section 2(a)(1)(C)(v)(V)</partNumber>
+<partNumber>Title 7 Section 2(a)(1)(C)(v)(VI)</partNumber>
+<partNumber>Title 7 Section 2(a)(1)(D)(i)</partNumber>
+<partNumber>Title 7 Section 2(a)(1)(D)(i)(IV)</partNumber>
+<partNumber>Title 7 Section 2(a)(1)(D)(ii)(I)</partNumber>
+<partNumber>Title 7 Section 2(a)(1)(D)(ii)(II)</partNumber>
+<partNumber>Title 7 Section 2(a)(1)(D)(ii)(III)</partNumber>
+<partNumber>Title 7 Section 2(a)(12)</partNumber>
+<partNumber>Title 7 Section 2(a)(13)</partNumber>
+<partNumber>Title 7 Section 2(a)(6)(A)</partNumber>
+<partNumber>Title 7 Section 2(a)(6)(C)</partNumber>
+<partNumber>Title 7 Section 2(a)(9)(B)(ii)</partNumber>
+<partNumber>Title 7 Section 2(c)(1)</partNumber>
+<partNumber>Title 7 Section 2(c)(2)</partNumber>
+<partNumber>Title 7 Section 2(d)</partNumber>
+<partNumber>Title 7 Section 2(h)(7)(C)</partNumber>
+<partNumber>Title 7 Section 2(h)(7)(C)(iii)</partNumber>
+<partNumber>Title 7 Section 2(h)(8)(A)(ii)</partNumber>
+<partNumber>Title 7 Section 6a(a)</partNumber>
+<partNumber>Title 7 Section 6a(a)(1)</partNumber>
+<partNumber>Title 7 Section 6a(c)</partNumber>
+<partNumber>Title 7 Section 6a(c)(2)(A)(i)</partNumber>
+<partNumber>Title 7 Section 6a(e)</partNumber>
+<partNumber>Title 7 Section 6c</partNumber>
+<partNumber>Title 7 Section 6c(c)</partNumber>
+<partNumber>Title 7 Section 6c(g)</partNumber>
+<partNumber>Title 7 Section 6d</partNumber>
+<partNumber>Title 7 Section 6d(a)</partNumber>
+<partNumber>Title 7 Section 6d(b)</partNumber>
+<partNumber>Title 7 Section 6d(h)</partNumber>
+<partNumber>Title 7 Section 6(a)(1)</partNumber>
+<partNumber>Title 7 Section 6(c)(1)</partNumber>
+<partNumber>Title 7 Section 6(c)(1)(A)</partNumber>
+<partNumber>Title 7 Section 6(c)(1)(A)(i)(I)</partNumber>
+<partNumber>Title 7 Section 6(c)(3)(H)</partNumber>
+<partNumber>Title 7 Section 6e</partNumber>
+<partNumber>Title 7 Section 6f(a)(4)(A)(i)</partNumber>
+<partNumber>Title 7 Section 6f(b)</partNumber>
+<partNumber>Title 7 Section 6f(c)(3)(A)</partNumber>
+<partNumber>Title 7 Section 6f(c)(4)(A)</partNumber>
+<partNumber>Title 7 Section 6f(c)(4)(B)</partNumber>
+<partNumber>Title 7 Section 6g(a)</partNumber>
+<partNumber>Title 7 Section 6g(e)</partNumber>
+<partNumber>Title 7 Section 6i</partNumber>
+<partNumber>Title 7 Section 6j(a)</partNumber>
+<partNumber>Title 7 Section 6k(5)(A)</partNumber>
+<partNumber>Title 7 Section 6m</partNumber>
+<partNumber>Title 7 Section 6o-1(a)(1)</partNumber>
+<partNumber>Title 7 Section 6p(a)</partNumber>
+<partNumber>Title 7 Section 6p(b)</partNumber>
+<partNumber>Title 7 Section 6s(e)</partNumber>
+<partNumber>Title 7 Section 6s(f)(1)(D)</partNumber>
+<partNumber>Title 7 Section 6s(h)(2)</partNumber>
+<partNumber>Title 7 Section 6s(h)(5)(A)(i)</partNumber>
+<partNumber>Title 7 Section 6s(k)(3)(B)</partNumber>
+<partNumber>Title 7 Section 6t(b)(1)(C)</partNumber>
+<partNumber>Title 7 Section 7a-1</partNumber>
+<partNumber>Title 7 Section 7a-2(f)</partNumber>
+<partNumber>Title 7 Section 7a-2(f)(1)</partNumber>
+<partNumber>Title 7 Section 7a</partNumber>
+<partNumber>Title 7 Section 7b-1(b)(1)</partNumber>
+<partNumber>Title 7 Section 7b</partNumber>
+<partNumber>Title 7 Section 7</partNumber>
+<partNumber>Title 7 Section 7(d)(23)</partNumber>
+<partNumber>Title 7 Section 7(e)(1)</partNumber>
+<partNumber>Title 7 Section 8</partNumber>
+<partNumber>Title 7 Section 8(a)</partNumber>
+<partNumber>Title 7 Section 8(b)</partNumber>
+<partNumber>Title 7 Section 9(5)</partNumber>
+</titleInfo>
+<identifier type="USC citation">7 U.S.C. 10a(a)</identifier>
+<identifier type="USC citation">7 U.S.C. 10a(b)</identifier>
+<identifier type="USC citation">7 U.S.C. 12a</identifier>
+<identifier type="USC citation">7 U.S.C. 12</identifier>
+<identifier type="USC citation">7 U.S.C. 13a-2(1)</identifier>
+<identifier type="USC citation">7 U.S.C. 13a</identifier>
+<identifier type="USC citation">7 U.S.C. 13c(c)</identifier>
+<identifier type="USC citation">7 U.S.C. 13(a)(2)</identifier>
+<identifier type="USC citation">7 U.S.C. 16a</identifier>
+<identifier type="USC citation">7 U.S.C. 16(b)(3)</identifier>
+<identifier type="USC citation">7 U.S.C. 16(b)(4)</identifier>
+<identifier type="USC citation">7 U.S.C. 16(d)</identifier>
+<identifier type="USC citation">7 U.S.C. 16(e)(1)(B)(i)</identifier>
+<identifier type="USC citation">7 U.S.C. 16(e)(2)</identifier>
+<identifier type="USC citation">7 U.S.C. 18(a)(2)</identifier>
+<identifier type="USC citation">7 U.S.C. 19(a)</identifier>
+<identifier type="USC citation">7 U.S.C. 1a</identifier>
+<identifier type="USC citation">7 U.S.C. 1a(10)</identifier>
+<identifier type="USC citation">7 U.S.C. 1a(11)</identifier>
+<identifier type="USC citation">7 U.S.C. 1a(12)</identifier>
+<identifier type="USC citation">7 U.S.C. 1a(12)(A)(i)(II)</identifier>
+<identifier type="USC citation">7 U.S.C. 1a(12)(B)(vi)</identifier>
+<identifier type="USC citation">7 U.S.C. 1a(18)(A)(x)</identifier>
+<identifier type="USC citation">7 U.S.C. 1a(2)</identifier>
+<identifier type="USC citation">7 U.S.C. 1a(34)</identifier>
+<identifier type="USC citation">7 U.S.C. 1a(35)(B)(iii)(I)</identifier>
+<identifier type="USC citation">7 U.S.C. 1a(41)</identifier>
+<identifier type="USC citation">7 U.S.C. 1a(47)</identifier>
+<identifier type="USC citation">7 U.S.C. 1a(47)(A)(iii)</identifier>
+<identifier type="USC citation">7 U.S.C. 1a(47)(B)(ii)</identifier>
+<identifier type="USC citation">7 U.S.C. 1a(49)</identifier>
+<identifier type="USC citation">7 U.S.C. 1a(49)(D)</identifier>
+<identifier type="USC citation">7 U.S.C. 1et seq.</identifier>
+<identifier type="USC citation">7 U.S.C. 21</identifier>
+<identifier type="USC citation">7 U.S.C. 21(b)(10)(C)(ii)</identifier>
+<identifier type="USC citation">7 U.S.C. 21(b)(11)</identifier>
+<identifier type="USC citation">7 U.S.C. 21(b)(12)</identifier>
+<identifier type="USC citation">7 U.S.C. 21(b)(13)</identifier>
+<identifier type="USC citation">7 U.S.C. 21(b)(9)(D)</identifier>
+<identifier type="USC citation">7 U.S.C. 24a(f)(4)(C)</identifier>
+<identifier type="USC citation">7 U.S.C. 24(a)</identifier>
+<identifier type="USC citation">7 U.S.C. 25(b)(3)</identifier>
+<identifier type="USC citation">7 U.S.C. 25(b)(4)</identifier>
+<identifier type="USC citation">7 U.S.C. 26(f)</identifier>
+<identifier type="USC citation">7 U.S.C. 26(g)</identifier>
+<identifier type="USC citation">7 U.S.C. 27(a)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(1)(C)(ii)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(1)(C)(ii)(III)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(1)(C)(iii)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(1)(C)(iv)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(1)(C)(v)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(1)(C)(v)(I)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(1)(C)(v)(II)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(1)(C)(v)(V)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(1)(C)(v)(VI)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(1)(D)(i)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(1)(D)(i)(IV)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(1)(D)(ii)(I)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(1)(D)(ii)(II)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(1)(D)(ii)(III)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(12)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(13)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(6)(A)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(6)(C)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(a)(9)(B)(ii)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(c)(1)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(c)(2)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(d)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(h)(7)(C)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(h)(7)(C)(iii)</identifier>
+<identifier type="USC citation">7 U.S.C. 2(h)(8)(A)(ii)</identifier>
+<identifier type="USC citation">7 U.S.C. 6a(a)</identifier>
+<identifier type="USC citation">7 U.S.C. 6a(a)(1)</identifier>
+<identifier type="USC citation">7 U.S.C. 6a(c)</identifier>
+<identifier type="USC citation">7 U.S.C. 6a(c)(2)(A)(i)</identifier>
+<identifier type="USC citation">7 U.S.C. 6a(e)</identifier>
+<identifier type="USC citation">7 U.S.C. 6c</identifier>
+<identifier type="USC citation">7 U.S.C. 6c(c)</identifier>
+<identifier type="USC citation">7 U.S.C. 6c(g)</identifier>
+<identifier type="USC citation">7 U.S.C. 6d</identifier>
+<identifier type="USC citation">7 U.S.C. 6d(a)</identifier>
+<identifier type="USC citation">7 U.S.C. 6d(b)</identifier>
+<identifier type="USC citation">7 U.S.C. 6d(h)</identifier>
+<identifier type="USC citation">7 U.S.C. 6(a)(1)</identifier>
+<identifier type="USC citation">7 U.S.C. 6(c)(1)</identifier>
+<identifier type="USC citation">7 U.S.C. 6(c)(1)(A)</identifier>
+<identifier type="USC citation">7 U.S.C. 6(c)(1)(A)(i)(I)</identifier>
+<identifier type="USC citation">7 U.S.C. 6(c)(3)(H)</identifier>
+<identifier type="USC citation">7 U.S.C. 6e</identifier>
+<identifier type="USC citation">7 U.S.C. 6f(a)(4)(A)(i)</identifier>
+<identifier type="USC citation">7 U.S.C. 6f(b)</identifier>
+<identifier type="USC citation">7 U.S.C. 6f(c)(3)(A)</identifier>
+<identifier type="USC citation">7 U.S.C. 6f(c)(4)(A)</identifier>
+<identifier type="USC citation">7 U.S.C. 6f(c)(4)(B)</identifier>
+<identifier type="USC citation">7 U.S.C. 6g(a)</identifier>
+<identifier type="USC citation">7 U.S.C. 6g(e)</identifier>
+<identifier type="USC citation">7 U.S.C. 6i</identifier>
+<identifier type="USC citation">7 U.S.C. 6j(a)</identifier>
+<identifier type="USC citation">7 U.S.C. 6k(5)(A)</identifier>
+<identifier type="USC citation">7 U.S.C. 6m</identifier>
+<identifier type="USC citation">7 U.S.C. 6o-1(a)(1)</identifier>
+<identifier type="USC citation">7 U.S.C. 6p(a)</identifier>
+<identifier type="USC citation">7 U.S.C. 6p(b)</identifier>
+<identifier type="USC citation">7 U.S.C. 6s(e)</identifier>
+<identifier type="USC citation">7 U.S.C. 6s(f)(1)(D)</identifier>
+<identifier type="USC citation">7 U.S.C. 6s(h)(2)</identifier>
+<identifier type="USC citation">7 U.S.C. 6s(h)(5)(A)(i)</identifier>
+<identifier type="USC citation">7 U.S.C. 6s(k)(3)(B)</identifier>
+<identifier type="USC citation">7 U.S.C. 6t(b)(1)(C)</identifier>
+<identifier type="USC citation">7 U.S.C. 7a-1</identifier>
+<identifier type="USC citation">7 U.S.C. 7a-2(f)</identifier>
+<identifier type="USC citation">7 U.S.C. 7a-2(f)(1)</identifier>
+<identifier type="USC citation">7 U.S.C. 7a</identifier>
+<identifier type="USC citation">7 U.S.C. 7b-1(b)(1)</identifier>
+<identifier type="USC citation">7 U.S.C. 7b</identifier>
+<identifier type="USC citation">7 U.S.C. 7</identifier>
+<identifier type="USC citation">7 U.S.C. 7(d)(23)</identifier>
+<identifier type="USC citation">7 U.S.C. 7(e)(1)</identifier>
+<identifier type="USC citation">7 U.S.C. 8</identifier>
+<identifier type="USC citation">7 U.S.C. 8(a)</identifier>
+<identifier type="USC citation">7 U.S.C. 8(b)</identifier>
+<identifier type="USC citation">7 U.S.C. 9(5)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 15 Section 78c-3(g)(3)(A)(v)</partNumber>
+<partNumber>Title 15 Section 78c(a)(68)(A)(i)</partNumber>
+<partNumber>Title 15 Section 78f(g)(5)(B)(i)</partNumber>
+<partNumber>Title 15 Section 78o-10(e)</partNumber>
+<partNumber>Title 15 Section 78o-10(h)(5)(A)(i)</partNumber>
+<partNumber>Title 15 Section 8301</partNumber>
+</titleInfo>
+<identifier type="USC citation">15 U.S.C. 78c-3(g)(3)(A)(v)</identifier>
+<identifier type="USC citation">15 U.S.C. 78c(a)(68)(A)(i)</identifier>
+<identifier type="USC citation">15 U.S.C. 78f(g)(5)(B)(i)</identifier>
+<identifier type="USC citation">15 U.S.C. 78o-10(e)</identifier>
+<identifier type="USC citation">15 U.S.C. 78o-10(h)(5)(A)(i)</identifier>
+<identifier type="USC citation">15 U.S.C. 8301</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 28 Section 2112</partNumber>
+</titleInfo>
+<identifier type="USC citation">28 U.S.C. 2112</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 97-444</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 97-444</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>Code of Federal Regulations</title>
+<partNumber>Title 17 Part 230.901</partNumber>
+</titleInfo>
+<identifier type="CFR citation">17 CFR Part  230.901</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 115-3</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 2</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 3</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 4</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 5</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 6</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 8</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 2</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 2</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 3</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 3</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 4</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 4</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 5</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 5</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 6</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 6</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 7</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 7</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 8</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 8</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem ID="P0b002ee194bef13d" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 8</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-12/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-12/pdf/CREC-2017-01-12.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H393</start>
+<end>H473</end>
+</extent>
+<extent unit="pages">
+<start>S297</start>
+<end>S320</end>
+</extent>
+<extent unit="pages">
+<start>E55</start>
+<end>E59</end>
+</extent>
+<extent unit="pages">
+<start>D42</start>
+<end>D46</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-01-12</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>230 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-12</identifier>
+<identifier type="local">P0b002ee194bef13d</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR12JA17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-05-03</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-01-12</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-01-12</accessId>
+<volume>163</volume>
+<issue>8</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

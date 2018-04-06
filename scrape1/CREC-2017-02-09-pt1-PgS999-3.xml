@@ -1,0 +1,317 @@
+<mods ID="id-CREC-2017-02-09-pt1-PgS999-3" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-06-09</dateIngested>
+</extension>
+<titleInfo>
+<title>EXECUTIVE CALENDAR--Continued</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-02-09/html/CREC-2017-02-09-pt1-PgS999-3.htm">
+<identifier type="FDsys Unique ID">D09002ee196a6f1b8</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-02-09/pdf/CREC-2017-02-09-pt1-PgS999-3.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a6f224</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S999</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-02-09/CREC-2017-02-09-pt1-PgS999-3</identifier>
+<identifier type="former granule identifier">CR09FE17-82</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-02-09/CREC-2017-02-09-pt1-PgS999-3/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-09/pdf/CREC-2017-02-09-pt1-PgS999-3.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-09/html/CREC-2017-02-09-pt1-PgS999-3.htm</url>
+</location>
+<physicalDescription>
+<extent>19 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S999</start>
+<end>S1017</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Patrick J. Leahy</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tim Kaine</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bill Nelson</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Richard C. Shelby</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Robert P. Casey Jr.</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>James M. Inhofe</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Thomas R. Carper</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jon Tester</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Johnny Isakson</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Barrasso</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Chris Van Hollen</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Benjamin L. Cardin</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on the Budget</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. S999</identifier>
+<extension>
+<searchTitle>EXECUTIVE CALENDAR--Continued; Congressional Record Vol. 163, No. 23</searchTitle>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-02-09-pt1-PgS999-3</accessId>
+<subGranuleClass>SEXECCAL</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-02-09</granuleDate>
+<congCommittee authorityId="hsbu00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on the Budget</name>
+<name type="authority-short">The Budget</name>
+</congCommittee>
+<congMember authorityId="1383" bioGuideId="L000174" chamber="S" congress="115" gpoId="8244" party="D" role="SPEAKING" state="VT">
+<name type="parsed">Mr. LEAHY</name>
+<name type="authority-fnf">Patrick J. Leahy</name>
+<name type="authority-lnf">Leahy, Patrick J.</name>
+<name type="authority-other">Patrick Joseph Leahy</name>
+</congMember>
+<congMember authorityId="2176" bioGuideId="K000384" chamber="S" congress="115" party="D" role="SPEAKING" state="VA">
+<name type="parsed">Mr. KAINE</name>
+<name type="authority-fnf">Tim Kaine</name>
+<name type="authority-lnf">Kaine, Tim</name>
+<name type="authority-other">Mr. Timothy Kaine</name>
+</congMember>
+<congMember authorityId="859" bioGuideId="N000032" chamber="S" congress="115" gpoId="8236" party="D" role="SPEAKING" state="FL">
+<name type="parsed">Mr. NELSON</name>
+<name type="authority-fnf">Bill Nelson</name>
+<name type="authority-lnf">Nelson, Bill</name>
+<name type="authority-other">Clarence William Nelson</name>
+</congMember>
+<congMember authorityId="1049" bioGuideId="S000320" chamber="S" congress="115" gpoId="8277" party="R" role="SPEAKING" state="AL">
+<name type="parsed">Mr. SHELBY</name>
+<name type="authority-fnf">Richard C. Shelby</name>
+<name type="authority-lnf">Shelby, Richard C.</name>
+<name type="authority-other">Richard Craig Shelby</name>
+</congMember>
+<congMember authorityId="1828" bioGuideId="C001070" chamber="S" congress="115" gpoId="8282" party="D" role="SPEAKING" state="PA">
+<name type="parsed">Mr. CASEY</name>
+<name type="authority-fnf">Robert P. Casey Jr.</name>
+<name type="authority-lnf">Casey, Robert P., Jr.</name>
+<name type="authority-other">Mr. Bob Casey Jr.</name>
+</congMember>
+<congMember authorityId="583" bioGuideId="I000024" chamber="S" congress="115" gpoId="8322" party="R" role="SPEAKING" state="OK">
+<name type="parsed">Mr. INHOFE</name>
+<name type="authority-fnf">James M. Inhofe</name>
+<name type="authority-lnf">Inhofe, James M.</name>
+<name type="authority-other">Jim Inhofe</name>
+</congMember>
+<congMember authorityId="179" bioGuideId="C000174" chamber="S" congress="115" gpoId="8283" party="D" role="SPEAKING" state="DE">
+<name type="parsed">Mr. CARPER</name>
+<name type="authority-fnf">Thomas R. Carper</name>
+<name type="authority-lnf">Carper, Thomas R.</name>
+<name type="authority-other">Thomas Carper</name>
+</congMember>
+<congMember authorityId="1829" bioGuideId="T000464" chamber="S" congress="115" gpoId="8258" party="D" role="SPEAKING" state="MT">
+<name type="parsed">Mr. TESTER</name>
+<name type="authority-fnf">Jon Tester</name>
+<name type="authority-lnf">Tester, Jon</name>
+</congMember>
+<congMember authorityId="1608" bioGuideId="I000055" chamber="S" congress="115" gpoId="8323" party="R" role="SPEAKING" state="GA">
+<name type="parsed">Mr. ISAKSON</name>
+<name type="authority-fnf">Johnny Isakson</name>
+<name type="authority-lnf">Isakson, Johnny</name>
+</congMember>
+<congMember authorityId="1881" bioGuideId="B001261" chamber="S" congress="115" gpoId="8300" party="R" role="SPEAKING" state="WY">
+<name type="parsed">Mr. BARRASSO</name>
+<name type="authority-fnf">John Barrasso</name>
+<name type="authority-lnf">Barrasso, John</name>
+</congMember>
+<congMember authorityId="1729" bioGuideId="V000128" chamber="S" congress="115" gpoId="7983" party="D" role="SPEAKING" state="MD">
+<name type="parsed">Mr. VAN HOLLEN</name>
+<name type="authority-fnf">Chris Van Hollen</name>
+<name type="authority-lnf">Van Hollen, Chris</name>
+</congMember>
+<congMember authorityId="174" bioGuideId="C000141" chamber="S" congress="115" gpoId="8287" party="D" role="SPEAKING" state="MD">
+<name type="parsed">Mr. CARDIN</name>
+<name type="authority-fnf">Benjamin L. Cardin</name>
+<name type="authority-lnf">Cardin, Benjamin L.</name>
+<name type="authority-other">Benjamin Cardin</name>
+</congMember>
+</extension>
+<relatedItem ID="P0b002ee19524d8e0" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 23</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-09/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-09/pdf/CREC-2017-02-09.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H1089</start>
+<end>H1100</end>
+</extent>
+<extent unit="pages">
+<start>S975</start>
+<end>S1071</end>
+</extent>
+<extent unit="pages">
+<start>E169</start>
+<end>E174</end>
+</extent>
+<extent unit="pages">
+<start>D137</start>
+<end>D140</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-02-09</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>238 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-09</identifier>
+<identifier type="local">P0b002ee19524d8e0</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR09FE17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-06-09</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-02-09</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-02-09</accessId>
+<volume>163</volume>
+<issue>23</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

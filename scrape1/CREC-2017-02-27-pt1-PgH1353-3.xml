@@ -1,0 +1,367 @@
+<mods ID="id-CREC-2017-02-27-pt1-PgH1353-3" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-06-09</dateIngested>
+</extension>
+<titleInfo>
+<title>EXECUTIVE COMMUNICATIONS, ETC.</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-02-27/html/CREC-2017-02-27-pt1-PgH1353-3.htm">
+<identifier type="FDsys Unique ID">D09002ee196a700c3</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-02-27/pdf/CREC-2017-02-27-pt1-PgH1353-3.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a705a0</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H1353</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-02-27/CREC-2017-02-27-pt1-PgH1353-3</identifier>
+<identifier type="former granule identifier">CR27FE17-100</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-02-27/CREC-2017-02-27-pt1-PgH1353-3/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-27/pdf/CREC-2017-02-27-pt1-PgH1353-3.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-27/html/CREC-2017-02-27-pt1-PgH1353-3.htm</url>
+</location>
+<physicalDescription>
+<extent>2 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H1353</start>
+<end>H1354</end>
+</extent>
+</part>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Armed Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Energy and Commerce</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Foreign Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Oversight and Government Reform</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Transportation and Infrastructure</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H1353</identifier>
+<extension>
+<searchTitle>EXECUTIVE COMMUNICATIONS, ETC.; Congressional Record Vol. 163, No. 34</searchTitle>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-02-27-pt1-PgH1353-3</accessId>
+<subGranuleClass>EXECUTIVECOMM</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-02-27</granuleDate>
+<time from="21:45:00" to="21:45:00"/>
+<congCommittee authorityId="hsas00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Armed Services</name>
+<name type="authority-short">Armed Services</name>
+</congCommittee>
+<congCommittee authorityId="hsif00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Energy and Commerce</name>
+<name type="authority-short">Energy and Commerce</name>
+</congCommittee>
+<congCommittee authorityId="hsfa00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Foreign Affairs</name>
+<name type="authority-short">Foreign Affairs</name>
+</congCommittee>
+<congCommittee authorityId="hsgo00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Oversight and Government Reform</name>
+<name type="authority-short">Oversight and Government Reform</name>
+</congCommittee>
+<congCommittee authorityId="hspw00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Transportation and Infrastructure</name>
+<name type="authority-short">Transportation</name>
+</congCommittee>
+<law congress="87" isPrivate="false" number="651"/>
+<law congress="93" isPrivate="false" number="198"/>
+<law congress="96" isPrivate="false" number="513"/>
+<law congress="103" isPrivate="false" number="272"/>
+<law congress="104" isPrivate="false" number="106"/>
+<law congress="106" isPrivate="false" number="181"/>
+<law congress="107" isPrivate="false" number="188"/>
+<law congress="112" isPrivate="false" number="239"/>
+<law congress="113" isPrivate="false" number="219"/>
+<law congress="114" isPrivate="false" number="223"/>
+<USCode title="10">
+<section detail="(c)(2)" number="113"/>
+<section detail="(c)(1)" number="1370"/>
+</USCode>
+<USCode title="42">
+<section detail="(a)" number="247d"/>
+</USCode>
+<USCode title="49">
+<section detail="(c)(3)" number="41705"/>
+</USCode>
+<statuteAtLarge volume="87">
+<pages pages="814"/>
+</statuteAtLarge>
+<statuteAtLarge volume="110">
+<pages pages="293"/>
+</statuteAtLarge>
+<statuteAtLarge volume="114">
+<pages pages="158"/>
+</statuteAtLarge>
+<statuteAtLarge volume="116">
+<pages pages="630"/>
+</statuteAtLarge>
+<statuteAtLarge volume="126">
+<pages pages="1951"/>
+</statuteAtLarge>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 10 Section 113(c)(2)</partNumber>
+<partNumber>Title 10 Section 1370(c)(1)</partNumber>
+</titleInfo>
+<identifier type="USC citation">10 U.S.C. 113(c)(2)</identifier>
+<identifier type="USC citation">10 U.S.C. 1370(c)(1)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 247d(a)</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 247d(a)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 49 Section 41705(c)(3)</partNumber>
+</titleInfo>
+<identifier type="USC citation">49 U.S.C. 41705(c)(3)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 87 Page 814</partNumber>
+</titleInfo>
+<identifier type="Statute citation">87 Stat. 814</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 110 Page 293</partNumber>
+</titleInfo>
+<identifier type="Statute citation">110 Stat. 293</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 114 Page 158</partNumber>
+</titleInfo>
+<identifier type="Statute citation">114 Stat. 158</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 116 Page 630</partNumber>
+</titleInfo>
+<identifier type="Statute citation">116 Stat. 630</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 126 Page 1951</partNumber>
+</titleInfo>
+<identifier type="Statute citation">126 Stat. 1951</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 87-651</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 87-651</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 93-198</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 93-198</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 96-513</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 96-513</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 103-272</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 103-272</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 104-106</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 104-106</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 106-181</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 106-181</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 107-188</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 107-188</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 112-239</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 112-239</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 113-219</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 113-219</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-223</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-223</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee1952694bc" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 34</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-27/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-27/pdf/CREC-2017-02-27.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H1323</start>
+<end>H1357</end>
+</extent>
+<extent unit="pages">
+<start>S1421</start>
+<end>S1455</end>
+</extent>
+<extent unit="pages">
+<start>E231</start>
+<end>E242</end>
+</extent>
+<extent unit="pages">
+<start>D194</start>
+<end>D200</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-02-27</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>178 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-02-27</identifier>
+<identifier type="local">P0b002ee1952694bc</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR27FE17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-06-09</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-02-27</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-02-27</accessId>
+<volume>163</volume>
+<issue>34</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

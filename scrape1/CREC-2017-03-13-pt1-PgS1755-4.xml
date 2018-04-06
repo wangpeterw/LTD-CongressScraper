@@ -1,0 +1,264 @@
+<mods ID="id-CREC-2017-03-13-pt1-PgS1755-4" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-04-03</dateIngested>
+</extension>
+<titleInfo>
+<title>EXECUTIVE SESSION</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-03-13/html/CREC-2017-03-13-pt1-PgS1755-4.htm">
+<identifier type="FDsys Unique ID">D09002ee199f2854a</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-03-13/pdf/CREC-2017-03-13-pt1-PgS1755-4.pdf">
+<identifier type="FDsys Unique ID">D09002ee199f285c4</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S1755</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-03-13/CREC-2017-03-13-pt1-PgS1755-4</identifier>
+<identifier type="former granule identifier">CR13MR17-40</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-03-13/CREC-2017-03-13-pt1-PgS1755-4/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-13/pdf/CREC-2017-03-13-pt1-PgS1755-4.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-13/html/CREC-2017-03-13-pt1-PgS1755-4.htm</url>
+</location>
+<physicalDescription>
+<extent>18 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S1755</start>
+<end>S1772</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Orrin G. Hatch</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Patrick J. Leahy</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Richard Durbin</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Pat Roberts</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Cornyn</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Chris Van Hollen</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Boozman</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ron Wyden</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mitch McConnell</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. S1755</identifier>
+<identifier type="congressional vote number">SENATE Rollcall Vote No.86(115th Congress)</identifier>
+<extension>
+<searchTitle>EXECUTIVE SESSION; Congressional Record Vol. 163, No. 43</searchTitle>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-03-13-pt1-PgS1755-4</accessId>
+<subGranuleClass>SEXECSESSION</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-03-13</granuleDate>
+<congVote chamber="SENATE" congress="115" nocount="0" number="86" yescount="0">
+<result>Mr. McCONNELL. Mr. President, I move to reconsider the vote, and I
+move to table the motion to reconsider.</result>
+<inDailyDigest>false</inDailyDigest>
+</congVote>
+<congMember authorityId="1351" bioGuideId="H000338" chamber="S" congress="115" gpoId="8314" party="R" role="SPEAKING" state="UT">
+<name type="parsed">Mr. HATCH</name>
+<name type="authority-fnf">Orrin G. Hatch</name>
+<name type="authority-lnf">Hatch, Orrin G.</name>
+<name type="authority-other">Orrin Grant Hatch</name>
+</congMember>
+<congMember authorityId="1383" bioGuideId="L000174" chamber="S" congress="115" gpoId="8244" party="D" role="SPEAKING" state="VT">
+<name type="parsed">Mr. LEAHY</name>
+<name type="authority-fnf">Patrick J. Leahy</name>
+<name type="authority-lnf">Leahy, Patrick J.</name>
+<name type="authority-other">Patrick Joseph Leahy</name>
+</congMember>
+<congMember authorityId="326" bioGuideId="D000563" chamber="S" congress="115" gpoId="8326" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Mr. DURBIN</name>
+<name type="authority-fnf">Richard Durbin</name>
+<name type="authority-lnf">Durbin, Richard</name>
+<name type="authority-other">Richard J. Durbin</name>
+</congMember>
+<congMember authorityId="968" bioGuideId="R000307" chamber="S" congress="115" gpoId="8275" party="R" role="SPEAKING" state="KS">
+<name type="parsed">Mr. ROBERTS</name>
+<name type="authority-fnf">Pat Roberts</name>
+<name type="authority-lnf">Roberts, Pat</name>
+</congMember>
+<congMember authorityId="1692" bioGuideId="C001056" chamber="S" congress="115" gpoId="8295" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. CORNYN</name>
+<name type="authority-fnf">John Cornyn</name>
+<name type="authority-lnf">Cornyn, John</name>
+</congMember>
+<congMember authorityId="1729" bioGuideId="V000128" chamber="S" congress="115" gpoId="7983" party="D" role="SPEAKING" state="MD">
+<name type="parsed">Mr. VAN HOLLEN</name>
+<name type="authority-fnf">Chris Van Hollen</name>
+<name type="authority-lnf">Van Hollen, Chris</name>
+</congMember>
+<congMember authorityId="1687" bioGuideId="B001236" chamber="S" congress="115" gpoId="8247" party="R" role="SPEAKING" state="AR">
+<name type="parsed">Mr. BOOZMAN</name>
+<name type="authority-fnf">John Boozman</name>
+<name type="authority-lnf">Boozman, John</name>
+</congMember>
+<congMember authorityId="1247" bioGuideId="W000779" chamber="S" congress="115" gpoId="8265" party="D" role="SPEAKING" state="OR">
+<name type="parsed">Mr. WYDEN</name>
+<name type="authority-fnf">Ron Wyden</name>
+<name type="authority-lnf">Wyden, Ron</name>
+</congMember>
+<congMember authorityId="1395" bioGuideId="M000355" chamber="S" congress="115" gpoId="8254" party="R" role="SPEAKING" state="KY">
+<name type="parsed">Mr. McCONNELL</name>
+<name type="authority-fnf">Mitch McConnell</name>
+<name type="authority-lnf">McConnell, Mitch</name>
+</congMember>
+</extension>
+<relatedItem ID="P0b002ee199cef584" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 43</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-13/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-13/pdf/CREC-2017-03-13.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H2055</start>
+<end>H2060</end>
+</extent>
+<extent unit="pages">
+<start>S1753</start>
+<end>S1782</end>
+</extent>
+<extent unit="pages">
+<start>E319</start>
+<end>E324</end>
+</extent>
+<extent unit="pages">
+<start>D285</start>
+<end>D290</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-03-13</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>106 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-13</identifier>
+<identifier type="local">P0b002ee199cef584</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR13MR17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-04-03</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-04-03</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-03-13</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-03-13</accessId>
+<volume>163</volume>
+<issue>43</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>2</bookCount>
+</extension>
+</relatedItem>
+</mods>

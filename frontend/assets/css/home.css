@@ -1,0 +1,15 @@
+.home {
+
+	font-size: 100;
+
+	.title {
+	position: relative;
+	margin: 0;
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	font-weight: 300;
+	height: 100vh;
+	color: #333;
+	}	
+
+}

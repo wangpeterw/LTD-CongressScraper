@@ -1,0 +1,282 @@
+<mods ID="id-CREC-2017-01-03-pt1-PgH31" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-01-06</dateIngested>
+</extension>
+<titleInfo>
+<title>BIOLOGICAL IMPLANT TRACKING AND VETERAN SAFETY ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-01-03/html/CREC-2017-01-03-pt1-PgH31.htm">
+<identifier type="FDsys Unique ID">D09002ee196a6cac5</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-01-03/pdf/CREC-2017-01-03-pt1-PgH31.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a6ccc9</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H31</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-01-03/CREC-2017-01-03-pt1-PgH31</identifier>
+<identifier type="former granule identifier">CR03JA17-65</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-01-03/CREC-2017-01-03-pt1-PgH31/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-03/pdf/CREC-2017-01-03-pt1-PgH31.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-03/html/CREC-2017-01-03-pt1-PgH31.htm</url>
+</location>
+<physicalDescription>
+<extent>3 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H31</start>
+<end>H33</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>David P. Roe</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mark Takano</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Veterans' Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Veterans' Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H31</identifier>
+<extension>
+<searchTitle>BIOLOGICAL IMPLANT TRACKING AND VETERAN SAFETY ACT OF 2017; Congressional Record Vol. 163, No. 1</searchTitle>
+<associatedBills>H.R. 28, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-01-03-pt1-PgH31</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-01-03</granuleDate>
+<time from="17:45:00" to="18:00:00"/>
+<bill congress="115" context="HEADERLINE" number="28" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="28" type="HR"/>
+<bill congress="115" context="OTHER" number="28" type="HR"/>
+<congCommittee authorityId="ssva00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Veterans' Affairs</name>
+<name type="authority-short">Veterans' Affairs</name>
+</congCommittee>
+<congCommittee authorityId="hsvr00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Veterans' Affairs</name>
+<name type="authority-short">Veterans' Affairs</name>
+</congCommittee>
+<congMember authorityId="1954" bioGuideId="R000582" chamber="H" congress="115" gpoId="8148" party="R" role="SPEAKING" state="TN">
+<name type="parsed">Mr. ROE of Tennessee</name>
+<name type="authority-fnf">David P. Roe</name>
+<name type="authority-lnf">Roe, David P.</name>
+<name type="authority-other">Mr. David Roe</name>
+</congMember>
+<congMember authorityId="2110" bioGuideId="T000472" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. TAKANO</name>
+<name type="authority-fnf">Mark Takano</name>
+<name type="authority-lnf">Takano, Mark</name>
+</congMember>
+<USCode title="21">
+<section detail="et seq." number="301"/>
+<section detail="(h)" number="321"/>
+<section detail="(f)" number="360i"/>
+</USCode>
+<USCode title="38">
+<section number="7330C"/>
+<section detail="(b)" number="7330C"/>
+<section number="8129"/>
+<chapter number="73"/>
+<chapter number="81"/>
+</USCode>
+<USCode title="42">
+<section number="262"/>
+<section number="264"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 28  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 28</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 28  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 28</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 28  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 28</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 21 Section 301et seq.</partNumber>
+<partNumber>Title 21 Section 321(h)</partNumber>
+<partNumber>Title 21 Section 360i(f)</partNumber>
+</titleInfo>
+<identifier type="USC citation">21 U.S.C. 301et seq.</identifier>
+<identifier type="USC citation">21 U.S.C. 321(h)</identifier>
+<identifier type="USC citation">21 U.S.C. 360i(f)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 38 Section 7330C</partNumber>
+<partNumber>Title 38 Section 7330C(b)</partNumber>
+<partNumber>Title 38 Section 8129</partNumber>
+<partNumber>Title 38 Chapter 73</partNumber>
+<partNumber>Title 38 Chapter 81</partNumber>
+</titleInfo>
+<identifier type="USC citation">38 U.S.C. 7330C</identifier>
+<identifier type="USC citation">38 U.S.C. 7330C(b)</identifier>
+<identifier type="USC citation">38 U.S.C. 8129</identifier>
+<identifier type="USC citation">38 U.S.C. Chapter 73</identifier>
+<identifier type="USC citation">38 U.S.C. Chapter 81</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 262</partNumber>
+<partNumber>Title 42 Section 264</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 262</identifier>
+<identifier type="USC citation">42 U.S.C. 264</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee1933708dc" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 1</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-03/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-03/pdf/CREC-2017-01-03.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H1</start>
+<end>H54</end>
+</extent>
+<extent unit="pages">
+<start>S1</start>
+<end>S28</end>
+</extent>
+<extent unit="pages">
+<start>E1</start>
+<end>E13</end>
+</extent>
+<extent unit="pages">
+<start>D1</start>
+<end>D6</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-01-03</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>202 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-03</identifier>
+<identifier type="local">P0b002ee1933708dc</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR03JA17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-01-06</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-01-03</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-01-03</accessId>
+<volume>163</volume>
+<issue>1</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

@@ -1,0 +1,248 @@
+<mods ID="id-CREC-2017-01-04-pt1-PgH65" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-05-03</dateIngested>
+</extension>
+<titleInfo>
+<title>PRESIDENTIAL LIBRARY DONATION REFORM ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-01-04/html/CREC-2017-01-04-pt1-PgH65.htm">
+<identifier type="FDsys Unique ID">D09002ee196a67c09</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-01-04/pdf/CREC-2017-01-04-pt1-PgH65.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a69a2c</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H65</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-01-04/CREC-2017-01-04-pt1-PgH65</identifier>
+<identifier type="former granule identifier">CR04JA17-76</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-01-04/CREC-2017-01-04-pt1-PgH65/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-04/pdf/CREC-2017-01-04-pt1-PgH65.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-04/html/CREC-2017-01-04-pt1-PgH65.htm</url>
+</location>
+<physicalDescription>
+<extent>3 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H65</start>
+<end>H67</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Jason Chaffetz</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John J. Duncan, Jr.</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Wm. Lacy Clay</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H65</identifier>
+<extension>
+<searchTitle>PRESIDENTIAL LIBRARY DONATION REFORM ACT OF 2017; Congressional Record Vol. 163, No. 2</searchTitle>
+<associatedBills>H.R. 73, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-01-04-pt1-PgH65</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-01-04</granuleDate>
+<time from="12:45:00" to="13:00:00"/>
+<bill congress="115" context="HEADERLINE" number="73" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="73" type="HR"/>
+<bill congress="115" context="OTHER" number="73" type="HR"/>
+<congMember authorityId="1956" bioGuideId="C001076" chamber="H" congress="115" gpoId="8191" party="R" role="SPEAKING" state="UT">
+<name type="parsed">Mr. CHAFFETZ</name>
+<name type="authority-fnf">Jason Chaffetz</name>
+<name type="authority-lnf">Chaffetz, Jason</name>
+</congMember>
+<congMember authorityId="322" bioGuideId="D000533" chamber="H" congress="115" gpoId="8149" party="R" role="SPEAKING" state="TN">
+<name type="parsed">Mr. DUNCAN of Tennessee</name>
+<name type="authority-fnf">John J. Duncan, Jr.</name>
+<name type="authority-lnf">Duncan, John J., Jr.</name>
+<name type="authority-other">John Duncan Jr.</name>
+</congMember>
+<congMember authorityId="1654" bioGuideId="C001049" chamber="H" congress="115" gpoId="8009" party="D" role="SPEAKING" state="MO">
+<name type="parsed">Mr. CLAY</name>
+<name type="authority-fnf">Wm. Lacy Clay</name>
+<name type="authority-lnf">Clay, Wm. Lacy</name>
+<name type="authority-other">William Lacy Clay</name>
+</congMember>
+<USCode title="2">
+<section detail="(d)" number="437g"/>
+<section detail="(b)(3)" number="441b"/>
+</USCode>
+<USCode title="18">
+<section number="1001"/>
+</USCode>
+<USCode title="44">
+<section detail="(h)" number="2112"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 73  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 73</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 73  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 73</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 73  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 73</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 2 Section 437g(d)</partNumber>
+<partNumber>Title 2 Section 441b(b)(3)</partNumber>
+</titleInfo>
+<identifier type="USC citation">2 U.S.C. 437g(d)</identifier>
+<identifier type="USC citation">2 U.S.C. 441b(b)(3)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 18 Section 1001</partNumber>
+</titleInfo>
+<identifier type="USC citation">18 U.S.C. 1001</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 44 Section 2112(h)</partNumber>
+</titleInfo>
+<identifier type="USC citation">44 U.S.C. 2112(h)</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee1949f54ad" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 2</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-04/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-04/pdf/CREC-2017-01-04.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H55</start>
+<end>H99</end>
+</extent>
+<extent unit="pages">
+<start>S29</start>
+<end>S71</end>
+</extent>
+<extent unit="pages">
+<start>E15</start>
+<end>E22</end>
+</extent>
+<extent unit="pages">
+<start>D8</start>
+<end>D12</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-01-04</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>202 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-01-04</identifier>
+<identifier type="local">P0b002ee1949f54ad</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR04JA17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-05-03</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-01-04</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-01-04</accessId>
+<volume>163</volume>
+<issue>2</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

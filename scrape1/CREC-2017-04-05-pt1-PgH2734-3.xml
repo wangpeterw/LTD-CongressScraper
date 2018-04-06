@@ -1,0 +1,295 @@
+<mods ID="id-CREC-2017-04-05-pt1-PgH2734-3" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-04-06</dateIngested>
+</extension>
+<titleInfo>
+<title>JEANNETTE RANKIN AND 100 YEARS OF WOMEN IN CONGRESS</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-04-05/html/CREC-2017-04-05-pt1-PgH2734-3.htm">
+<identifier type="FDsys Unique ID">D09002ee196a72cd8</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-04-05/pdf/CREC-2017-04-05-pt1-PgH2734-3.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a72dbc</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H2734</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-04-05/CREC-2017-04-05-pt1-PgH2734-3</identifier>
+<identifier type="former granule identifier">cr05ap17-131</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-04-05/CREC-2017-04-05-pt1-PgH2734-3/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-04-05/pdf/CREC-2017-04-05-pt1-PgH2734-3.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-04-05/html/CREC-2017-04-05-pt1-PgH2734-3.htm</url>
+</location>
+<physicalDescription>
+<extent>7 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H2734</start>
+<end>H2740</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Susan W. Brooks</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Lois Frankel</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Cathy McMorris Rodgers</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Brenda L. Lawrence</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mimi Walters</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jackie Speier</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Diane Black</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Aumua Amata Coleman Radewagen</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jamie Raskin</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Pramila Jayapal</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheila Jackson Lee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Doris O. Matsui</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H2734</identifier>
+<extension>
+<searchTitle>JEANNETTE RANKIN AND 100 YEARS OF WOMEN IN CONGRESS; Congressional Record Vol. 163, No. 59</searchTitle>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-04-05-pt1-PgH2734-3</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-04-05</granuleDate>
+<time from="16:15:00" to="17:00:00"/>
+<congMember authorityId="2129" bioGuideId="B001284" chamber="H" congress="115" party="R" role="SPEAKING" state="IN">
+<name type="parsed">Mrs. BROOKS of Indiana</name>
+<name type="authority-fnf">Susan W. Brooks</name>
+<name type="authority-lnf">Brooks, Susan W.</name>
+<name type="authority-other">Mrs. Susan Brooks</name>
+</congMember>
+<congMember authorityId="2119" bioGuideId="F000462" chamber="H" congress="115" party="D" role="SPEAKING" state="FL">
+<name type="parsed">Ms. FRANKEL of Florida</name>
+<name type="authority-fnf">Lois Frankel</name>
+<name type="authority-lnf">Frankel, Lois</name>
+</congMember>
+<congMember authorityId="1809" bioGuideId="M001159" chamber="H" congress="115" gpoId="8209" party="R" role="SPEAKING" state="WA">
+<name type="parsed">Mrs. McMORRIS RODGERS</name>
+<name type="authority-fnf">Cathy McMorris Rodgers</name>
+<name type="authority-lnf">McMorris Rodgers, Cathy</name>
+</congMember>
+<congMember authorityId="2252" bioGuideId="L000581" chamber="H" congress="115" party="D" role="SPEAKING" state="MI">
+<name type="parsed">Mrs. LAWRENCE</name>
+<name type="authority-fnf">Brenda L. Lawrence</name>
+<name type="authority-lnf">Lawrence, Brenda L.</name>
+<name type="authority-other">Mrs. Brenda Lawrence</name>
+</congMember>
+<congMember authorityId="2232" bioGuideId="W000820" chamber="H" congress="115" party="R" role="SPEAKING" state="CA">
+<name type="parsed">Mrs. MIMI WALTERS of California</name>
+<name type="authority-fnf">Mimi Walters</name>
+<name type="authority-lnf">Walters, Mimi</name>
+</congMember>
+<congMember authorityId="1890" bioGuideId="S001175" chamber="H" congress="115" gpoId="7817" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. SPEIER</name>
+<name type="authority-fnf">Jackie Speier</name>
+<name type="authority-lnf">Speier, Jackie</name>
+</congMember>
+<congMember authorityId="2063" bioGuideId="B001273" chamber="H" congress="115" gpoId="8153" party="R" role="SPEAKING" state="TN">
+<name type="parsed">Mrs. BLACK</name>
+<name type="authority-fnf">Diane Black</name>
+<name type="authority-lnf">Black, Diane</name>
+</congMember>
+<congMember authorityId="2222" bioGuideId="R000600" chamber="H" congress="115" party="R" role="SPEAKING" state="AS">
+<name type="parsed">Mrs. RADEWAGEN</name>
+<name type="authority-fnf">Aumua Amata Coleman Radewagen</name>
+<name type="authority-lnf">Radewagen, Aumua Amata Coleman</name>
+<name type="authority-other">Mrs. Aumua Amata Radewagen</name>
+</congMember>
+<congMember authorityId="2332" bioGuideId="R000606" chamber="H" congress="115" party="D" role="SPEAKING" state="MD">
+<name type="parsed">Mr. RASKIN</name>
+<name type="authority-fnf">Jamie Raskin</name>
+<name type="authority-lnf">Raskin, Jamie</name>
+</congMember>
+<congMember authorityId="2354" bioGuideId="J000298" chamber="H" congress="115" party="D" role="SPEAKING" state="WA">
+<name type="parsed">Ms. JAYAPAL</name>
+<name type="authority-fnf">Pramila Jayapal</name>
+<name type="authority-lnf">Jayapal, Pramila</name>
+</congMember>
+<congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="115" gpoId="8174" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Ms. JACKSON LEE</name>
+<name type="authority-fnf">Sheila Jackson Lee</name>
+<name type="authority-lnf">Jackson Lee, Sheila</name>
+</congMember>
+<congMember authorityId="1814" bioGuideId="M001163" chamber="H" congress="115" gpoId="7810" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. MATSUI</name>
+<name type="authority-fnf">Doris O. Matsui</name>
+<name type="authority-lnf">Matsui, Doris O.</name>
+<name type="authority-other">Ms. Doris Matsui</name>
+</congMember>
+</extension>
+<relatedItem ID="P0b002ee19473731a" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 59</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-04-05/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-04-05/pdf/CREC-2017-04-05.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H2699</start>
+<end>H2756</end>
+</extent>
+<extent unit="pages">
+<start>E453</start>
+<end>E467</end>
+</extent>
+<extent unit="pages">
+<start>D401</start>
+<end>D406</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-04-05</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>158 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-04-05</identifier>
+<identifier type="local">P0b002ee19473731a</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr05ap17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-04-06</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-04-05</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-04-05</accessId>
+<volume>163</volume>
+<issue>59</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

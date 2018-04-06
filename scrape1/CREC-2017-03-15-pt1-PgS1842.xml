@@ -1,0 +1,363 @@
+<mods ID="id-CREC-2017-03-15-pt1-PgS1842" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-07-01</dateIngested>
+</extension>
+<titleInfo>
+<title>STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-03-15/html/CREC-2017-03-15-pt1-PgS1842.htm">
+<identifier type="FDsys Unique ID">D09002ee196a71236</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-03-15/pdf/CREC-2017-03-15-pt1-PgS1842.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a712b3</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S1842</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-03-15/CREC-2017-03-15-pt1-PgS1842</identifier>
+<identifier type="former granule identifier">CR15MR17-156</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-03-15/CREC-2017-03-15-pt1-PgS1842/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-15/pdf/CREC-2017-03-15-pt1-PgS1842.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-15/html/CREC-2017-03-15-pt1-PgS1842.htm</url>
+</location>
+<physicalDescription>
+<extent>5 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S1842</start>
+<end>S1846</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Jeanne Shaheen</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Richard Durbin</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Chuck Grassley</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Judiciary</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on the Budget</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. S1842</identifier>
+<extension>
+<searchTitle>STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS; Congressional Record Vol. 163, No. 45</searchTitle>
+<associatedBills>S. 640, 115th Congress
+        </associatedBills>
+<associatedBills>S. 641, 115th Congress
+        </associatedBills>
+<associatedBills>S. 643, 115th Congress
+        </associatedBills>
+<associatedBills>S. 649, 115th Congress
+        </associatedBills>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-03-15-pt1-PgS1842</accessId>
+<subGranuleClass>SSTATEMENTS</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-03-15</granuleDate>
+<bill congress="115" context="FIRSTPARAGRAPH" number="630" type="S"/>
+<bill congress="115" context="OTHER" number="630" type="S"/>
+<bill congress="115" context="HEADERLINE" number="640" type="S"/>
+<bill congress="115" context="OTHER" number="640" type="S"/>
+<bill congress="115" context="HEADERLINE" number="641" type="S"/>
+<bill congress="115" context="OTHER" number="641" type="S"/>
+<bill congress="115" context="HEADERLINE" number="643" type="S"/>
+<bill congress="115" context="OTHER" number="643" type="S"/>
+<bill congress="115" context="HEADERLINE" number="649" type="S"/>
+<bill congress="115" context="OTHER" number="649" type="S"/>
+<congCommittee authorityId="ssju00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Judiciary</name>
+<name type="authority-short">Judiciary</name>
+</congCommittee>
+<congCommittee authorityId="ssbu00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on the Budget</name>
+<name type="authority-short">Budget</name>
+</congCommittee>
+<congMember authorityId="1901" bioGuideId="S001181" chamber="S" congress="115" gpoId="8276" party="D" role="SPEAKING" state="NH">
+<name type="parsed">Mrs. SHAHEEN</name>
+<name type="authority-fnf">Jeanne Shaheen</name>
+<name type="authority-lnf">Shaheen, Jeanne</name>
+</congMember>
+<congMember authorityId="326" bioGuideId="D000563" chamber="S" congress="115" gpoId="8326" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Mr. DURBIN</name>
+<name type="authority-fnf">Richard Durbin</name>
+<name type="authority-lnf">Durbin, Richard</name>
+<name type="authority-other">Richard J. Durbin</name>
+</congMember>
+<congMember authorityId="457" bioGuideId="G000386" chamber="S" congress="115" gpoId="8316" party="R" role="SPEAKING" state="IA">
+<name type="parsed">Mr. GRASSLEY</name>
+<name type="authority-fnf">Chuck Grassley</name>
+<name type="authority-lnf">Grassley, Chuck</name>
+<name type="authority-other">Charles Ernest Grassley</name>
+</congMember>
+<USCode title="2">
+<section detail="et seq." number="900"/>
+<section detail="(b)(2)" number="901"/>
+<section detail="(g)(1)(A)" number="905"/>
+</USCode>
+<USCode title="18">
+<section number="3521"/>
+</USCode>
+<USCode title="28">
+<chapter number="45"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 630  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 630</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 630  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 630</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 640  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 640</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 640  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 640</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 641  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 641</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 641  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 641</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 643  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 643</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 643  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 643</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 649  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 649</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 649  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 649</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 2 Section 900et seq.</partNumber>
+<partNumber>Title 2 Section 901(b)(2)</partNumber>
+<partNumber>Title 2 Section 905(g)(1)(A)</partNumber>
+</titleInfo>
+<identifier type="USC citation">2 U.S.C. 900et seq.</identifier>
+<identifier type="USC citation">2 U.S.C. 901(b)(2)</identifier>
+<identifier type="USC citation">2 U.S.C. 905(g)(1)(A)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 18 Section 3521</partNumber>
+</titleInfo>
+<identifier type="USC citation">18 U.S.C. 3521</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 28 Chapter 45</partNumber>
+</titleInfo>
+<identifier type="USC citation">28 U.S.C. Chapter 45</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee1956834ca" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 45</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-15/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-15/pdf/CREC-2017-03-15.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H2061</start>
+<end>H2084</end>
+</extent>
+<extent unit="pages">
+<start>S1809</start>
+<end>S1851</end>
+</extent>
+<extent unit="pages">
+<start>E325</start>
+<end>E331</end>
+</extent>
+<extent unit="pages">
+<start>D292</start>
+<end>D298</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-03-15</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>162 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-03-15</identifier>
+<identifier type="local">P0b002ee1956834ca</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR15MR17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-07-01</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-03-15</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-03-15</accessId>
+<volume>163</volume>
+<issue>45</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>
