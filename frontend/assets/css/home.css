@@ -1,36 +1,104 @@
 /*ltd-white #FFFFF3
-ltd-grey #444A4C
+F2F2F2
+ltd-grey #34393A
 ltd-blue #2E6171
 ltd-lightblue #AFD9D3
-ltd-darkblue #55717A*/
+ltd-darkblue #1B3949*/
+
+@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Lato|Merriweather|Source+Sans+Pro');
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.navbar-brand{
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
+}
+
+.navbar-fixed-top {
+	position: fixed;
+	font-size: 16px;
+	margin-bottom: 0;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
+	border: 0;
+	font-family: 'Lato', sans-serif;
+}
+
+/*.nav a {
+	color: #34393A;
+	text-transform: uppercase;
+	font-family: ‘Merriweather’;
+	font-weight: 700;
+	font-size: 17px;
+	line-height: 1.3em/22px;
+}
+
+.nav .navboxes-left {
+	margin-bottom: 0;
+	padding-left: 0;
+}
+
+.nav .navboxes-right {
+	margin-bottom: 0;
+	padding-right: 0;
+}
+
+.nav .navboxes-left li {
+	padding-top: 12px;
+	display: inline;
+	padding-right: 48;
+}
+
+.nav .navboxes-right li {
+	padding-top: 12px;
+	display: inline;
+	padding-left: 48;
+}*/
 
 .home {
+	margin-top: 55px;
 	font-size: 100;
-	background-color: #FFFFF3;
+	background-color: #F2F2F2;
+}
+
+.home .main-image {
+	background-repeat: no-repeat;
+    background-size: cover;
+    position: center;
+    height: 94vh;
+    width: 70vw;
 }
 
 .home h1 {
 	position: relative;
 	margin: 0;
-	color: #444A4C;
-	margin: 0;
+	color: #1B3949;
+	left: 5vw;
+	top: 10vh;
 
-	font-family: ‘Merriweather’;
-	font-weight: 700;
+	font-family: 'Black Han Sans', sans-serif;
+	font-weight: 50%;
 	font-size: 80;
 	line-height: 1.3em/52px;
 }	
 
 .home h3 {
+	position: relative;
 	margin: 0;
-	font-family: ‘Merriweather’;
+	font-family: 'Black Han Sans', sans-serif;
 	font-weight: 700;
 	font-size: 40px;
 	line-height: 1.3em/26px;
-	color: #2E6171;
+	color: #34393A;
+	left: 5vw;
+	top: 10vh;
 }
 
 .home .querybutton {
+	position: relative;
 	font-size: 50;
 	color: #AFD9D3;
+	left: 5vw;
+	top: 10vh;
 }
