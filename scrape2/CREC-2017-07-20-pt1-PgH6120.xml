@@ -1,0 +1,445 @@
+<mods ID="id-CREC-2017-07-20-pt1-PgH6120" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-11-04</dateIngested>
+</extension>
+<titleInfo>
+<title>KING COVE ROAD LAND EXCHANGE ACT</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-07-20/html/CREC-2017-07-20-pt1-PgH6120.htm">
+<identifier type="FDsys Unique ID">D09002ee197639b14</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-07-20/pdf/CREC-2017-07-20-pt1-PgH6120.pdf">
+<identifier type="FDsys Unique ID">D09002ee197639b9f</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H6120</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-07-20/CREC-2017-07-20-pt1-PgH6120</identifier>
+<identifier type="former granule identifier">CR20JY17-60</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-07-20/CREC-2017-07-20-pt1-PgH6120/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-20/pdf/CREC-2017-07-20-pt1-PgH6120.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-20/html/CREC-2017-07-20-pt1-PgH6120.htm</url>
+</location>
+<physicalDescription>
+<extent>9 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H6120</start>
+<end>H6128</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Rob Bishop</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Don Young</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Raul M. Grijalva</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bruce Westerman</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Paul A. Gosar</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tom McClintock</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Theodore E. Deutch</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Niki Tsongas</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H6120</identifier>
+<extension>
+<searchTitle>KING COVE ROAD LAND EXCHANGE ACT; Congressional Record Vol. 163, No. 123</searchTitle>
+<associatedBills>H.R. 218, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-07-20-pt1-PgH6120</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-07-20</granuleDate>
+<time from="09:45:00" to="11:00:00"/>
+<congReport congress="115" context="OTHER" number="235" type="H"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="1"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="2"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="3"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="1"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="1"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="2"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="2"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="3"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="3"/>
+<bill congress="115" context="OTHER" number="101" type="S"/>
+<bill congress="115" context="HEADERLINE" number="218" type="HR"/>
+<bill congress="115" context="OTHER" number="218" type="HR"/>
+<bill congress="115" context="OTHER" number="454" type="HRES"/>
+<bill congress="115" context="OTHER" number="3203" type="HR"/>
+<congMember authorityId="1753" bioGuideId="B001250" chamber="H" congress="115" gpoId="8189" party="R" role="SPEAKING" state="UT">
+<name type="parsed">Mr. BISHOP of Utah</name>
+<name type="authority-fnf">Rob Bishop</name>
+<name type="authority-lnf">Bishop, Rob</name>
+</congMember>
+<congMember authorityId="1256" bioGuideId="Y000033" chamber="H" congress="115" gpoId="7785" party="R" role="SPEAKING" state="AK">
+<name type="parsed">Mr. YOUNG of Alaska</name>
+<name type="authority-fnf">Don Young</name>
+<name type="authority-lnf">Young, Don</name>
+<name type="authority-other">Don E. Young</name>
+</congMember>
+<congMember authorityId="1708" bioGuideId="G000551" chamber="H" congress="115" gpoId="7804" party="D" role="SPEAKING" state="AZ">
+<name type="parsed">Mr. GRIJALVA</name>
+<name type="authority-fnf">Raul M. Grijalva</name>
+<name type="authority-lnf">Grijalva, Raul M.</name>
+<name type="authority-other">Mr. Raul Grijalva</name>
+</congMember>
+<congMember authorityId="2224" bioGuideId="W000821" chamber="H" congress="115" party="R" role="SPEAKING" state="AR">
+<name type="parsed">Mr. WESTERMAN</name>
+<name type="authority-fnf">Bruce Westerman</name>
+<name type="authority-lnf">Westerman, Bruce</name>
+</congMember>
+<congMember authorityId="1992" bioGuideId="G000565" chamber="H" congress="115" gpoId="7798" party="R" role="SPEAKING" state="AZ">
+<name type="parsed">Mr. GOSAR</name>
+<name type="authority-fnf">Paul A. Gosar</name>
+<name type="authority-lnf">Gosar, Paul A.</name>
+<name type="authority-other">Mr. Paul Gosar</name>
+</congMember>
+<congMember authorityId="1908" bioGuideId="M001177" chamber="H" congress="115" gpoId="7809" party="R" role="SPEAKING" state="CA">
+<name type="parsed">Mr. McCLINTOCK</name>
+<name type="authority-fnf">Tom McClintock</name>
+<name type="authority-lnf">McClintock, Tom</name>
+</congMember>
+<congMember authorityId="1976" bioGuideId="D000610" chamber="H" congress="115" gpoId="7891" party="D" role="SPEAKING" state="FL">
+<name type="parsed">Mr. DEUTCH</name>
+<name type="authority-fnf">Theodore E. Deutch</name>
+<name type="authority-lnf">Deutch, Theodore E.</name>
+<name type="authority-other">Mr. Theodore Deutch</name>
+</congMember>
+<congMember authorityId="1884" bioGuideId="T000465" chamber="H" congress="115" gpoId="7970" party="D" role="SPEAKING" state="MA">
+<name type="parsed">Ms. TSONGAS</name>
+<name type="authority-fnf">Niki Tsongas</name>
+<name type="authority-lnf">Tsongas, Niki</name>
+</congMember>
+<law congress="96" isPrivate="false" number="487"/>
+<law congress="105" isPrivate="false" number="277"/>
+<law congress="111" isPrivate="false" number="11"/>
+<USCode title="16">
+<section detail="et seq." number="1131"/>
+<section detail="note" number="1132"/>
+</USCode>
+<USCode title="42">
+<section detail="et seq." number="4321"/>
+</USCode>
+<USCode title="43">
+<section detail="(b)" number="1716"/>
+</USCode>
+<statuteAtLarge volume="123">
+<pages pages="1180"/>
+</statuteAtLarge>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 101  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 101</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 218  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 218</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 218  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 218</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 454  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 454</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3203  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3203</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 16 Section 1131et seq.</partNumber>
+<partNumber>Title 16 Section 1132note</partNumber>
+</titleInfo>
+<identifier type="USC citation">16 U.S.C. 1131et seq.</identifier>
+<identifier type="USC citation">16 U.S.C. 1132note</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 4321et seq.</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 4321et seq.</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 43 Section 1716(b)</partNumber>
+</titleInfo>
+<identifier type="USC citation">43 U.S.C. 1716(b)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 123 Page 1180</partNumber>
+</titleInfo>
+<identifier type="Statute citation">123 Stat. 1180</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 96-487</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 96-487</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 105-277</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 105-277</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 111-11</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 111-11</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 115-235</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 2</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 3</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 2</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 2</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 3</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 3</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem ID="P0b002ee197638a2b" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 123</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-20/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-20/pdf/CREC-2017-07-20.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H6045</start>
+<end>H6148</end>
+</extent>
+<extent unit="pages">
+<start>S4087</start>
+<end>S4122</end>
+</extent>
+<extent unit="pages">
+<start>E1025</start>
+<end>E1033</end>
+</extent>
+<extent unit="pages">
+<start>D812</start>
+<end>D816</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-07-20</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>308 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-20</identifier>
+<identifier type="local">P0b002ee197638a2b</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR20JY17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-11-04</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-11-04</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-07-20</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-07-20</accessId>
+<volume>163</volume>
+<issue>123</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

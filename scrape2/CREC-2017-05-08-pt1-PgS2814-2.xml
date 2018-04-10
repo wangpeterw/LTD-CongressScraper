@@ -1,0 +1,206 @@
+<mods ID="id-CREC-2017-05-08-pt1-PgS2814-2" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-05-09</dateIngested>
+</extension>
+<titleInfo>
+<title>AMENDING THE WHITE MOUNTAIN APACHE TRIBE WATER RIGHTS QUANTIFICATION ACT OF 2010</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-08/html/CREC-2017-05-08-pt1-PgS2814-2.htm">
+<identifier type="FDsys Unique ID">D09002ee196a747ec</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-08/pdf/CREC-2017-05-08-pt1-PgS2814-2.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a74831</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S2814</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-05-08/CREC-2017-05-08-pt1-PgS2814-2</identifier>
+<identifier type="former granule identifier">cr08my17-75</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-05-08/CREC-2017-05-08-pt1-PgS2814-2/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-08/pdf/CREC-2017-05-08-pt1-PgS2814-2.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-08/html/CREC-2017-05-08-pt1-PgS2814-2.htm</url>
+</location>
+<physicalDescription>
+<extent>1 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S2814</start>
+<end>S2814</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Mitch McConnell</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. S2814</identifier>
+<extension>
+<searchTitle>AMENDING THE WHITE MOUNTAIN APACHE TRIBE WATER RIGHTS QUANTIFICATION ACT OF 2010; Congressional Record Vol. 163, No. 79</searchTitle>
+<associatedBills>S. 140, 115th Congress
+        </associatedBills>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-05-08-pt1-PgS2814-2</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-05-08</granuleDate>
+<bill congress="115" context="HEADERLINE" number="140" type="S"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="140" type="S"/>
+<bill congress="115" context="OTHER" number="140" type="S"/>
+<congMember authorityId="1395" bioGuideId="M000355" chamber="S" congress="115" gpoId="8254" party="R" role="SPEAKING" state="KY">
+<name type="parsed">Mr. McCONNELL</name>
+<name type="authority-fnf">Mitch McConnell</name>
+<name type="authority-lnf">McConnell, Mitch</name>
+</congMember>
+<law congress="111" isPrivate="false" number="291"/>
+<statuteAtLarge volume="124">
+<pages pages="3080"/>
+<pages pages="3093"/>
+</statuteAtLarge>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 140  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 140</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 140  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 140</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 140  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 140</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 124 Page 3080</partNumber>
+<partNumber>Volume 124 Page 3093</partNumber>
+</titleInfo>
+<identifier type="Statute citation">124 Stat. 3080</identifier>
+<identifier type="Statute citation">124 Stat. 3093</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 111-291</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 111-291</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee194d01149" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 79</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-08/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-08/pdf/CREC-2017-05-08.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H4183</start>
+<end>H4186</end>
+</extent>
+<extent unit="pages">
+<start>S2785</start>
+<end>S2820</end>
+</extent>
+<extent unit="pages">
+<start>E615</start>
+<end>E618</end>
+</extent>
+<extent unit="pages">
+<start>D502</start>
+<end>D506</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-05-08</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>98 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-08</identifier>
+<identifier type="local">P0b002ee194d01149</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr08my17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-05-09</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-05-08</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-05-08</accessId>
+<volume>163</volume>
+<issue>79</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

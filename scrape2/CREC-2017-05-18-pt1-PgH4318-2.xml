@@ -1,0 +1,167 @@
+<mods ID="id-CREC-2017-05-18-pt1-PgH4318-2" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-09-19</dateIngested>
+</extension>
+<titleInfo>
+<title>DC CENTRAL KITCHEN HELPS THE UNDERSERVED</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18/html/CREC-2017-05-18-pt1-PgH4318-2.htm">
+<identifier type="FDsys Unique ID">D09002ee196f3fc7a</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18/pdf/CREC-2017-05-18-pt1-PgH4318-2.pdf">
+<identifier type="FDsys Unique ID">D09002ee196f3fd82</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H4318</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-05-18/CREC-2017-05-18-pt1-PgH4318-2</identifier>
+<identifier type="former granule identifier">CR18MY17-78</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-05-18/CREC-2017-05-18-pt1-PgH4318-2/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18/pdf/CREC-2017-05-18-pt1-PgH4318-2.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18/html/CREC-2017-05-18-pt1-PgH4318-2.htm</url>
+</location>
+<physicalDescription>
+<extent>2 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H4318</start>
+<end>H4319</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Glenn Thompson</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Agriculture</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H4318</identifier>
+<extension>
+<searchTitle>DC CENTRAL KITCHEN HELPS THE UNDERSERVED; Congressional Record Vol. 163, No. 86</searchTitle>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-05-18-pt1-PgH4318-2</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-05-18</granuleDate>
+<time from="10:30:00" to="10:30:00"/>
+<congCommittee authorityId="hsag00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Agriculture</name>
+<name type="authority-short">Agriculture</name>
+</congCommittee>
+<congMember authorityId="1952" bioGuideId="T000467" chamber="H" congress="115" gpoId="8123" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. THOMPSON of Pennsylvania</name>
+<name type="authority-fnf">Glenn Thompson</name>
+<name type="authority-lnf">Thompson, Glenn</name>
+</congMember>
+</extension>
+<relatedItem ID="P0b002ee196f3f4e6" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 86</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18/pdf/CREC-2017-05-18.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H4315</start>
+<end>H4360</end>
+</extent>
+<extent unit="pages">
+<start>S3023</start>
+<end>S3049</end>
+</extent>
+<extent unit="pages">
+<start>E659</start>
+<end>E672</end>
+</extent>
+<extent unit="pages">
+<start>D547</start>
+<end>D552</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-05-18</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>186 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18</identifier>
+<identifier type="local">P0b002ee196f3f4e6</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR18MY17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-09-19</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-09-19</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-05-18</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-05-18</accessId>
+<volume>163</volume>
+<issue>86</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

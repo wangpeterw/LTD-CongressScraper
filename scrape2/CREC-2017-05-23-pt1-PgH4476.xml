@@ -1,0 +1,288 @@
+<mods ID="id-CREC-2017-05-23-pt1-PgH4476" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-05-24</dateIngested>
+</extension>
+<titleInfo>
+<title>VETERANS' COMPENSATION COST-OF-LIVING ADJUSTMENT ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-23/html/CREC-2017-05-23-pt1-PgH4476.htm">
+<identifier type="FDsys Unique ID">D09002ee196a75999</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-23/pdf/CREC-2017-05-23-pt1-PgH4476.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a75ad8</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H4476</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-05-23/CREC-2017-05-23-pt1-PgH4476</identifier>
+<identifier type="former granule identifier">cr23my17-98</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-05-23/CREC-2017-05-23-pt1-PgH4476/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-23/pdf/CREC-2017-05-23-pt1-PgH4476.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-23/html/CREC-2017-05-23-pt1-PgH4476.htm</url>
+</location>
+<physicalDescription>
+<extent>2 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H4476</start>
+<end>H4477</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>David P. Roe</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Timothy J. Walz</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mike Bost</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Gus M. Bilirakis</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bruce Poliquin</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H4476</identifier>
+<extension>
+<searchTitle>VETERANS' COMPENSATION COST-OF-LIVING ADJUSTMENT ACT OF 2017; Congressional Record Vol. 163, No. 89</searchTitle>
+<associatedBills>H.R. 1329, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-05-23-pt1-PgH4476</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-05-23</granuleDate>
+<time from="15:45:00" to="16:00:00"/>
+<bill congress="115" context="HEADERLINE" number="1329" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="1329" type="HR"/>
+<bill congress="115" context="OTHER" number="1329" type="HR"/>
+<congMember authorityId="1954" bioGuideId="R000582" chamber="H" congress="115" gpoId="8148" party="R" role="SPEAKING" state="TN">
+<name type="parsed">Mr. ROE of Tennessee</name>
+<name type="authority-fnf">David P. Roe</name>
+<name type="authority-lnf">Roe, David P.</name>
+<name type="authority-other">Mr. David Roe</name>
+</congMember>
+<congMember authorityId="1856" bioGuideId="W000799" chamber="H" congress="115" gpoId="8001" party="D" role="SPEAKING" state="MN">
+<name type="parsed">Mr. WALZ</name>
+<name type="authority-fnf">Timothy J. Walz</name>
+<name type="authority-lnf">Walz, Timothy J.</name>
+<name type="authority-other">Mr. Timothy Walz</name>
+</congMember>
+<congMember authorityId="2243" bioGuideId="B001295" chamber="H" congress="115" party="R" role="SPEAKING" state="IL">
+<name type="parsed">Mr. BOST</name>
+<name type="authority-fnf">Mike Bost</name>
+<name type="authority-lnf">Bost, Mike</name>
+</congMember>
+<congMember authorityId="1838" bioGuideId="B001257" chamber="H" congress="115" gpoId="7881" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Mr. BILIRAKIS</name>
+<name type="authority-fnf">Gus M. Bilirakis</name>
+<name type="authority-lnf">Bilirakis, Gus M.</name>
+<name type="authority-other">Mr. Gus Bilirakis</name>
+</congMember>
+<congMember authorityId="2247" bioGuideId="P000611" chamber="H" congress="115" party="R" role="SPEAKING" state="ME">
+<name type="parsed">Mr. POLIQUIN</name>
+<name type="authority-fnf">Bruce Poliquin</name>
+<name type="authority-lnf">Poliquin, Bruce</name>
+</congMember>
+<law congress="85" isPrivate="false" number="857"/>
+<USCode title="38">
+<section number="1114"/>
+<chapter number="11"/>
+</USCode>
+<USCode title="42">
+<section number="401"/>
+<section detail="(i)" number="415"/>
+<section detail="(i)(2)(D)" number="415"/>
+</USCode>
+<statuteAtLarge volume="72">
+<pages pages="1263"/>
+</statuteAtLarge>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1329  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1329</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1329  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1329</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1329  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1329</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 38 Section 1114</partNumber>
+<partNumber>Title 38 Chapter 11</partNumber>
+</titleInfo>
+<identifier type="USC citation">38 U.S.C. 1114</identifier>
+<identifier type="USC citation">38 U.S.C. Chapter 11</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 401</partNumber>
+<partNumber>Title 42 Section 415(i)</partNumber>
+<partNumber>Title 42 Section 415(i)(2)(D)</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 401</identifier>
+<identifier type="USC citation">42 U.S.C. 415(i)</identifier>
+<identifier type="USC citation">42 U.S.C. 415(i)(2)(D)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 72 Page 1263</partNumber>
+</titleInfo>
+<identifier type="Statute citation">72 Stat. 1263</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 85-857</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 85-857</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee194efbb42" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 89</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-23/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-23/pdf/CREC-2017-05-23.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H4427</start>
+<end>H4505</end>
+</extent>
+<extent unit="pages">
+<start>S3075</start>
+<end>S3102</end>
+</extent>
+<extent unit="pages">
+<start>E697</start>
+<end>E704</end>
+</extent>
+<extent unit="pages">
+<start>D566</start>
+<end>D574</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-05-23</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>248 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-23</identifier>
+<identifier type="local">P0b002ee194efbb42</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr23my17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-05-24</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-05-23</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-05-23</accessId>
+<volume>163</volume>
+<issue>89</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

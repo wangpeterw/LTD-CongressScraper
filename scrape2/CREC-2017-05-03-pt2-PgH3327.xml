@@ -1,0 +1,827 @@
+<mods ID="id-CREC-2017-05-03-pt2-PgH3327" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-09-19</dateIngested>
+</extension>
+<titleInfo>
+<title>House of Representatives</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-03/html/CREC-2017-05-03-pt2-PgH3327.htm">
+<identifier type="FDsys Unique ID">D09002ee196f40061</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-03/pdf/CREC-2017-05-03-pt2-PgH3327.pdf">
+<identifier type="FDsys Unique ID">D09002ee196f4012b</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H3327</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-05-03/CREC-2017-05-03-pt2-PgH3327</identifier>
+<identifier type="former granule identifier">CR03MY17-10</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-05-03/CREC-2017-05-03-pt2-PgH3327/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-03/pdf/CREC-2017-05-03-pt2-PgH3327.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-03/html/CREC-2017-05-03-pt2-PgH3327.htm</url>
+</location>
+<physicalDescription>
+<extent>621 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H3327</start>
+<end>H3947</end>
+</extent>
+</part>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Financial Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Banking, Housing, and Urban Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Homeland Security</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H3327</identifier>
+<extension>
+<searchTitle>House of Representatives; Congressional Record Vol. 163, No. 76</searchTitle>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-05-03-pt2-PgH3327</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-05-03</granuleDate>
+<hasInsertedComments>true</hasInsertedComments>
+<congReport congress="110" context="OTHER" number="279" type="H"/>
+<congReport congress="112" context="OTHER" number="331" type="H"/>
+<congReport congress="112" context="OTHER" number="589" type="H"/>
+<congReport congress="114" context="OTHER" number="170" type="H"/>
+<congReport congress="114" context="OTHER" number="215" type="H"/>
+<congReport congress="114" context="OTHER" number="236" type="S"/>
+<congReport congress="114" context="OTHER" number="239" type="S"/>
+<congReport congress="114" context="OTHER" number="259" type="S"/>
+<congReport congress="114" context="OTHER" number="263" type="S"/>
+<congReport congress="114" context="OTHER" number="264" type="S"/>
+<congReport congress="114" context="OTHER" number="280" type="S"/>
+<congReport congress="114" context="OTHER" number="281" type="S"/>
+<congReport congress="114" context="OTHER" number="531" type="H"/>
+<congReport congress="114" context="OTHER" number="532" type="H"/>
+<congReport congress="114" context="OTHER" number="577" type="H"/>
+<congReport congress="114" context="OTHER" number="605" type="H"/>
+<congReport congress="114" context="OTHER" number="624" type="H"/>
+<congReport congress="114" context="OTHER" number="632" type="H"/>
+<congReport congress="114" context="OTHER" number="668" type="H"/>
+<bill congress="115" context="OTHER" number="244" type="HR"/>
+<bill congress="115" context="OTHER" number="2028" type="HR"/>
+<bill congress="115" context="OTHER" number="3222" type="HR"/>
+<bill congress="115" context="OTHER" number="5293" type="HR"/>
+<congCommittee authorityId="hsba00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Financial Services</name>
+<name type="authority-short">Financial Services</name>
+</congCommittee>
+<congCommittee authorityId="ssbk00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Banking, Housing, and Urban Affairs</name>
+<name type="authority-short">Banking</name>
+</congCommittee>
+<congCommittee authorityId="hshm00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Homeland Security</name>
+<name type="authority-short">Homeland Security</name>
+</congCommittee>
+<law congress="83" isPrivate="false" number="280"/>
+<law congress="93" isPrivate="false" number="288"/>
+<law congress="93" isPrivate="false" number="471"/>
+<law congress="93" isPrivate="false" number="531"/>
+<law congress="99" isPrivate="false" number="177"/>
+<law congress="99" isPrivate="false" number="660"/>
+<law congress="100" isPrivate="false" number="119"/>
+<law congress="101" isPrivate="false" number="508"/>
+<law congress="105" isPrivate="false" number="276"/>
+<law congress="108" isPrivate="false" number="79"/>
+<law congress="109" isPrivate="false" number="58"/>
+<law congress="109" isPrivate="false" number="432"/>
+<law congress="109" isPrivate="false" number="469"/>
+<law congress="110" isPrivate="false" number="53"/>
+<law congress="110" isPrivate="false" number="69"/>
+<law congress="111" isPrivate="false" number="8"/>
+<law congress="111" isPrivate="false" number="11"/>
+<law congress="111" isPrivate="false" number="203"/>
+<law congress="113" isPrivate="false" number="6"/>
+<law congress="113" isPrivate="false" number="235"/>
+<law congress="113" isPrivate="false" number="291"/>
+<law congress="114" isPrivate="false" number="31"/>
+<law congress="114" isPrivate="false" number="68"/>
+<law congress="114" isPrivate="false" number="92"/>
+<law congress="114" isPrivate="false" number="113"/>
+<law congress="114" isPrivate="false" number="161"/>
+<law congress="114" isPrivate="false" number="182"/>
+<law congress="114" isPrivate="false" number="198"/>
+<law congress="114" isPrivate="false" number="216"/>
+<law congress="114" isPrivate="false" number="223"/>
+<law congress="114" isPrivate="false" number="244"/>
+<law congress="114" isPrivate="false" number="254"/>
+<law congress="114" isPrivate="false" number="322"/>
+<law congress="114" isPrivate="false" number="328"/>
+<law congress="115" isPrivate="false" number="10"/>
+<USCode title="5">
+<section number="3109"/>
+</USCode>
+<USCode title="7">
+<section number="000"/>
+<section detail="(b)" number="1523"/>
+<section detail="(i)" number="2662"/>
+<section number="27"/>
+<section number="2"/>
+<section detail="note" number="301"/>
+<section number="3151a"/>
+<section number="3151b"/>
+<section detail="(b)" number="3152"/>
+<section detail="(j)" number="3152"/>
+<section number="3156"/>
+<section number="3195"/>
+<section number="3221"/>
+<section number="3222b-2"/>
+<section number="3222b"/>
+<section number="3222"/>
+<section number="3241"/>
+<section number="3319d"/>
+<section number="3319i"/>
+<section number="3322"/>
+<section number="3351"/>
+<section number="3362"/>
+<section number="3363"/>
+<section detail="(b)" number="343"/>
+<section detail="(b)(3)" number="343"/>
+<section detail="(d)" number="343"/>
+<section number="361a-i"/>
+<section detail="(b)" number="450i"/>
+<section detail="(c)" number="450i"/>
+<section number="5811"/>
+<section number="5925"/>
+<section number="5925f"/>
+<section detail="(c)(1)(A)" number="6517"/>
+<section number="7625"/>
+<section number="7626"/>
+<section number="7642"/>
+<section number="8114"/>
+</USCode>
+<USCode title="8">
+<section detail="(g)(9)(A)" number="1184"/>
+</USCode>
+<USCode title="15">
+<section number="638"/>
+</USCode>
+<USCode title="16">
+<section number="1671"/>
+<section number="33"/>
+<section number="582a"/>
+<section number="961"/>
+</USCode>
+<USCode title="18">
+<section number="1913"/>
+</USCode>
+<USCode title="19">
+<section number="4405"/>
+</USCode>
+<USCode title="25">
+<section number="2020"/>
+</USCode>
+<USCode title="31">
+<section number="1535"/>
+</USCode>
+<USCode title="33">
+<section number="2238c"/>
+</USCode>
+<USCode title="40">
+<chapter number="33"/>
+</USCode>
+<USCode title="42">
+<section number="16421"/>
+<section number="1862o-12"/>
+<section number="300j"/>
+<section number="7279a"/>
+</USCode>
+<USCode title="50">
+<section number="2745"/>
+</USCode>
+<cfr title="42">
+<part detail=".11" number="136"/>
+</cfr>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 244  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 244</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2028  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2028</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3222  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3222</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 5293  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 5293</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 5 Section 3109</partNumber>
+</titleInfo>
+<identifier type="USC citation">5 U.S.C. 3109</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 7 Section 000</partNumber>
+<partNumber>Title 7 Section 1523(b)</partNumber>
+<partNumber>Title 7 Section 2662(i)</partNumber>
+<partNumber>Title 7 Section 27</partNumber>
+<partNumber>Title 7 Section 2</partNumber>
+<partNumber>Title 7 Section 301note</partNumber>
+<partNumber>Title 7 Section 3151a</partNumber>
+<partNumber>Title 7 Section 3151b</partNumber>
+<partNumber>Title 7 Section 3152(b)</partNumber>
+<partNumber>Title 7 Section 3152(j)</partNumber>
+<partNumber>Title 7 Section 3156</partNumber>
+<partNumber>Title 7 Section 3195</partNumber>
+<partNumber>Title 7 Section 3221</partNumber>
+<partNumber>Title 7 Section 3222b-2</partNumber>
+<partNumber>Title 7 Section 3222b</partNumber>
+<partNumber>Title 7 Section 3222</partNumber>
+<partNumber>Title 7 Section 3241</partNumber>
+<partNumber>Title 7 Section 3319d</partNumber>
+<partNumber>Title 7 Section 3319i</partNumber>
+<partNumber>Title 7 Section 3322</partNumber>
+<partNumber>Title 7 Section 3351</partNumber>
+<partNumber>Title 7 Section 3362</partNumber>
+<partNumber>Title 7 Section 3363</partNumber>
+<partNumber>Title 7 Section 343(b)</partNumber>
+<partNumber>Title 7 Section 343(b)(3)</partNumber>
+<partNumber>Title 7 Section 343(d)</partNumber>
+<partNumber>Title 7 Section 361a-i</partNumber>
+<partNumber>Title 7 Section 450i(b)</partNumber>
+<partNumber>Title 7 Section 450i(c)</partNumber>
+<partNumber>Title 7 Section 5811</partNumber>
+<partNumber>Title 7 Section 5925</partNumber>
+<partNumber>Title 7 Section 5925f</partNumber>
+<partNumber>Title 7 Section 6517(c)(1)(A)</partNumber>
+<partNumber>Title 7 Section 7625</partNumber>
+<partNumber>Title 7 Section 7626</partNumber>
+<partNumber>Title 7 Section 7642</partNumber>
+<partNumber>Title 7 Section 8114</partNumber>
+</titleInfo>
+<identifier type="USC citation">7 U.S.C. 000</identifier>
+<identifier type="USC citation">7 U.S.C. 1523(b)</identifier>
+<identifier type="USC citation">7 U.S.C. 2662(i)</identifier>
+<identifier type="USC citation">7 U.S.C. 27</identifier>
+<identifier type="USC citation">7 U.S.C. 2</identifier>
+<identifier type="USC citation">7 U.S.C. 301note</identifier>
+<identifier type="USC citation">7 U.S.C. 3151a</identifier>
+<identifier type="USC citation">7 U.S.C. 3151b</identifier>
+<identifier type="USC citation">7 U.S.C. 3152(b)</identifier>
+<identifier type="USC citation">7 U.S.C. 3152(j)</identifier>
+<identifier type="USC citation">7 U.S.C. 3156</identifier>
+<identifier type="USC citation">7 U.S.C. 3195</identifier>
+<identifier type="USC citation">7 U.S.C. 3221</identifier>
+<identifier type="USC citation">7 U.S.C. 3222b-2</identifier>
+<identifier type="USC citation">7 U.S.C. 3222b</identifier>
+<identifier type="USC citation">7 U.S.C. 3222</identifier>
+<identifier type="USC citation">7 U.S.C. 3241</identifier>
+<identifier type="USC citation">7 U.S.C. 3319d</identifier>
+<identifier type="USC citation">7 U.S.C. 3319i</identifier>
+<identifier type="USC citation">7 U.S.C. 3322</identifier>
+<identifier type="USC citation">7 U.S.C. 3351</identifier>
+<identifier type="USC citation">7 U.S.C. 3362</identifier>
+<identifier type="USC citation">7 U.S.C. 3363</identifier>
+<identifier type="USC citation">7 U.S.C. 343(b)</identifier>
+<identifier type="USC citation">7 U.S.C. 343(b)(3)</identifier>
+<identifier type="USC citation">7 U.S.C. 343(d)</identifier>
+<identifier type="USC citation">7 U.S.C. 361a-i</identifier>
+<identifier type="USC citation">7 U.S.C. 450i(b)</identifier>
+<identifier type="USC citation">7 U.S.C. 450i(c)</identifier>
+<identifier type="USC citation">7 U.S.C. 5811</identifier>
+<identifier type="USC citation">7 U.S.C. 5925</identifier>
+<identifier type="USC citation">7 U.S.C. 5925f</identifier>
+<identifier type="USC citation">7 U.S.C. 6517(c)(1)(A)</identifier>
+<identifier type="USC citation">7 U.S.C. 7625</identifier>
+<identifier type="USC citation">7 U.S.C. 7626</identifier>
+<identifier type="USC citation">7 U.S.C. 7642</identifier>
+<identifier type="USC citation">7 U.S.C. 8114</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 8 Section 1184(g)(9)(A)</partNumber>
+</titleInfo>
+<identifier type="USC citation">8 U.S.C. 1184(g)(9)(A)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 15 Section 638</partNumber>
+</titleInfo>
+<identifier type="USC citation">15 U.S.C. 638</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 16 Section 1671</partNumber>
+<partNumber>Title 16 Section 33</partNumber>
+<partNumber>Title 16 Section 582a</partNumber>
+<partNumber>Title 16 Section 961</partNumber>
+</titleInfo>
+<identifier type="USC citation">16 U.S.C. 1671</identifier>
+<identifier type="USC citation">16 U.S.C. 33</identifier>
+<identifier type="USC citation">16 U.S.C. 582a</identifier>
+<identifier type="USC citation">16 U.S.C. 961</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 18 Section 1913</partNumber>
+</titleInfo>
+<identifier type="USC citation">18 U.S.C. 1913</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 19 Section 4405</partNumber>
+</titleInfo>
+<identifier type="USC citation">19 U.S.C. 4405</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 25 Section 2020</partNumber>
+</titleInfo>
+<identifier type="USC citation">25 U.S.C. 2020</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 31 Section 1535</partNumber>
+</titleInfo>
+<identifier type="USC citation">31 U.S.C. 1535</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 33 Section 2238c</partNumber>
+</titleInfo>
+<identifier type="USC citation">33 U.S.C. 2238c</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 40 Chapter 33</partNumber>
+</titleInfo>
+<identifier type="USC citation">40 U.S.C. Chapter 33</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 16421</partNumber>
+<partNumber>Title 42 Section 1862o-12</partNumber>
+<partNumber>Title 42 Section 300j</partNumber>
+<partNumber>Title 42 Section 7279a</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 16421</identifier>
+<identifier type="USC citation">42 U.S.C. 1862o-12</identifier>
+<identifier type="USC citation">42 U.S.C. 300j</identifier>
+<identifier type="USC citation">42 U.S.C. 7279a</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 50 Section 2745</partNumber>
+</titleInfo>
+<identifier type="USC citation">50 U.S.C. 2745</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 83-280</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 83-280</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 93-288</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 93-288</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 93-471</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 93-471</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 93-531</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 93-531</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 99-177</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 99-177</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 99-660</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 99-660</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 100-119</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 100-119</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 101-508</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 101-508</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 105-276</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 105-276</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 108-79</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 108-79</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 109-58</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 109-58</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 109-432</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 109-432</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 109-469</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 109-469</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 110-53</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 110-53</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 110-69</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 110-69</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 111-8</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 111-8</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 111-11</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 111-11</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 111-203</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 111-203</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 113-6</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 113-6</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 113-235</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 113-235</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 113-291</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 113-291</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-31</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-31</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-68</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-68</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-92</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-92</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-113</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-113</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-161</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-161</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-182</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-182</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-198</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-198</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-216</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-216</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-223</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-223</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-244</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-244</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-254</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-254</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-322</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-322</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-328</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-328</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-10</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-10</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>Code of Federal Regulations</title>
+<partNumber>Title 42 Part 136.11</partNumber>
+</titleInfo>
+<identifier type="CFR citation">42 CFR Part  136.11</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 110-279</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 112-331</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 112-589</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 114-170</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 114-215</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">S. Rept. 114-236</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">S. Rept. 114-239</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">S. Rept. 114-259</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">S. Rept. 114-263</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">S. Rept. 114-264</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">S. Rept. 114-280</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">S. Rept. 114-281</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 114-531</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 114-532</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 114-577</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 114-605</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 114-624</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 114-632</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 114-668</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee196f3f462" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 76</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-03/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-03/pdf/CREC-2017-05-03.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H3071</start>
+<end>H4112</end>
+</extent>
+<extent unit="pages">
+<start>S2687</start>
+<end>S2733</end>
+</extent>
+<extent unit="pages">
+<start>E589</start>
+<end>E602</end>
+</extent>
+<extent unit="pages">
+<start>D485</start>
+<end>D492</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-05-03</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>2252 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-03</identifier>
+<identifier type="local">P0b002ee196f3f462</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR03MY17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-09-19</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-09-19</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-05-03</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-05-03</accessId>
+<volume>163</volume>
+<issue>76</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>3</bookCount>
+</extension>
+</relatedItem>
+</mods>

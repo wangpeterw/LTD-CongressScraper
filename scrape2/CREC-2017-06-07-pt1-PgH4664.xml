@@ -1,0 +1,422 @@
+<mods ID="id-CREC-2017-06-07-pt1-PgH4664" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-06-08</dateIngested>
+</extension>
+<titleInfo>
+<title>PROVIDING FOR CONSIDERATION OF H.R. 10, FINANCIAL CHOICE ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-06-07/html/CREC-2017-06-07-pt1-PgH4664.htm">
+<identifier type="FDsys Unique ID">D09002ee196a76f3f</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-06-07/pdf/CREC-2017-06-07-pt1-PgH4664.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a76fc2</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H4664</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-06-07/CREC-2017-06-07-pt1-PgH4664</identifier>
+<identifier type="former granule identifier">cr07jn17-97</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-06-07/CREC-2017-06-07-pt1-PgH4664/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-07/pdf/CREC-2017-06-07-pt1-PgH4664.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-07/html/CREC-2017-06-07-pt1-PgH4664.htm</url>
+</location>
+<physicalDescription>
+<extent>8 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H4664</start>
+<end>H4671</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Ken Buck</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Louise McIntosh Slaughter</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Roger Williams</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Lloyd Doggett</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Stevan Pearce</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Carolyn B. Maloney</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bill Huizenga</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Pramila Jayapal</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ann Wagner</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Andy Barr</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Patrick T. McHenry</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Keith J. Rothfus</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Anna G. Eshoo</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Rules</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Financial Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H4664</identifier>
+<extension>
+<searchTitle>PROVIDING FOR CONSIDERATION OF H.R. 10, FINANCIAL CHOICE ACT OF 2017; Congressional Record Vol. 163, No. 97</searchTitle>
+<associatedBills>H. Res. 375, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-06-07-pt1-PgH4664</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-06-07</granuleDate>
+<time from="13:00:00" to="13:45:00"/>
+<bill congress="115" context="TITLE" number="10" type="HR"/>
+<bill congress="115" context="OTHER" number="10" type="HR"/>
+<bill congress="115" context="OTHER" number="305" type="HR"/>
+<bill congress="115" context="HEADERLINE" number="375" type="HRES"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="375" type="HRES"/>
+<bill congress="115" context="OTHER" number="375" type="HRES"/>
+<bill congress="115" context="OTHER" number="4173" type="HR"/>
+<congCommittee authorityId="hsru00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Rules</name>
+<name type="authority-short">Rules</name>
+</congCommittee>
+<congCommittee authorityId="hsba00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Financial Services</name>
+<name type="authority-short">Financial Services</name>
+</congCommittee>
+<congMember authorityId="2233" bioGuideId="B001297" chamber="H" congress="115" party="R" role="SPEAKING" state="CO">
+<name type="parsed">Mr. BUCK</name>
+<name type="authority-fnf">Ken Buck</name>
+<name type="authority-lnf">Buck, Ken</name>
+</congMember>
+<congMember authorityId="1069" bioGuideId="S000480" chamber="H" congress="115" gpoId="8089" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Ms. SLAUGHTER</name>
+<name type="authority-fnf">Louise McIntosh Slaughter</name>
+<name type="authority-lnf">Slaughter, Louise McIntosh</name>
+<name type="authority-other">Louise Slaughter</name>
+</congMember>
+<congMember authorityId="2165" bioGuideId="W000816" chamber="H" congress="115" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. WILLIAMS</name>
+<name type="authority-fnf">Roger Williams</name>
+<name type="authority-lnf">Williams, Roger</name>
+</congMember>
+<congMember authorityId="303" bioGuideId="D000399" chamber="H" congress="115" gpoId="8181" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Mr. DOGGETT</name>
+<name type="authority-fnf">Lloyd Doggett</name>
+<name type="authority-lnf">Doggett, Lloyd</name>
+</congMember>
+<congMember authorityId="1738" bioGuideId="P000588" chamber="H" congress="115" gpoId="8057" party="R" role="SPEAKING" state="NM">
+<name type="parsed">Mr. PEARCE</name>
+<name type="authority-fnf">Stevan Pearce</name>
+<name type="authority-lnf">Pearce, Stevan</name>
+</congMember>
+<congMember authorityId="729" bioGuideId="M000087" chamber="H" congress="115" gpoId="8075" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mrs. CAROLYN B. MALONEY of New York</name>
+<name type="authority-fnf">Carolyn B. Maloney</name>
+<name type="authority-lnf">Maloney, Carolyn B.</name>
+<name type="authority-other">Carolyn Maloney</name>
+</congMember>
+<congMember authorityId="2028" bioGuideId="H001058" chamber="H" congress="115" gpoId="7987" party="R" role="SPEAKING" state="MI">
+<name type="parsed">Mr. HUIZENGA</name>
+<name type="authority-fnf">Bill Huizenga</name>
+<name type="authority-lnf">Huizenga, Bill</name>
+</congMember>
+<congMember authorityId="2354" bioGuideId="J000298" chamber="H" congress="115" party="D" role="SPEAKING" state="WA">
+<name type="parsed">Ms. JAYAPAL</name>
+<name type="authority-fnf">Pramila Jayapal</name>
+<name type="authority-lnf">Jayapal, Pramila</name>
+</congMember>
+<congMember authorityId="2137" bioGuideId="W000812" chamber="H" congress="115" party="R" role="SPEAKING" state="MO">
+<name type="parsed">Mrs. WAGNER</name>
+<name type="authority-fnf">Ann Wagner</name>
+<name type="authority-lnf">Wagner, Ann</name>
+</congMember>
+<congMember authorityId="2131" bioGuideId="B001282" chamber="H" congress="115" party="R" role="SPEAKING" state="KY">
+<name type="parsed">Mr. BARR</name>
+<name type="authority-fnf">Andy Barr</name>
+<name type="authority-lnf">Barr, Andy</name>
+</congMember>
+<congMember authorityId="1792" bioGuideId="M001156" chamber="H" congress="115" gpoId="8033" party="R" role="SPEAKING" state="NC">
+<name type="parsed">Mr. McHENRY</name>
+<name type="authority-fnf">Patrick T. McHenry</name>
+<name type="authority-lnf">McHenry, Patrick T.</name>
+<name type="authority-other">Mr. Patrick Mchenry</name>
+</congMember>
+<congMember authorityId="2158" bioGuideId="R000598" chamber="H" congress="115" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. ROTHFUS</name>
+<name type="authority-fnf">Keith J. Rothfus</name>
+<name type="authority-lnf">Rothfus, Keith J.</name>
+<name type="authority-other">Mr. Keith Rothfus</name>
+</congMember>
+<congMember authorityId="355" bioGuideId="E000215" chamber="H" congress="115" gpoId="7819" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. ESHOO</name>
+<name type="authority-fnf">Anna G. Eshoo</name>
+<name type="authority-lnf">Eshoo, Anna G.</name>
+<name type="authority-other">Anna Eshoo</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 10  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 10</identifier>
+<extension>
+<congress>115</congress>
+<context>TITLE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 10  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 10</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 305  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 305</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 375  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 375</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 375  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 375</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 375  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 375</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4173  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4173</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee19520c4bc" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 97</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-07/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-07/pdf/CREC-2017-06-07.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H4651</start>
+<end>H4703</end>
+</extent>
+<extent unit="pages">
+<start>S3301</start>
+<end>S3344</end>
+</extent>
+<extent unit="pages">
+<start>E775</start>
+<end>E785</end>
+</extent>
+<extent unit="pages">
+<start>D617</start>
+<end>D624</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-06-07</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>232 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-07</identifier>
+<identifier type="local">P0b002ee19520c4bc</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr07jn17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-06-08</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-06-07</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-06-07</accessId>
+<volume>163</volume>
+<issue>97</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

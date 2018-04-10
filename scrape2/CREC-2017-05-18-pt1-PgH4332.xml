@@ -1,0 +1,368 @@
+<mods ID="id-CREC-2017-05-18-pt1-PgH4332" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-09-19</dateIngested>
+</extension>
+<titleInfo>
+<title>THIN BLUE LINE ACT</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18/html/CREC-2017-05-18-pt1-PgH4332.htm">
+<identifier type="FDsys Unique ID">D09002ee196f3fc2c</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18/pdf/CREC-2017-05-18-pt1-PgH4332.pdf">
+<identifier type="FDsys Unique ID">D09002ee196f3fd18</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H4332</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-05-18/CREC-2017-05-18-pt1-PgH4332</identifier>
+<identifier type="former granule identifier">CR18MY17-114</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-05-18/CREC-2017-05-18-pt1-PgH4332/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18/pdf/CREC-2017-05-18-pt1-PgH4332.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18/html/CREC-2017-05-18-pt1-PgH4332.htm</url>
+</location>
+<physicalDescription>
+<extent>9 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H4332</start>
+<end>H4340</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Bob Goodlatte</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Conyers, Jr.</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Vern Buchanan</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jerrold Nadler</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mike Johnson</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ted Poe</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Martha Roby</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Matt Gaetz</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheila Jackson Lee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tim Murphy</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Doug Lamborn</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on the Judiciary</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Appropriations</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H4332</identifier>
+<extension>
+<searchTitle>THIN BLUE LINE ACT; Congressional Record Vol. 163, No. 86</searchTitle>
+<associatedBills>H.R. 115, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-05-18-pt1-PgH4332</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-05-18</granuleDate>
+<time from="14:47:00" to="15:30:00"/>
+<bill congress="115" context="HEADERLINE" number="115" type="HR"/>
+<bill congress="115" context="OTHER" number="115" type="HR"/>
+<bill congress="115" context="OTHER" number="323" type="HRES"/>
+<congCommittee authorityId="hsju00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on the Judiciary</name>
+<name type="authority-short">Judiciary</name>
+</congCommittee>
+<congCommittee authorityId="hsap00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Appropriations</name>
+<name type="authority-short">Appropriations</name>
+</congCommittee>
+<congMember authorityId="446" bioGuideId="G000289" chamber="H" congress="115" gpoId="8197" party="R" role="SPEAKING" state="VA">
+<name type="parsed">Mr. GOODLATTE</name>
+<name type="authority-fnf">Bob Goodlatte</name>
+<name type="authority-lnf">Goodlatte, Bob</name>
+<name type="authority-other">Robert Goodlatte</name>
+</congMember>
+<congMember authorityId="229" bioGuideId="C000714" chamber="H" congress="115" gpoId="7999" party="D" role="SPEAKING" state="MI">
+<name type="parsed">Mr. CONYERS</name>
+<name type="authority-fnf">John Conyers, Jr.</name>
+<name type="authority-lnf">Conyers, John, Jr.</name>
+<name type="authority-other">John Conyers Jr.</name>
+</congMember>
+<congMember authorityId="1840" bioGuideId="B001260" chamber="H" congress="115" gpoId="7885" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Mr. BUCHANAN</name>
+<name type="authority-fnf">Vern Buchanan</name>
+<name type="authority-lnf">Buchanan, Vern</name>
+</congMember>
+<congMember authorityId="850" bioGuideId="N000002" chamber="H" congress="115" gpoId="8069" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mr. NADLER</name>
+<name type="authority-fnf">Jerrold Nadler</name>
+<name type="authority-lnf">Nadler, Jerrold</name>
+</congMember>
+<congMember authorityId="2330" bioGuideId="J000299" chamber="H" congress="115" party="R" role="SPEAKING" state="LA">
+<name type="parsed">Mr. JOHNSON of Louisiana</name>
+<name type="authority-fnf">Mike Johnson</name>
+<name type="authority-lnf">Johnson, Mike</name>
+</congMember>
+<congMember authorityId="1802" bioGuideId="P000592" chamber="H" congress="115" gpoId="8158" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. POE of Texas</name>
+<name type="authority-fnf">Ted Poe</name>
+<name type="authority-lnf">Poe, Ted</name>
+</congMember>
+<congMember authorityId="1986" bioGuideId="R000591" chamber="H" congress="115" gpoId="7787" party="R" role="SPEAKING" state="AL">
+<name type="parsed">Mrs. ROBY</name>
+<name type="authority-fnf">Martha Roby</name>
+<name type="authority-lnf">Roby, Martha</name>
+</congMember>
+<congMember authorityId="2314" bioGuideId="G000578" chamber="H" congress="115" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Mr. GAETZ</name>
+<name type="authority-fnf">Matt Gaetz</name>
+<name type="authority-lnf">Gaetz, Matt</name>
+</congMember>
+<congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="115" gpoId="8174" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Ms. JACKSON LEE</name>
+<name type="authority-fnf">Sheila Jackson Lee</name>
+<name type="authority-lnf">Jackson Lee, Sheila</name>
+</congMember>
+<congMember authorityId="1744" bioGuideId="M001151" chamber="H" congress="115" gpoId="8723" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. MURPHY of Pennsylvania</name>
+<name type="authority-fnf">Tim Murphy</name>
+<name type="authority-lnf">Murphy, Tim</name>
+</congMember>
+<congMember authorityId="1834" bioGuideId="L000564" chamber="H" congress="115" gpoId="7863" party="R" role="SPEAKING" state="CO">
+<name type="parsed">Mr. LAMBORN</name>
+<name type="authority-fnf">Doug Lamborn</name>
+<name type="authority-lnf">Lamborn, Doug</name>
+</congMember>
+<USCode title="18">
+<section detail="(b)(2)" number="3591"/>
+<section number="3592"/>
+<section detail="(c)" number="3592"/>
+<section detail="(c)(14)" number="3592"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 115  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 115</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 115  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 115</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 323  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 323</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 18 Section 3591(b)(2)</partNumber>
+<partNumber>Title 18 Section 3592</partNumber>
+<partNumber>Title 18 Section 3592(c)</partNumber>
+<partNumber>Title 18 Section 3592(c)(14)</partNumber>
+</titleInfo>
+<identifier type="USC citation">18 U.S.C. 3591(b)(2)</identifier>
+<identifier type="USC citation">18 U.S.C. 3592</identifier>
+<identifier type="USC citation">18 U.S.C. 3592(c)</identifier>
+<identifier type="USC citation">18 U.S.C. 3592(c)(14)</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee196f3f4e6" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 86</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18/pdf/CREC-2017-05-18.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H4315</start>
+<end>H4360</end>
+</extent>
+<extent unit="pages">
+<start>S3023</start>
+<end>S3049</end>
+</extent>
+<extent unit="pages">
+<start>E659</start>
+<end>E672</end>
+</extent>
+<extent unit="pages">
+<start>D547</start>
+<end>D552</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-05-18</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>186 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18</identifier>
+<identifier type="local">P0b002ee196f3f4e6</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR18MY17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-09-19</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-09-19</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-05-18</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-05-18</accessId>
+<volume>163</volume>
+<issue>86</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

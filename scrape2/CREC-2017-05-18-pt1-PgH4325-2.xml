@@ -1,0 +1,304 @@
+<mods ID="id-CREC-2017-05-18-pt1-PgH4325-2" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-09-19</dateIngested>
+</extension>
+<titleInfo>
+<title>PROVIDING FOR CONSIDERATION OF H.R. 1039, PROBATION OFFICER PROTECTION ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18/html/CREC-2017-05-18-pt1-PgH4325-2.htm">
+<identifier type="FDsys Unique ID">D09002ee196f3fc57</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18/pdf/CREC-2017-05-18-pt1-PgH4325-2.pdf">
+<identifier type="FDsys Unique ID">D09002ee196f3fd25</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H4325</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-05-18/CREC-2017-05-18-pt1-PgH4325-2</identifier>
+<identifier type="former granule identifier">CR18MY17-109</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-05-18/CREC-2017-05-18-pt1-PgH4325-2/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18/pdf/CREC-2017-05-18-pt1-PgH4325-2.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18/html/CREC-2017-05-18-pt1-PgH4325-2.htm</url>
+</location>
+<physicalDescription>
+<extent>7 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H4325</start>
+<end>H4331</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Doug Collins</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jared Polis</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Anna G. Eshoo</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Val Butler Demings</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Rules</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on the Judiciary</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H4325</identifier>
+<extension>
+<searchTitle>PROVIDING FOR CONSIDERATION OF H.R. 1039, PROBATION OFFICER PROTECTION ACT OF 2017; Congressional Record Vol. 163, No. 86</searchTitle>
+<associatedBills>H. Res. 324, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-05-18-pt1-PgH4325-2</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-05-18</granuleDate>
+<time from="12:30:00" to="13:00:00"/>
+<bill congress="115" context="OTHER" number="305" type="HR"/>
+<bill congress="115" context="HEADERLINE" number="324" type="HRES"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="324" type="HRES"/>
+<bill congress="115" context="OTHER" number="324" type="HRES"/>
+<bill congress="115" context="TITLE" number="1039" type="HR"/>
+<bill congress="115" context="OTHER" number="1039" type="HR"/>
+<congCommittee authorityId="hsru00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Rules</name>
+<name type="authority-short">Rules</name>
+</congCommittee>
+<congCommittee authorityId="hsju00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on the Judiciary</name>
+<name type="authority-short">Judiciary</name>
+</congCommittee>
+<congMember authorityId="2121" bioGuideId="C001093" chamber="H" congress="115" party="R" role="SPEAKING" state="GA">
+<name type="parsed">Mr. COLLINS of Georgia</name>
+<name type="authority-fnf">Doug Collins</name>
+<name type="authority-lnf">Collins, Doug</name>
+</congMember>
+<congMember authorityId="1910" bioGuideId="P000598" chamber="H" congress="115" gpoId="7860" party="D" role="SPEAKING" state="CO">
+<name type="parsed">Mr. POLIS</name>
+<name type="authority-fnf">Jared Polis</name>
+<name type="authority-lnf">Polis, Jared</name>
+</congMember>
+<congMember authorityId="355" bioGuideId="E000215" chamber="H" congress="115" gpoId="7819" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. ESHOO</name>
+<name type="authority-fnf">Anna G. Eshoo</name>
+<name type="authority-lnf">Eshoo, Anna G.</name>
+<name type="authority-other">Anna Eshoo</name>
+</congMember>
+<congMember authorityId="2320" bioGuideId="D000627" chamber="H" congress="115" party="D" role="SPEAKING" state="FL">
+<name type="parsed">Mrs. DEMINGS</name>
+<name type="authority-fnf">Val Butler Demings</name>
+<name type="authority-lnf">Demings, Val Butler</name>
+<name type="authority-other">Mrs. Val Demings</name>
+</congMember>
+<USCode title="18">
+<section number="111"/>
+<section number="3606"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 305  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 305</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 324  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 324</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 324  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 324</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 324  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 324</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1039  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1039</identifier>
+<extension>
+<congress>115</congress>
+<context>TITLE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1039  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1039</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 18 Section 111</partNumber>
+<partNumber>Title 18 Section 3606</partNumber>
+</titleInfo>
+<identifier type="USC citation">18 U.S.C. 111</identifier>
+<identifier type="USC citation">18 U.S.C. 3606</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee196f3f4e6" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 86</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18/pdf/CREC-2017-05-18.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H4315</start>
+<end>H4360</end>
+</extent>
+<extent unit="pages">
+<start>S3023</start>
+<end>S3049</end>
+</extent>
+<extent unit="pages">
+<start>E659</start>
+<end>E672</end>
+</extent>
+<extent unit="pages">
+<start>D547</start>
+<end>D552</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-05-18</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>186 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-18</identifier>
+<identifier type="local">P0b002ee196f3f4e6</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR18MY17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-09-19</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-09-19</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-05-18</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-05-18</accessId>
+<volume>163</volume>
+<issue>86</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

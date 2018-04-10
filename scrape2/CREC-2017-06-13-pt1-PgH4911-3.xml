@@ -1,0 +1,493 @@
+<mods ID="id-CREC-2017-06-13-pt1-PgH4911-3" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-09-29</dateIngested>
+</extension>
+<titleInfo>
+<title>EXECUTIVE COMMUNICATIONS, ETC.</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-06-13/html/CREC-2017-06-13-pt1-PgH4911-3.htm">
+<identifier type="FDsys Unique ID">D09002ee197057974</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-06-13/pdf/CREC-2017-06-13-pt1-PgH4911-3.pdf">
+<identifier type="FDsys Unique ID">D09002ee1970579d6</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H4911</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-06-13/CREC-2017-06-13-pt1-PgH4911-3</identifier>
+<identifier type="former granule identifier">cr13jn17-114</identifier>
+<identifier type="Regulation ID Number">RIN 0581-AD44</identifier>
+<identifier type="Regulation ID Number">RIN 1014-AA35</identifier>
+<identifier type="Regulation ID Number">RIN 0648-XF29</identifier>
+<identifier type="Regulation ID Number">RIN 0648-BD22</identifier>
+<identifier type="Regulation ID Number">RIN 0648-XF25</identifier>
+<identifier type="Regulation ID Number">RIN 0648-XF21</identifier>
+<identifier type="Regulation ID Number">RIN 0648-XF20</identifier>
+<identifier type="Regulation ID Number">RIN 0648-XF23</identifier>
+<identifier type="Regulation ID Number">RIN 0648-XF26</identifier>
+<identifier type="Regulation ID Number">RIN 1615-AC10</identifier>
+<identifier type="Regulation ID Number">RIN 1515-AE22</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-06-13/CREC-2017-06-13-pt1-PgH4911-3/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-13/pdf/CREC-2017-06-13-pt1-PgH4911-3.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-13/html/CREC-2017-06-13-pt1-PgH4911-3.htm</url>
+</location>
+<physicalDescription>
+<extent>2 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H4911</start>
+<end>H4912</end>
+</extent>
+</part>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Agriculture</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Armed Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Financial Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Energy and Commerce</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Oversight and Government Reform</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Natural Resources</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on the Judiciary</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Ways and Means</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H4911</identifier>
+<extension>
+<searchTitle>EXECUTIVE COMMUNICATIONS, ETC.; Congressional Record Vol. 163, No. 100</searchTitle>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-06-13-pt1-PgH4911-3</accessId>
+<subGranuleClass>EXECUTIVECOMM</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-06-13</granuleDate>
+<time from="18:15:00" to="18:15:00"/>
+<congCommittee authorityId="hsag00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Agriculture</name>
+<name type="authority-short">Agriculture</name>
+</congCommittee>
+<congCommittee authorityId="hsas00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Armed Services</name>
+<name type="authority-short">Armed Services</name>
+</congCommittee>
+<congCommittee authorityId="hsba00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Financial Services</name>
+<name type="authority-short">Financial Services</name>
+</congCommittee>
+<congCommittee authorityId="hsif00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Energy and Commerce</name>
+<name type="authority-short">Energy and Commerce</name>
+</congCommittee>
+<congCommittee authorityId="hsgo00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Oversight and Government Reform</name>
+<name type="authority-short">Oversight and Government Reform</name>
+</congCommittee>
+<congCommittee authorityId="hsii00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Natural Resources</name>
+<name type="authority-short">Natural Resources</name>
+</congCommittee>
+<congCommittee authorityId="hsju00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on the Judiciary</name>
+<name type="authority-short">Judiciary</name>
+</congCommittee>
+<congCommittee authorityId="hswm00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Ways and Means</name>
+<name type="authority-short">Ways and Means</name>
+</congCommittee>
+<law congress="97" isPrivate="false" number="252"/>
+<law congress="100" isPrivate="false" number="647"/>
+<law congress="101" isPrivate="false" number="403"/>
+<law congress="104" isPrivate="false" number="45"/>
+<law congress="104" isPrivate="false" number="121"/>
+<law congress="107" isPrivate="false" number="90"/>
+<law congress="110" isPrivate="false" number="417"/>
+<law congress="111" isPrivate="false" number="352"/>
+<law congress="112" isPrivate="false" number="81"/>
+<USCode title="5">
+<section detail="(a)(1)(A)" number="801"/>
+</USCode>
+<USCode title="10">
+<section detail="(d)(3)" number="2433"/>
+<section detail="(e)" number="2608"/>
+</USCode>
+<USCode title="31">
+<section detail="(b)" number="1115"/>
+</USCode>
+<USCode title="45">
+<section detail="(a)(1)" number="231u"/>
+<section number="369"/>
+</USCode>
+<statuteAtLarge volume="102">
+<pages pages="3772"/>
+</statuteAtLarge>
+<statuteAtLarge volume="109">
+<pages pages="400"/>
+</statuteAtLarge>
+<statuteAtLarge volume="110">
+<pages pages="868"/>
+</statuteAtLarge>
+<statuteAtLarge volume="115">
+<pages pages="890"/>
+</statuteAtLarge>
+<statuteAtLarge volume="122">
+<pages pages="4522"/>
+</statuteAtLarge>
+<statuteAtLarge volume="124">
+<pages pages="3867"/>
+</statuteAtLarge>
+<statuteAtLarge volume="125">
+<pages pages="1587"/>
+</statuteAtLarge>
+<rin number="0581-AD44"/>
+<rin number="1014-AA35"/>
+<rin number="0648-XF29"/>
+<rin number="0648-BD22"/>
+<rin number="0648-XF25"/>
+<rin number="0648-XF21"/>
+<rin number="0648-XF20"/>
+<rin number="0648-XF23"/>
+<rin number="0648-XF26"/>
+<rin number="1615-AC10"/>
+<rin number="1515-AE22"/>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 5 Section 801(a)(1)(A)</partNumber>
+</titleInfo>
+<identifier type="USC citation">5 U.S.C. 801(a)(1)(A)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 10 Section 2433(d)(3)</partNumber>
+<partNumber>Title 10 Section 2608(e)</partNumber>
+</titleInfo>
+<identifier type="USC citation">10 U.S.C. 2433(d)(3)</identifier>
+<identifier type="USC citation">10 U.S.C. 2608(e)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 31 Section 1115(b)</partNumber>
+</titleInfo>
+<identifier type="USC citation">31 U.S.C. 1115(b)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 45 Section 231u(a)(1)</partNumber>
+<partNumber>Title 45 Section 369</partNumber>
+</titleInfo>
+<identifier type="USC citation">45 U.S.C. 231u(a)(1)</identifier>
+<identifier type="USC citation">45 U.S.C. 369</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 102 Page 3772</partNumber>
+</titleInfo>
+<identifier type="Statute citation">102 Stat. 3772</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 109 Page 400</partNumber>
+</titleInfo>
+<identifier type="Statute citation">109 Stat. 400</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 110 Page 868</partNumber>
+</titleInfo>
+<identifier type="Statute citation">110 Stat. 868</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 115 Page 890</partNumber>
+</titleInfo>
+<identifier type="Statute citation">115 Stat. 890</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 122 Page 4522</partNumber>
+</titleInfo>
+<identifier type="Statute citation">122 Stat. 4522</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 124 Page 3867</partNumber>
+</titleInfo>
+<identifier type="Statute citation">124 Stat. 3867</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 125 Page 1587</partNumber>
+</titleInfo>
+<identifier type="Statute citation">125 Stat. 1587</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 97-252</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 97-252</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 100-647</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 100-647</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 101-403</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 101-403</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 104-45</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 104-45</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 104-121</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 104-121</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 107-90</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 107-90</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 110-417</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 110-417</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 111-352</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 111-352</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 112-81</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 112-81</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 0581-AD44</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 1014-AA35</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 0648-XF29</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 0648-BD22</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 0648-XF25</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 0648-XF21</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 0648-XF20</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 0648-XF23</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 0648-XF26</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 1615-AC10</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 1515-AE22</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee197057394" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 100</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-13/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-13/pdf/CREC-2017-06-13.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H4857</start>
+<end>H4914</end>
+</extent>
+<extent unit="pages">
+<start>S3413</start>
+<end>S3459</end>
+</extent>
+<extent unit="pages">
+<start>E813</start>
+<end>E822</end>
+</extent>
+<extent unit="pages">
+<start>D643</start>
+<end>D650</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-06-13</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>246 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-13</identifier>
+<identifier type="local">P0b002ee197057394</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr13jn17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-09-29</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-09-29</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-06-13</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-06-13</accessId>
+<volume>163</volume>
+<issue>100</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

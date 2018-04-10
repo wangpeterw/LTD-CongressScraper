@@ -1,0 +1,240 @@
+<mods ID="id-CREC-2017-05-23-pt1-PgH4468" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-05-24</dateIngested>
+</extension>
+<titleInfo>
+<title>IMPROVING THE PROVISION OF ADULT DAY HEALTH CARE SERVICES FOR VETERANS</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-23/html/CREC-2017-05-23-pt1-PgH4468.htm">
+<identifier type="FDsys Unique ID">D09002ee196a759dc</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-23/pdf/CREC-2017-05-23-pt1-PgH4468.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a75ae7</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H4468</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-05-23/CREC-2017-05-23-pt1-PgH4468</identifier>
+<identifier type="former granule identifier">cr23my17-94</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-05-23/CREC-2017-05-23-pt1-PgH4468/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-23/pdf/CREC-2017-05-23-pt1-PgH4468.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-23/html/CREC-2017-05-23-pt1-PgH4468.htm</url>
+</location>
+<physicalDescription>
+<extent>2 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H4468</start>
+<end>H4469</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>David P. Roe</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Timothy J. Walz</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Lee M. Zeldin</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ryan A. Costello</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H4468</identifier>
+<extension>
+<searchTitle>IMPROVING THE PROVISION OF ADULT DAY HEALTH CARE SERVICES FOR VETERANS; Congressional Record Vol. 163, No. 89</searchTitle>
+<associatedBills>H.R. 1005, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-05-23-pt1-PgH4468</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-05-23</granuleDate>
+<time from="15:15:00" to="15:15:00"/>
+<bill congress="115" context="HEADERLINE" number="1005" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="1005" type="HR"/>
+<bill congress="115" context="OTHER" number="1005" type="HR"/>
+<congMember authorityId="1954" bioGuideId="R000582" chamber="H" congress="115" gpoId="8148" party="R" role="SPEAKING" state="TN">
+<name type="parsed">Mr. ROE of Tennessee</name>
+<name type="authority-fnf">David P. Roe</name>
+<name type="authority-lnf">Roe, David P.</name>
+<name type="authority-other">Mr. David Roe</name>
+</congMember>
+<congMember authorityId="1856" bioGuideId="W000799" chamber="H" congress="115" gpoId="8001" party="D" role="SPEAKING" state="MN">
+<name type="parsed">Mr. WALZ</name>
+<name type="authority-fnf">Timothy J. Walz</name>
+<name type="authority-lnf">Walz, Timothy J.</name>
+<name type="authority-other">Mr. Timothy Walz</name>
+</congMember>
+<congMember authorityId="2261" bioGuideId="Z000017" chamber="H" congress="115" party="R" role="SPEAKING" state="NY">
+<name type="parsed">Mr. ZELDIN</name>
+<name type="authority-fnf">Lee M. Zeldin</name>
+<name type="authority-lnf">Zeldin, Lee M.</name>
+<name type="authority-other">Mr. Lee Zeldin</name>
+</congMember>
+<congMember authorityId="2266" bioGuideId="C001106" chamber="H" congress="115" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. COSTELLO of Pennsylvania</name>
+<name type="authority-fnf">Ryan A. Costello</name>
+<name type="authority-lnf">Costello, Ryan A.</name>
+<name type="authority-other">Mr. Ryan Costello</name>
+</congMember>
+<USCode title="38">
+<section number="1745"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1005  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1005</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1005  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1005</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1005  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1005</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 38 Section 1745</partNumber>
+</titleInfo>
+<identifier type="USC citation">38 U.S.C. 1745</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee194efbb42" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 89</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-23/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-23/pdf/CREC-2017-05-23.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H4427</start>
+<end>H4505</end>
+</extent>
+<extent unit="pages">
+<start>S3075</start>
+<end>S3102</end>
+</extent>
+<extent unit="pages">
+<start>E697</start>
+<end>E704</end>
+</extent>
+<extent unit="pages">
+<start>D566</start>
+<end>D574</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-05-23</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>248 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-23</identifier>
+<identifier type="local">P0b002ee194efbb42</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr23my17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-05-24</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-05-23</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-05-23</accessId>
+<volume>163</volume>
+<issue>89</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

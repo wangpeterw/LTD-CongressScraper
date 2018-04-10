@@ -1,0 +1,3111 @@
+<mods ID="id-CREC-2017-07-26-pt1-PgH6335" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-07-27</dateIngested>
+</extension>
+<titleInfo>
+<title>DEPARTMENT OF DEFENSE APPROPRIATIONS ACT, 2018</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-07-26/html/CREC-2017-07-26-pt1-PgH6335.htm">
+<identifier type="FDsys Unique ID">D09002ee195c41e83</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-07-26/pdf/CREC-2017-07-26-pt1-PgH6335.pdf">
+<identifier type="FDsys Unique ID">D09002ee195c4203c</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H6335</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-07-26/CREC-2017-07-26-pt1-PgH6335</identifier>
+<identifier type="former granule identifier">cr26jy17-113</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-07-26/CREC-2017-07-26-pt1-PgH6335/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-26/pdf/CREC-2017-07-26-pt1-PgH6335.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-26/html/CREC-2017-07-26-pt1-PgH6335.htm</url>
+</location>
+<physicalDescription>
+<extent>94 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H6335</start>
+<end>H6428</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Rodney P. Frelinghuysen</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Nita M. Lowey</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Harold Rogers</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Marcy Kaptur</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Kay Granger</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Lucille Roybal-Allard</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Michael K. Simpson</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tim Ryan</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Charles W. Dent</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Nancy Pelosi</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Kevin Yoder</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Steny H. Hoyer</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ken Calvert</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Debbie Wasserman Schultz</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Steven M. Palazzo</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Peter J. Visclosky</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Leonard Lance</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Rosa L. DeLauro</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Don Young</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Derek Kilmer</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Lamar Smith</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Henry Cuellar</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Randy K. Weber, Sr.</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Gene Green</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Trey Gowdy</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Eddie Bernice Johnson</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>David Young</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Gerald E. Connolly</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mia B. Love</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Cedric L. Richmond</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jim Bridenstine</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Daniel T. Kildee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Scott Perry</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John A. Yarmuth</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>H. Morgan Griffith</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mark Meadows</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Diane Black</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Richard E. Neal</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jim Costa</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Donald S. Beyer, Jr.</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>David N. Cicilline</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mark Takano</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bill Foster</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Carol Shea-Porter</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Rodney Davis</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Steve Russell</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jack Bergman</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mark Pocan</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Donald Norcross</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ruben J. Kihuen</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheila Jackson Lee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Al Green</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Al Green</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Ratcliffe</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Dave Brat</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ted Poe</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Dina Titus</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Steve King</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John J. Faso</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Appropriations</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Science, Space, and Technology</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Armed Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Appropriations</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Permanent Select Committee on Intelligence</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Select Committee on Intelligence</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Armed Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Foreign Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on House Administration</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart/>
+<namePart>Joint Committee on Taxation</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart/>
+<namePart>Joint Committee on the Library</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Rules and Administration</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Rules</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Oversight and Government Reform</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H6335</identifier>
+<extension>
+<searchTitle>DEPARTMENT OF DEFENSE APPROPRIATIONS ACT, 2018; Congressional Record Vol. 163, No. 126</searchTitle>
+<associatedBills>H.R. 3219, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-07-26-pt1-PgH6335</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-07-26</granuleDate>
+<time from="15:00:00" to="19:30:00"/>
+<congReport congress="115" context="OTHER" number="188" type="H"/>
+<congReport congress="115" context="OTHER" number="199" type="H"/>
+<congReport congress="115" context="OTHER" number="219" type="H"/>
+<congReport congress="115" context="OTHER" number="230" type="H"/>
+<congReport congress="115" context="OTHER" number="259" type="H"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="1"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="2"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="3"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="4"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="7"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="8"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="9"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="11"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="12"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="14"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="15"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="17"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="18"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="22"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="25"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="26"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="13"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="20"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="21"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="23"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="27"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="30"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="33"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="34"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="45"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="47"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="48"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="66"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="67"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="68"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="69"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="1"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="1"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="2"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="2"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="3"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="3"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="4"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="4"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="5"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="6"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="6"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="7"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="7"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="8"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="8"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="9"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="9"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="10"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="11"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="11"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="12"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="14"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="15"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="16"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="17"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="18"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="22"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="25"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="26"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="22"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="22"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="22"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="22"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="25"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="25"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="25"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="25"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="13"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="13"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="20"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="20"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="21"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="21"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="23"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="23"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="24"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="27"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="27"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="28"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="29"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="30"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="33"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="34"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="45"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="47"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="48"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="66"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="67"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="68"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="69"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="31"/>
+<bill congress="115" context="OTHER" number="195" type="HR"/>
+<bill congress="115" context="OTHER" number="473" type="HRES"/>
+<bill congress="115" context="OTHER" number="589" type="HR"/>
+<bill congress="115" context="HEADERLINE" number="3219" type="HR"/>
+<bill congress="115" context="OTHER" number="3219" type="HR"/>
+<bill congress="115" context="OTHER" number="3266" type="HR"/>
+<bill congress="115" context="OTHER" number="5147" type="HR"/>
+<congCommittee authorityId="hsap00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Appropriations</name>
+<name type="authority-short">Appropriations</name>
+</congCommittee>
+<congCommittee authorityId="hssy00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Science, Space, and Technology</name>
+<name type="authority-short">Science, Space, and Technology</name>
+</congCommittee>
+<congCommittee authorityId="hsas00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Armed Services</name>
+<name type="authority-short">Armed Services</name>
+</congCommittee>
+<congCommittee authorityId="ssap00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Appropriations</name>
+<name type="authority-short">Appropriations</name>
+</congCommittee>
+<congCommittee authorityId="hlig00" chamber="H" congress="115" type="L">
+<name type="authority-standard">Permanent Select Committee on Intelligence</name>
+<name type="authority-short">Intelligence (Permanent)</name>
+</congCommittee>
+<congCommittee authorityId="slin00" chamber="S" congress="115" type="L">
+<name type="authority-standard">Select Committee on Intelligence</name>
+<name type="authority-short">Intelligence</name>
+</congCommittee>
+<congCommittee authorityId="ssas00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Armed Services</name>
+<name type="authority-short">Armed Services</name>
+</congCommittee>
+<congCommittee authorityId="hsfa00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Foreign Affairs</name>
+<name type="authority-short">Foreign Affairs</name>
+</congCommittee>
+<congCommittee authorityId="hsha00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on House Administration</name>
+<name type="authority-short">House Administration</name>
+</congCommittee>
+<congCommittee authorityId="jstx00" chamber="J" congress="115" type="J">
+<name type="authority-standard">Joint Committee on Taxation</name>
+<name type="authority-short">Joint Taxation</name>
+</congCommittee>
+<congCommittee authorityId="jslc00" chamber="J" congress="115" type="J">
+<name type="authority-standard">Joint Committee on the Library</name>
+<name type="authority-short">Joint Library</name>
+</congCommittee>
+<congCommittee authorityId="ssra00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Rules and Administration</name>
+<name type="authority-short">Rules and Administration</name>
+</congCommittee>
+<congCommittee authorityId="hsru00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Rules</name>
+<name type="authority-short">Rules</name>
+</congCommittee>
+<congCommittee authorityId="hsgo00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Oversight and Government Reform</name>
+<name type="authority-short">Oversight and Government Reform</name>
+</congCommittee>
+<congMember authorityId="414" bioGuideId="F000372" chamber="H" congress="115" gpoId="8053" party="R" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. FRELINGHUYSEN</name>
+<name type="authority-fnf">Rodney P. Frelinghuysen</name>
+<name type="authority-lnf">Frelinghuysen, Rodney P.</name>
+<name type="authority-other">Rodney Frelinghuysen</name>
+</congMember>
+<congMember authorityId="709" bioGuideId="L000480" chamber="H" congress="115" gpoId="8079" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mrs. LOWEY</name>
+<name type="authority-fnf">Nita M. Lowey</name>
+<name type="authority-lnf">Lowey, Nita M.</name>
+<name type="authority-other">Nita Lowey</name>
+</congMember>
+<congMember authorityId="977" bioGuideId="R000395" chamber="H" congress="115" gpoId="7957" party="R" role="SPEAKING" state="KY">
+<name type="parsed">Mr. ROGERS of Kentucky</name>
+<name type="authority-fnf">Harold Rogers</name>
+<name type="authority-lnf">Rogers, Harold</name>
+</congMember>
+<congMember authorityId="616" bioGuideId="K000009" chamber="H" congress="115" gpoId="8099" party="D" role="SPEAKING" state="OH">
+<name type="parsed">Ms. KAPTUR</name>
+<name type="authority-fnf">Marcy Kaptur</name>
+<name type="authority-lnf">Kaptur, Marcy</name>
+</congMember>
+<congMember authorityId="1487" bioGuideId="G000377" chamber="H" congress="115" gpoId="8168" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Ms. GRANGER</name>
+<name type="authority-fnf">Kay Granger</name>
+<name type="authority-lnf">Granger, Kay</name>
+</congMember>
+<congMember authorityId="997" bioGuideId="R000486" chamber="H" congress="115" gpoId="7839" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. ROYBAL-ALLARD</name>
+<name type="authority-fnf">Lucille Roybal-Allard</name>
+<name type="authority-lnf">Roybal-Allard, Lucille</name>
+</congMember>
+<congMember authorityId="1590" bioGuideId="S001148" chamber="H" congress="115" gpoId="7920" party="R" role="SPEAKING" state="ID">
+<name type="parsed">Mr. SIMPSON</name>
+<name type="authority-fnf">Michael K. Simpson</name>
+<name type="authority-lnf">Simpson, Michael K.</name>
+<name type="authority-other">Michael Simpson</name>
+</congMember>
+<congMember authorityId="1756" bioGuideId="R000577" chamber="H" congress="115" gpoId="8107" party="D" role="SPEAKING" state="OH">
+<name type="parsed">Mr. RYAN of Ohio</name>
+<name type="authority-fnf">Tim Ryan</name>
+<name type="authority-lnf">Ryan, Tim</name>
+</congMember>
+<congMember authorityId="1799" bioGuideId="D000604" chamber="H" congress="115" gpoId="8133" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. DENT</name>
+<name type="authority-fnf">Charles W. Dent</name>
+<name type="authority-lnf">Dent, Charles W.</name>
+<name type="authority-other">Mr. Charles Dent</name>
+</congMember>
+<congMember authorityId="905" bioGuideId="P000197" chamber="H" congress="115" gpoId="7813" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. PELOSI</name>
+<name type="authority-fnf">Nancy Pelosi</name>
+<name type="authority-lnf">Pelosi, Nancy</name>
+</congMember>
+<congMember authorityId="2021" bioGuideId="Y000063" chamber="H" congress="115" gpoId="7951" party="R" role="SPEAKING" state="KS">
+<name type="parsed">Mr. YODER</name>
+<name type="authority-fnf">Kevin Yoder</name>
+<name type="authority-lnf">Yoder, Kevin</name>
+</congMember>
+<congMember authorityId="566" bioGuideId="H000874" chamber="H" congress="115" gpoId="7980" party="D" role="SPEAKING" state="MD">
+<name type="parsed">Mr. HOYER</name>
+<name type="authority-fnf">Steny H. Hoyer</name>
+<name type="authority-lnf">Hoyer, Steny H.</name>
+<name type="authority-other">Steny Hoyer</name>
+</congMember>
+<congMember authorityId="165" bioGuideId="C000059" chamber="H" congress="115" gpoId="7849" party="R" role="SPEAKING" state="CA">
+<name type="parsed">Mr. CALVERT</name>
+<name type="authority-fnf">Ken Calvert</name>
+<name type="authority-lnf">Calvert, Ken</name>
+</congMember>
+<congMember authorityId="1777" bioGuideId="W000797" chamber="H" congress="115" gpoId="7892" party="D" role="SPEAKING" state="FL">
+<name type="parsed">Ms. WASSERMAN SCHULTZ</name>
+<name type="authority-fnf">Debbie Wasserman Schultz</name>
+<name type="authority-lnf">Wasserman Schultz, Debbie</name>
+</congMember>
+<congMember authorityId="2035" bioGuideId="P000601" chamber="H" congress="115" gpoId="8022" party="R" role="SPEAKING" state="MS">
+<name type="parsed">Mr. PALAZZO</name>
+<name type="authority-fnf">Steven M. Palazzo</name>
+<name type="authority-lnf">Palazzo, Steven M.</name>
+<name type="authority-other">Mr. Steven Palazzo</name>
+</congMember>
+<congMember authorityId="1188" bioGuideId="V000108" chamber="H" congress="115" gpoId="7940" party="D" role="SPEAKING" state="IN">
+<name type="parsed">Mr. VISCLOSKY</name>
+<name type="authority-fnf">Peter J. Visclosky</name>
+<name type="authority-lnf">Visclosky, Peter J.</name>
+<name type="authority-other">Peter Visclosky</name>
+</congMember>
+<congMember authorityId="1936" bioGuideId="L000567" chamber="H" congress="115" gpoId="8049" party="R" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. LANCE</name>
+<name type="authority-fnf">Leonard Lance</name>
+<name type="authority-lnf">Lance, Leonard</name>
+</congMember>
+<congMember authorityId="281" bioGuideId="D000216" chamber="H" congress="115" gpoId="7868" party="D" role="SPEAKING" state="CT">
+<name type="parsed">Ms. DeLAURO</name>
+<name type="authority-fnf">Rosa L. DeLauro</name>
+<name type="authority-lnf">DeLauro, Rosa L.</name>
+<name type="authority-other">Rosa Delauro</name>
+</congMember>
+<congMember authorityId="1256" bioGuideId="Y000033" chamber="H" congress="115" gpoId="7785" party="R" role="SPEAKING" state="AK">
+<name type="parsed">Mr. YOUNG of Alaska</name>
+<name type="authority-fnf">Don Young</name>
+<name type="authority-lnf">Young, Don</name>
+<name type="authority-other">Don E. Young</name>
+</congMember>
+<congMember authorityId="2169" bioGuideId="K000381" chamber="H" congress="115" party="D" role="SPEAKING" state="WA">
+<name type="parsed">Mr. KILMER</name>
+<name type="authority-fnf">Derek Kilmer</name>
+<name type="authority-lnf">Kilmer, Derek</name>
+</congMember>
+<congMember authorityId="1075" bioGuideId="S000583" chamber="H" congress="115" gpoId="8177" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. SMITH of Texas</name>
+<name type="authority-fnf">Lamar Smith</name>
+<name type="authority-lnf">Smith, Lamar</name>
+</congMember>
+<congMember authorityId="1807" bioGuideId="C001063" chamber="H" congress="115" gpoId="8184" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Mr. CUELLAR</name>
+<name type="authority-fnf">Henry Cuellar</name>
+<name type="authority-lnf">Cuellar, Henry</name>
+</congMember>
+<congMember authorityId="2161" bioGuideId="W000814" chamber="H" congress="115" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. WEBER of Texas</name>
+<name type="authority-fnf">Randy K. Weber, Sr.</name>
+<name type="authority-lnf">Weber, Randy K., Sr.</name>
+<name type="authority-other">Mr. Randy Weber Sr.</name>
+</congMember>
+<congMember authorityId="462" bioGuideId="G000410" chamber="H" congress="115" gpoId="8185" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Mr. GENE GREEN of Texas</name>
+<name type="authority-fnf">Gene Green</name>
+<name type="authority-lnf">Green, Gene</name>
+</congMember>
+<congMember authorityId="2058" bioGuideId="G000566" chamber="H" congress="115" gpoId="8144" party="R" role="SPEAKING" state="SC">
+<name type="parsed">Mr. GOWDY</name>
+<name type="authority-fnf">Trey Gowdy</name>
+<name type="authority-lnf">Gowdy, Trey</name>
+</congMember>
+<congMember authorityId="599" bioGuideId="J000126" chamber="H" congress="115" gpoId="8186" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Ms. EDDIE BERNICE JOHNSON of Texas</name>
+<name type="authority-fnf">Eddie Bernice Johnson</name>
+<name type="authority-lnf">Johnson, Eddie Bernice</name>
+<name type="authority-other">Eddie Johnson</name>
+</congMember>
+<congMember authorityId="2242" bioGuideId="Y000066" chamber="H" congress="115" party="R" role="SPEAKING" state="IA">
+<name type="parsed">Mr. YOUNG of Iowa</name>
+<name type="authority-fnf">David Young</name>
+<name type="authority-lnf">Young, David</name>
+</congMember>
+<congMember authorityId="1959" bioGuideId="C001078" chamber="H" congress="115" gpoId="8202" party="D" role="SPEAKING" state="VA">
+<name type="parsed">Mr. CONNOLLY</name>
+<name type="authority-fnf">Gerald E. Connolly</name>
+<name type="authority-lnf">Connolly, Gerald E.</name>
+<name type="authority-other">Mr. Gerald Connolly</name>
+</congMember>
+<congMember authorityId="2271" bioGuideId="L000584" chamber="H" congress="115" party="R" role="SPEAKING" state="UT">
+<name type="parsed">Mrs. LOVE</name>
+<name type="authority-fnf">Mia B. Love</name>
+<name type="authority-lnf">Love, Mia B.</name>
+<name type="authority-other">Mrs. Mia Love</name>
+</congMember>
+<congMember authorityId="2023" bioGuideId="R000588" chamber="H" congress="115" gpoId="7960" party="D" role="SPEAKING" state="LA">
+<name type="parsed">Mr. RICHMOND</name>
+<name type="authority-fnf">Cedric L. Richmond</name>
+<name type="authority-lnf">Richmond, Cedric L.</name>
+<name type="authority-other">Mr. Cedric Richmond</name>
+</congMember>
+<congMember authorityId="2155" bioGuideId="B001283" chamber="H" congress="115" party="R" role="SPEAKING" state="OK">
+<name type="parsed">Mr. BRIDENSTINE</name>
+<name type="authority-fnf">Jim Bridenstine</name>
+<name type="authority-lnf">Bridenstine, Jim</name>
+</congMember>
+<congMember authorityId="2134" bioGuideId="K000380" chamber="H" congress="115" party="D" role="SPEAKING" state="MI">
+<name type="parsed">Mr. KILDEE</name>
+<name type="authority-fnf">Daniel T. Kildee</name>
+<name type="authority-lnf">Kildee, Daniel T.</name>
+<name type="authority-other">Mr. Daniel Kildee</name>
+</congMember>
+<congMember authorityId="2157" bioGuideId="P000605" chamber="H" congress="115" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. PERRY</name>
+<name type="authority-fnf">Scott Perry</name>
+<name type="authority-lnf">Perry, Scott</name>
+</congMember>
+<congMember authorityId="1853" bioGuideId="Y000062" chamber="H" congress="115" gpoId="7955" party="D" role="SPEAKING" state="KY">
+<name type="parsed">Mr. YARMUTH</name>
+<name type="authority-fnf">John A. Yarmuth</name>
+<name type="authority-lnf">Yarmuth, John A.</name>
+<name type="authority-other">Mr. John Yarmuth</name>
+</congMember>
+<congMember authorityId="2070" bioGuideId="G000568" chamber="H" congress="115" gpoId="8200" party="R" role="SPEAKING" state="VA">
+<name type="parsed">Mr. GRIFFITH</name>
+<name type="authority-fnf">H. Morgan Griffith</name>
+<name type="authority-lnf">Griffith, H. Morgan</name>
+</congMember>
+<congMember authorityId="2142" bioGuideId="M001187" chamber="H" congress="115" party="R" role="SPEAKING" state="NC">
+<name type="parsed">Mr. MEADOWS</name>
+<name type="authority-fnf">Mark Meadows</name>
+<name type="authority-lnf">Meadows, Mark</name>
+</congMember>
+<congMember authorityId="2063" bioGuideId="B001273" chamber="H" congress="115" gpoId="8153" party="R" role="SPEAKING" state="TN">
+<name type="parsed">Mrs. BLACK</name>
+<name type="authority-fnf">Diane Black</name>
+<name type="authority-lnf">Black, Diane</name>
+</congMember>
+<congMember authorityId="854" bioGuideId="N000015" chamber="H" congress="115" gpoId="7967" party="D" role="SPEAKING" state="MA">
+<name type="parsed">Mr. NEAL</name>
+<name type="authority-fnf">Richard E. Neal</name>
+<name type="authority-lnf">Neal, Richard E.</name>
+<name type="authority-other">Richard Neal</name>
+</congMember>
+<congMember authorityId="1774" bioGuideId="C001059" chamber="H" congress="115" gpoId="7825" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. COSTA</name>
+<name type="authority-fnf">Jim Costa</name>
+<name type="authority-lnf">Costa, Jim</name>
+</congMember>
+<congMember authorityId="2272" bioGuideId="B001292" chamber="H" congress="115" party="D" role="SPEAKING" state="VA">
+<name type="parsed">Mr. BEYER</name>
+<name type="authority-fnf">Donald S. Beyer, Jr.</name>
+<name type="authority-lnf">Beyer, Donald S., Jr.</name>
+<name type="authority-other">Mr. Donald Beyer Jr.</name>
+</congMember>
+<congMember authorityId="2055" bioGuideId="C001084" chamber="H" congress="115" gpoId="8139" party="D" role="SPEAKING" state="RI">
+<name type="parsed">Mr. CICILLINE</name>
+<name type="authority-fnf">David N. Cicilline</name>
+<name type="authority-lnf">Cicilline, David N.</name>
+<name type="authority-other">Mr. David Cicilline</name>
+</congMember>
+<congMember authorityId="2110" bioGuideId="T000472" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. TAKANO</name>
+<name type="authority-fnf">Mark Takano</name>
+<name type="authority-lnf">Takano, Mark</name>
+</congMember>
+<congMember authorityId="1888" bioGuideId="F000454" chamber="H" congress="115" gpoId="7355" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Mr. FOSTER</name>
+<name type="authority-fnf">Bill Foster</name>
+<name type="authority-lnf">Foster, Bill</name>
+</congMember>
+<congMember authorityId="1861" bioGuideId="S001170" chamber="H" congress="115" gpoId="7528" party="D" role="SPEAKING" state="NH">
+<name type="parsed">Ms. SHEA-PORTER</name>
+<name type="authority-fnf">Carol Shea-Porter</name>
+<name type="authority-lnf">Shea-Porter, Carol</name>
+</congMember>
+<congMember authorityId="2126" bioGuideId="D000619" chamber="H" congress="115" party="R" role="SPEAKING" state="IL">
+<name type="parsed">Mr. RODNEY DAVIS of Illinois</name>
+<name type="authority-fnf">Rodney Davis</name>
+<name type="authority-lnf">Davis, Rodney</name>
+</congMember>
+<congMember authorityId="2265" bioGuideId="R000604" chamber="H" congress="115" party="R" role="SPEAKING" state="OK">
+<name type="parsed">Mr. RUSSELL</name>
+<name type="authority-fnf">Steve Russell</name>
+<name type="authority-lnf">Russell, Steve</name>
+</congMember>
+<congMember authorityId="2333" bioGuideId="B001301" chamber="H" congress="115" party="R" role="SPEAKING" state="MI">
+<name type="parsed">Mr. BERGMAN</name>
+<name type="authority-fnf">Jack Bergman</name>
+<name type="authority-lnf">Bergman, Jack</name>
+</congMember>
+<congMember authorityId="2171" bioGuideId="P000607" chamber="H" congress="115" party="D" role="SPEAKING" state="WI">
+<name type="parsed">Mr. POCAN</name>
+<name type="authority-fnf">Mark Pocan</name>
+<name type="authority-lnf">Pocan, Mark</name>
+</congMember>
+<congMember authorityId="2202" bioGuideId="N000188" chamber="H" congress="115" party="D" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. NORCROSS</name>
+<name type="authority-fnf">Donald Norcross</name>
+<name type="authority-lnf">Norcross, Donald</name>
+</congMember>
+<congMember authorityId="2340" bioGuideId="K000390" chamber="H" congress="115" party="D" role="SPEAKING" state="NV">
+<name type="parsed">Mr. KIHUEN</name>
+<name type="authority-fnf">Ruben J. Kihuen</name>
+<name type="authority-lnf">Kihuen, Ruben J.</name>
+<name type="authority-other">Mr. Ruben Kihuen</name>
+</congMember>
+<congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="115" gpoId="8174" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Ms. JACKSON LEE</name>
+<name type="authority-fnf">Sheila Jackson Lee</name>
+<name type="authority-lnf">Jackson Lee, Sheila</name>
+</congMember>
+<congMember authorityId="1803" bioGuideId="G000553" chamber="H" congress="115" gpoId="8165" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Mr. AL GREEN of Texas</name>
+<name type="authority-fnf">Al Green</name>
+<name type="authority-lnf">Green, Al</name>
+</congMember>
+<congMember authorityId="1803" bioGuideId="G000553" chamber="H" congress="115" gpoId="8165" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Mr. AL GREEN</name>
+<name type="authority-fnf">Al Green</name>
+<name type="authority-lnf">Green, Al</name>
+</congMember>
+<congMember authorityId="2268" bioGuideId="R000601" chamber="H" congress="115" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. RATCLIFFE</name>
+<name type="authority-fnf">John Ratcliffe</name>
+<name type="authority-lnf">Ratcliffe, John</name>
+</congMember>
+<congMember authorityId="2203" bioGuideId="B001290" chamber="H" congress="115" party="R" role="SPEAKING" state="VA">
+<name type="parsed">Mr. BRAT</name>
+<name type="authority-fnf">Dave Brat</name>
+<name type="authority-lnf">Brat, Dave</name>
+</congMember>
+<congMember authorityId="1802" bioGuideId="P000592" chamber="H" congress="115" gpoId="8158" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. POE of Texas</name>
+<name type="authority-fnf">Ted Poe</name>
+<name type="authority-lnf">Poe, Ted</name>
+</congMember>
+<congMember authorityId="1940" bioGuideId="T000468" chamber="H" congress="115" gpoId="7493" party="D" role="SPEAKING" state="NV">
+<name type="parsed">Ms. TITUS</name>
+<name type="authority-fnf">Dina Titus</name>
+<name type="authority-lnf">Titus, Dina</name>
+</congMember>
+<congMember authorityId="1724" bioGuideId="K000362" chamber="H" congress="115" gpoId="7918" party="R" role="SPEAKING" state="IA">
+<name type="parsed">Mr. KING of Iowa</name>
+<name type="authority-fnf">Steve King</name>
+<name type="authority-lnf">King, Steve</name>
+</congMember>
+<congMember authorityId="2343" bioGuideId="F000464" chamber="H" congress="115" party="R" role="SPEAKING" state="NY">
+<name type="parsed">Mr. FASO</name>
+<name type="authority-fnf">John J. Faso</name>
+<name type="authority-lnf">Faso, John J.</name>
+<name type="authority-other">Mr. John Faso</name>
+</congMember>
+<law congress="93" isPrivate="false" number="454"/>
+<law congress="95" isPrivate="false" number="238"/>
+<law congress="97" isPrivate="false" number="377"/>
+<law congress="97" isPrivate="false" number="425"/>
+<law congress="99" isPrivate="false" number="239"/>
+<law congress="100" isPrivate="false" number="203"/>
+<law congress="101" isPrivate="false" number="510"/>
+<law congress="102" isPrivate="false" number="229"/>
+<law congress="102" isPrivate="false" number="575"/>
+<law congress="103" isPrivate="false" number="454"/>
+<law congress="104" isPrivate="false" number="303"/>
+<law congress="105" isPrivate="false" number="277"/>
+<law congress="106" isPrivate="false" number="113"/>
+<law congress="107" isPrivate="false" number="40"/>
+<law congress="107" isPrivate="false" number="243"/>
+<law congress="109" isPrivate="false" number="148"/>
+<law congress="110" isPrivate="false" number="181"/>
+<law congress="110" isPrivate="false" number="417"/>
+<law congress="110" isPrivate="false" number="457"/>
+<law congress="111" isPrivate="false" number="11"/>
+<law congress="111" isPrivate="false" number="84"/>
+<law congress="111" isPrivate="false" number="163"/>
+<law congress="112" isPrivate="false" number="10"/>
+<law congress="112" isPrivate="false" number="81"/>
+<law congress="113" isPrivate="false" number="66"/>
+<law congress="114" isPrivate="false" number="58"/>
+<law congress="114" isPrivate="false" number="74"/>
+<law congress="114" isPrivate="false" number="92"/>
+<law congress="114" isPrivate="false" number="223"/>
+<law congress="114" isPrivate="false" number="328"/>
+<law congress="115" isPrivate="false" number="31"/>
+<USCode title="2">
+<section number="1105"/>
+<section number="1151"/>
+<section number="135a"/>
+<section number="1385"/>
+<section number="150"/>
+<section number="166"/>
+<section number="2146"/>
+<section number="4302"/>
+<section number="4501"/>
+<section detail="(1)" number="4532"/>
+<section detail="et seq." number="471"/>
+<section number="5535"/>
+<section detail="(a)" number="5545"/>
+</USCode>
+<USCode title="5">
+<section detail="(1)" number="2101"/>
+<section number="3109"/>
+<section detail="(b)" number="3109"/>
+<section number="5332"/>
+<section number="5901"/>
+<section number="5902"/>
+<section number="7901"/>
+<section number="7904"/>
+<chapter number="89"/>
+</USCode>
+<USCode title="8">
+<section detail="note" number="1231"/>
+</USCode>
+<USCode title="10">
+<section number="401"/>
+<section number="10211"/>
+<section number="10302"/>
+<section number="10305"/>
+<section detail="(c)(4)(A)" number="1074"/>
+<section detail="(d)" number="12301"/>
+<section detail="(a)" number="12310"/>
+<section detail="(b)" number="12310"/>
+<section number="130h"/>
+<section number="16131"/>
+<section number="166a"/>
+<section number="1705"/>
+<section number="2012"/>
+<section number="2208"/>
+<section number="2218a"/>
+<section detail="note" number="2302"/>
+<section number="2304"/>
+<section detail="(c)" number="2350j"/>
+<section detail="note" number="2358"/>
+<section number="2410f"/>
+<section detail="(1)(D)" number="2411"/>
+<section number="2461"/>
+<section number="2469"/>
+<section number="2474"/>
+<section detail="(d)" number="2493"/>
+<section number="2531"/>
+<section detail="(b)" number="2533a"/>
+<section number="2557"/>
+<section number="2561"/>
+<section number="2667"/>
+<section detail="note" number="2687"/>
+<section number="2806"/>
+<section number="2814"/>
+<section number="2854"/>
+<section number="2883"/>
+<section detail="(b)(3)" number="3016"/>
+<section number="3038"/>
+<section number="333"/>
+<section number="401"/>
+<section detail="(d)" number="401"/>
+<section number="402"/>
+<section number="404"/>
+<section number="407"/>
+<section number="4727"/>
+<section number="480"/>
+<section number="8038"/>
+<chapter number="163"/>
+<chapter number="169"/>
+<chapter number="1803"/>
+<chapter number="20"/>
+<chapter number="20"/>
+</USCode>
+<USCode title="15">
+<section detail="(a)(15)" number="637"/>
+</USCode>
+<USCode title="16">
+<section number="1706"/>
+<section number="6806"/>
+<section number="825s"/>
+</USCode>
+<USCode title="17">
+<section detail="(d)" number="708"/>
+</USCode>
+<USCode title="18">
+<section number="1913"/>
+<section number="2340A"/>
+<section detail="(8)" number="2510"/>
+</USCode>
+<USCode title="19">
+<section detail="et seq." number="2501"/>
+</USCode>
+<USCode title="22">
+<section number="2370c-1"/>
+<section number="2780"/>
+<section number="2785"/>
+<section detail="(5)" number="4081"/>
+</USCode>
+<USCode title="23">
+<section number="210"/>
+</USCode>
+<USCode title="25">
+<section number="1544"/>
+<section detail="(9)" number="4221"/>
+<section detail="(e)" number="450b"/>
+<section number="479a-1"/>
+</USCode>
+<USCode title="30">
+<section number="1602"/>
+<section number="1603"/>
+<section number="3"/>
+</USCode>
+<USCode title="31">
+<section number="1105"/>
+<section detail="(a)" number="1105"/>
+<section detail="et seq." number="1511"/>
+<section detail="note" number="1551"/>
+<section number="1552"/>
+<section detail="(b)" number="1553"/>
+<section number="3302"/>
+<section number="3324"/>
+<section detail="(a)" number="3328"/>
+<section number="3334"/>
+<section number="3521"/>
+<section detail="(a)" number="3712"/>
+<section number="782"/>
+<section number="791"/>
+<section number="9104"/>
+<section number="9105"/>
+</USCode>
+<USCode title="32">
+<section detail="(f)" number="502"/>
+<section detail="(d)" number="508"/>
+<section number="708"/>
+</USCode>
+<USCode title="33">
+<section number="1251"/>
+<section number="1341"/>
+<section detail="(f)(1)(A)" number="1344"/>
+<section detail="(f)(2)" number="1344"/>
+<section number="2211"/>
+</USCode>
+<USCode title="36">
+<section number="2109"/>
+</USCode>
+<USCode title="38">
+<section number="101"/>
+<section detail="(a)" number="1705"/>
+<section number="1714"/>
+<section detail="(h)" number="1720F"/>
+<section number="1720G"/>
+<section number="1729A"/>
+<section number="1741"/>
+<section number="1787"/>
+<section number="1920"/>
+<section number="1923"/>
+<section number="1955"/>
+<section number="2408"/>
+<section number="3104"/>
+<section detail="(a)" number="3104"/>
+<section detail="(c)" number="5706"/>
+<section number="7251"/>
+<section number="7298"/>
+<section detail="note" number="7681"/>
+<section detail="(a)(3)(A)" number="8104"/>
+<section detail="(b)" number="8109"/>
+<section number="8111"/>
+<section detail="(d)" number="8111"/>
+<section number="8118"/>
+<section number="8131"/>
+<section number="8137"/>
+<chapter number="17"/>
+<chapter number="20"/>
+<chapter number="31"/>
+<chapter number="37"/>
+<chapter number="73"/>
+<chapter number="81"/>
+</USCode>
+<USCode title="39">
+<section detail="(a)(6)" number="3210"/>
+</USCode>
+<USCode title="40">
+<section detail="(b)" number="15751"/>
+<chapter number="31"/>
+</USCode>
+<USCode title="41">
+<section number="103"/>
+<section number="1906"/>
+<section number="8503"/>
+<chapter number="83"/>
+</USCode>
+<USCode title="42">
+<section detail="(b)" number="16512"/>
+<section number="16513"/>
+<section number="17231"/>
+<section number="2214"/>
+<section detail="et seq." number="2286"/>
+<section detail="et seq." number="2651"/>
+<section number="3374"/>
+<section detail="(a)(1)(A)" number="3374"/>
+<section detail="note" number="402"/>
+<section detail="et seq." number="5121"/>
+<section detail="(a)(2)(c)" number="5841"/>
+<section detail="et seq." number="6201"/>
+<section detail="note" number="6239"/>
+<section number="6241"/>
+<section detail="(h)" number="6241"/>
+<section detail="note" number="6241"/>
+<section number="6247"/>
+<section number="7101"/>
+<section detail="et seq." number="7101"/>
+<section number="7152"/>
+<section number="7263"/>
+</USCode>
+<USCode title="43">
+<section number="377"/>
+<section number="392a"/>
+<section number="395"/>
+<section number="397a"/>
+</USCode>
+<USCode title="44">
+<section number="718"/>
+<section number="901"/>
+<section number="902"/>
+<section number="906"/>
+<chapter number="7"/>
+</USCode>
+<USCode title="50">
+<section number="1521"/>
+<section detail="et seq." number="1541"/>
+<section detail="note" number="1541"/>
+<section number="1542"/>
+<section number="1543"/>
+<section detail="(d)" number="3024"/>
+<section number="3093"/>
+<section number="3094"/>
+<section number="4405"/>
+<section number="4518"/>
+<section number="4531"/>
+<section number="4532"/>
+<section number="4533"/>
+<appendix detail="et seq." number="541"/>
+</USCode>
+<statuteAtLarge volume="32">
+<pages pages="480"/>
+</statuteAtLarge>
+<statuteAtLarge volume="46">
+<pages pages="32 et seq."/>
+<pages pages="1487"/>
+</statuteAtLarge>
+<statuteAtLarge volume="60">
+<pages pages="636"/>
+</statuteAtLarge>
+<statuteAtLarge volume="68">
+<pages pages="255"/>
+</statuteAtLarge>
+<statuteAtLarge volume="108">
+<pages pages="4792"/>
+</statuteAtLarge>
+<statuteAtLarge volume="112">
+<pages pages="2681-822"/>
+</statuteAtLarge>
+<statuteAtLarge volume="113">
+<pages pages="1501A-280"/>
+</statuteAtLarge>
+<statuteAtLarge volume="122">
+<pages pages="4500"/>
+</statuteAtLarge>
+<statuteAtLarge volume="123">
+<pages pages="3571"/>
+</statuteAtLarge>
+<statuteAtLarge volume="124">
+<pages pages="1174"/>
+</statuteAtLarge>
+<statuteAtLarge volume="125">
+<pages pages="126"/>
+<pages pages="1621"/>
+</statuteAtLarge>
+<cfr title="10">
+<part number="830"/>
+</cfr>
+<cfr title="48">
+<part detail=".7007" number="225"/>
+</cfr>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 195  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 195</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 473  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 473</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 589  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 589</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3219  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3219</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3219  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3219</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3266  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3266</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 5147  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 5147</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 2 Section 1105</partNumber>
+<partNumber>Title 2 Section 1151</partNumber>
+<partNumber>Title 2 Section 135a</partNumber>
+<partNumber>Title 2 Section 1385</partNumber>
+<partNumber>Title 2 Section 150</partNumber>
+<partNumber>Title 2 Section 166</partNumber>
+<partNumber>Title 2 Section 2146</partNumber>
+<partNumber>Title 2 Section 4302</partNumber>
+<partNumber>Title 2 Section 4501</partNumber>
+<partNumber>Title 2 Section 4532(1)</partNumber>
+<partNumber>Title 2 Section 471et seq.</partNumber>
+<partNumber>Title 2 Section 5535</partNumber>
+<partNumber>Title 2 Section 5545(a)</partNumber>
+</titleInfo>
+<identifier type="USC citation">2 U.S.C. 1105</identifier>
+<identifier type="USC citation">2 U.S.C. 1151</identifier>
+<identifier type="USC citation">2 U.S.C. 135a</identifier>
+<identifier type="USC citation">2 U.S.C. 1385</identifier>
+<identifier type="USC citation">2 U.S.C. 150</identifier>
+<identifier type="USC citation">2 U.S.C. 166</identifier>
+<identifier type="USC citation">2 U.S.C. 2146</identifier>
+<identifier type="USC citation">2 U.S.C. 4302</identifier>
+<identifier type="USC citation">2 U.S.C. 4501</identifier>
+<identifier type="USC citation">2 U.S.C. 4532(1)</identifier>
+<identifier type="USC citation">2 U.S.C. 471et seq.</identifier>
+<identifier type="USC citation">2 U.S.C. 5535</identifier>
+<identifier type="USC citation">2 U.S.C. 5545(a)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 5 Section 2101(1)</partNumber>
+<partNumber>Title 5 Section 3109</partNumber>
+<partNumber>Title 5 Section 3109(b)</partNumber>
+<partNumber>Title 5 Section 5332</partNumber>
+<partNumber>Title 5 Section 5901</partNumber>
+<partNumber>Title 5 Section 5902</partNumber>
+<partNumber>Title 5 Section 7901</partNumber>
+<partNumber>Title 5 Section 7904</partNumber>
+<partNumber>Title 5 Chapter 89</partNumber>
+</titleInfo>
+<identifier type="USC citation">5 U.S.C. 2101(1)</identifier>
+<identifier type="USC citation">5 U.S.C. 3109</identifier>
+<identifier type="USC citation">5 U.S.C. 3109(b)</identifier>
+<identifier type="USC citation">5 U.S.C. 5332</identifier>
+<identifier type="USC citation">5 U.S.C. 5901</identifier>
+<identifier type="USC citation">5 U.S.C. 5902</identifier>
+<identifier type="USC citation">5 U.S.C. 7901</identifier>
+<identifier type="USC citation">5 U.S.C. 7904</identifier>
+<identifier type="USC citation">5 U.S.C. Chapter 89</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 8 Section 1231note</partNumber>
+</titleInfo>
+<identifier type="USC citation">8 U.S.C. 1231note</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 10 Section 401</partNumber>
+<partNumber>Title 10 Section 10211</partNumber>
+<partNumber>Title 10 Section 10302</partNumber>
+<partNumber>Title 10 Section 10305</partNumber>
+<partNumber>Title 10 Section 1074(c)(4)(A)</partNumber>
+<partNumber>Title 10 Section 12301(d)</partNumber>
+<partNumber>Title 10 Section 12310(a)</partNumber>
+<partNumber>Title 10 Section 12310(b)</partNumber>
+<partNumber>Title 10 Section 130h</partNumber>
+<partNumber>Title 10 Section 16131</partNumber>
+<partNumber>Title 10 Section 166a</partNumber>
+<partNumber>Title 10 Section 1705</partNumber>
+<partNumber>Title 10 Section 2012</partNumber>
+<partNumber>Title 10 Section 2208</partNumber>
+<partNumber>Title 10 Section 2218a</partNumber>
+<partNumber>Title 10 Section 2302note</partNumber>
+<partNumber>Title 10 Section 2304</partNumber>
+<partNumber>Title 10 Section 2350j(c)</partNumber>
+<partNumber>Title 10 Section 2358note</partNumber>
+<partNumber>Title 10 Section 2410f</partNumber>
+<partNumber>Title 10 Section 2411(1)(D)</partNumber>
+<partNumber>Title 10 Section 2461</partNumber>
+<partNumber>Title 10 Section 2469</partNumber>
+<partNumber>Title 10 Section 2474</partNumber>
+<partNumber>Title 10 Section 2493(d)</partNumber>
+<partNumber>Title 10 Section 2531</partNumber>
+<partNumber>Title 10 Section 2533a(b)</partNumber>
+<partNumber>Title 10 Section 2557</partNumber>
+<partNumber>Title 10 Section 2561</partNumber>
+<partNumber>Title 10 Section 2667</partNumber>
+<partNumber>Title 10 Section 2687note</partNumber>
+<partNumber>Title 10 Section 2806</partNumber>
+<partNumber>Title 10 Section 2814</partNumber>
+<partNumber>Title 10 Section 2854</partNumber>
+<partNumber>Title 10 Section 2883</partNumber>
+<partNumber>Title 10 Section 3016(b)(3)</partNumber>
+<partNumber>Title 10 Section 3038</partNumber>
+<partNumber>Title 10 Section 333</partNumber>
+<partNumber>Title 10 Section 401</partNumber>
+<partNumber>Title 10 Section 401(d)</partNumber>
+<partNumber>Title 10 Section 402</partNumber>
+<partNumber>Title 10 Section 404</partNumber>
+<partNumber>Title 10 Section 407</partNumber>
+<partNumber>Title 10 Section 4727</partNumber>
+<partNumber>Title 10 Section 480</partNumber>
+<partNumber>Title 10 Section 8038</partNumber>
+<partNumber>Title 10 Chapter 163</partNumber>
+<partNumber>Title 10 Chapter 169</partNumber>
+<partNumber>Title 10 Chapter 1803</partNumber>
+<partNumber>Title 10 Chapter 20</partNumber>
+<partNumber>Title 10 Chapter 20</partNumber>
+</titleInfo>
+<identifier type="USC citation">10 U.S.C. 401</identifier>
+<identifier type="USC citation">10 U.S.C. 10211</identifier>
+<identifier type="USC citation">10 U.S.C. 10302</identifier>
+<identifier type="USC citation">10 U.S.C. 10305</identifier>
+<identifier type="USC citation">10 U.S.C. 1074(c)(4)(A)</identifier>
+<identifier type="USC citation">10 U.S.C. 12301(d)</identifier>
+<identifier type="USC citation">10 U.S.C. 12310(a)</identifier>
+<identifier type="USC citation">10 U.S.C. 12310(b)</identifier>
+<identifier type="USC citation">10 U.S.C. 130h</identifier>
+<identifier type="USC citation">10 U.S.C. 16131</identifier>
+<identifier type="USC citation">10 U.S.C. 166a</identifier>
+<identifier type="USC citation">10 U.S.C. 1705</identifier>
+<identifier type="USC citation">10 U.S.C. 2012</identifier>
+<identifier type="USC citation">10 U.S.C. 2208</identifier>
+<identifier type="USC citation">10 U.S.C. 2218a</identifier>
+<identifier type="USC citation">10 U.S.C. 2302note</identifier>
+<identifier type="USC citation">10 U.S.C. 2304</identifier>
+<identifier type="USC citation">10 U.S.C. 2350j(c)</identifier>
+<identifier type="USC citation">10 U.S.C. 2358note</identifier>
+<identifier type="USC citation">10 U.S.C. 2410f</identifier>
+<identifier type="USC citation">10 U.S.C. 2411(1)(D)</identifier>
+<identifier type="USC citation">10 U.S.C. 2461</identifier>
+<identifier type="USC citation">10 U.S.C. 2469</identifier>
+<identifier type="USC citation">10 U.S.C. 2474</identifier>
+<identifier type="USC citation">10 U.S.C. 2493(d)</identifier>
+<identifier type="USC citation">10 U.S.C. 2531</identifier>
+<identifier type="USC citation">10 U.S.C. 2533a(b)</identifier>
+<identifier type="USC citation">10 U.S.C. 2557</identifier>
+<identifier type="USC citation">10 U.S.C. 2561</identifier>
+<identifier type="USC citation">10 U.S.C. 2667</identifier>
+<identifier type="USC citation">10 U.S.C. 2687note</identifier>
+<identifier type="USC citation">10 U.S.C. 2806</identifier>
+<identifier type="USC citation">10 U.S.C. 2814</identifier>
+<identifier type="USC citation">10 U.S.C. 2854</identifier>
+<identifier type="USC citation">10 U.S.C. 2883</identifier>
+<identifier type="USC citation">10 U.S.C. 3016(b)(3)</identifier>
+<identifier type="USC citation">10 U.S.C. 3038</identifier>
+<identifier type="USC citation">10 U.S.C. 333</identifier>
+<identifier type="USC citation">10 U.S.C. 401</identifier>
+<identifier type="USC citation">10 U.S.C. 401(d)</identifier>
+<identifier type="USC citation">10 U.S.C. 402</identifier>
+<identifier type="USC citation">10 U.S.C. 404</identifier>
+<identifier type="USC citation">10 U.S.C. 407</identifier>
+<identifier type="USC citation">10 U.S.C. 4727</identifier>
+<identifier type="USC citation">10 U.S.C. 480</identifier>
+<identifier type="USC citation">10 U.S.C. 8038</identifier>
+<identifier type="USC citation">10 U.S.C. Chapter 163</identifier>
+<identifier type="USC citation">10 U.S.C. Chapter 169</identifier>
+<identifier type="USC citation">10 U.S.C. Chapter 1803</identifier>
+<identifier type="USC citation">10 U.S.C. Chapter 20</identifier>
+<identifier type="USC citation">10 U.S.C. Chapter 20</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 15 Section 637(a)(15)</partNumber>
+</titleInfo>
+<identifier type="USC citation">15 U.S.C. 637(a)(15)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 16 Section 1706</partNumber>
+<partNumber>Title 16 Section 6806</partNumber>
+<partNumber>Title 16 Section 825s</partNumber>
+</titleInfo>
+<identifier type="USC citation">16 U.S.C. 1706</identifier>
+<identifier type="USC citation">16 U.S.C. 6806</identifier>
+<identifier type="USC citation">16 U.S.C. 825s</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 17 Section 708(d)</partNumber>
+</titleInfo>
+<identifier type="USC citation">17 U.S.C. 708(d)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 18 Section 1913</partNumber>
+<partNumber>Title 18 Section 2340A</partNumber>
+<partNumber>Title 18 Section 2510(8)</partNumber>
+</titleInfo>
+<identifier type="USC citation">18 U.S.C. 1913</identifier>
+<identifier type="USC citation">18 U.S.C. 2340A</identifier>
+<identifier type="USC citation">18 U.S.C. 2510(8)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 19 Section 2501et seq.</partNumber>
+</titleInfo>
+<identifier type="USC citation">19 U.S.C. 2501et seq.</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 22 Section 2370c-1</partNumber>
+<partNumber>Title 22 Section 2780</partNumber>
+<partNumber>Title 22 Section 2785</partNumber>
+<partNumber>Title 22 Section 4081(5)</partNumber>
+</titleInfo>
+<identifier type="USC citation">22 U.S.C. 2370c-1</identifier>
+<identifier type="USC citation">22 U.S.C. 2780</identifier>
+<identifier type="USC citation">22 U.S.C. 2785</identifier>
+<identifier type="USC citation">22 U.S.C. 4081(5)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 23 Section 210</partNumber>
+</titleInfo>
+<identifier type="USC citation">23 U.S.C. 210</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 25 Section 1544</partNumber>
+<partNumber>Title 25 Section 4221(9)</partNumber>
+<partNumber>Title 25 Section 450b(e)</partNumber>
+<partNumber>Title 25 Section 479a-1</partNumber>
+</titleInfo>
+<identifier type="USC citation">25 U.S.C. 1544</identifier>
+<identifier type="USC citation">25 U.S.C. 4221(9)</identifier>
+<identifier type="USC citation">25 U.S.C. 450b(e)</identifier>
+<identifier type="USC citation">25 U.S.C. 479a-1</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 30 Section 1602</partNumber>
+<partNumber>Title 30 Section 1603</partNumber>
+<partNumber>Title 30 Section 3</partNumber>
+</titleInfo>
+<identifier type="USC citation">30 U.S.C. 1602</identifier>
+<identifier type="USC citation">30 U.S.C. 1603</identifier>
+<identifier type="USC citation">30 U.S.C. 3</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 31 Section 1105</partNumber>
+<partNumber>Title 31 Section 1105(a)</partNumber>
+<partNumber>Title 31 Section 1511et seq.</partNumber>
+<partNumber>Title 31 Section 1551note</partNumber>
+<partNumber>Title 31 Section 1552</partNumber>
+<partNumber>Title 31 Section 1553(b)</partNumber>
+<partNumber>Title 31 Section 3302</partNumber>
+<partNumber>Title 31 Section 3324</partNumber>
+<partNumber>Title 31 Section 3328(a)</partNumber>
+<partNumber>Title 31 Section 3334</partNumber>
+<partNumber>Title 31 Section 3521</partNumber>
+<partNumber>Title 31 Section 3712(a)</partNumber>
+<partNumber>Title 31 Section 782</partNumber>
+<partNumber>Title 31 Section 791</partNumber>
+<partNumber>Title 31 Section 9104</partNumber>
+<partNumber>Title 31 Section 9105</partNumber>
+</titleInfo>
+<identifier type="USC citation">31 U.S.C. 1105</identifier>
+<identifier type="USC citation">31 U.S.C. 1105(a)</identifier>
+<identifier type="USC citation">31 U.S.C. 1511et seq.</identifier>
+<identifier type="USC citation">31 U.S.C. 1551note</identifier>
+<identifier type="USC citation">31 U.S.C. 1552</identifier>
+<identifier type="USC citation">31 U.S.C. 1553(b)</identifier>
+<identifier type="USC citation">31 U.S.C. 3302</identifier>
+<identifier type="USC citation">31 U.S.C. 3324</identifier>
+<identifier type="USC citation">31 U.S.C. 3328(a)</identifier>
+<identifier type="USC citation">31 U.S.C. 3334</identifier>
+<identifier type="USC citation">31 U.S.C. 3521</identifier>
+<identifier type="USC citation">31 U.S.C. 3712(a)</identifier>
+<identifier type="USC citation">31 U.S.C. 782</identifier>
+<identifier type="USC citation">31 U.S.C. 791</identifier>
+<identifier type="USC citation">31 U.S.C. 9104</identifier>
+<identifier type="USC citation">31 U.S.C. 9105</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 32 Section 502(f)</partNumber>
+<partNumber>Title 32 Section 508(d)</partNumber>
+<partNumber>Title 32 Section 708</partNumber>
+</titleInfo>
+<identifier type="USC citation">32 U.S.C. 502(f)</identifier>
+<identifier type="USC citation">32 U.S.C. 508(d)</identifier>
+<identifier type="USC citation">32 U.S.C. 708</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 33 Section 1251</partNumber>
+<partNumber>Title 33 Section 1341</partNumber>
+<partNumber>Title 33 Section 1344(f)(1)(A)</partNumber>
+<partNumber>Title 33 Section 1344(f)(2)</partNumber>
+<partNumber>Title 33 Section 2211</partNumber>
+</titleInfo>
+<identifier type="USC citation">33 U.S.C. 1251</identifier>
+<identifier type="USC citation">33 U.S.C. 1341</identifier>
+<identifier type="USC citation">33 U.S.C. 1344(f)(1)(A)</identifier>
+<identifier type="USC citation">33 U.S.C. 1344(f)(2)</identifier>
+<identifier type="USC citation">33 U.S.C. 2211</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 36 Section 2109</partNumber>
+</titleInfo>
+<identifier type="USC citation">36 U.S.C. 2109</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 38 Section 101</partNumber>
+<partNumber>Title 38 Section 1705(a)</partNumber>
+<partNumber>Title 38 Section 1714</partNumber>
+<partNumber>Title 38 Section 1720F(h)</partNumber>
+<partNumber>Title 38 Section 1720G</partNumber>
+<partNumber>Title 38 Section 1729A</partNumber>
+<partNumber>Title 38 Section 1741</partNumber>
+<partNumber>Title 38 Section 1787</partNumber>
+<partNumber>Title 38 Section 1920</partNumber>
+<partNumber>Title 38 Section 1923</partNumber>
+<partNumber>Title 38 Section 1955</partNumber>
+<partNumber>Title 38 Section 2408</partNumber>
+<partNumber>Title 38 Section 3104</partNumber>
+<partNumber>Title 38 Section 3104(a)</partNumber>
+<partNumber>Title 38 Section 5706(c)</partNumber>
+<partNumber>Title 38 Section 7251</partNumber>
+<partNumber>Title 38 Section 7298</partNumber>
+<partNumber>Title 38 Section 7681note</partNumber>
+<partNumber>Title 38 Section 8104(a)(3)(A)</partNumber>
+<partNumber>Title 38 Section 8109(b)</partNumber>
+<partNumber>Title 38 Section 8111</partNumber>
+<partNumber>Title 38 Section 8111(d)</partNumber>
+<partNumber>Title 38 Section 8118</partNumber>
+<partNumber>Title 38 Section 8131</partNumber>
+<partNumber>Title 38 Section 8137</partNumber>
+<partNumber>Title 38 Chapter 17</partNumber>
+<partNumber>Title 38 Chapter 20</partNumber>
+<partNumber>Title 38 Chapter 31</partNumber>
+<partNumber>Title 38 Chapter 37</partNumber>
+<partNumber>Title 38 Chapter 73</partNumber>
+<partNumber>Title 38 Chapter 81</partNumber>
+</titleInfo>
+<identifier type="USC citation">38 U.S.C. 101</identifier>
+<identifier type="USC citation">38 U.S.C. 1705(a)</identifier>
+<identifier type="USC citation">38 U.S.C. 1714</identifier>
+<identifier type="USC citation">38 U.S.C. 1720F(h)</identifier>
+<identifier type="USC citation">38 U.S.C. 1720G</identifier>
+<identifier type="USC citation">38 U.S.C. 1729A</identifier>
+<identifier type="USC citation">38 U.S.C. 1741</identifier>
+<identifier type="USC citation">38 U.S.C. 1787</identifier>
+<identifier type="USC citation">38 U.S.C. 1920</identifier>
+<identifier type="USC citation">38 U.S.C. 1923</identifier>
+<identifier type="USC citation">38 U.S.C. 1955</identifier>
+<identifier type="USC citation">38 U.S.C. 2408</identifier>
+<identifier type="USC citation">38 U.S.C. 3104</identifier>
+<identifier type="USC citation">38 U.S.C. 3104(a)</identifier>
+<identifier type="USC citation">38 U.S.C. 5706(c)</identifier>
+<identifier type="USC citation">38 U.S.C. 7251</identifier>
+<identifier type="USC citation">38 U.S.C. 7298</identifier>
+<identifier type="USC citation">38 U.S.C. 7681note</identifier>
+<identifier type="USC citation">38 U.S.C. 8104(a)(3)(A)</identifier>
+<identifier type="USC citation">38 U.S.C. 8109(b)</identifier>
+<identifier type="USC citation">38 U.S.C. 8111</identifier>
+<identifier type="USC citation">38 U.S.C. 8111(d)</identifier>
+<identifier type="USC citation">38 U.S.C. 8118</identifier>
+<identifier type="USC citation">38 U.S.C. 8131</identifier>
+<identifier type="USC citation">38 U.S.C. 8137</identifier>
+<identifier type="USC citation">38 U.S.C. Chapter 17</identifier>
+<identifier type="USC citation">38 U.S.C. Chapter 20</identifier>
+<identifier type="USC citation">38 U.S.C. Chapter 31</identifier>
+<identifier type="USC citation">38 U.S.C. Chapter 37</identifier>
+<identifier type="USC citation">38 U.S.C. Chapter 73</identifier>
+<identifier type="USC citation">38 U.S.C. Chapter 81</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 39 Section 3210(a)(6)</partNumber>
+</titleInfo>
+<identifier type="USC citation">39 U.S.C. 3210(a)(6)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 40 Section 15751(b)</partNumber>
+<partNumber>Title 40 Chapter 31</partNumber>
+</titleInfo>
+<identifier type="USC citation">40 U.S.C. 15751(b)</identifier>
+<identifier type="USC citation">40 U.S.C. Chapter 31</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 41 Section 103</partNumber>
+<partNumber>Title 41 Section 1906</partNumber>
+<partNumber>Title 41 Section 8503</partNumber>
+<partNumber>Title 41 Chapter 83</partNumber>
+</titleInfo>
+<identifier type="USC citation">41 U.S.C. 103</identifier>
+<identifier type="USC citation">41 U.S.C. 1906</identifier>
+<identifier type="USC citation">41 U.S.C. 8503</identifier>
+<identifier type="USC citation">41 U.S.C. Chapter 83</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 16512(b)</partNumber>
+<partNumber>Title 42 Section 16513</partNumber>
+<partNumber>Title 42 Section 17231</partNumber>
+<partNumber>Title 42 Section 2214</partNumber>
+<partNumber>Title 42 Section 2286et seq.</partNumber>
+<partNumber>Title 42 Section 2651et seq.</partNumber>
+<partNumber>Title 42 Section 3374</partNumber>
+<partNumber>Title 42 Section 3374(a)(1)(A)</partNumber>
+<partNumber>Title 42 Section 402note</partNumber>
+<partNumber>Title 42 Section 5121et seq.</partNumber>
+<partNumber>Title 42 Section 5841(a)(2)(c)</partNumber>
+<partNumber>Title 42 Section 6201et seq.</partNumber>
+<partNumber>Title 42 Section 6239note</partNumber>
+<partNumber>Title 42 Section 6241</partNumber>
+<partNumber>Title 42 Section 6241(h)</partNumber>
+<partNumber>Title 42 Section 6241note</partNumber>
+<partNumber>Title 42 Section 6247</partNumber>
+<partNumber>Title 42 Section 7101</partNumber>
+<partNumber>Title 42 Section 7101et seq.</partNumber>
+<partNumber>Title 42 Section 7152</partNumber>
+<partNumber>Title 42 Section 7263</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 16512(b)</identifier>
+<identifier type="USC citation">42 U.S.C. 16513</identifier>
+<identifier type="USC citation">42 U.S.C. 17231</identifier>
+<identifier type="USC citation">42 U.S.C. 2214</identifier>
+<identifier type="USC citation">42 U.S.C. 2286et seq.</identifier>
+<identifier type="USC citation">42 U.S.C. 2651et seq.</identifier>
+<identifier type="USC citation">42 U.S.C. 3374</identifier>
+<identifier type="USC citation">42 U.S.C. 3374(a)(1)(A)</identifier>
+<identifier type="USC citation">42 U.S.C. 402note</identifier>
+<identifier type="USC citation">42 U.S.C. 5121et seq.</identifier>
+<identifier type="USC citation">42 U.S.C. 5841(a)(2)(c)</identifier>
+<identifier type="USC citation">42 U.S.C. 6201et seq.</identifier>
+<identifier type="USC citation">42 U.S.C. 6239note</identifier>
+<identifier type="USC citation">42 U.S.C. 6241</identifier>
+<identifier type="USC citation">42 U.S.C. 6241(h)</identifier>
+<identifier type="USC citation">42 U.S.C. 6241note</identifier>
+<identifier type="USC citation">42 U.S.C. 6247</identifier>
+<identifier type="USC citation">42 U.S.C. 7101</identifier>
+<identifier type="USC citation">42 U.S.C. 7101et seq.</identifier>
+<identifier type="USC citation">42 U.S.C. 7152</identifier>
+<identifier type="USC citation">42 U.S.C. 7263</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 43 Section 377</partNumber>
+<partNumber>Title 43 Section 392a</partNumber>
+<partNumber>Title 43 Section 395</partNumber>
+<partNumber>Title 43 Section 397a</partNumber>
+</titleInfo>
+<identifier type="USC citation">43 U.S.C. 377</identifier>
+<identifier type="USC citation">43 U.S.C. 392a</identifier>
+<identifier type="USC citation">43 U.S.C. 395</identifier>
+<identifier type="USC citation">43 U.S.C. 397a</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 44 Section 718</partNumber>
+<partNumber>Title 44 Section 901</partNumber>
+<partNumber>Title 44 Section 902</partNumber>
+<partNumber>Title 44 Section 906</partNumber>
+<partNumber>Title 44 Chapter 7</partNumber>
+</titleInfo>
+<identifier type="USC citation">44 U.S.C. 718</identifier>
+<identifier type="USC citation">44 U.S.C. 901</identifier>
+<identifier type="USC citation">44 U.S.C. 902</identifier>
+<identifier type="USC citation">44 U.S.C. 906</identifier>
+<identifier type="USC citation">44 U.S.C. Chapter 7</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 50 Section 1521</partNumber>
+<partNumber>Title 50 Section 1541et seq.</partNumber>
+<partNumber>Title 50 Section 1541note</partNumber>
+<partNumber>Title 50 Section 1542</partNumber>
+<partNumber>Title 50 Section 1543</partNumber>
+<partNumber>Title 50 Section 3024(d)</partNumber>
+<partNumber>Title 50 Section 3093</partNumber>
+<partNumber>Title 50 Section 3094</partNumber>
+<partNumber>Title 50 Section 4405</partNumber>
+<partNumber>Title 50 Section 4518</partNumber>
+<partNumber>Title 50 Section 4531</partNumber>
+<partNumber>Title 50 Section 4532</partNumber>
+<partNumber>Title 50 Section 4533</partNumber>
+<partNumber>Title 50 Appendix 541</partNumber>
+</titleInfo>
+<identifier type="USC citation">50 U.S.C. 1521</identifier>
+<identifier type="USC citation">50 U.S.C. 1541et seq.</identifier>
+<identifier type="USC citation">50 U.S.C. 1541note</identifier>
+<identifier type="USC citation">50 U.S.C. 1542</identifier>
+<identifier type="USC citation">50 U.S.C. 1543</identifier>
+<identifier type="USC citation">50 U.S.C. 3024(d)</identifier>
+<identifier type="USC citation">50 U.S.C. 3093</identifier>
+<identifier type="USC citation">50 U.S.C. 3094</identifier>
+<identifier type="USC citation">50 U.S.C. 4405</identifier>
+<identifier type="USC citation">50 U.S.C. 4518</identifier>
+<identifier type="USC citation">50 U.S.C. 4531</identifier>
+<identifier type="USC citation">50 U.S.C. 4532</identifier>
+<identifier type="USC citation">50 U.S.C. 4533</identifier>
+<identifier type="USC citation">50 U.S.C. App. 541</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 32 Page 480</partNumber>
+</titleInfo>
+<identifier type="Statute citation">32 Stat. 480</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 46 Page 32 et seq.</partNumber>
+<partNumber>Volume 46 Page 1487</partNumber>
+</titleInfo>
+<identifier type="Statute citation">46 Stat. 32 et seq.</identifier>
+<identifier type="Statute citation">46 Stat. 1487</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 60 Page 636</partNumber>
+</titleInfo>
+<identifier type="Statute citation">60 Stat. 636</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 68 Page 255</partNumber>
+</titleInfo>
+<identifier type="Statute citation">68 Stat. 255</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 108 Page 4792</partNumber>
+</titleInfo>
+<identifier type="Statute citation">108 Stat. 4792</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 112 Page 2681-822</partNumber>
+</titleInfo>
+<identifier type="Statute citation">112 Stat. 2681-822</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 113 Page 1501A-280</partNumber>
+</titleInfo>
+<identifier type="Statute citation">113 Stat. 1501A-280</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 122 Page 4500</partNumber>
+</titleInfo>
+<identifier type="Statute citation">122 Stat. 4500</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 123 Page 3571</partNumber>
+</titleInfo>
+<identifier type="Statute citation">123 Stat. 3571</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 124 Page 1174</partNumber>
+</titleInfo>
+<identifier type="Statute citation">124 Stat. 1174</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 125 Page 126</partNumber>
+<partNumber>Volume 125 Page 1621</partNumber>
+</titleInfo>
+<identifier type="Statute citation">125 Stat. 126</identifier>
+<identifier type="Statute citation">125 Stat. 1621</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 93-454</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 93-454</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 95-238</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 95-238</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 97-377</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 97-377</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 97-425</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 97-425</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 99-239</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 99-239</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 100-203</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 100-203</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 101-510</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 101-510</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 102-229</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 102-229</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 102-575</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 102-575</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 103-454</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 103-454</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 104-303</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 104-303</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 105-277</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 105-277</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 106-113</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 106-113</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 107-40</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 107-40</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 107-243</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 107-243</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 109-148</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 109-148</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 110-181</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 110-181</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 110-417</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 110-417</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 110-457</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 110-457</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 111-11</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 111-11</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 111-84</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 111-84</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 111-163</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 111-163</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 112-10</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 112-10</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 112-81</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 112-81</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 113-66</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 113-66</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-58</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-58</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-74</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-74</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-92</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-92</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-223</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-223</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-328</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-328</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-31</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-31</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>Code of Federal Regulations</title>
+<partNumber>Title 10 Part 830</partNumber>
+</titleInfo>
+<identifier type="CFR citation">10 CFR Part  830</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>Code of Federal Regulations</title>
+<partNumber>Title 48 Part 225.7007</partNumber>
+</titleInfo>
+<identifier type="CFR citation">48 CFR Part  225.7007</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 115-188</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 115-199</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 115-219</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 115-230</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 115-259</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 2</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 3</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 4</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 7</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 8</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 9</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 11</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 12</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 14</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 15</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 17</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 18</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 22</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 25</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 26</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 13</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 20</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 21</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 23</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 27</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 30</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 33</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 34</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 45</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 47</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 48</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 66</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 67</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 68</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 69</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 2</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 2</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 3</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 3</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 4</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 4</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 5</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 6</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 6</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 7</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 7</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 8</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 8</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 9</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 9</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 10</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 11</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 11</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 12</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 14</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 15</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 16</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 17</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 18</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 22</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 25</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 26</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 22</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 22</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 22</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 22</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 25</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 25</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 25</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 25</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 13</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 13</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 20</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 20</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 21</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 21</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 23</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 23</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 24</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 27</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 27</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 28</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 29</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 30</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 33</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 34</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 45</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 47</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 48</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 66</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 67</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 68</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 69</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 31</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem ID="P0b002ee195c31468" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 126</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-26/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-26/pdf/CREC-2017-07-26.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H6301</start>
+<end>H6468</end>
+</extent>
+<extent unit="pages">
+<start>S4227</start>
+<end>S4348</end>
+</extent>
+<extent unit="pages">
+<start>E1053</start>
+<end>E1063</end>
+</extent>
+<extent unit="pages">
+<start>D837</start>
+<end>D848</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-07-26</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>626 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-26</identifier>
+<identifier type="local">P0b002ee195c31468</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr26jy17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-07-27</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-07-27</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-07-26</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-07-26</accessId>
+<volume>163</volume>
+<issue>126</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

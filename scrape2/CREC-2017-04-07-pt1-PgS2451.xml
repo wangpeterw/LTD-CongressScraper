@@ -1,0 +1,364 @@
+<mods ID="id-CREC-2017-04-07-pt1-PgS2451" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-04-08</dateIngested>
+</extension>
+<titleInfo>
+<title>STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-04-07/html/CREC-2017-04-07-pt1-PgS2451.htm">
+<identifier type="FDsys Unique ID">D09002ee196a73257</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-04-07/pdf/CREC-2017-04-07-pt1-PgS2451.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a73292</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S2451</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-04-07/CREC-2017-04-07-pt1-PgS2451</identifier>
+<identifier type="former granule identifier">cr07ap17-34</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-04-07/CREC-2017-04-07-pt1-PgS2451/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-04-07/pdf/CREC-2017-04-07-pt1-PgS2451.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-04-07/html/CREC-2017-04-07-pt1-PgS2451.htm</url>
+</location>
+<physicalDescription>
+<extent>7 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S2451</start>
+<end>S2457</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Charles E. Schumer</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Steve Daines</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Dianne Feinstein</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Health, Education, Labor, and Pensions</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Environment and Public Works</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Foreign Relations</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. S2451</identifier>
+<extension>
+<searchTitle>STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS; Congressional Record Vol. 163, No. 61</searchTitle>
+<associatedBills>S. 894, 115th Congress
+        </associatedBills>
+<associatedBills>S. 910, 115th Congress
+        </associatedBills>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-04-07-pt1-PgS2451</accessId>
+<subGranuleClass>SSTATEMENTS</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-04-07</granuleDate>
+<bill congress="115" context="HEADERLINE" number="894" type="S"/>
+<bill congress="115" context="OTHER" number="894" type="S"/>
+<bill congress="115" context="OTHER" number="897" type="S"/>
+<bill congress="115" context="HEADERLINE" number="910" type="S"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="910" type="S"/>
+<bill congress="115" context="OTHER" number="910" type="S"/>
+<congCommittee authorityId="sshr00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Health, Education, Labor, and Pensions</name>
+<name type="authority-short">HELP</name>
+</congCommittee>
+<congCommittee authorityId="ssev00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Environment and Public Works</name>
+<name type="authority-short">Environment and Public Works</name>
+</congCommittee>
+<congCommittee authorityId="ssfr00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Foreign Relations</name>
+<name type="authority-short">Foreign Relations</name>
+</congCommittee>
+<congMember authorityId="1036" bioGuideId="S000148" chamber="S" congress="115" gpoId="8279" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mr. SCHUMER</name>
+<name type="authority-fnf">Charles E. Schumer</name>
+<name type="authority-lnf">Schumer, Charles E.</name>
+<name type="authority-other">Charles Schumer</name>
+</congMember>
+<congMember authorityId="2138" bioGuideId="D000618" chamber="S" congress="115" party="R" role="SPEAKING" state="MT">
+<name type="parsed">Mr. DAINES</name>
+<name type="authority-fnf">Steve Daines</name>
+<name type="authority-lnf">Daines, Steve</name>
+</congMember>
+<congMember authorityId="1332" bioGuideId="F000062" chamber="S" congress="115" gpoId="8338" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mrs. FEINSTEIN</name>
+<name type="authority-fnf">Dianne Feinstein</name>
+<name type="authority-lnf">Feinstein, Dianne</name>
+</congMember>
+<USCode title="5">
+<section number="553"/>
+</USCode>
+<USCode title="11">
+<section number="101"/>
+</USCode>
+<USCode title="40">
+<section number="543"/>
+</USCode>
+<USCode title="42">
+<section number="12102"/>
+<section detail="(b)(2)(A)(ii)" number="12182"/>
+<section detail="(a)(1)" number="12188"/>
+<section detail="(b)(1)(B)" number="12188"/>
+<section detail="(d)(2)" number="1315"/>
+<section detail="(a)(13)" number="1396d"/>
+<section detail="(a)(26)" number="1396d"/>
+<section detail="(b)" number="1396d"/>
+<section detail="et seq." number="1396"/>
+<section number="1396n"/>
+<section detail="(j)" number="1396n"/>
+<section detail="(k)" number="1396n"/>
+<section number="3602"/>
+<section detail="(a)" number="3607"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 894  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 894</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 894  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 894</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 897  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 897</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 910  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 910</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 910  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 910</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 910  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 910</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 5 Section 553</partNumber>
+</titleInfo>
+<identifier type="USC citation">5 U.S.C. 553</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 11 Section 101</partNumber>
+</titleInfo>
+<identifier type="USC citation">11 U.S.C. 101</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 40 Section 543</partNumber>
+</titleInfo>
+<identifier type="USC citation">40 U.S.C. 543</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 12102</partNumber>
+<partNumber>Title 42 Section 12182(b)(2)(A)(ii)</partNumber>
+<partNumber>Title 42 Section 12188(a)(1)</partNumber>
+<partNumber>Title 42 Section 12188(b)(1)(B)</partNumber>
+<partNumber>Title 42 Section 1315(d)(2)</partNumber>
+<partNumber>Title 42 Section 1396d(a)(13)</partNumber>
+<partNumber>Title 42 Section 1396d(a)(26)</partNumber>
+<partNumber>Title 42 Section 1396d(b)</partNumber>
+<partNumber>Title 42 Section 1396et seq.</partNumber>
+<partNumber>Title 42 Section 1396n</partNumber>
+<partNumber>Title 42 Section 1396n(j)</partNumber>
+<partNumber>Title 42 Section 1396n(k)</partNumber>
+<partNumber>Title 42 Section 3602</partNumber>
+<partNumber>Title 42 Section 3607(a)</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 12102</identifier>
+<identifier type="USC citation">42 U.S.C. 12182(b)(2)(A)(ii)</identifier>
+<identifier type="USC citation">42 U.S.C. 12188(a)(1)</identifier>
+<identifier type="USC citation">42 U.S.C. 12188(b)(1)(B)</identifier>
+<identifier type="USC citation">42 U.S.C. 1315(d)(2)</identifier>
+<identifier type="USC citation">42 U.S.C. 1396d(a)(13)</identifier>
+<identifier type="USC citation">42 U.S.C. 1396d(a)(26)</identifier>
+<identifier type="USC citation">42 U.S.C. 1396d(b)</identifier>
+<identifier type="USC citation">42 U.S.C. 1396et seq.</identifier>
+<identifier type="USC citation">42 U.S.C. 1396n</identifier>
+<identifier type="USC citation">42 U.S.C. 1396n(j)</identifier>
+<identifier type="USC citation">42 U.S.C. 1396n(k)</identifier>
+<identifier type="USC citation">42 U.S.C. 3602</identifier>
+<identifier type="USC citation">42 U.S.C. 3607(a)</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee1947de2ed" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 61</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-04-07/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-04-07/pdf/CREC-2017-04-07.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>S2435</start>
+<end>S2463</end>
+</extent>
+<extent unit="pages">
+<start>D422</start>
+<end>D424</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-04-07</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>64 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-04-07</identifier>
+<identifier type="local">P0b002ee1947de2ed</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr07ap17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-04-08</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-04-07</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-04-07</accessId>
+<volume>163</volume>
+<issue>61</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

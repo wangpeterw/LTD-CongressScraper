@@ -1,0 +1,152 @@
+<mods ID="id-CREC-2017-05-16-pt1-PgH4214" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-05-17</dateIngested>
+</extension>
+<titleInfo>
+<title>RECOGNIZING NATIONAL POLICE WEEK</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-16/html/CREC-2017-05-16-pt1-PgH4214.htm">
+<identifier type="FDsys Unique ID">D09002ee196a7501d</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-16/pdf/CREC-2017-05-16-pt1-PgH4214.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a75114</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H4214</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-05-16/CREC-2017-05-16-pt1-PgH4214</identifier>
+<identifier type="former granule identifier">cr16my17-93</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-05-16/CREC-2017-05-16-pt1-PgH4214/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-16/pdf/CREC-2017-05-16-pt1-PgH4214.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-16/html/CREC-2017-05-16-pt1-PgH4214.htm</url>
+</location>
+<physicalDescription>
+<extent>1 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H4214</start>
+<end>H4214</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Erik Paulsen</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H4214</identifier>
+<extension>
+<searchTitle>RECOGNIZING NATIONAL POLICE WEEK; Congressional Record Vol. 163, No. 84</searchTitle>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-05-16-pt1-PgH4214</accessId>
+<subGranuleClass>RECOGNIZING</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-05-16</granuleDate>
+<time from="19:00:00" to="19:00:00"/>
+<congMember authorityId="1930" bioGuideId="P000594" chamber="H" congress="115" gpoId="8003" party="R" role="SPEAKING" state="MN">
+<name type="parsed">Mr. PAULSEN</name>
+<name type="authority-fnf">Erik Paulsen</name>
+<name type="authority-lnf">Paulsen, Erik</name>
+</congMember>
+</extension>
+<relatedItem ID="P0b002ee194e01583" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 84</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-16/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-16/pdf/CREC-2017-05-16.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H4201</start>
+<end>H4226</end>
+</extent>
+<extent unit="pages">
+<start>S2937</start>
+<end>S2972</end>
+</extent>
+<extent unit="pages">
+<start>E633</start>
+<end>E646</end>
+</extent>
+<extent unit="pages">
+<start>D529</start>
+<end>D536</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-05-16</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>168 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-16</identifier>
+<identifier type="local">P0b002ee194e01583</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr16my17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-05-17</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-05-16</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-05-16</accessId>
+<volume>163</volume>
+<issue>84</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

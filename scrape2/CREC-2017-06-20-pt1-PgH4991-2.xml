@@ -1,0 +1,717 @@
+<mods ID="id-CREC-2017-06-20-pt1-PgH4991-2" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-06-21</dateIngested>
+</extension>
+<titleInfo>
+<title>PUBLIC BILLS AND RESOLUTIONS</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-06-20/html/CREC-2017-06-20-pt1-PgH4991-2.htm">
+<identifier type="FDsys Unique ID">D09002ee196a77add</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-06-20/pdf/CREC-2017-06-20-pt1-PgH4991-2.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a7829a</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H4991</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-06-20/CREC-2017-06-20-pt1-PgH4991-2</identifier>
+<identifier type="former granule identifier">cr20jn17-119</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-06-20/CREC-2017-06-20-pt1-PgH4991-2/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-20/pdf/CREC-2017-06-20-pt1-PgH4991-2.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-20/html/CREC-2017-06-20-pt1-PgH4991-2.htm</url>
+</location>
+<physicalDescription>
+<extent>3 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H4991</start>
+<end>H4993</end>
+</extent>
+</part>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Agriculture</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Natural Resources</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Energy and Commerce</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on the Judiciary</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Education and the Workforce</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Ways and Means</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Financial Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on the Budget</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Transportation and Infrastructure</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Foreign Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H4991</identifier>
+<extension>
+<searchTitle>PUBLIC BILLS AND RESOLUTIONS; Congressional Record Vol. 163, No. 105</searchTitle>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-06-20-pt1-PgH4991-2</accessId>
+<subGranuleClass>HPUBBILLS</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-06-20</granuleDate>
+<time from="20:00:00" to="20:00:00"/>
+<bill congress="115" context="OTHER" number="393" type="HRES"/>
+<bill congress="115" context="OTHER" number="394" type="HRES"/>
+<bill congress="115" context="OTHER" number="395" type="HRES"/>
+<bill congress="115" context="OTHER" number="2936" type="HR"/>
+<bill congress="115" context="OTHER" number="2937" type="HR"/>
+<bill congress="115" context="OTHER" number="2938" type="HR"/>
+<bill congress="115" context="OTHER" number="2939" type="HR"/>
+<bill congress="115" context="OTHER" number="2940" type="HR"/>
+<bill congress="115" context="OTHER" number="2941" type="HR"/>
+<bill congress="115" context="OTHER" number="2942" type="HR"/>
+<bill congress="115" context="OTHER" number="2943" type="HR"/>
+<bill congress="115" context="OTHER" number="2944" type="HR"/>
+<bill congress="115" context="OTHER" number="2945" type="HR"/>
+<bill congress="115" context="OTHER" number="2946" type="HR"/>
+<bill congress="115" context="OTHER" number="2947" type="HR"/>
+<bill congress="115" context="OTHER" number="2948" type="HR"/>
+<bill congress="115" context="OTHER" number="2949" type="HR"/>
+<bill congress="115" context="OTHER" number="2950" type="HR"/>
+<bill congress="115" context="OTHER" number="2951" type="HR"/>
+<bill congress="115" context="OTHER" number="2952" type="HR"/>
+<bill congress="115" context="OTHER" number="2953" type="HR"/>
+<bill congress="115" context="OTHER" number="2954" type="HR"/>
+<bill congress="115" context="OTHER" number="2955" type="HR"/>
+<bill congress="115" context="OTHER" number="2956" type="HR"/>
+<bill congress="115" context="OTHER" number="2957" type="HR"/>
+<bill congress="115" context="OTHER" number="2958" type="HR"/>
+<bill congress="115" context="OTHER" number="2959" type="HR"/>
+<bill congress="115" context="OTHER" number="2960" type="HR"/>
+<bill congress="115" context="OTHER" number="2961" type="HR"/>
+<bill congress="115" context="OTHER" number="2962" type="HR"/>
+<bill congress="115" context="OTHER" number="2963" type="HR"/>
+<bill congress="115" context="OTHER" number="2964" type="HR"/>
+<bill congress="115" context="OTHER" number="2965" type="HR"/>
+<bill congress="115" context="OTHER" number="2966" type="HR"/>
+<bill congress="115" context="OTHER" number="2967" type="HR"/>
+<bill congress="115" context="OTHER" number="2968" type="HR"/>
+<bill congress="115" context="OTHER" number="2969" type="HR"/>
+<bill congress="115" context="OTHER" number="2970" type="HR"/>
+<congCommittee authorityId="hsag00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Agriculture</name>
+<name type="authority-short">Agriculture</name>
+</congCommittee>
+<congCommittee authorityId="hsii00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Natural Resources</name>
+<name type="authority-short">Natural Resources</name>
+</congCommittee>
+<congCommittee authorityId="hsif00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Energy and Commerce</name>
+<name type="authority-short">Energy and Commerce</name>
+</congCommittee>
+<congCommittee authorityId="hsju00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on the Judiciary</name>
+<name type="authority-short">Judiciary</name>
+</congCommittee>
+<congCommittee authorityId="hsed00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Education and the Workforce</name>
+<name type="authority-short">Education and the Workforce</name>
+</congCommittee>
+<congCommittee authorityId="hswm00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Ways and Means</name>
+<name type="authority-short">Ways and Means</name>
+</congCommittee>
+<congCommittee authorityId="hsba00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Financial Services</name>
+<name type="authority-short">Financial Services</name>
+</congCommittee>
+<congCommittee authorityId="hsbu00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on the Budget</name>
+<name type="authority-short">The Budget</name>
+</congCommittee>
+<congCommittee authorityId="hspw00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Transportation and Infrastructure</name>
+<name type="authority-short">Transportation</name>
+</congCommittee>
+<congCommittee authorityId="hsfa00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Foreign Affairs</name>
+<name type="authority-short">Foreign Affairs</name>
+</congCommittee>
+<USCode title="54">
+<section number="200303"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 393  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 393</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 394  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 394</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 395  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 395</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2936  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2936</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2937  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2937</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2938  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2938</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2939  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2939</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2940  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2940</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2941  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2941</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2942  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2942</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2943  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2943</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2944  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2944</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2945  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2945</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2946  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2946</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2947  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2947</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2948  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2948</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2949  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2949</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2950  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2950</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2951  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2951</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2952  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2952</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2953  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2953</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2954  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2954</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2955  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2955</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2956  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2956</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2957  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2957</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2958  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2958</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2959  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2959</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2960  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2960</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2961  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2961</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2962  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2962</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2963  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2963</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2964  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2964</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2965  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2965</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2966  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2966</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2967  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2967</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2968  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2968</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2969  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2969</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2970  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2970</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 54 Section 200303</partNumber>
+</titleInfo>
+<identifier type="USC citation">54 U.S.C. 200303</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee1954666c0" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 105</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-20/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-20/pdf/CREC-2017-06-20.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H4945</start>
+<end>H4996</end>
+</extent>
+<extent unit="pages">
+<start>S3615</start>
+<end>S3655</end>
+</extent>
+<extent unit="pages">
+<start>E845</start>
+<end>E857</end>
+</extent>
+<extent unit="pages">
+<start>D675</start>
+<end>D680</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-06-20</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>224 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-20</identifier>
+<identifier type="local">P0b002ee1954666c0</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr20jn17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-06-21</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-06-20</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-06-20</accessId>
+<volume>163</volume>
+<issue>105</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

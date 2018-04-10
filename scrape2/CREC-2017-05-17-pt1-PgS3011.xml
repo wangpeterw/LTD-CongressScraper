@@ -1,0 +1,523 @@
+<mods ID="id-CREC-2017-05-17-pt1-PgS3011" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-05-18</dateIngested>
+</extension>
+<titleInfo>
+<title>STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-17/html/CREC-2017-05-17-pt1-PgS3011.htm">
+<identifier type="FDsys Unique ID">D09002ee196a755fb</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-17/pdf/CREC-2017-05-17-pt1-PgS3011.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a7572d</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S3011</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-05-17/CREC-2017-05-17-pt1-PgS3011</identifier>
+<identifier type="former granule identifier">cr17my17-209</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-05-17/CREC-2017-05-17-pt1-PgS3011/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-17/pdf/CREC-2017-05-17-pt1-PgS3011.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-17/html/CREC-2017-05-17-pt1-PgS3011.htm</url>
+</location>
+<physicalDescription>
+<extent>8 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S3011</start>
+<end>S3018</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>John Thune</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Kennedy</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tim Kaine</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Benjamin L. Cardin</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Elizabeth Warren</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Cornyn</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Steve Daines</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Richard Durbin</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Finance</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Foreign Relations</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Veterans' Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Veterans' Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Commerce, Science, and Transportation</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. S3011</identifier>
+<extension>
+<searchTitle>STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS; Congressional Record Vol. 163, No. 85</searchTitle>
+<associatedBills>S. 1163, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1164, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1169, 115th Congress
+        </associatedBills>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-05-17-pt1-PgS3011</accessId>
+<subGranuleClass>SSTATEMENTS</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-05-17</granuleDate>
+<bill congress="115" context="FIRSTPARAGRAPH" number="1144" type="S"/>
+<bill congress="115" context="OTHER" number="1144" type="S"/>
+<bill congress="115" context="OTHER" number="1150" type="S"/>
+<bill congress="115" context="OTHER" number="1156" type="S"/>
+<bill congress="115" context="OTHER" number="1158" type="S"/>
+<bill congress="115" context="OTHER" number="1162" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1163" type="S"/>
+<bill congress="115" context="OTHER" number="1163" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1164" type="S"/>
+<bill congress="115" context="OTHER" number="1164" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1169" type="S"/>
+<bill congress="115" context="OTHER" number="1169" type="S"/>
+<congCommittee authorityId="ssfi00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Finance</name>
+<name type="authority-short">Finance</name>
+</congCommittee>
+<congCommittee authorityId="ssfr00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Foreign Relations</name>
+<name type="authority-short">Foreign Relations</name>
+</congCommittee>
+<congCommittee authorityId="ssva00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Veterans' Affairs</name>
+<name type="authority-short">Veterans' Affairs</name>
+</congCommittee>
+<congCommittee authorityId="hsvr00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Veterans' Affairs</name>
+<name type="authority-short">Veterans' Affairs</name>
+</congCommittee>
+<congCommittee authorityId="sscm00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Commerce, Science, and Transportation</name>
+<name type="authority-short">Commerce</name>
+</congCommittee>
+<congMember authorityId="1534" bioGuideId="T000250" chamber="S" congress="115" gpoId="8257" party="R" role="SPEAKING" state="SD">
+<name type="parsed">Mr. THUNE</name>
+<name type="authority-fnf">John Thune</name>
+<name type="authority-lnf">Thune, John</name>
+<name type="authority-other">John R. Thune</name>
+</congMember>
+<congMember authorityId="2303" bioGuideId="K000393" chamber="S" congress="115" party="R" role="SPEAKING" state="LA">
+<name type="parsed">Mr. KENNEDY</name>
+<name type="authority-fnf">John Kennedy</name>
+<name type="authority-lnf">Kennedy, John</name>
+<name type="authority-other">Mr. John Neely Kennedy</name>
+</congMember>
+<congMember authorityId="2176" bioGuideId="K000384" chamber="S" congress="115" party="D" role="SPEAKING" state="VA">
+<name type="parsed">Mr. KAINE</name>
+<name type="authority-fnf">Tim Kaine</name>
+<name type="authority-lnf">Kaine, Tim</name>
+<name type="authority-other">Mr. Timothy Kaine</name>
+</congMember>
+<congMember authorityId="174" bioGuideId="C000141" chamber="S" congress="115" gpoId="8287" party="D" role="SPEAKING" state="MD">
+<name type="parsed">Mr. CARDIN</name>
+<name type="authority-fnf">Benjamin L. Cardin</name>
+<name type="authority-lnf">Cardin, Benjamin L.</name>
+<name type="authority-other">Benjamin Cardin</name>
+</congMember>
+<congMember authorityId="2182" bioGuideId="W000817" chamber="S" congress="115" party="D" role="SPEAKING" state="MA">
+<name type="parsed">Ms. WARREN</name>
+<name type="authority-fnf">Elizabeth Warren</name>
+<name type="authority-lnf">Warren, Elizabeth</name>
+<name type="authority-other">Ms. Elizabeth A. Warren</name>
+</congMember>
+<congMember authorityId="1692" bioGuideId="C001056" chamber="S" congress="115" gpoId="8295" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. CORNYN</name>
+<name type="authority-fnf">John Cornyn</name>
+<name type="authority-lnf">Cornyn, John</name>
+</congMember>
+<congMember authorityId="2138" bioGuideId="D000618" chamber="S" congress="115" party="R" role="SPEAKING" state="MT">
+<name type="parsed">Mr. DAINES</name>
+<name type="authority-fnf">Steve Daines</name>
+<name type="authority-lnf">Daines, Steve</name>
+</congMember>
+<congMember authorityId="326" bioGuideId="D000563" chamber="S" congress="115" gpoId="8326" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Mr. DURBIN</name>
+<name type="authority-fnf">Richard Durbin</name>
+<name type="authority-lnf">Durbin, Richard</name>
+<name type="authority-other">Richard J. Durbin</name>
+</congMember>
+<USCode title="5">
+<section number="553"/>
+</USCode>
+<USCode title="15">
+<section detail="et seq." number="41"/>
+<section detail="(a)(1)(B)" number="57a"/>
+</USCode>
+<USCode title="28">
+<section number="1391"/>
+</USCode>
+<USCode title="38">
+<section number="7306"/>
+</USCode>
+<USCode title="42">
+<section number="1396d"/>
+<section detail="et seq." number="1396"/>
+<section detail="et seq." number="1397aa"/>
+<section detail="(b)(3)" number="254b"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1144  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1144</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1144  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1144</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1150  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1150</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1156  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1156</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1158  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1158</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1162  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1162</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1163  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1163</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1163  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1163</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1164  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1164</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1164  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1164</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1169  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1169</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1169  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1169</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 5 Section 553</partNumber>
+</titleInfo>
+<identifier type="USC citation">5 U.S.C. 553</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 15 Section 41et seq.</partNumber>
+<partNumber>Title 15 Section 57a(a)(1)(B)</partNumber>
+</titleInfo>
+<identifier type="USC citation">15 U.S.C. 41et seq.</identifier>
+<identifier type="USC citation">15 U.S.C. 57a(a)(1)(B)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 28 Section 1391</partNumber>
+</titleInfo>
+<identifier type="USC citation">28 U.S.C. 1391</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 38 Section 7306</partNumber>
+</titleInfo>
+<identifier type="USC citation">38 U.S.C. 7306</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 1396d</partNumber>
+<partNumber>Title 42 Section 1396et seq.</partNumber>
+<partNumber>Title 42 Section 1397aaet seq.</partNumber>
+<partNumber>Title 42 Section 254b(b)(3)</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 1396d</identifier>
+<identifier type="USC citation">42 U.S.C. 1396et seq.</identifier>
+<identifier type="USC citation">42 U.S.C. 1397aaet seq.</identifier>
+<identifier type="USC citation">42 U.S.C. 254b(b)(3)</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee194e38a2a" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 85</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-17/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-17/pdf/CREC-2017-05-17.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H4227</start>
+<end>H4313</end>
+</extent>
+<extent unit="pages">
+<start>S2973</start>
+<end>S3021</end>
+</extent>
+<extent unit="pages">
+<start>E647</start>
+<end>E658</end>
+</extent>
+<extent unit="pages">
+<start>D537</start>
+<end>D546</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-05-17</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>316 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-17</identifier>
+<identifier type="local">P0b002ee194e38a2a</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr17my17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-05-18</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-05-17</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-05-17</accessId>
+<volume>163</volume>
+<issue>85</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

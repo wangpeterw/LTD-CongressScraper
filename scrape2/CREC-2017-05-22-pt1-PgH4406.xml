@@ -1,0 +1,244 @@
+<mods ID="id-CREC-2017-05-22-pt1-PgH4406" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-09-19</dateIngested>
+</extension>
+<titleInfo>
+<title>TARGETING CHILD PREDATORS ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-22/html/CREC-2017-05-22-pt1-PgH4406.htm">
+<identifier type="FDsys Unique ID">D09002ee196f3fe7a</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-22/pdf/CREC-2017-05-22-pt1-PgH4406.pdf">
+<identifier type="FDsys Unique ID">D09002ee196f3ff02</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H4406</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-05-22/CREC-2017-05-22-pt1-PgH4406</identifier>
+<identifier type="former granule identifier">CR22MY17-70</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-05-22/CREC-2017-05-22-pt1-PgH4406/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-22/pdf/CREC-2017-05-22-pt1-PgH4406.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-22/html/CREC-2017-05-22-pt1-PgH4406.htm</url>
+</location>
+<physicalDescription>
+<extent>4 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H4406</start>
+<end>H4409</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Bob Goodlatte</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Conyers, Jr.</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ron DeSantis</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheila Jackson Lee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H4406</identifier>
+<extension>
+<searchTitle>TARGETING CHILD PREDATORS ACT OF 2017; Congressional Record Vol. 163, No. 88</searchTitle>
+<associatedBills>H.R. 883, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-05-22-pt1-PgH4406</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-05-22</granuleDate>
+<time from="17:15:00" to="17:45:00"/>
+<bill congress="115" context="HEADERLINE" number="883" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="883" type="HR"/>
+<bill congress="115" context="OTHER" number="883" type="HR"/>
+<congMember authorityId="446" bioGuideId="G000289" chamber="H" congress="115" gpoId="8197" party="R" role="SPEAKING" state="VA">
+<name type="parsed">Mr. GOODLATTE</name>
+<name type="authority-fnf">Bob Goodlatte</name>
+<name type="authority-lnf">Goodlatte, Bob</name>
+<name type="authority-other">Robert Goodlatte</name>
+</congMember>
+<congMember authorityId="229" bioGuideId="C000714" chamber="H" congress="115" gpoId="7999" party="D" role="SPEAKING" state="MI">
+<name type="parsed">Mr. CONYERS</name>
+<name type="authority-fnf">John Conyers, Jr.</name>
+<name type="authority-lnf">Conyers, John, Jr.</name>
+<name type="authority-other">John Conyers Jr.</name>
+</congMember>
+<congMember authorityId="2116" bioGuideId="D000621" chamber="H" congress="115" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Mr. DeSANTIS</name>
+<name type="authority-fnf">Ron DeSantis</name>
+<name type="authority-lnf">DeSantis, Ron</name>
+</congMember>
+<congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="115" gpoId="8174" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Ms. JACKSON LEE</name>
+<name type="authority-fnf">Sheila Jackson Lee</name>
+<name type="authority-lnf">Jackson Lee, Sheila</name>
+</congMember>
+<USCode title="18">
+<section number="3486"/>
+<section detail="(a)" number="3486"/>
+<chapter number="223"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 883  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 883</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 883  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 883</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 883  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 883</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 18 Section 3486</partNumber>
+<partNumber>Title 18 Section 3486(a)</partNumber>
+<partNumber>Title 18 Chapter 223</partNumber>
+</titleInfo>
+<identifier type="USC citation">18 U.S.C. 3486</identifier>
+<identifier type="USC citation">18 U.S.C. 3486(a)</identifier>
+<identifier type="USC citation">18 U.S.C. Chapter 223</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee196f3f51a" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 88</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-22/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-22/pdf/CREC-2017-05-22.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H4393</start>
+<end>H4425</end>
+</extent>
+<extent unit="pages">
+<start>S3051</start>
+<end>S3074</end>
+</extent>
+<extent unit="pages">
+<start>E687</start>
+<end>E695</end>
+</extent>
+<extent unit="pages">
+<start>D557</start>
+<end>D564</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-05-22</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>148 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-22</identifier>
+<identifier type="local">P0b002ee196f3f51a</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR22MY17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-09-19</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-09-19</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-05-22</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-05-22</accessId>
+<volume>163</volume>
+<issue>88</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

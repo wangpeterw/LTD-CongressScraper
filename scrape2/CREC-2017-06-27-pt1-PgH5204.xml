@@ -1,0 +1,259 @@
+<mods ID="id-CREC-2017-06-27-pt1-PgH5204" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-06-28</dateIngested>
+</extension>
+<titleInfo>
+<title>TERROR LAKE HYDROELECTRIC PROJECT UPPER HIDDEN BASIN DIVERSION AUTHORIZATION</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-06-27/html/CREC-2017-06-27-pt1-PgH5204.htm">
+<identifier type="FDsys Unique ID">D09002ee196a78a7f</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-06-27/pdf/CREC-2017-06-27-pt1-PgH5204.pdf">
+<identifier type="FDsys Unique ID">D09002ee196a78b1c</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H5204</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-06-27/CREC-2017-06-27-pt1-PgH5204</identifier>
+<identifier type="former granule identifier">cr27jn17-93</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-06-27/CREC-2017-06-27-pt1-PgH5204/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-27/pdf/CREC-2017-06-27-pt1-PgH5204.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-27/html/CREC-2017-06-27-pt1-PgH5204.htm</url>
+</location>
+<physicalDescription>
+<extent>2 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H5204</start>
+<end>H5205</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Paul Cook</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Don Young</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Donald S. Beyer, Jr.</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Energy and Natural Resources</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H5204</identifier>
+<extension>
+<searchTitle>TERROR LAKE HYDROELECTRIC PROJECT UPPER HIDDEN BASIN DIVERSION AUTHORIZATION; Congressional Record Vol. 163, No. 110</searchTitle>
+<associatedBills>H.R. 220, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-06-27-pt1-PgH5204</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-06-27</granuleDate>
+<time from="13:55:00" to="13:55:00"/>
+<bill congress="115" context="HEADERLINE" number="220" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="220" type="HR"/>
+<bill congress="115" context="OTHER" number="220" type="HR"/>
+<congCommittee authorityId="sseg00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Energy and Natural Resources</name>
+<name type="authority-short">Energy and Natural Resources</name>
+</congCommittee>
+<congMember authorityId="2103" bioGuideId="C001094" chamber="H" congress="115" party="R" role="SPEAKING" state="CA">
+<name type="parsed">Mr. COOK</name>
+<name type="authority-fnf">Paul Cook</name>
+<name type="authority-lnf">Cook, Paul</name>
+</congMember>
+<congMember authorityId="1256" bioGuideId="Y000033" chamber="H" congress="115" gpoId="7785" party="R" role="SPEAKING" state="AK">
+<name type="parsed">Mr. YOUNG of Alaska</name>
+<name type="authority-fnf">Don Young</name>
+<name type="authority-lnf">Young, Don</name>
+<name type="authority-other">Don E. Young</name>
+</congMember>
+<congMember authorityId="2272" bioGuideId="B001292" chamber="H" congress="115" party="D" role="SPEAKING" state="VA">
+<name type="parsed">Mr. BEYER</name>
+<name type="authority-fnf">Donald S. Beyer, Jr.</name>
+<name type="authority-lnf">Beyer, Donald S., Jr.</name>
+<name type="authority-other">Mr. Donald Beyer Jr.</name>
+</congMember>
+<USCode title="16">
+<section detail="et seq." number="3101"/>
+<section number="3212"/>
+<section detail="et seq." number="791a"/>
+<section detail="(e)" number="797"/>
+</USCode>
+<USCode title="42">
+<section detail="et seq." number="4321"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 220  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 220</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 220  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 220</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 220  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 220</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 16 Section 3101et seq.</partNumber>
+<partNumber>Title 16 Section 3212</partNumber>
+<partNumber>Title 16 Section 791aet seq.</partNumber>
+<partNumber>Title 16 Section 797(e)</partNumber>
+</titleInfo>
+<identifier type="USC citation">16 U.S.C. 3101et seq.</identifier>
+<identifier type="USC citation">16 U.S.C. 3212</identifier>
+<identifier type="USC citation">16 U.S.C. 791aet seq.</identifier>
+<identifier type="USC citation">16 U.S.C. 797(e)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 4321et seq.</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 4321et seq.</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee1955c485f" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 110</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-27/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-27/pdf/CREC-2017-06-27.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H5183</start>
+<end>H5234</end>
+</extent>
+<extent unit="pages">
+<start>S3781</start>
+<end>S3806</end>
+</extent>
+<extent unit="pages">
+<start>E907</start>
+<end>E912</end>
+</extent>
+<extent unit="pages">
+<start>D708</start>
+<end>D714</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-06-27</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>182 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-27</identifier>
+<identifier type="local">P0b002ee1955c485f</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr27jn17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-06-28</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-08-21</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-06-27</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-06-27</accessId>
+<volume>163</volume>
+<issue>110</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

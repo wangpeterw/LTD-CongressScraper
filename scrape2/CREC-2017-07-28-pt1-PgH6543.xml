@@ -1,0 +1,289 @@
+<mods ID="id-CREC-2017-07-28-pt1-PgH6543" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-07-29</dateIngested>
+</extension>
+<titleInfo>
+<title>GLOBAL WAR ON TERRORISM WAR MEMORIAL ACT</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-07-28/html/CREC-2017-07-28-pt1-PgH6543.htm">
+<identifier type="FDsys Unique ID">D09002ee195d72c67</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-07-28/pdf/CREC-2017-07-28-pt1-PgH6543.pdf">
+<identifier type="FDsys Unique ID">D09002ee195d7319c</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H6543</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-07-28/CREC-2017-07-28-pt1-PgH6543</identifier>
+<identifier type="former granule identifier">cr28jy17-128</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-07-28/CREC-2017-07-28-pt1-PgH6543/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-28/pdf/CREC-2017-07-28-pt1-PgH6543.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-28/html/CREC-2017-07-28-pt1-PgH6543.htm</url>
+</location>
+<physicalDescription>
+<extent>5 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H6543</start>
+<end>H6547</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Tom McClintock</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ruben Gallego</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Seth Moulton</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Keith J. Rothfus</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jimmy Panetta</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mike Gallagher</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Natural Resources</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H6543</identifier>
+<extension>
+<searchTitle>GLOBAL WAR ON TERRORISM WAR MEMORIAL ACT; Congressional Record Vol. 163, No. 128</searchTitle>
+<associatedBills>H.R. 873, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-07-28-pt1-PgH6543</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-07-28</granuleDate>
+<time from="11:15:00" to="11:45:00"/>
+<bill congress="115" context="HEADERLINE" number="873" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="873" type="HR"/>
+<bill congress="115" context="OTHER" number="873" type="HR"/>
+<congCommittee authorityId="hsii00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Natural Resources</name>
+<name type="authority-short">Natural Resources</name>
+</congCommittee>
+<congMember authorityId="1908" bioGuideId="M001177" chamber="H" congress="115" gpoId="7809" party="R" role="SPEAKING" state="CA">
+<name type="parsed">Mr. McCLINTOCK</name>
+<name type="authority-fnf">Tom McClintock</name>
+<name type="authority-lnf">McClintock, Tom</name>
+</congMember>
+<congMember authorityId="2226" bioGuideId="G000574" chamber="H" congress="115" party="D" role="SPEAKING" state="AZ">
+<name type="parsed">Mr. GALLEGO</name>
+<name type="authority-fnf">Ruben Gallego</name>
+<name type="authority-lnf">Gallego, Ruben</name>
+</congMember>
+<congMember authorityId="2246" bioGuideId="M001196" chamber="H" congress="115" party="D" role="SPEAKING" state="MA">
+<name type="parsed">Mr. MOULTON</name>
+<name type="authority-fnf">Seth Moulton</name>
+<name type="authority-lnf">Moulton, Seth</name>
+</congMember>
+<congMember authorityId="2158" bioGuideId="R000598" chamber="H" congress="115" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. ROTHFUS</name>
+<name type="authority-fnf">Keith J. Rothfus</name>
+<name type="authority-lnf">Rothfus, Keith J.</name>
+<name type="authority-other">Mr. Keith Rothfus</name>
+</congMember>
+<congMember authorityId="2309" bioGuideId="P000613" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. PANETTA</name>
+<name type="authority-fnf">Jimmy Panetta</name>
+<name type="authority-lnf">Panetta, Jimmy</name>
+</congMember>
+<congMember authorityId="2355" bioGuideId="G000579" chamber="H" congress="115" party="R" role="SPEAKING" state="WI">
+<name type="parsed">Mr. GALLAGHER</name>
+<name type="authority-fnf">Mike Gallagher</name>
+<name type="authority-lnf">Gallagher, Mike</name>
+</congMember>
+<USCode title="40">
+<section detail="(a)" number="8902"/>
+<section number="8903"/>
+<section detail="(e)" number="8903"/>
+<section detail="(b)(1)" number="8906"/>
+<section detail="(b)(3)" number="8906"/>
+<chapter number="89"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 873  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 873</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 873  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 873</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 873  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 873</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 40 Section 8902(a)</partNumber>
+<partNumber>Title 40 Section 8903</partNumber>
+<partNumber>Title 40 Section 8903(e)</partNumber>
+<partNumber>Title 40 Section 8906(b)(1)</partNumber>
+<partNumber>Title 40 Section 8906(b)(3)</partNumber>
+<partNumber>Title 40 Chapter 89</partNumber>
+</titleInfo>
+<identifier type="USC citation">40 U.S.C. 8902(a)</identifier>
+<identifier type="USC citation">40 U.S.C. 8903</identifier>
+<identifier type="USC citation">40 U.S.C. 8903(e)</identifier>
+<identifier type="USC citation">40 U.S.C. 8906(b)(1)</identifier>
+<identifier type="USC citation">40 U.S.C. 8906(b)(3)</identifier>
+<identifier type="USC citation">40 U.S.C. Chapter 89</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee195d726de" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 128</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-28/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-28/pdf/CREC-2017-07-28.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H6523</start>
+<end>H6582</end>
+</extent>
+<extent unit="pages">
+<start>E1077</start>
+<end>E1104</end>
+</extent>
+<extent unit="pages">
+<start>D860</start>
+<end>D862</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-07-28</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>182 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-28</identifier>
+<identifier type="local">P0b002ee195d726de</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr28jy17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-07-29</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-07-29</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-07-28</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-07-28</accessId>
+<volume>163</volume>
+<issue>128</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

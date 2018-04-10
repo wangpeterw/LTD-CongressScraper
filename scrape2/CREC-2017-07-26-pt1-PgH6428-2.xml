@@ -1,0 +1,556 @@
+<mods ID="id-CREC-2017-07-26-pt1-PgH6428-2" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-07-27</dateIngested>
+</extension>
+<titleInfo>
+<title>DEPARTMENT OF DEFENSE APPROPRIATIONS ACT, 2018</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-07-26/html/CREC-2017-07-26-pt1-PgH6428-2.htm">
+<identifier type="FDsys Unique ID">D09002ee195c41e4d</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-07-26/pdf/CREC-2017-07-26-pt1-PgH6428-2.pdf">
+<identifier type="FDsys Unique ID">D09002ee195c42017</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H6428</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-07-26/CREC-2017-07-26-pt1-PgH6428-2</identifier>
+<identifier type="former granule identifier">cr26jy17-115</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-07-26/CREC-2017-07-26-pt1-PgH6428-2/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-26/pdf/CREC-2017-07-26-pt1-PgH6428-2.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-26/html/CREC-2017-07-26-pt1-PgH6428-2.htm</url>
+</location>
+<physicalDescription>
+<extent>10 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H6428</start>
+<end>H6437</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Paul Mitchell</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Michael K. Simpson</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Marcy Kaptur</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Brian J. Mast</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Denny Heck</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Evan H. Jenkins</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Kathy Castor</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>David B. McKinley</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Donald Norcross</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Chellie Pingree</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mike Quigley</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jared Polis</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H6428</identifier>
+<extension>
+<searchTitle>DEPARTMENT OF DEFENSE APPROPRIATIONS ACT, 2018; Congressional Record Vol. 163, No. 126</searchTitle>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-07-26-pt1-PgH6428-2</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-07-26</granuleDate>
+<time from="19:30:00" to="21:00:00"/>
+<congReport congress="115" context="OTHER" number="259" type="H"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="36"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="32"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="35"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="37"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="39"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="40"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="41"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="42"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="36"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="36"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="32"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="32"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="35"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="35"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="37"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="37"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="38"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="38"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="39"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="39"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="40"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="40"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="41"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="41"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="42"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="42"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="473" type="HRES"/>
+<bill congress="115" context="OTHER" number="473" type="HRES"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="3219" type="HR"/>
+<bill congress="115" context="OTHER" number="3219" type="HR"/>
+<congMember authorityId="2334" bioGuideId="M001201" chamber="H" congress="115" party="R" role="SPEAKING" state="MI">
+<name type="parsed">Mr. MITCHELL</name>
+<name type="authority-fnf">Paul Mitchell</name>
+<name type="authority-lnf">Mitchell, Paul</name>
+</congMember>
+<congMember authorityId="1590" bioGuideId="S001148" chamber="H" congress="115" gpoId="7920" party="R" role="SPEAKING" state="ID">
+<name type="parsed">Mr. SIMPSON</name>
+<name type="authority-fnf">Michael K. Simpson</name>
+<name type="authority-lnf">Simpson, Michael K.</name>
+<name type="authority-other">Michael Simpson</name>
+</congMember>
+<congMember authorityId="616" bioGuideId="K000009" chamber="H" congress="115" gpoId="8099" party="D" role="SPEAKING" state="OH">
+<name type="parsed">Ms. KAPTUR</name>
+<name type="authority-fnf">Marcy Kaptur</name>
+<name type="authority-lnf">Kaptur, Marcy</name>
+</congMember>
+<congMember authorityId="2322" bioGuideId="M001199" chamber="H" congress="115" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Mr. MAST</name>
+<name type="authority-fnf">Brian J. Mast</name>
+<name type="authority-lnf">Mast, Brian J.</name>
+<name type="authority-other">Mr. Brian Mast</name>
+</congMember>
+<congMember authorityId="2170" bioGuideId="H001064" chamber="H" congress="115" party="D" role="SPEAKING" state="WA">
+<name type="parsed">Mr. HECK</name>
+<name type="authority-fnf">Denny Heck</name>
+<name type="authority-lnf">Heck, Denny</name>
+</congMember>
+<congMember authorityId="2278" bioGuideId="J000297" chamber="H" congress="115" party="R" role="SPEAKING" state="WV">
+<name type="parsed">Mr. JENKINS of West Virginia</name>
+<name type="authority-fnf">Evan H. Jenkins</name>
+<name type="authority-lnf">Jenkins, Evan H.</name>
+<name type="authority-other">Mr. Evan Jenkins</name>
+</congMember>
+<congMember authorityId="1839" bioGuideId="C001066" chamber="H" congress="115" gpoId="7883" party="D" role="SPEAKING" state="FL">
+<name type="parsed">Ms. CASTOR of Florida</name>
+<name type="authority-fnf">Kathy Castor</name>
+<name type="authority-lnf">Castor, Kathy</name>
+</congMember>
+<congMember authorityId="2074" bioGuideId="M001180" chamber="H" congress="115" gpoId="8222" party="R" role="SPEAKING" state="WV">
+<name type="parsed">Mr. McKINLEY</name>
+<name type="authority-fnf">David B. McKinley</name>
+<name type="authority-lnf">McKinley, David B.</name>
+<name type="authority-other">Mr. David Mckinley</name>
+</congMember>
+<congMember authorityId="2202" bioGuideId="N000188" chamber="H" congress="115" party="D" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. NORCROSS</name>
+<name type="authority-fnf">Donald Norcross</name>
+<name type="authority-lnf">Norcross, Donald</name>
+</congMember>
+<congMember authorityId="1927" bioGuideId="P000597" chamber="H" congress="115" gpoId="7984" party="D" role="SPEAKING" state="ME">
+<name type="parsed">Ms. PINGREE</name>
+<name type="authority-fnf">Chellie Pingree</name>
+<name type="authority-lnf">Pingree, Chellie</name>
+</congMember>
+<congMember authorityId="1967" bioGuideId="Q000023" chamber="H" congress="115" gpoId="7925" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Mr. QUIGLEY</name>
+<name type="authority-fnf">Mike Quigley</name>
+<name type="authority-lnf">Quigley, Mike</name>
+</congMember>
+<congMember authorityId="1910" bioGuideId="P000598" chamber="H" congress="115" gpoId="7860" party="D" role="SPEAKING" state="CO">
+<name type="parsed">Mr. POLIS</name>
+<name type="authority-fnf">Jared Polis</name>
+<name type="authority-lnf">Polis, Jared</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 473  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 473</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 473  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 473</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3219  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3219</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3219  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3219</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 115-259</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 36</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 32</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 35</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 37</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 39</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 40</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 41</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 42</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 36</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 36</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 32</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 32</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 35</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 35</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 37</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 37</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 38</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 38</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 39</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 39</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 40</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 40</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 41</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 41</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 42</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 42</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem ID="P0b002ee195c31468" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 126</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-26/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-26/pdf/CREC-2017-07-26.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H6301</start>
+<end>H6468</end>
+</extent>
+<extent unit="pages">
+<start>S4227</start>
+<end>S4348</end>
+</extent>
+<extent unit="pages">
+<start>E1053</start>
+<end>E1063</end>
+</extent>
+<extent unit="pages">
+<start>D837</start>
+<end>D848</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-07-26</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>626 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-26</identifier>
+<identifier type="local">P0b002ee195c31468</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr26jy17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-07-27</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-07-27</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-07-26</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-07-26</accessId>
+<volume>163</volume>
+<issue>126</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

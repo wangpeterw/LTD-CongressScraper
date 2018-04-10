@@ -1,0 +1,553 @@
+<mods ID="id-CREC-2017-06-13-pt1-PgH4884" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-09-29</dateIngested>
+</extension>
+<titleInfo>
+<title>DEPARTMENT OF VETERANS AFFAIRS ACCOUNTABILITY AND WHISTLEBLOWER PROTECTION ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-06-13/html/CREC-2017-06-13-pt1-PgH4884.htm">
+<identifier type="FDsys Unique ID">D09002ee19705792d</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-06-13/pdf/CREC-2017-06-13-pt1-PgH4884.pdf">
+<identifier type="FDsys Unique ID">D09002ee1970579c5</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H4884</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-06-13/CREC-2017-06-13-pt1-PgH4884</identifier>
+<identifier type="former granule identifier">cr13jn17-94</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-06-13/CREC-2017-06-13-pt1-PgH4884/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-13/pdf/CREC-2017-06-13-pt1-PgH4884.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-13/html/CREC-2017-06-13-pt1-PgH4884.htm</url>
+</location>
+<physicalDescription>
+<extent>13 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H4884</start>
+<end>H4896</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>David P. Roe</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Timothy J. Walz</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Kevin McCarthy</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mark Takano</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Gus M. Bilirakis</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Julia Brownley</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mike Coffman</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Scott H. Peters</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bruce Poliquin</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Neal P. Dunn</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jodey C. Arrington</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John H. Rutherford</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jack Bergman</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Luke Messer</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Brian J. Mast</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Brian K. Fitzpatrick</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Gerald E. Connolly</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Veterans' Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Veterans' Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Appropriations</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Oversight and Government Reform</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H4884</identifier>
+<extension>
+<searchTitle>DEPARTMENT OF VETERANS AFFAIRS ACCOUNTABILITY AND WHISTLEBLOWER PROTECTION ACT OF 2017; Congressional Record Vol. 163, No. 100</searchTitle>
+<associatedBills>S. 1094, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-06-13-pt1-PgH4884</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-06-13</granuleDate>
+<time from="14:30:00" to="15:30:00"/>
+<bill congress="115" context="OTHER" number="378" type="HRES"/>
+<bill congress="115" context="HEADERLINE" number="1094" type="S"/>
+<bill congress="115" context="OTHER" number="1094" type="S"/>
+<bill congress="115" context="OTHER" number="1259" type="HR"/>
+<bill congress="115" context="OTHER" number="1529" type="HR"/>
+<congCommittee authorityId="ssva00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Veterans' Affairs</name>
+<name type="authority-short">Veterans' Affairs</name>
+</congCommittee>
+<congCommittee authorityId="hsvr00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Veterans' Affairs</name>
+<name type="authority-short">Veterans' Affairs</name>
+</congCommittee>
+<congCommittee authorityId="hsap00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Appropriations</name>
+<name type="authority-short">Appropriations</name>
+</congCommittee>
+<congCommittee authorityId="hsgo00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Oversight and Government Reform</name>
+<name type="authority-short">Oversight and Government Reform</name>
+</congCommittee>
+<congMember authorityId="1954" bioGuideId="R000582" chamber="H" congress="115" gpoId="8148" party="R" role="SPEAKING" state="TN">
+<name type="parsed">Mr. ROE of Tennessee</name>
+<name type="authority-fnf">David P. Roe</name>
+<name type="authority-lnf">Roe, David P.</name>
+<name type="authority-other">Mr. David Roe</name>
+</congMember>
+<congMember authorityId="1856" bioGuideId="W000799" chamber="H" congress="115" gpoId="8001" party="D" role="SPEAKING" state="MN">
+<name type="parsed">Mr. WALZ</name>
+<name type="authority-fnf">Timothy J. Walz</name>
+<name type="authority-lnf">Walz, Timothy J.</name>
+<name type="authority-other">Mr. Timothy Walz</name>
+</congMember>
+<congMember authorityId="1833" bioGuideId="M001165" chamber="H" congress="115" gpoId="7827" party="R" role="SPEAKING" state="CA">
+<name type="parsed">Mr. McCARTHY</name>
+<name type="authority-fnf">Kevin McCarthy</name>
+<name type="authority-lnf">McCarthy, Kevin</name>
+</congMember>
+<congMember authorityId="2110" bioGuideId="T000472" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. TAKANO</name>
+<name type="authority-fnf">Mark Takano</name>
+<name type="authority-lnf">Takano, Mark</name>
+</congMember>
+<congMember authorityId="1838" bioGuideId="B001257" chamber="H" congress="115" gpoId="7881" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Mr. BILIRAKIS</name>
+<name type="authority-fnf">Gus M. Bilirakis</name>
+<name type="authority-lnf">Bilirakis, Gus M.</name>
+<name type="authority-other">Mr. Gus Bilirakis</name>
+</congMember>
+<congMember authorityId="2106" bioGuideId="B001285" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. BROWNLEY of California</name>
+<name type="authority-fnf">Julia Brownley</name>
+<name type="authority-lnf">Brownley, Julia</name>
+</congMember>
+<congMember authorityId="1912" bioGuideId="C001077" chamber="H" congress="115" gpoId="7864" party="R" role="SPEAKING" state="CO">
+<name type="parsed">Mr. COFFMAN</name>
+<name type="authority-fnf">Mike Coffman</name>
+<name type="authority-lnf">Coffman, Mike</name>
+</congMember>
+<congMember authorityId="2113" bioGuideId="P000608" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. PETERS</name>
+<name type="authority-fnf">Scott H. Peters</name>
+<name type="authority-lnf">Peters, Scott H.</name>
+<name type="authority-other">Mr. Scott Peters</name>
+</congMember>
+<congMember authorityId="2247" bioGuideId="P000611" chamber="H" congress="115" party="R" role="SPEAKING" state="ME">
+<name type="parsed">Mr. POLIQUIN</name>
+<name type="authority-fnf">Bruce Poliquin</name>
+<name type="authority-lnf">Poliquin, Bruce</name>
+</congMember>
+<congMember authorityId="2315" bioGuideId="D000628" chamber="H" congress="115" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Mr. DUNN</name>
+<name type="authority-fnf">Neal P. Dunn</name>
+<name type="authority-lnf">Dunn, Neal P.</name>
+<name type="authority-other">Mr. Neal Dunn</name>
+</congMember>
+<congMember authorityId="2350" bioGuideId="A000375" chamber="H" congress="115" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. ARRINGTON</name>
+<name type="authority-fnf">Jodey C. Arrington</name>
+<name type="authority-lnf">Arrington, Jodey C.</name>
+<name type="authority-other">Mr. Jodey Arrington</name>
+</congMember>
+<congMember authorityId="2316" bioGuideId="R000609" chamber="H" congress="115" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Mr. RUTHERFORD</name>
+<name type="authority-fnf">John H. Rutherford</name>
+<name type="authority-lnf">Rutherford, John H.</name>
+<name type="authority-other">Mr. John Rutherford</name>
+</congMember>
+<congMember authorityId="2333" bioGuideId="B001301" chamber="H" congress="115" party="R" role="SPEAKING" state="MI">
+<name type="parsed">Mr. BERGMAN</name>
+<name type="authority-fnf">Jack Bergman</name>
+<name type="authority-lnf">Bergman, Jack</name>
+</congMember>
+<congMember authorityId="2130" bioGuideId="M001189" chamber="H" congress="115" party="R" role="SPEAKING" state="IN">
+<name type="parsed">Mr. MESSER</name>
+<name type="authority-fnf">Luke Messer</name>
+<name type="authority-lnf">Messer, Luke</name>
+</congMember>
+<congMember authorityId="2322" bioGuideId="M001199" chamber="H" congress="115" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Mr. MAST</name>
+<name type="authority-fnf">Brian J. Mast</name>
+<name type="authority-lnf">Mast, Brian J.</name>
+<name type="authority-other">Mr. Brian Mast</name>
+</congMember>
+<congMember authorityId="2345" bioGuideId="F000466" chamber="H" congress="115" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. FITZPATRICK</name>
+<name type="authority-fnf">Brian K. Fitzpatrick</name>
+<name type="authority-lnf">Fitzpatrick, Brian K.</name>
+<name type="authority-other">Mr. Brian Fitzpatrick</name>
+</congMember>
+<congMember authorityId="1959" bioGuideId="C001078" chamber="H" congress="115" gpoId="8202" party="D" role="SPEAKING" state="VA">
+<name type="parsed">Mr. CONNOLLY</name>
+<name type="authority-fnf">Gerald E. Connolly</name>
+<name type="authority-lnf">Connolly, Gerald E.</name>
+<name type="authority-other">Mr. Gerald Connolly</name>
+</congMember>
+<law congress="104" isPrivate="false" number="191"/>
+<USCode title="5">
+<section detail="note" number="2302"/>
+<section detail="(a)" number="3132"/>
+<section detail="(f)" number="4303"/>
+<section detail="(a)" number="7103"/>
+</USCode>
+<USCode title="38">
+<section number="323"/>
+<section detail="(g)" number="323"/>
+<section number="713"/>
+<section number="719"/>
+<section number="721"/>
+<section number="723"/>
+<section detail="(a)(2)(B)" number="731"/>
+<section number="7401"/>
+<section detail="(b)" number="7461"/>
+<chapter number="3"/>
+<chapter number="7"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 378  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 378</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1094  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1094</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1094  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1094</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1259  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1259</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1529  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1529</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 5 Section 2302note</partNumber>
+<partNumber>Title 5 Section 3132(a)</partNumber>
+<partNumber>Title 5 Section 4303(f)</partNumber>
+<partNumber>Title 5 Section 7103(a)</partNumber>
+</titleInfo>
+<identifier type="USC citation">5 U.S.C. 2302note</identifier>
+<identifier type="USC citation">5 U.S.C. 3132(a)</identifier>
+<identifier type="USC citation">5 U.S.C. 4303(f)</identifier>
+<identifier type="USC citation">5 U.S.C. 7103(a)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 38 Section 323</partNumber>
+<partNumber>Title 38 Section 323(g)</partNumber>
+<partNumber>Title 38 Section 713</partNumber>
+<partNumber>Title 38 Section 719</partNumber>
+<partNumber>Title 38 Section 721</partNumber>
+<partNumber>Title 38 Section 723</partNumber>
+<partNumber>Title 38 Section 731(a)(2)(B)</partNumber>
+<partNumber>Title 38 Section 7401</partNumber>
+<partNumber>Title 38 Section 7461(b)</partNumber>
+<partNumber>Title 38 Chapter 3</partNumber>
+<partNumber>Title 38 Chapter 7</partNumber>
+</titleInfo>
+<identifier type="USC citation">38 U.S.C. 323</identifier>
+<identifier type="USC citation">38 U.S.C. 323(g)</identifier>
+<identifier type="USC citation">38 U.S.C. 713</identifier>
+<identifier type="USC citation">38 U.S.C. 719</identifier>
+<identifier type="USC citation">38 U.S.C. 721</identifier>
+<identifier type="USC citation">38 U.S.C. 723</identifier>
+<identifier type="USC citation">38 U.S.C. 731(a)(2)(B)</identifier>
+<identifier type="USC citation">38 U.S.C. 7401</identifier>
+<identifier type="USC citation">38 U.S.C. 7461(b)</identifier>
+<identifier type="USC citation">38 U.S.C. Chapter 3</identifier>
+<identifier type="USC citation">38 U.S.C. Chapter 7</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 104-191</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 104-191</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee197057394" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 100</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-13/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-13/pdf/CREC-2017-06-13.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H4857</start>
+<end>H4914</end>
+</extent>
+<extent unit="pages">
+<start>S3413</start>
+<end>S3459</end>
+</extent>
+<extent unit="pages">
+<start>E813</start>
+<end>E822</end>
+</extent>
+<extent unit="pages">
+<start>D643</start>
+<end>D650</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-06-13</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>246 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-06-13</identifier>
+<identifier type="local">P0b002ee197057394</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr13jn17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-09-29</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-09-29</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-06-13</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-06-13</accessId>
+<volume>163</volume>
+<issue>100</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

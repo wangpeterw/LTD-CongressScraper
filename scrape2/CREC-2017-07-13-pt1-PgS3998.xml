@@ -1,0 +1,653 @@
+<mods ID="id-CREC-2017-07-13-pt1-PgS3998" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-11-04</dateIngested>
+</extension>
+<titleInfo>
+<title>ADDITIONAL COSPONSORS</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-07-13/html/CREC-2017-07-13-pt1-PgS3998.htm">
+<identifier type="FDsys Unique ID">D09002ee197638ed6</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-07-13/pdf/CREC-2017-07-13-pt1-PgS3998.pdf">
+<identifier type="FDsys Unique ID">D09002ee197638f6f</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S3998</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-07-13/CREC-2017-07-13-pt1-PgS3998</identifier>
+<identifier type="former granule identifier">CR13JY17-193</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-07-13/CREC-2017-07-13-pt1-PgS3998/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-13/pdf/CREC-2017-07-13-pt1-PgS3998.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-13/html/CREC-2017-07-13-pt1-PgS3998.htm</url>
+</location>
+<physicalDescription>
+<extent>1 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S3998</start>
+<end>S3998</end>
+</extent>
+</part>
+<identifier type="preferred citation">163 Cong. Rec. S3998</identifier>
+<extension>
+<searchTitle>ADDITIONAL COSPONSORS; Congressional Record Vol. 163, No. 118</searchTitle>
+<associatedBills>S. Res. 211, 115th Congress
+        </associatedBills>
+<associatedBills>S. 266, 115th Congress
+        </associatedBills>
+<associatedBills>S. 497, 115th Congress
+        </associatedBills>
+<associatedBills>S. 708, 115th Congress
+        </associatedBills>
+<associatedBills>S. 926, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1002, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1024, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1028, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1050, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1182, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1307, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1353, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1391, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1426, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1455, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1457, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1512, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1529, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1532, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1536, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1540, 115th Congress
+        </associatedBills>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-07-13-pt1-PgS3998</accessId>
+<subGranuleClass>SCOSPONSORS</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-07-13</granuleDate>
+<bill congress="115" context="HEADERLINE" number="211" type="SRES"/>
+<bill congress="115" context="OTHER" number="211" type="SRES"/>
+<bill congress="115" context="HEADERLINE" number="266" type="S"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="266" type="S"/>
+<bill congress="115" context="OTHER" number="266" type="S"/>
+<bill congress="115" context="HEADERLINE" number="497" type="S"/>
+<bill congress="115" context="OTHER" number="497" type="S"/>
+<bill congress="115" context="HEADERLINE" number="708" type="S"/>
+<bill congress="115" context="OTHER" number="708" type="S"/>
+<bill congress="115" context="HEADERLINE" number="926" type="S"/>
+<bill congress="115" context="OTHER" number="926" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1002" type="S"/>
+<bill congress="115" context="OTHER" number="1002" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1024" type="S"/>
+<bill congress="115" context="OTHER" number="1024" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1028" type="S"/>
+<bill congress="115" context="OTHER" number="1028" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1050" type="S"/>
+<bill congress="115" context="OTHER" number="1050" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1182" type="S"/>
+<bill congress="115" context="OTHER" number="1182" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1307" type="S"/>
+<bill congress="115" context="OTHER" number="1307" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1353" type="S"/>
+<bill congress="115" context="OTHER" number="1353" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1391" type="S"/>
+<bill congress="115" context="OTHER" number="1391" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1426" type="S"/>
+<bill congress="115" context="OTHER" number="1426" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1455" type="S"/>
+<bill congress="115" context="OTHER" number="1455" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1457" type="S"/>
+<bill congress="115" context="OTHER" number="1457" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1512" type="S"/>
+<bill congress="115" context="OTHER" number="1512" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1529" type="S"/>
+<bill congress="115" context="OTHER" number="1529" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1532" type="S"/>
+<bill congress="115" context="OTHER" number="1532" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1536" type="S"/>
+<bill congress="115" context="OTHER" number="1536" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1540" type="S"/>
+<bill congress="115" context="OTHER" number="1540" type="S"/>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Resolution 211  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. Res. 211</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Resolution 211  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. Res. 211</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 266  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 266</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 266  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 266</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 266  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 266</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 497  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 497</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 497  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 497</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 708  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 708</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 708  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 708</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 926  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 926</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 926  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 926</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1002  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1002</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1002  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1002</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1024  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1024</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1024  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1024</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1028  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1028</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1028  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1028</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1050  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1050</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1050  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1050</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1182  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1182</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1182  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1182</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1307  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1307</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1307  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1307</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1353  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1353</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1353  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1353</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1391  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1391</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1391  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1391</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1426  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1426</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1426  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1426</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1455  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1455</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1455  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1455</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1457  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1457</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1457  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1457</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1512  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1512</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1512  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1512</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1529  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1529</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1529  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1529</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1532  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1532</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1532  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1532</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1536  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1536</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1536  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1536</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1540  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1540</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1540  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1540</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee1976389a9" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 118</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-13/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-13/pdf/CREC-2017-07-13.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H5763</start>
+<end>H5833</end>
+</extent>
+<extent unit="pages">
+<start>S3965</start>
+<end>S4007</end>
+</extent>
+<extent unit="pages">
+<start>E975</start>
+<end>E986</end>
+</extent>
+<extent unit="pages">
+<start>D766</start>
+<end>D774</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-07-13</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>270 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-13</identifier>
+<identifier type="local">P0b002ee1976389a9</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR13JY17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-11-04</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-11-04</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-07-13</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-07-13</accessId>
+<volume>163</volume>
+<issue>118</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

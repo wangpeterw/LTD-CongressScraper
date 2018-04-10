@@ -1,0 +1,241 @@
+<mods ID="id-CREC-2017-05-22-pt1-PgH4411" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-09-19</dateIngested>
+</extension>
+<titleInfo>
+<title>TARGETED REWARDS FOR THE GLOBAL ERADICATION OF HUMAN TRAFFICKING</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-22/html/CREC-2017-05-22-pt1-PgH4411.htm">
+<identifier type="FDsys Unique ID">D09002ee196f3fe6a</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-05-22/pdf/CREC-2017-05-22-pt1-PgH4411.pdf">
+<identifier type="FDsys Unique ID">D09002ee196f3fed6</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H4411</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-05-22/CREC-2017-05-22-pt1-PgH4411</identifier>
+<identifier type="former granule identifier">CR22MY17-72</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-05-22/CREC-2017-05-22-pt1-PgH4411/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-22/pdf/CREC-2017-05-22-pt1-PgH4411.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-22/html/CREC-2017-05-22-pt1-PgH4411.htm</url>
+</location>
+<physicalDescription>
+<extent>4 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H4411</start>
+<end>H4414</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Edward R. Royce</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Gerald E. Connolly</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Lois Frankel</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ted Poe</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H4411</identifier>
+<extension>
+<searchTitle>TARGETED REWARDS FOR THE GLOBAL ERADICATION OF HUMAN TRAFFICKING; Congressional Record Vol. 163, No. 88</searchTitle>
+<associatedBills>H.R. 1625, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-05-22-pt1-PgH4411</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-05-22</granuleDate>
+<time from="18:00:00" to="18:30:00"/>
+<bill congress="115" context="HEADERLINE" number="1625" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="1625" type="HR"/>
+<bill congress="115" context="OTHER" number="1625" type="HR"/>
+<congMember authorityId="998" bioGuideId="R000487" chamber="H" congress="115" gpoId="7845" party="R" role="SPEAKING" state="CA">
+<name type="parsed">Mr. ROYCE of California</name>
+<name type="authority-fnf">Edward R. Royce</name>
+<name type="authority-lnf">Royce, Edward R.</name>
+<name type="authority-other">Ed Royce</name>
+</congMember>
+<congMember authorityId="1959" bioGuideId="C001078" chamber="H" congress="115" gpoId="8202" party="D" role="SPEAKING" state="VA">
+<name type="parsed">Mr. CONNOLLY</name>
+<name type="authority-fnf">Gerald E. Connolly</name>
+<name type="authority-lnf">Connolly, Gerald E.</name>
+<name type="authority-other">Mr. Gerald Connolly</name>
+</congMember>
+<congMember authorityId="2119" bioGuideId="F000462" chamber="H" congress="115" party="D" role="SPEAKING" state="FL">
+<name type="parsed">Ms. FRANKEL of Florida</name>
+<name type="authority-fnf">Lois Frankel</name>
+<name type="authority-lnf">Frankel, Lois</name>
+</congMember>
+<congMember authorityId="1802" bioGuideId="P000592" chamber="H" congress="115" gpoId="8158" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. POE of Texas</name>
+<name type="authority-fnf">Ted Poe</name>
+<name type="authority-lnf">Poe, Ted</name>
+</congMember>
+<USCode title="22">
+<section detail="(k)" number="2708"/>
+<section number="7102"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1625  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1625</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1625  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1625</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1625  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1625</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 22 Section 2708(k)</partNumber>
+<partNumber>Title 22 Section 7102</partNumber>
+</titleInfo>
+<identifier type="USC citation">22 U.S.C. 2708(k)</identifier>
+<identifier type="USC citation">22 U.S.C. 7102</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee196f3f51a" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 88</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-22/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-22/pdf/CREC-2017-05-22.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H4393</start>
+<end>H4425</end>
+</extent>
+<extent unit="pages">
+<start>S3051</start>
+<end>S3074</end>
+</extent>
+<extent unit="pages">
+<start>E687</start>
+<end>E695</end>
+</extent>
+<extent unit="pages">
+<start>D557</start>
+<end>D564</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-05-22</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>148 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-05-22</identifier>
+<identifier type="local">P0b002ee196f3f51a</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR22MY17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-09-19</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-09-19</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-05-22</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-05-22</accessId>
+<volume>163</volume>
+<issue>88</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

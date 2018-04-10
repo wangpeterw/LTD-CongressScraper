@@ -1,0 +1,817 @@
+<mods ID="id-CREC-2017-07-13-pt1-PgH5790-2" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-11-04</dateIngested>
+</extension>
+<titleInfo>
+<title>NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2018</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-07-13/html/CREC-2017-07-13-pt1-PgH5790-2.htm">
+<identifier type="FDsys Unique ID">D09002ee197638ece</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-07-13/pdf/CREC-2017-07-13-pt1-PgH5790-2.pdf">
+<identifier type="FDsys Unique ID">D09002ee197638fc4</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H5790</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-07-13/CREC-2017-07-13-pt1-PgH5790-2</identifier>
+<identifier type="former granule identifier">CR13JY17-111</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-07-13/CREC-2017-07-13-pt1-PgH5790-2/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-13/pdf/CREC-2017-07-13-pt1-PgH5790-2.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-13/html/CREC-2017-07-13-pt1-PgH5790-2.htm</url>
+</location>
+<physicalDescription>
+<extent>12 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H5790</start>
+<end>H5801</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>John Garamendi</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Robert J. Wittman</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Rick Larsen</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Don Bacon</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Michael R. Turner</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ken Buck</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>James R. Langevin</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Scott H. Peters</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Scott Perry</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Elise M. Stefanik</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ileana Ros-Lehtinen</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Carlos Curbelo</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Paul A. Gosar</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Donald Norcross</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>David B. McKinley</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Daniel T. Kildee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Thomas J. Rooney</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mike Coffman</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Stephanie N. Murphy</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jackie Speier</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Martha McSally</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>William R. Keating</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mac Thornberry</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Vicky Hartzler</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Adam Smith</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Nancy Pelosi</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Duncan Hunter</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sean Patrick Maloney</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Steny H. Hoyer</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jerrold Nadler</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Armed Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H5790</identifier>
+<extension>
+<searchTitle>NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2018; Congressional Record Vol. 163, No. 118</searchTitle>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-07-13-pt1-PgH5790-2</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-07-13</granuleDate>
+<time from="15:32:00" to="16:45:00"/>
+<congReport congress="115" context="OTHER" number="212" type="H"/>
+<congReport congress="115" context="OTHER" number="217" type="H"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="1"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="3"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="4"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="5"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="7"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="10"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="14"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="1"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="1"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="3"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="3"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="4"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="4"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="5"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="5"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="6"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="6"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="7"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="7"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="8"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="9"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="10"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="10"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="440" type="HRES"/>
+<bill congress="115" context="OTHER" number="440" type="HRES"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="2810" type="HR"/>
+<bill congress="115" context="OTHER" number="2810" type="HR"/>
+<congCommittee authorityId="hsas00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Armed Services</name>
+<name type="authority-short">Armed Services</name>
+</congCommittee>
+<congMember authorityId="1973" bioGuideId="G000559" chamber="H" congress="115" gpoId="7815" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. GARAMENDI</name>
+<name type="authority-fnf">John Garamendi</name>
+<name type="authority-lnf">Garamendi, John</name>
+</congMember>
+<congMember authorityId="1886" bioGuideId="W000804" chamber="H" congress="115" gpoId="8192" party="R" role="SPEAKING" state="VA">
+<name type="parsed">Mr. WITTMAN</name>
+<name type="authority-fnf">Robert J. Wittman</name>
+<name type="authority-lnf">Wittman, Robert J.</name>
+<name type="authority-other">Mr. Robert Wittman</name>
+</congMember>
+<congMember authorityId="1675" bioGuideId="L000560" chamber="H" congress="115" gpoId="8206" party="D" role="SPEAKING" state="WA">
+<name type="parsed">Mr. LARSEN of Washington</name>
+<name type="authority-fnf">Rick Larsen</name>
+<name type="authority-lnf">Larsen, Rick</name>
+</congMember>
+<congMember authorityId="2337" bioGuideId="B001298" chamber="H" congress="115" party="R" role="SPEAKING" state="NE">
+<name type="parsed">Mr. BACON</name>
+<name type="authority-fnf">Don Bacon</name>
+<name type="authority-lnf">Bacon, Don</name>
+</congMember>
+<congMember authorityId="1741" bioGuideId="T000463" chamber="H" congress="115" gpoId="8093" party="R" role="SPEAKING" state="OH">
+<name type="parsed">Mr. TURNER</name>
+<name type="authority-fnf">Michael R. Turner</name>
+<name type="authority-lnf">Turner, Michael R.</name>
+<name type="authority-other">Mr. Michael Turner</name>
+</congMember>
+<congMember authorityId="2233" bioGuideId="B001297" chamber="H" congress="115" party="R" role="SPEAKING" state="CO">
+<name type="parsed">Mr. BUCK</name>
+<name type="authority-fnf">Ken Buck</name>
+<name type="authority-lnf">Buck, Ken</name>
+</congMember>
+<congMember authorityId="1668" bioGuideId="L000559" chamber="H" congress="115" gpoId="8140" party="D" role="SPEAKING" state="RI">
+<name type="parsed">Mr. LANGEVIN</name>
+<name type="authority-fnf">James R. Langevin</name>
+<name type="authority-lnf">Langevin, James R.</name>
+<name type="authority-other">James Langevin</name>
+</congMember>
+<congMember authorityId="2113" bioGuideId="P000608" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. PETERS</name>
+<name type="authority-fnf">Scott H. Peters</name>
+<name type="authority-lnf">Peters, Scott H.</name>
+<name type="authority-other">Mr. Scott Peters</name>
+</congMember>
+<congMember authorityId="2157" bioGuideId="P000605" chamber="H" congress="115" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. PERRY</name>
+<name type="authority-fnf">Scott Perry</name>
+<name type="authority-lnf">Perry, Scott</name>
+</congMember>
+<congMember authorityId="2263" bioGuideId="S001196" chamber="H" congress="115" party="R" role="SPEAKING" state="NY">
+<name type="parsed">Ms. STEFANIK</name>
+<name type="authority-fnf">Elise M. Stefanik</name>
+<name type="authority-lnf">Stefanik, Elise M.</name>
+<name type="authority-other">Ms. Elise Stefanik</name>
+</congMember>
+<congMember authorityId="985" bioGuideId="R000435" chamber="H" congress="115" gpoId="7890" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Ms. ROS-LEHTINEN</name>
+<name type="authority-fnf">Ileana Ros-Lehtinen</name>
+<name type="authority-lnf">Ros-Lehtinen, Ileana</name>
+</congMember>
+<congMember authorityId="2235" bioGuideId="C001107" chamber="H" congress="115" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Mr. CURBELO of Florida</name>
+<name type="authority-fnf">Carlos Curbelo</name>
+<name type="authority-lnf">Curbelo, Carlos</name>
+</congMember>
+<congMember authorityId="1992" bioGuideId="G000565" chamber="H" congress="115" gpoId="7798" party="R" role="SPEAKING" state="AZ">
+<name type="parsed">Mr. GOSAR</name>
+<name type="authority-fnf">Paul A. Gosar</name>
+<name type="authority-lnf">Gosar, Paul A.</name>
+<name type="authority-other">Mr. Paul Gosar</name>
+</congMember>
+<congMember authorityId="2202" bioGuideId="N000188" chamber="H" congress="115" party="D" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. NORCROSS</name>
+<name type="authority-fnf">Donald Norcross</name>
+<name type="authority-lnf">Norcross, Donald</name>
+</congMember>
+<congMember authorityId="2074" bioGuideId="M001180" chamber="H" congress="115" gpoId="8222" party="R" role="SPEAKING" state="WV">
+<name type="parsed">Mr. McKINLEY</name>
+<name type="authority-fnf">David B. McKinley</name>
+<name type="authority-lnf">McKinley, David B.</name>
+<name type="authority-other">Mr. David Mckinley</name>
+</congMember>
+<congMember authorityId="2134" bioGuideId="K000380" chamber="H" congress="115" party="D" role="SPEAKING" state="MI">
+<name type="parsed">Mr. KILDEE</name>
+<name type="authority-fnf">Daniel T. Kildee</name>
+<name type="authority-lnf">Kildee, Daniel T.</name>
+<name type="authority-other">Mr. Daniel Kildee</name>
+</congMember>
+<congMember authorityId="1916" bioGuideId="R000583" chamber="H" congress="115" gpoId="7888" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Mr. THOMAS J. ROONEY of Florida</name>
+<name type="authority-fnf">Thomas J. Rooney</name>
+<name type="authority-lnf">Rooney, Thomas J.</name>
+<name type="authority-other">Mr. Thomas Rooney</name>
+</congMember>
+<congMember authorityId="1912" bioGuideId="C001077" chamber="H" congress="115" gpoId="7864" party="R" role="SPEAKING" state="CO">
+<name type="parsed">Mr. COFFMAN</name>
+<name type="authority-fnf">Mike Coffman</name>
+<name type="authority-lnf">Coffman, Mike</name>
+</congMember>
+<congMember authorityId="2318" bioGuideId="M001202" chamber="H" congress="115" party="D" role="SPEAKING" state="FL">
+<name type="parsed">Mrs. MURPHY of Florida</name>
+<name type="authority-fnf">Stephanie N. Murphy</name>
+<name type="authority-lnf">Murphy, Stephanie N.</name>
+<name type="authority-other">Mrs. Stephanie Murphy</name>
+</congMember>
+<congMember authorityId="1890" bioGuideId="S001175" chamber="H" congress="115" gpoId="7817" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. SPEIER</name>
+<name type="authority-fnf">Jackie Speier</name>
+<name type="authority-lnf">Speier, Jackie</name>
+</congMember>
+<congMember authorityId="2225" bioGuideId="M001197" chamber="H" congress="115" party="R" role="SPEAKING" state="AZ">
+<name type="parsed">Ms. McSALLY</name>
+<name type="authority-fnf">Martha McSally</name>
+<name type="authority-lnf">McSally, Martha</name>
+</congMember>
+<congMember authorityId="2025" bioGuideId="K000375" chamber="H" congress="115" gpoId="7975" party="D" role="SPEAKING" state="MA">
+<name type="parsed">Mr. KEATING</name>
+<name type="authority-fnf">William R. Keating</name>
+<name type="authority-lnf">Keating, William R.</name>
+<name type="authority-other">Mr. William Keating</name>
+</congMember>
+<congMember authorityId="1155" bioGuideId="T000238" chamber="H" congress="115" gpoId="8755" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. THORNBERRY</name>
+<name type="authority-fnf">Mac Thornberry</name>
+<name type="authority-lnf">Thornberry, Mac</name>
+<name type="authority-other">William Thornberry</name>
+</congMember>
+<congMember authorityId="2032" bioGuideId="H001053" chamber="H" congress="115" gpoId="8012" party="R" role="SPEAKING" state="MO">
+<name type="parsed">Mrs. HARTZLER</name>
+<name type="authority-fnf">Vicky Hartzler</name>
+<name type="authority-lnf">Hartzler, Vicky</name>
+</congMember>
+<congMember authorityId="1528" bioGuideId="S000510" chamber="H" congress="115" gpoId="8213" party="D" role="SPEAKING" state="WA">
+<name type="parsed">Mr. SMITH of Washington</name>
+<name type="authority-fnf">Adam Smith</name>
+<name type="authority-lnf">Smith, Adam</name>
+</congMember>
+<congMember authorityId="905" bioGuideId="P000197" chamber="H" congress="115" gpoId="7813" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. PELOSI</name>
+<name type="authority-fnf">Nancy Pelosi</name>
+<name type="authority-lnf">Pelosi, Nancy</name>
+</congMember>
+<congMember authorityId="1909" bioGuideId="H001048" chamber="H" congress="115" gpoId="7857" party="R" role="SPEAKING" state="CA">
+<name type="parsed">Mr. HUNTER</name>
+<name type="authority-fnf">Duncan Hunter</name>
+<name type="authority-lnf">Hunter, Duncan D.</name>
+<name type="authority-other">Mr. Duncan D. Hunter</name>
+</congMember>
+<congMember authorityId="2150" bioGuideId="M001185" chamber="H" congress="115" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mr. SEAN PATRICK MALONEY of New York</name>
+<name type="authority-fnf">Sean Patrick Maloney</name>
+<name type="authority-lnf">Maloney, Sean Patrick</name>
+<name type="authority-other">Mr. Sean Maloney</name>
+</congMember>
+<congMember authorityId="566" bioGuideId="H000874" chamber="H" congress="115" gpoId="7980" party="D" role="SPEAKING" state="MD">
+<name type="parsed">Mr. HOYER</name>
+<name type="authority-fnf">Steny H. Hoyer</name>
+<name type="authority-lnf">Hoyer, Steny H.</name>
+<name type="authority-other">Steny Hoyer</name>
+</congMember>
+<congMember authorityId="850" bioGuideId="N000002" chamber="H" congress="115" gpoId="8069" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mr. NADLER</name>
+<name type="authority-fnf">Jerrold Nadler</name>
+<name type="authority-lnf">Nadler, Jerrold</name>
+</congMember>
+<USCode title="10">
+<chapter number="55"/>
+</USCode>
+<USCode title="40">
+<section detail="(b)" number="3142"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 440  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 440</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 440  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 440</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2810  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2810</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2810  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2810</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 10 Chapter 55</partNumber>
+</titleInfo>
+<identifier type="USC citation">10 U.S.C. Chapter 55</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 40 Section 3142(b)</partNumber>
+</titleInfo>
+<identifier type="USC citation">40 U.S.C. 3142(b)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 115-212</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 115-217</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 3</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 4</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 5</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 7</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 10</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 14</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 3</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 3</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 4</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 4</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 5</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 5</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 6</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 6</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 7</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 7</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 8</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 9</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 10</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 10</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem ID="P0b002ee1976389a9" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 118</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-13/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-13/pdf/CREC-2017-07-13.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H5763</start>
+<end>H5833</end>
+</extent>
+<extent unit="pages">
+<start>S3965</start>
+<end>S4007</end>
+</extent>
+<extent unit="pages">
+<start>E975</start>
+<end>E986</end>
+</extent>
+<extent unit="pages">
+<start>D766</start>
+<end>D774</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-07-13</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>270 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-07-13</identifier>
+<identifier type="local">P0b002ee1976389a9</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR13JY17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-11-04</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-11-04</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-07-13</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-07-13</accessId>
+<volume>163</volume>
+<issue>118</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>
