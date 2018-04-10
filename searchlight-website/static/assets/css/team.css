@@ -1,51 +1,28 @@
 /*ltd-white #FFFFF3
+F2F2F2
 ltd-grey #34393A
 ltd-blue #2E6171
 ltd-lightblue #AFD9D3
 ltd-darkblue #1B3949*/
 
-.nav a {
-	color: #5a5a5a;
-	padding: 24px 10px;
-	margin: 24px 10px;
-	text-transform: uppercase;
-	font-family: ‘Merriweather’;
-	font-weight: 700;
-	font-size: 17px;
-	line-height: 1.3em/22px;
+.navbar {
+	margin-bottom: 0px;
 }
 
-.nav li {
-  display: inline;
+.navbar-brand{
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
 }
 
-.home {
-	font-size: 100;
-	background-color: #FFFFF3;
+.navbar-fixed-top {
+	position: fixed;
+	font-size: 16px;
+	margin-bottom: 55px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
+	border: 0;
+	font-family: 'Lato', sans-serif;
 }
 
-.home h1 {
-	position: relative;
-	margin: 0;
-	color: #1B3949;
-	margin: 0;
-
-	font-family: ‘Merriweather’;
-	font-weight: 700;
-	font-size: 80;
-	line-height: 1.3em/52px;
-}	
-
-.home h3 {
-	margin: 0;
-	font-family: ‘Merriweather’;
-	font-weight: 700;
-	font-size: 40px;
-	line-height: 1.3em/26px;
-	color: #34393A;
-}
-
-.home .querybutton {
-	font-size: 50;
-	color: #AFD9D3;
+.team {
+	margin-top: 55px;
 }
