@@ -1,0 +1,875 @@
+<mods ID="id-CREC-2017-09-14-pt1-PgS5749-2" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-01-11</dateIngested>
+</extension>
+<titleInfo>
+<title>TEXT OF AMENDMENTS</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-09-14/html/CREC-2017-09-14-pt1-PgS5749-2.htm">
+<identifier type="FDsys Unique ID">D09002ee197f7b5bf</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-09-14/pdf/CREC-2017-09-14-pt1-PgS5749-2.pdf">
+<identifier type="FDsys Unique ID">D09002ee197f7b6b9</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S5749</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-09-14/CREC-2017-09-14-pt1-PgS5749-2</identifier>
+<identifier type="former granule identifier">CR14SE17-192</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-09-14/CREC-2017-09-14-pt1-PgS5749-2/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-14/pdf/CREC-2017-09-14-pt1-PgS5749-2.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-14/html/CREC-2017-09-14-pt1-PgS5749-2.htm</url>
+</location>
+<physicalDescription>
+<extent>22 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S5749</start>
+<end>S5770</end>
+</extent>
+</part>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Armed Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Foreign Relations</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Foreign Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Appropriations</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Appropriations</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Judiciary</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Banking, Housing, and Urban Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Financial Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Select Committee on Intelligence</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Permanent Select Committee on Intelligence</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Health, Education, Labor, and Pensions</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Education and the Workforce</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Commerce, Science, and Transportation</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Science, Space, and Technology</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. S5749</identifier>
+<extension>
+<searchTitle>TEXT OF AMENDMENTS; Congressional Record Vol. 163, No. 149</searchTitle>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-09-14-pt1-PgS5749-2</accessId>
+<subGranuleClass>SAMENDMENTTEXT</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-09-14</granuleDate>
+<bill congress="115" context="OTHER" number="129" type="S"/>
+<bill congress="115" context="OTHER" number="1519" type="S"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="2810" type="HR"/>
+<bill congress="115" context="OTHER" number="2810" type="HR"/>
+<congCommittee authorityId="ssas00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Armed Services</name>
+<name type="authority-short">Armed Services</name>
+</congCommittee>
+<congCommittee authorityId="ssfr00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Foreign Relations</name>
+<name type="authority-short">Foreign Relations</name>
+</congCommittee>
+<congCommittee authorityId="hsfa00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Foreign Affairs</name>
+<name type="authority-short">Foreign Affairs</name>
+</congCommittee>
+<congCommittee authorityId="ssap00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Appropriations</name>
+<name type="authority-short">Appropriations</name>
+</congCommittee>
+<congCommittee authorityId="hsap00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Appropriations</name>
+<name type="authority-short">Appropriations</name>
+</congCommittee>
+<congCommittee authorityId="ssju00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Judiciary</name>
+<name type="authority-short">Judiciary</name>
+</congCommittee>
+<congCommittee authorityId="ssbk00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Banking, Housing, and Urban Affairs</name>
+<name type="authority-short">Banking</name>
+</congCommittee>
+<congCommittee authorityId="hsba00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Financial Services</name>
+<name type="authority-short">Financial Services</name>
+</congCommittee>
+<congCommittee authorityId="slin00" chamber="S" congress="115" type="L">
+<name type="authority-standard">Select Committee on Intelligence</name>
+<name type="authority-short">Intelligence</name>
+</congCommittee>
+<congCommittee authorityId="hlig00" chamber="H" congress="115" type="L">
+<name type="authority-standard">Permanent Select Committee on Intelligence</name>
+<name type="authority-short">Intelligence (Permanent)</name>
+</congCommittee>
+<congCommittee authorityId="sshr00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Health, Education, Labor, and Pensions</name>
+<name type="authority-short">HELP</name>
+</congCommittee>
+<congCommittee authorityId="hsed00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Education and the Workforce</name>
+<name type="authority-short">Education and the Workforce</name>
+</congCommittee>
+<congCommittee authorityId="sscm00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Commerce, Science, and Transportation</name>
+<name type="authority-short">Commerce</name>
+</congCommittee>
+<congCommittee authorityId="hssy00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Science, Space, and Technology</name>
+<name type="authority-short">Science, Space, and Technology</name>
+</congCommittee>
+<law congress="103" isPrivate="false" number="355"/>
+<law congress="104" isPrivate="false" number="172"/>
+<law congress="112" isPrivate="false" number="25"/>
+<law congress="113" isPrivate="false" number="66"/>
+<law congress="114" isPrivate="false" number="328"/>
+<law congress="115" isPrivate="false" number="44"/>
+<USCode title="2">
+<section number="901"/>
+</USCode>
+<USCode title="5">
+<section number="105"/>
+<chapter number="33"/>
+</USCode>
+<USCode title="8">
+<section detail="(a)" number="1101"/>
+<section number="1151"/>
+<section detail="(e)" number="1152"/>
+<section detail="(a)" number="1153"/>
+<section number="1154"/>
+<section number="1255"/>
+</USCode>
+<USCode title="10">
+<section detail="note" number="113"/>
+<section detail="(a)(2)" number="12732"/>
+<section number="2320a"/>
+<section number="2339a"/>
+<section detail="(a)(2)" number="2340"/>
+<section number="2374a"/>
+<section number="2375"/>
+<section detail="(h)" number="2533a"/>
+<section detail="(f)" number="2533b"/>
+<section detail="(c)(4)" number="2922h"/>
+</USCode>
+<USCode title="15">
+<section detail="et seq." number="1011"/>
+<section number="632"/>
+<section detail="(j)(2)" number="638"/>
+<section number="7442"/>
+<section detail="(c)" number="80a-13"/>
+<section detail="(c)(1)" number="80a-13"/>
+</USCode>
+<USCode title="18">
+<section detail="(c)(7)(D)" number="1956"/>
+<section number="2339A"/>
+<section number="3512"/>
+<chapter number="119"/>
+</USCode>
+<USCode title="20">
+<section detail="(a)" number="1067q"/>
+</USCode>
+<USCode title="22">
+<section detail="et seq." number="2151"/>
+<section detail="(c)" number="262r"/>
+<section detail="et seq." number="2751"/>
+<section detail="et seq." number="5601"/>
+<section detail="et seq." number="6301"/>
+<section number="9202"/>
+<section number="9204"/>
+<section detail="(b)" number="9212"/>
+<section number="9214"/>
+<section detail="(a)" number="9214"/>
+<section number="9221a"/>
+<section number="9228"/>
+<section detail="(a)(2)(B)" number="9243"/>
+<section number="9252"/>
+</USCode>
+<USCode title="28">
+<section detail="(h)" number="1605A"/>
+<section number="1782"/>
+</USCode>
+<USCode title="29">
+<section number="1001"/>
+<section detail="(3)" number="1002"/>
+<section detail="(a)(1)" number="1104"/>
+<section number="151"/>
+<section detail="et seq." number="1801"/>
+<section number="201"/>
+<section number="207"/>
+<section number="213"/>
+<section detail="et seq." number="2601"/>
+<section detail="et seq." number="621"/>
+<section detail="et seq." number="651"/>
+<section number="793"/>
+</USCode>
+<USCode title="31">
+<section number="1342"/>
+<section number="5312"/>
+<section number="5318A"/>
+<section detail="(d)" number="5330"/>
+</USCode>
+<USCode title="33">
+<section detail="et seq." number="1121"/>
+<section detail="(b)" number="1123"/>
+<section detail="(c)(4)(E)" number="1123"/>
+<section detail="(c)(4)(F)" number="1123"/>
+<section detail="(d)(3)" number="1123"/>
+<section detail="(d)(3)(B)" number="1123"/>
+<section detail="(b)" number="1126"/>
+<section detail="(b)" number="1127"/>
+<section detail="(b)(2)" number="1128"/>
+<section number="1131"/>
+<section detail="(a)" number="1131"/>
+<section detail="(b)" number="1131"/>
+</USCode>
+<USCode title="38">
+<section number="4212"/>
+</USCode>
+<USCode title="40">
+<chapter number="31"/>
+</USCode>
+<USCode title="41">
+<section number="133"/>
+<section number="134"/>
+<section detail="(d)" number="1906"/>
+<section detail="(a)(2)" number="1907"/>
+<chapter number="67"/>
+</USCode>
+<USCode title="42">
+<section detail="et seq." number="12101"/>
+<section detail="(i)" number="1862n-1"/>
+<section detail="et seq." number="2000e"/>
+<section detail="note" number="2000e"/>
+<section detail="(e)" number="5195c"/>
+</USCode>
+<USCode title="47">
+<section detail="(b)" number="325"/>
+<section number="522"/>
+<section detail="(h)" number="534"/>
+<section detail="(l)" number="535"/>
+</USCode>
+<USCode title="50">
+<section detail="et seq." number="1701"/>
+<section detail="note" number="1701"/>
+<section number="1801"/>
+<section number="4605"/>
+<appendix detail="et seq." number="2401"/>
+</USCode>
+<statuteAtLarge volume="59">
+<pages pages="34"/>
+</statuteAtLarge>
+<statuteAtLarge volume="125">
+<pages pages="240"/>
+</statuteAtLarge>
+<statuteAtLarge volume="127">
+<pages pages="1031"/>
+</statuteAtLarge>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 129  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 129</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1519  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1519</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2810  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2810</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2810  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2810</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 2 Section 901</partNumber>
+</titleInfo>
+<identifier type="USC citation">2 U.S.C. 901</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 5 Section 105</partNumber>
+<partNumber>Title 5 Chapter 33</partNumber>
+</titleInfo>
+<identifier type="USC citation">5 U.S.C. 105</identifier>
+<identifier type="USC citation">5 U.S.C. Chapter 33</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 8 Section 1101(a)</partNumber>
+<partNumber>Title 8 Section 1151</partNumber>
+<partNumber>Title 8 Section 1152(e)</partNumber>
+<partNumber>Title 8 Section 1153(a)</partNumber>
+<partNumber>Title 8 Section 1154</partNumber>
+<partNumber>Title 8 Section 1255</partNumber>
+</titleInfo>
+<identifier type="USC citation">8 U.S.C. 1101(a)</identifier>
+<identifier type="USC citation">8 U.S.C. 1151</identifier>
+<identifier type="USC citation">8 U.S.C. 1152(e)</identifier>
+<identifier type="USC citation">8 U.S.C. 1153(a)</identifier>
+<identifier type="USC citation">8 U.S.C. 1154</identifier>
+<identifier type="USC citation">8 U.S.C. 1255</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 10 Section 113note</partNumber>
+<partNumber>Title 10 Section 12732(a)(2)</partNumber>
+<partNumber>Title 10 Section 2320a</partNumber>
+<partNumber>Title 10 Section 2339a</partNumber>
+<partNumber>Title 10 Section 2340(a)(2)</partNumber>
+<partNumber>Title 10 Section 2374a</partNumber>
+<partNumber>Title 10 Section 2375</partNumber>
+<partNumber>Title 10 Section 2533a(h)</partNumber>
+<partNumber>Title 10 Section 2533b(f)</partNumber>
+<partNumber>Title 10 Section 2922h(c)(4)</partNumber>
+</titleInfo>
+<identifier type="USC citation">10 U.S.C. 113note</identifier>
+<identifier type="USC citation">10 U.S.C. 12732(a)(2)</identifier>
+<identifier type="USC citation">10 U.S.C. 2320a</identifier>
+<identifier type="USC citation">10 U.S.C. 2339a</identifier>
+<identifier type="USC citation">10 U.S.C. 2340(a)(2)</identifier>
+<identifier type="USC citation">10 U.S.C. 2374a</identifier>
+<identifier type="USC citation">10 U.S.C. 2375</identifier>
+<identifier type="USC citation">10 U.S.C. 2533a(h)</identifier>
+<identifier type="USC citation">10 U.S.C. 2533b(f)</identifier>
+<identifier type="USC citation">10 U.S.C. 2922h(c)(4)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 15 Section 1011et seq.</partNumber>
+<partNumber>Title 15 Section 632</partNumber>
+<partNumber>Title 15 Section 638(j)(2)</partNumber>
+<partNumber>Title 15 Section 7442</partNumber>
+<partNumber>Title 15 Section 80a-13(c)</partNumber>
+<partNumber>Title 15 Section 80a-13(c)(1)</partNumber>
+</titleInfo>
+<identifier type="USC citation">15 U.S.C. 1011et seq.</identifier>
+<identifier type="USC citation">15 U.S.C. 632</identifier>
+<identifier type="USC citation">15 U.S.C. 638(j)(2)</identifier>
+<identifier type="USC citation">15 U.S.C. 7442</identifier>
+<identifier type="USC citation">15 U.S.C. 80a-13(c)</identifier>
+<identifier type="USC citation">15 U.S.C. 80a-13(c)(1)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 18 Section 1956(c)(7)(D)</partNumber>
+<partNumber>Title 18 Section 2339A</partNumber>
+<partNumber>Title 18 Section 3512</partNumber>
+<partNumber>Title 18 Chapter 119</partNumber>
+</titleInfo>
+<identifier type="USC citation">18 U.S.C. 1956(c)(7)(D)</identifier>
+<identifier type="USC citation">18 U.S.C. 2339A</identifier>
+<identifier type="USC citation">18 U.S.C. 3512</identifier>
+<identifier type="USC citation">18 U.S.C. Chapter 119</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 20 Section 1067q(a)</partNumber>
+</titleInfo>
+<identifier type="USC citation">20 U.S.C. 1067q(a)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 22 Section 2151et seq.</partNumber>
+<partNumber>Title 22 Section 262r(c)</partNumber>
+<partNumber>Title 22 Section 2751et seq.</partNumber>
+<partNumber>Title 22 Section 5601et seq.</partNumber>
+<partNumber>Title 22 Section 6301et seq.</partNumber>
+<partNumber>Title 22 Section 9202</partNumber>
+<partNumber>Title 22 Section 9204</partNumber>
+<partNumber>Title 22 Section 9212(b)</partNumber>
+<partNumber>Title 22 Section 9214</partNumber>
+<partNumber>Title 22 Section 9214(a)</partNumber>
+<partNumber>Title 22 Section 9221a</partNumber>
+<partNumber>Title 22 Section 9228</partNumber>
+<partNumber>Title 22 Section 9243(a)(2)(B)</partNumber>
+<partNumber>Title 22 Section 9252</partNumber>
+</titleInfo>
+<identifier type="USC citation">22 U.S.C. 2151et seq.</identifier>
+<identifier type="USC citation">22 U.S.C. 262r(c)</identifier>
+<identifier type="USC citation">22 U.S.C. 2751et seq.</identifier>
+<identifier type="USC citation">22 U.S.C. 5601et seq.</identifier>
+<identifier type="USC citation">22 U.S.C. 6301et seq.</identifier>
+<identifier type="USC citation">22 U.S.C. 9202</identifier>
+<identifier type="USC citation">22 U.S.C. 9204</identifier>
+<identifier type="USC citation">22 U.S.C. 9212(b)</identifier>
+<identifier type="USC citation">22 U.S.C. 9214</identifier>
+<identifier type="USC citation">22 U.S.C. 9214(a)</identifier>
+<identifier type="USC citation">22 U.S.C. 9221a</identifier>
+<identifier type="USC citation">22 U.S.C. 9228</identifier>
+<identifier type="USC citation">22 U.S.C. 9243(a)(2)(B)</identifier>
+<identifier type="USC citation">22 U.S.C. 9252</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 28 Section 1605A(h)</partNumber>
+<partNumber>Title 28 Section 1782</partNumber>
+</titleInfo>
+<identifier type="USC citation">28 U.S.C. 1605A(h)</identifier>
+<identifier type="USC citation">28 U.S.C. 1782</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 29 Section 1001</partNumber>
+<partNumber>Title 29 Section 1002(3)</partNumber>
+<partNumber>Title 29 Section 1104(a)(1)</partNumber>
+<partNumber>Title 29 Section 151</partNumber>
+<partNumber>Title 29 Section 1801et seq.</partNumber>
+<partNumber>Title 29 Section 201</partNumber>
+<partNumber>Title 29 Section 207</partNumber>
+<partNumber>Title 29 Section 213</partNumber>
+<partNumber>Title 29 Section 2601et seq.</partNumber>
+<partNumber>Title 29 Section 621et seq.</partNumber>
+<partNumber>Title 29 Section 651et seq.</partNumber>
+<partNumber>Title 29 Section 793</partNumber>
+</titleInfo>
+<identifier type="USC citation">29 U.S.C. 1001</identifier>
+<identifier type="USC citation">29 U.S.C. 1002(3)</identifier>
+<identifier type="USC citation">29 U.S.C. 1104(a)(1)</identifier>
+<identifier type="USC citation">29 U.S.C. 151</identifier>
+<identifier type="USC citation">29 U.S.C. 1801et seq.</identifier>
+<identifier type="USC citation">29 U.S.C. 201</identifier>
+<identifier type="USC citation">29 U.S.C. 207</identifier>
+<identifier type="USC citation">29 U.S.C. 213</identifier>
+<identifier type="USC citation">29 U.S.C. 2601et seq.</identifier>
+<identifier type="USC citation">29 U.S.C. 621et seq.</identifier>
+<identifier type="USC citation">29 U.S.C. 651et seq.</identifier>
+<identifier type="USC citation">29 U.S.C. 793</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 31 Section 1342</partNumber>
+<partNumber>Title 31 Section 5312</partNumber>
+<partNumber>Title 31 Section 5318A</partNumber>
+<partNumber>Title 31 Section 5330(d)</partNumber>
+</titleInfo>
+<identifier type="USC citation">31 U.S.C. 1342</identifier>
+<identifier type="USC citation">31 U.S.C. 5312</identifier>
+<identifier type="USC citation">31 U.S.C. 5318A</identifier>
+<identifier type="USC citation">31 U.S.C. 5330(d)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 33 Section 1121et seq.</partNumber>
+<partNumber>Title 33 Section 1123(b)</partNumber>
+<partNumber>Title 33 Section 1123(c)(4)(E)</partNumber>
+<partNumber>Title 33 Section 1123(c)(4)(F)</partNumber>
+<partNumber>Title 33 Section 1123(d)(3)</partNumber>
+<partNumber>Title 33 Section 1123(d)(3)(B)</partNumber>
+<partNumber>Title 33 Section 1126(b)</partNumber>
+<partNumber>Title 33 Section 1127(b)</partNumber>
+<partNumber>Title 33 Section 1128(b)(2)</partNumber>
+<partNumber>Title 33 Section 1131</partNumber>
+<partNumber>Title 33 Section 1131(a)</partNumber>
+<partNumber>Title 33 Section 1131(b)</partNumber>
+</titleInfo>
+<identifier type="USC citation">33 U.S.C. 1121et seq.</identifier>
+<identifier type="USC citation">33 U.S.C. 1123(b)</identifier>
+<identifier type="USC citation">33 U.S.C. 1123(c)(4)(E)</identifier>
+<identifier type="USC citation">33 U.S.C. 1123(c)(4)(F)</identifier>
+<identifier type="USC citation">33 U.S.C. 1123(d)(3)</identifier>
+<identifier type="USC citation">33 U.S.C. 1123(d)(3)(B)</identifier>
+<identifier type="USC citation">33 U.S.C. 1126(b)</identifier>
+<identifier type="USC citation">33 U.S.C. 1127(b)</identifier>
+<identifier type="USC citation">33 U.S.C. 1128(b)(2)</identifier>
+<identifier type="USC citation">33 U.S.C. 1131</identifier>
+<identifier type="USC citation">33 U.S.C. 1131(a)</identifier>
+<identifier type="USC citation">33 U.S.C. 1131(b)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 38 Section 4212</partNumber>
+</titleInfo>
+<identifier type="USC citation">38 U.S.C. 4212</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 40 Chapter 31</partNumber>
+</titleInfo>
+<identifier type="USC citation">40 U.S.C. Chapter 31</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 41 Section 133</partNumber>
+<partNumber>Title 41 Section 134</partNumber>
+<partNumber>Title 41 Section 1906(d)</partNumber>
+<partNumber>Title 41 Section 1907(a)(2)</partNumber>
+<partNumber>Title 41 Chapter 67</partNumber>
+</titleInfo>
+<identifier type="USC citation">41 U.S.C. 133</identifier>
+<identifier type="USC citation">41 U.S.C. 134</identifier>
+<identifier type="USC citation">41 U.S.C. 1906(d)</identifier>
+<identifier type="USC citation">41 U.S.C. 1907(a)(2)</identifier>
+<identifier type="USC citation">41 U.S.C. Chapter 67</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 12101et seq.</partNumber>
+<partNumber>Title 42 Section 1862n-1(i)</partNumber>
+<partNumber>Title 42 Section 2000eet seq.</partNumber>
+<partNumber>Title 42 Section 2000enote</partNumber>
+<partNumber>Title 42 Section 5195c(e)</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 12101et seq.</identifier>
+<identifier type="USC citation">42 U.S.C. 1862n-1(i)</identifier>
+<identifier type="USC citation">42 U.S.C. 2000eet seq.</identifier>
+<identifier type="USC citation">42 U.S.C. 2000enote</identifier>
+<identifier type="USC citation">42 U.S.C. 5195c(e)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 47 Section 325(b)</partNumber>
+<partNumber>Title 47 Section 522</partNumber>
+<partNumber>Title 47 Section 534(h)</partNumber>
+<partNumber>Title 47 Section 535(l)</partNumber>
+</titleInfo>
+<identifier type="USC citation">47 U.S.C. 325(b)</identifier>
+<identifier type="USC citation">47 U.S.C. 522</identifier>
+<identifier type="USC citation">47 U.S.C. 534(h)</identifier>
+<identifier type="USC citation">47 U.S.C. 535(l)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 50 Section 1701et seq.</partNumber>
+<partNumber>Title 50 Section 1701note</partNumber>
+<partNumber>Title 50 Section 1801</partNumber>
+<partNumber>Title 50 Section 4605</partNumber>
+<partNumber>Title 50 Appendix 2401</partNumber>
+</titleInfo>
+<identifier type="USC citation">50 U.S.C. 1701et seq.</identifier>
+<identifier type="USC citation">50 U.S.C. 1701note</identifier>
+<identifier type="USC citation">50 U.S.C. 1801</identifier>
+<identifier type="USC citation">50 U.S.C. 4605</identifier>
+<identifier type="USC citation">50 U.S.C. App. 2401</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 59 Page 34</partNumber>
+</titleInfo>
+<identifier type="Statute citation">59 Stat. 34</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 125 Page 240</partNumber>
+</titleInfo>
+<identifier type="Statute citation">125 Stat. 240</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 127 Page 1031</partNumber>
+</titleInfo>
+<identifier type="Statute citation">127 Stat. 1031</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 103-355</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 103-355</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 104-172</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 104-172</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 112-25</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 112-25</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 113-66</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 113-66</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-328</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-328</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-44</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-44</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee197f7a648" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 149</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-14/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-14/pdf/CREC-2017-09-14.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H7385</start>
+<end>H7425</end>
+</extent>
+<extent unit="pages">
+<start>S5709</start>
+<end>S5773</end>
+</extent>
+<extent unit="pages">
+<start>E1221</start>
+<end>E1236</end>
+</extent>
+<extent unit="pages">
+<start>D979</start>
+<end>D984</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-09-14</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>256 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-14</identifier>
+<identifier type="local">P0b002ee197f7a648</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR14SE17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-01-11</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-01-11</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-09-14</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-09-14</accessId>
+<volume>163</volume>
+<issue>149</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

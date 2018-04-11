@@ -1,0 +1,267 @@
+<mods ID="id-CREC-2017-10-03-pt1-PgH7736" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-01-27</dateIngested>
+</extension>
+<titleInfo>
+<title>WESTERN CAUCUS: WILDFIRES</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-10-03/html/CREC-2017-10-03-pt1-PgH7736.htm">
+<identifier type="FDsys Unique ID">D09002ee19822198f</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-10-03/pdf/CREC-2017-10-03-pt1-PgH7736.pdf">
+<identifier type="FDsys Unique ID">D09002ee1982219ef</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H7736</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-10-03/CREC-2017-10-03-pt1-PgH7736</identifier>
+<identifier type="former granule identifier">CR03OC17-120</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-10-03/CREC-2017-10-03-pt1-PgH7736/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-03/pdf/CREC-2017-10-03-pt1-PgH7736.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-03/html/CREC-2017-10-03-pt1-PgH7736.htm</url>
+</location>
+<physicalDescription>
+<extent>7 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H7736</start>
+<end>H7742</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Paul A. Gosar</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Scott R. Tipton</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Chris Stewart</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Greg Gianforte</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tom McClintock</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Greg Walden</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Dan Newhouse</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bruce Westerman</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H7736</identifier>
+<extension>
+<searchTitle>WESTERN CAUCUS: WILDFIRES; Congressional Record Vol. 163, No. 158</searchTitle>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-10-03-pt1-PgH7736</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-10-03</granuleDate>
+<time from="19:00:00" to="20:00:00"/>
+<bill congress="115" context="OTHER" number="167" type="HR"/>
+<bill congress="115" context="OTHER" number="2936" type="HR"/>
+<congMember authorityId="1992" bioGuideId="G000565" chamber="H" congress="115" gpoId="7798" party="R" role="SPEAKING" state="AZ">
+<name type="parsed">Mr. GOSAR</name>
+<name type="authority-fnf">Paul A. Gosar</name>
+<name type="authority-lnf">Gosar, Paul A.</name>
+<name type="authority-other">Mr. Paul Gosar</name>
+</congMember>
+<congMember authorityId="1997" bioGuideId="T000470" chamber="H" congress="115" gpoId="7861" party="R" role="SPEAKING" state="CO">
+<name type="parsed">Mr. TIPTON</name>
+<name type="authority-fnf">Scott R. Tipton</name>
+<name type="authority-lnf">Tipton, Scott R.</name>
+<name type="authority-other">Mr. Scott Tipton</name>
+</congMember>
+<congMember authorityId="2168" bioGuideId="S001192" chamber="H" congress="115" party="R" role="SPEAKING" state="UT">
+<name type="parsed">Mr. STEWART</name>
+<name type="authority-fnf">Chris Stewart</name>
+<name type="authority-lnf">Stewart, Chris</name>
+</congMember>
+<congMember authorityId="2359" bioGuideId="G000584" chamber="H" congress="115" party="R" role="SPEAKING" state="MT">
+<name type="parsed">Mr. GIANFORTE</name>
+<name type="authority-fnf">Greg Gianforte</name>
+<name type="authority-lnf">Gianforte, Greg</name>
+</congMember>
+<congMember authorityId="1908" bioGuideId="M001177" chamber="H" congress="115" gpoId="7809" party="R" role="SPEAKING" state="CA">
+<name type="parsed">Mr. McCLINTOCK</name>
+<name type="authority-fnf">Tom McClintock</name>
+<name type="authority-lnf">McClintock, Tom</name>
+</congMember>
+<congMember authorityId="1596" bioGuideId="W000791" chamber="H" congress="115" gpoId="8115" party="R" role="SPEAKING" state="OR">
+<name type="parsed">Mr. WALDEN</name>
+<name type="authority-fnf">Greg Walden</name>
+<name type="authority-lnf">Walden, Greg</name>
+</congMember>
+<congMember authorityId="2275" bioGuideId="N000189" chamber="H" congress="115" party="R" role="SPEAKING" state="WA">
+<name type="parsed">Mr. NEWHOUSE</name>
+<name type="authority-fnf">Dan Newhouse</name>
+<name type="authority-lnf">Newhouse, Dan</name>
+</congMember>
+<congMember authorityId="2224" bioGuideId="W000821" chamber="H" congress="115" party="R" role="SPEAKING" state="AR">
+<name type="parsed">Mr. WESTERMAN</name>
+<name type="authority-fnf">Bruce Westerman</name>
+<name type="authority-lnf">Westerman, Bruce</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 167  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 167</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2936  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2936</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee19822026b" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 158</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-03/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-03/pdf/CREC-2017-10-03.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H7675</start>
+<end>H7752</end>
+</extent>
+<extent unit="pages">
+<start>S6267</start>
+<end>S6292</end>
+</extent>
+<extent unit="pages">
+<start>E1309</start>
+<end>E1318</end>
+</extent>
+<extent unit="pages">
+<start>D1039</start>
+<end>D1048</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-10-03</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>248 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-03</identifier>
+<identifier type="local">P0b002ee19822026b</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR03OC17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-01-27</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-01-27</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-10-03</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-10-03</accessId>
+<volume>163</volume>
+<issue>158</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

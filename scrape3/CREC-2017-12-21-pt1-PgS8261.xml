@@ -1,0 +1,330 @@
+<mods ID="id-CREC-2017-12-21-pt1-PgS8261" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-03-31</dateIngested>
+</extension>
+<titleInfo>
+<title>STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-12-21/html/CREC-2017-12-21-pt1-PgS8261.htm">
+<identifier type="FDsys Unique ID">D09002ee199ee9971</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-12-21/pdf/CREC-2017-12-21-pt1-PgS8261.pdf">
+<identifier type="FDsys Unique ID">D09002ee199ee9ace</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S8261</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-12-21/CREC-2017-12-21-pt1-PgS8261</identifier>
+<identifier type="former granule identifier">CR21DE17-249</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-12-21/CREC-2017-12-21-pt1-PgS8261/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-21/pdf/CREC-2017-12-21-pt1-PgS8261.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-21/html/CREC-2017-12-21-pt1-PgS8261.htm</url>
+</location>
+<physicalDescription>
+<extent>3 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S8261</start>
+<end>S8263</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Jack Reed</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Steve Daines</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Susan M. Collins</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Dan Sullivan</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Commerce, Science, and Transportation</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Health, Education, Labor, and Pensions</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. S8261</identifier>
+<extension>
+<searchTitle>STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS; Congressional Record Vol. 163, No. 209</searchTitle>
+<associatedBills>S. 2270, 115th Congress
+        </associatedBills>
+<associatedBills>S. 2273, 115th Congress
+        </associatedBills>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-12-21-pt1-PgS8261</accessId>
+<subGranuleClass>SSTATEMENTS</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-12-21</granuleDate>
+<bill congress="115" context="FIRSTPARAGRAPH" number="2264" type="S"/>
+<bill congress="115" context="OTHER" number="2264" type="S"/>
+<bill congress="115" context="HEADERLINE" number="2270" type="S"/>
+<bill congress="115" context="OTHER" number="2270" type="S"/>
+<bill congress="115" context="OTHER" number="2271" type="S"/>
+<bill congress="115" context="HEADERLINE" number="2273" type="S"/>
+<bill congress="115" context="OTHER" number="2273" type="S"/>
+<congCommittee authorityId="sscm00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Commerce, Science, and Transportation</name>
+<name type="authority-short">Commerce</name>
+</congCommittee>
+<congCommittee authorityId="sshr00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Health, Education, Labor, and Pensions</name>
+<name type="authority-short">HELP</name>
+</congCommittee>
+<congMember authorityId="949" bioGuideId="R000122" chamber="S" congress="115" gpoId="8272" party="D" role="SPEAKING" state="RI">
+<name type="parsed">Mr. REED</name>
+<name type="authority-fnf">Jack Reed</name>
+<name type="authority-lnf">Reed, Jack</name>
+<name type="authority-other">John Reed</name>
+</congMember>
+<congMember authorityId="2138" bioGuideId="D000618" chamber="S" congress="115" party="R" role="SPEAKING" state="MT">
+<name type="parsed">Mr. DAINES</name>
+<name type="authority-fnf">Steve Daines</name>
+<name type="authority-lnf">Daines, Steve</name>
+</congMember>
+<congMember authorityId="1541" bioGuideId="C001035" chamber="S" congress="115" gpoId="8291" party="R" role="SPEAKING" state="ME">
+<name type="parsed">Ms. COLLINS</name>
+<name type="authority-fnf">Susan M. Collins</name>
+<name type="authority-lnf">Collins, Susan M.</name>
+<name type="authority-other">Susan Margaret Collins</name>
+</congMember>
+<congMember authorityId="2290" bioGuideId="S001198" chamber="S" congress="115" party="R" role="SPEAKING" state="AK">
+<name type="parsed">Mr. SULLIVAN</name>
+<name type="authority-fnf">Dan Sullivan</name>
+<name type="authority-lnf">Sullivan, Dan</name>
+</congMember>
+<law congress="110" isPrivate="false" number="299"/>
+<USCode title="33">
+<section detail="note" number="1342"/>
+</USCode>
+<USCode title="42">
+<section detail="note" number="290ee-3"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2264  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2264</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2264  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2264</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2270  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2270</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2270  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2270</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2271  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2271</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2273  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2273</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2273  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2273</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 33 Section 1342note</partNumber>
+</titleInfo>
+<identifier type="USC citation">33 U.S.C. 1342note</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 290ee-3note</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 290ee-3note</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 110-299</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 110-299</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee199ee915a" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 209</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-21/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-21/pdf/CREC-2017-12-21.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H10347</start>
+<end>H10421</end>
+</extent>
+<extent unit="pages">
+<start>S8187</start>
+<end>S8281</end>
+</extent>
+<extent unit="pages">
+<start>E1745</start>
+<end>E1756</end>
+</extent>
+<extent unit="pages">
+<start>D1353</start>
+<end>D1360</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-12-21</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>380 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-21</identifier>
+<identifier type="local">P0b002ee199ee915a</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR21DE17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-03-31</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-03-31</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-12-21</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-12-21</accessId>
+<volume>163</volume>
+<issue>209</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

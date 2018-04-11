@@ -1,0 +1,254 @@
+<mods ID="id-CREC-2017-09-08-pt1-PgH7213-2" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-09-28</dateIngested>
+</extension>
+<titleInfo>
+<title>PUBLICATION OF BUDGETARY MATERIAL</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-09-08/html/CREC-2017-09-08-pt1-PgH7213-2.htm">
+<identifier type="FDsys Unique ID">D09002ee197037257</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-09-08/pdf/CREC-2017-09-08-pt1-PgH7213-2.pdf">
+<identifier type="FDsys Unique ID">D09002ee1970372b7</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H7213</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-09-08/CREC-2017-09-08-pt1-PgH7213-2</identifier>
+<identifier type="former granule identifier">CR08SE17-68</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-09-08/CREC-2017-09-08-pt1-PgH7213-2/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-08/pdf/CREC-2017-09-08-pt1-PgH7213-2.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-08/html/CREC-2017-09-08-pt1-PgH7213-2.htm</url>
+</location>
+<physicalDescription>
+<extent>3 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H7213</start>
+<end>H7215</end>
+</extent>
+</part>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on the Budget</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H7213</identifier>
+<extension>
+<searchTitle>PUBLICATION OF BUDGETARY MATERIAL; Congressional Record Vol. 163, No. 145</searchTitle>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-09-08-pt1-PgH7213-2</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-09-08</granuleDate>
+<time from="12:45:00" to="12:45:00"/>
+<bill congress="114" context="OTHER" number="11" type="SCONRES"/>
+<bill congress="115" context="OTHER" number="3" type="SCONRES"/>
+<bill congress="115" context="OTHER" number="5" type="HRES"/>
+<bill congress="115" context="OTHER" number="11" type="SCONRES"/>
+<bill congress="115" context="OTHER" number="244" type="HR"/>
+<congCommittee authorityId="hsbu00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on the Budget</name>
+<name type="authority-short">The Budget</name>
+</congCommittee>
+<law congress="114" isPrivate="false" number="223"/>
+<law congress="114" isPrivate="false" number="254"/>
+<law congress="114" isPrivate="false" number="255"/>
+<law congress="115" isPrivate="false" number="10"/>
+<law congress="115" isPrivate="false" number="30"/>
+<law congress="115" isPrivate="false" number="31"/>
+<law congress="115" isPrivate="false" number="46"/>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Concurrent Resolution 11  (114th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. Con. Res. 11</identifier>
+<extension>
+<congress>114</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Concurrent Resolution 3  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. Con. Res. 3</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 5  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 5</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Concurrent Resolution 11  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. Con. Res. 11</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 244  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 244</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-223</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-223</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-254</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-254</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-255</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-255</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-10</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-10</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-30</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-30</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-31</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-31</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-46</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-46</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee197033b04" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 145</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-08/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-08/pdf/CREC-2017-09-08.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H7185</start>
+<end>H7218</end>
+</extent>
+<extent unit="pages">
+<start>E1185</start>
+<end>E1192</end>
+</extent>
+<extent unit="pages">
+<start>D946</start>
+<end>D948</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-09-08</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>90 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-08</identifier>
+<identifier type="local">P0b002ee197033b04</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR08SE17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-09-28</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-09-28</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-09-08</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-09-08</accessId>
+<volume>163</volume>
+<issue>145</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

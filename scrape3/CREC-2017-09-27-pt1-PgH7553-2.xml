@@ -1,0 +1,679 @@
+<mods ID="id-CREC-2017-09-27-pt1-PgH7553-2" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-09-28</dateIngested>
+</extension>
+<titleInfo>
+<title>DISASTER TAX RELIEF AND AIRPORT AND AIRWAY EXTENSION ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-09-27/html/CREC-2017-09-27-pt1-PgH7553-2.htm">
+<identifier type="FDsys Unique ID">D09002ee19703e6b6</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-09-27/pdf/CREC-2017-09-27-pt1-PgH7553-2.pdf">
+<identifier type="FDsys Unique ID">D09002ee19703e79a</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H7553</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-09-27/CREC-2017-09-27-pt1-PgH7553-2</identifier>
+<identifier type="former granule identifier">cr27se17-73</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-09-27/CREC-2017-09-27-pt1-PgH7553-2/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-27/pdf/CREC-2017-09-27-pt1-PgH7553-2.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-27/html/CREC-2017-09-27-pt1-PgH7553-2.htm</url>
+</location>
+<physicalDescription>
+<extent>15 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H7553</start>
+<end>H7567</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Carlos Curbelo</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Richard E. Neal</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Kevin Brady</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bill Pascrell, Jr.</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bill Shuster</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Peter A. DeFazio</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Cathy McMorris Rodgers</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheila Jackson Lee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ralph Norman</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Nydia M. Velazquez</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jeb Hensarling</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Maxine Waters</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Dennis A. Ross</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>David Scott</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Frank Pallone, Jr.</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Garret Graves</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sean P. Duffy</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Ways and Means</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Financial Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Transportation and Infrastructure</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H7553</identifier>
+<extension>
+<searchTitle>DISASTER TAX RELIEF AND AIRPORT AND AIRWAY EXTENSION ACT OF 2017; Congressional Record Vol. 163, No. 155</searchTitle>
+<associatedBills>H.R. 3823, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-09-27-pt1-PgH7553-2</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-09-27</granuleDate>
+<time from="17:29:00" to="18:30:00"/>
+<congReport congress="115" context="FIRSTPARAGRAPH" number="333" type="H"/>
+<congReport congress="115" context="OTHER" number="333" type="H"/>
+<bill congress="111" context="OTHER" number="13" type="SCONRES"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="538" type="HRES"/>
+<bill congress="115" context="OTHER" number="538" type="HRES"/>
+<bill congress="115" context="OTHER" number="1422" type="HR"/>
+<bill congress="115" context="OTHER" number="2997" type="HR"/>
+<bill congress="115" context="HEADERLINE" number="3823" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="3823" type="HR"/>
+<bill congress="115" context="OTHER" number="3823" type="HR"/>
+<congCommittee authorityId="hswm00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Ways and Means</name>
+<name type="authority-short">Ways and Means</name>
+</congCommittee>
+<congCommittee authorityId="hsba00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Financial Services</name>
+<name type="authority-short">Financial Services</name>
+</congCommittee>
+<congCommittee authorityId="hspw00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Transportation and Infrastructure</name>
+<name type="authority-short">Transportation</name>
+</congCommittee>
+<congMember authorityId="2235" bioGuideId="C001107" chamber="H" congress="115" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Mr. CURBELO of Florida</name>
+<name type="authority-fnf">Carlos Curbelo</name>
+<name type="authority-lnf">Curbelo, Carlos</name>
+</congMember>
+<congMember authorityId="854" bioGuideId="N000015" chamber="H" congress="115" gpoId="7967" party="D" role="SPEAKING" state="MA">
+<name type="parsed">Mr. NEAL</name>
+<name type="authority-fnf">Richard E. Neal</name>
+<name type="authority-lnf">Neal, Richard E.</name>
+<name type="authority-other">Richard Neal</name>
+</congMember>
+<congMember authorityId="1468" bioGuideId="B000755" chamber="H" congress="115" gpoId="8164" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. BRADY of Texas</name>
+<name type="authority-fnf">Kevin Brady</name>
+<name type="authority-lnf">Brady, Kevin</name>
+</congMember>
+<congMember authorityId="1510" bioGuideId="P000096" chamber="H" congress="115" gpoId="8050" party="D" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. PASCRELL</name>
+<name type="authority-fnf">Bill Pascrell, Jr.</name>
+<name type="authority-lnf">Pascrell, Bill, Jr.</name>
+<name type="authority-other">William Pascrell Jr.</name>
+</congMember>
+<congMember authorityId="1681" bioGuideId="S001154" chamber="H" congress="115" gpoId="8127" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. SHUSTER</name>
+<name type="authority-fnf">Bill Shuster</name>
+<name type="authority-lnf">Shuster, Bill</name>
+</congMember>
+<congMember authorityId="279" bioGuideId="D000191" chamber="H" congress="115" gpoId="8117" party="D" role="SPEAKING" state="OR">
+<name type="parsed">Mr. DeFAZIO</name>
+<name type="authority-fnf">Peter A. DeFazio</name>
+<name type="authority-lnf">DeFazio, Peter A.</name>
+<name type="authority-other">Peter Defazio</name>
+</congMember>
+<congMember authorityId="1809" bioGuideId="M001159" chamber="H" congress="115" gpoId="8209" party="R" role="SPEAKING" state="WA">
+<name type="parsed">Mrs. McMORRIS RODGERS</name>
+<name type="authority-fnf">Cathy McMorris Rodgers</name>
+<name type="authority-lnf">McMorris Rodgers, Cathy</name>
+</congMember>
+<congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="115" gpoId="8174" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Ms. JACKSON LEE</name>
+<name type="authority-fnf">Sheila Jackson Lee</name>
+<name type="authority-lnf">Jackson Lee, Sheila</name>
+</congMember>
+<congMember authorityId="2361" bioGuideId="N000190" chamber="H" congress="115" party="R" role="SPEAKING" state="SC">
+<name type="parsed">Mr. NORMAN</name>
+<name type="authority-fnf">Ralph Norman</name>
+<name type="authority-lnf">Norman, Ralph</name>
+</congMember>
+<congMember authorityId="1184" bioGuideId="V000081" chamber="H" congress="115" gpoId="8073" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Ms. VELAZQUEZ</name>
+<name type="authority-fnf">Nydia M. Velazquez</name>
+<name type="authority-lnf">Velazquez, Nydia M.</name>
+<name type="authority-other">Nydia Velazquez</name>
+</congMember>
+<congMember authorityId="1749" bioGuideId="H001036" chamber="H" congress="115" gpoId="8161" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. HENSARLING</name>
+<name type="authority-fnf">Jeb Hensarling</name>
+<name type="authority-lnf">Hensarling, Jeb</name>
+</congMember>
+<congMember authorityId="1205" bioGuideId="W000187" chamber="H" congress="115" gpoId="7840" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. MAXINE WATERS of California</name>
+<name type="authority-fnf">Maxine Waters</name>
+<name type="authority-lnf">Waters, Maxine</name>
+</congMember>
+<congMember authorityId="2003" bioGuideId="R000593" chamber="H" congress="115" gpoId="7884" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Mr. ROSS</name>
+<name type="authority-fnf">Dennis A. Ross</name>
+<name type="authority-lnf">Ross, Dennis A.</name>
+<name type="authority-other">Dennis Ross</name>
+</congMember>
+<congMember authorityId="1722" bioGuideId="S001157" chamber="H" congress="115" gpoId="7910" party="D" role="SPEAKING" state="GA">
+<name type="parsed">Mr. DAVID SCOTT of Georgia</name>
+<name type="authority-fnf">David Scott</name>
+<name type="authority-lnf">Scott, David</name>
+</congMember>
+<congMember authorityId="887" bioGuideId="P000034" chamber="H" congress="115" gpoId="8048" party="D" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. PALLONE</name>
+<name type="authority-fnf">Frank Pallone, Jr.</name>
+<name type="authority-lnf">Pallone, Frank, Jr.</name>
+<name type="authority-other">Frank Pallone Jr.</name>
+</congMember>
+<congMember authorityId="2245" bioGuideId="G000577" chamber="H" congress="115" party="R" role="SPEAKING" state="LA">
+<name type="parsed">Mr. GRAVES of Louisiana</name>
+<name type="authority-fnf">Garret Graves</name>
+<name type="authority-lnf">Graves, Garret</name>
+</congMember>
+<congMember authorityId="2072" bioGuideId="D000614" chamber="H" congress="115" gpoId="8220" party="R" role="SPEAKING" state="WI">
+<name type="parsed">Mr. DUFFY</name>
+<name type="authority-fnf">Sean P. Duffy</name>
+<name type="authority-lnf">Duffy, Sean P.</name>
+<name type="authority-other">Mr. Sean Duffy</name>
+</congMember>
+<USCode title="2">
+<section detail="(g)" number="933"/>
+</USCode>
+<USCode title="15">
+<section number="8201"/>
+<section number="8206"/>
+</USCode>
+<USCode title="31">
+<section number="1324"/>
+</USCode>
+<USCode title="42">
+<section detail="(b)(1)" number="1395iii"/>
+<section detail="note" number="1395l"/>
+<section detail="(c)(2)" number="254c-3"/>
+<section detail="(g)" number="256h"/>
+<section number="256i"/>
+<section number="4001"/>
+<section number="4012a"/>
+<section detail="(b)" number="4012a"/>
+<section detail="(b)(8)" number="4012a"/>
+<section number="4015"/>
+</USCode>
+<USCode title="49">
+<section detail="(k)" number="106"/>
+<section detail="note" number="41731"/>
+<section detail="(a)(2)" number="41742"/>
+<section detail="(e)(2)" number="41743"/>
+<section number="42301"/>
+<section detail="(c)" number="47104"/>
+<section detail="(r)(3)" number="47107"/>
+<section number="47114"/>
+<section detail="(c)(1)(F)" number="47114"/>
+<section number="47115"/>
+<section detail="(j)" number="47115"/>
+<section number="47116"/>
+<section number="47117"/>
+<section detail="(b)(3)(E)" number="47124"/>
+<section detail="(f)" number="47141"/>
+<section detail="note" number="47141"/>
+<section detail="(a)" number="48101"/>
+<section detail="(a)" number="48102"/>
+<section detail="(a)" number="48103"/>
+<section number="48114"/>
+</USCode>
+<statuteAtLarge volume="117">
+<pages pages="2518"/>
+</statuteAtLarge>
+<statuteAtLarge volume="126">
+<pages pages="28"/>
+</statuteAtLarge>
+<statuteAtLarge volume="130">
+<pages pages="641"/>
+</statuteAtLarge>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Concurrent Resolution 13  (111th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. Con. Res. 13</identifier>
+<extension>
+<congress>111</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 538  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 538</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 538  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 538</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1422  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1422</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2997  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2997</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3823  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3823</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3823  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3823</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3823  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3823</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 2 Section 933(g)</partNumber>
+</titleInfo>
+<identifier type="USC citation">2 U.S.C. 933(g)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 15 Section 8201</partNumber>
+<partNumber>Title 15 Section 8206</partNumber>
+</titleInfo>
+<identifier type="USC citation">15 U.S.C. 8201</identifier>
+<identifier type="USC citation">15 U.S.C. 8206</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 31 Section 1324</partNumber>
+</titleInfo>
+<identifier type="USC citation">31 U.S.C. 1324</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 1395iii(b)(1)</partNumber>
+<partNumber>Title 42 Section 1395lnote</partNumber>
+<partNumber>Title 42 Section 254c-3(c)(2)</partNumber>
+<partNumber>Title 42 Section 256h(g)</partNumber>
+<partNumber>Title 42 Section 256i</partNumber>
+<partNumber>Title 42 Section 4001</partNumber>
+<partNumber>Title 42 Section 4012a</partNumber>
+<partNumber>Title 42 Section 4012a(b)</partNumber>
+<partNumber>Title 42 Section 4012a(b)(8)</partNumber>
+<partNumber>Title 42 Section 4015</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 1395iii(b)(1)</identifier>
+<identifier type="USC citation">42 U.S.C. 1395lnote</identifier>
+<identifier type="USC citation">42 U.S.C. 254c-3(c)(2)</identifier>
+<identifier type="USC citation">42 U.S.C. 256h(g)</identifier>
+<identifier type="USC citation">42 U.S.C. 256i</identifier>
+<identifier type="USC citation">42 U.S.C. 4001</identifier>
+<identifier type="USC citation">42 U.S.C. 4012a</identifier>
+<identifier type="USC citation">42 U.S.C. 4012a(b)</identifier>
+<identifier type="USC citation">42 U.S.C. 4012a(b)(8)</identifier>
+<identifier type="USC citation">42 U.S.C. 4015</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 49 Section 106(k)</partNumber>
+<partNumber>Title 49 Section 41731note</partNumber>
+<partNumber>Title 49 Section 41742(a)(2)</partNumber>
+<partNumber>Title 49 Section 41743(e)(2)</partNumber>
+<partNumber>Title 49 Section 42301</partNumber>
+<partNumber>Title 49 Section 47104(c)</partNumber>
+<partNumber>Title 49 Section 47107(r)(3)</partNumber>
+<partNumber>Title 49 Section 47114</partNumber>
+<partNumber>Title 49 Section 47114(c)(1)(F)</partNumber>
+<partNumber>Title 49 Section 47115</partNumber>
+<partNumber>Title 49 Section 47115(j)</partNumber>
+<partNumber>Title 49 Section 47116</partNumber>
+<partNumber>Title 49 Section 47117</partNumber>
+<partNumber>Title 49 Section 47124(b)(3)(E)</partNumber>
+<partNumber>Title 49 Section 47141(f)</partNumber>
+<partNumber>Title 49 Section 47141note</partNumber>
+<partNumber>Title 49 Section 48101(a)</partNumber>
+<partNumber>Title 49 Section 48102(a)</partNumber>
+<partNumber>Title 49 Section 48103(a)</partNumber>
+<partNumber>Title 49 Section 48114</partNumber>
+</titleInfo>
+<identifier type="USC citation">49 U.S.C. 106(k)</identifier>
+<identifier type="USC citation">49 U.S.C. 41731note</identifier>
+<identifier type="USC citation">49 U.S.C. 41742(a)(2)</identifier>
+<identifier type="USC citation">49 U.S.C. 41743(e)(2)</identifier>
+<identifier type="USC citation">49 U.S.C. 42301</identifier>
+<identifier type="USC citation">49 U.S.C. 47104(c)</identifier>
+<identifier type="USC citation">49 U.S.C. 47107(r)(3)</identifier>
+<identifier type="USC citation">49 U.S.C. 47114</identifier>
+<identifier type="USC citation">49 U.S.C. 47114(c)(1)(F)</identifier>
+<identifier type="USC citation">49 U.S.C. 47115</identifier>
+<identifier type="USC citation">49 U.S.C. 47115(j)</identifier>
+<identifier type="USC citation">49 U.S.C. 47116</identifier>
+<identifier type="USC citation">49 U.S.C. 47117</identifier>
+<identifier type="USC citation">49 U.S.C. 47124(b)(3)(E)</identifier>
+<identifier type="USC citation">49 U.S.C. 47141(f)</identifier>
+<identifier type="USC citation">49 U.S.C. 47141note</identifier>
+<identifier type="USC citation">49 U.S.C. 48101(a)</identifier>
+<identifier type="USC citation">49 U.S.C. 48102(a)</identifier>
+<identifier type="USC citation">49 U.S.C. 48103(a)</identifier>
+<identifier type="USC citation">49 U.S.C. 48114</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 117 Page 2518</partNumber>
+</titleInfo>
+<identifier type="Statute citation">117 Stat. 2518</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 126 Page 28</partNumber>
+</titleInfo>
+<identifier type="Statute citation">126 Stat. 28</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 130 Page 641</partNumber>
+</titleInfo>
+<identifier type="Statute citation">130 Stat. 641</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 115-333</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 115-333</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee19703d923" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 155</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-27/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-27/pdf/CREC-2017-09-27.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H7537</start>
+<end>H7589</end>
+</extent>
+<extent unit="pages">
+<start>S6159</start>
+<end>S6192</end>
+</extent>
+<extent unit="pages">
+<start>E1273</start>
+<end>E1282</end>
+</extent>
+<extent unit="pages">
+<start>D1015</start>
+<end>D1020</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-09-27</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>206 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-27</identifier>
+<identifier type="local">P0b002ee19703d923</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr27se17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-09-28</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-09-28</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-09-27</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-09-27</accessId>
+<volume>163</volume>
+<issue>155</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

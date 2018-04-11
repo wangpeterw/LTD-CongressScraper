@@ -1,0 +1,471 @@
+<mods ID="id-CREC-2017-11-15-pt1-PgS7231-2" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-11-16</dateIngested>
+</extension>
+<titleInfo>
+<title>EXECUTIVE CALENDAR</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-11-15/html/CREC-2017-11-15-pt1-PgS7231-2.htm">
+<identifier type="FDsys Unique ID">D09002ee1977f5131</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-11-15/pdf/CREC-2017-11-15-pt1-PgS7231-2.pdf">
+<identifier type="FDsys Unique ID">D09002ee1977f5205</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S7231</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-11-15/CREC-2017-11-15-pt1-PgS7231-2</identifier>
+<identifier type="former granule identifier">cr15no17-167</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-11-15/CREC-2017-11-15-pt1-PgS7231-2/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-15/pdf/CREC-2017-11-15-pt1-PgS7231-2.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-15/html/CREC-2017-11-15-pt1-PgS7231-2.htm</url>
+</location>
+<physicalDescription>
+<extent>25 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S7231</start>
+<end>S7255</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Michael F. Bennet</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Roy Blunt</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Cory Gardner</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>David Perdue</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Thom Tillis</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Kennedy</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Shelley Moore Capito</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>James Lankford</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mike Rounds</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bill Cassidy</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Dan Sullivan</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Joni Ernst</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheldon Whitehouse</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Barrasso</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Richard Durbin</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jeff Merkley</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sherrod Brown</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Elizabeth Warren</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Richard Blumenthal</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Chris Van Hollen</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mitch McConnell</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart/>
+<namePart>Joint Committee on Taxation</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Banking, Housing, and Urban Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Judiciary</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. S7231</identifier>
+<extension>
+<searchTitle>EXECUTIVE CALENDAR; Congressional Record Vol. 163, No. 187</searchTitle>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-11-15-pt1-PgS7231-2</accessId>
+<subGranuleClass>SEXECCAL</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-11-15</granuleDate>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="738"/>
+<congCommittee authorityId="jstx00" chamber="J" congress="115" type="J">
+<name type="authority-standard">Joint Committee on Taxation</name>
+<name type="authority-short">Joint Taxation</name>
+</congCommittee>
+<congCommittee authorityId="ssbk00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Banking, Housing, and Urban Affairs</name>
+<name type="authority-short">Banking</name>
+</congCommittee>
+<congCommittee authorityId="ssju00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Judiciary</name>
+<name type="authority-short">Judiciary</name>
+</congCommittee>
+<congMember authorityId="1965" bioGuideId="B001267" chamber="S" congress="115" gpoId="8302" party="D" role="SPEAKING" state="CO">
+<name type="parsed">Mr. BENNET</name>
+<name type="authority-fnf">Michael F. Bennet</name>
+<name type="authority-lnf">Bennet, Michael F.</name>
+<name type="authority-other">Mr. Michael Bennet</name>
+</congMember>
+<congMember authorityId="1464" bioGuideId="B000575" chamber="S" congress="115" gpoId="8313" party="R" role="SPEAKING" state="MO">
+<name type="parsed">Mr. BLUNT</name>
+<name type="authority-fnf">Roy Blunt</name>
+<name type="authority-lnf">Blunt, Roy</name>
+</congMember>
+<congMember authorityId="1998" bioGuideId="G000562" chamber="S" congress="115" gpoId="7862" party="R" role="SPEAKING" state="CO">
+<name type="parsed">Mr. GARDNER</name>
+<name type="authority-fnf">Cory Gardner</name>
+<name type="authority-lnf">Gardner, Cory</name>
+</congMember>
+<congMember authorityId="2286" bioGuideId="P000612" chamber="S" congress="115" party="R" role="SPEAKING" state="GA">
+<name type="parsed">Mr. PERDUE</name>
+<name type="authority-fnf">David Perdue</name>
+<name type="authority-lnf">Perdue, David</name>
+<name type="authority-other">Mr. David Alfred Perdue</name>
+</congMember>
+<congMember authorityId="2291" bioGuideId="T000476" chamber="S" congress="115" party="R" role="SPEAKING" state="NC">
+<name type="parsed">Mr. TILLIS</name>
+<name type="authority-fnf">Thom Tillis</name>
+<name type="authority-lnf">Tillis, Thom</name>
+<name type="authority-other">Mr. Thomas Roland Tillis</name>
+</congMember>
+<congMember authorityId="2303" bioGuideId="K000393" chamber="S" congress="115" party="R" role="SPEAKING" state="LA">
+<name type="parsed">Mr. KENNEDY</name>
+<name type="authority-fnf">John Kennedy</name>
+<name type="authority-lnf">Kennedy, John</name>
+<name type="authority-other">Mr. John Neely Kennedy</name>
+</congMember>
+<congMember authorityId="1676" bioGuideId="C001047" chamber="S" congress="115" gpoId="8223" party="R" role="SPEAKING" state="WV">
+<name type="parsed">Mrs. CAPITO</name>
+<name type="authority-fnf">Shelley Moore Capito</name>
+<name type="authority-lnf">Capito, Shelley Moore</name>
+<name type="authority-other">Shelley Capito</name>
+</congMember>
+<congMember authorityId="2050" bioGuideId="L000575" chamber="S" congress="115" gpoId="8113" party="R" role="SPEAKING" state="OK">
+<name type="parsed">Mr. LANKFORD</name>
+<name type="authority-fnf">James Lankford</name>
+<name type="authority-lnf">Lankford, James</name>
+</congMember>
+<congMember authorityId="2288" bioGuideId="R000605" chamber="S" congress="115" party="R" role="SPEAKING" state="SD">
+<name type="parsed">Mr. ROUNDS</name>
+<name type="authority-fnf">Mike Rounds</name>
+<name type="authority-lnf">Rounds, Mike</name>
+</congMember>
+<congMember authorityId="1925" bioGuideId="C001075" chamber="S" congress="115" gpoId="7964" party="R" role="SPEAKING" state="LA">
+<name type="parsed">Mr. CASSIDY</name>
+<name type="authority-fnf">Bill Cassidy</name>
+<name type="authority-lnf">Cassidy, Bill</name>
+</congMember>
+<congMember authorityId="2290" bioGuideId="S001198" chamber="S" congress="115" party="R" role="SPEAKING" state="AK">
+<name type="parsed">Mr. SULLIVAN</name>
+<name type="authority-fnf">Dan Sullivan</name>
+<name type="authority-lnf">Sullivan, Dan</name>
+</congMember>
+<congMember authorityId="2283" bioGuideId="E000295" chamber="S" congress="115" party="R" role="SPEAKING" state="IA">
+<name type="parsed">Mrs. ERNST</name>
+<name type="authority-fnf">Joni Ernst</name>
+<name type="authority-lnf">Ernst, Joni</name>
+</congMember>
+<congMember authorityId="1823" bioGuideId="W000802" chamber="S" congress="115" gpoId="8264" party="D" role="SPEAKING" state="RI">
+<name type="parsed">Mr. WHITEHOUSE</name>
+<name type="authority-fnf">Sheldon Whitehouse</name>
+<name type="authority-lnf">Whitehouse, Sheldon</name>
+</congMember>
+<congMember authorityId="1881" bioGuideId="B001261" chamber="S" congress="115" gpoId="8300" party="R" role="SPEAKING" state="WY">
+<name type="parsed">Mr. BARRASSO</name>
+<name type="authority-fnf">John Barrasso</name>
+<name type="authority-lnf">Barrasso, John</name>
+</congMember>
+<congMember authorityId="326" bioGuideId="D000563" chamber="S" congress="115" gpoId="8326" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Mr. DURBIN</name>
+<name type="authority-fnf">Richard Durbin</name>
+<name type="authority-lnf">Durbin, Richard</name>
+<name type="authority-other">Richard J. Durbin</name>
+</congMember>
+<congMember authorityId="1900" bioGuideId="M001176" chamber="S" congress="115" gpoId="8238" party="D" role="SPEAKING" state="OR">
+<name type="parsed">Mr. MERKLEY</name>
+<name type="authority-fnf">Jeff Merkley</name>
+<name type="authority-lnf">Merkley, Jeff</name>
+</congMember>
+<congMember authorityId="136" bioGuideId="B000944" chamber="S" congress="115" gpoId="8309" party="D" role="SPEAKING" state="OH">
+<name type="parsed">Mr. BROWN</name>
+<name type="authority-fnf">Sherrod Brown</name>
+<name type="authority-lnf">Brown, Sherrod</name>
+</congMember>
+<congMember authorityId="2182" bioGuideId="W000817" chamber="S" congress="115" party="D" role="SPEAKING" state="MA">
+<name type="parsed">Ms. WARREN</name>
+<name type="authority-fnf">Elizabeth Warren</name>
+<name type="authority-lnf">Warren, Elizabeth</name>
+<name type="authority-other">Ms. Elizabeth A. Warren</name>
+</congMember>
+<congMember authorityId="2076" bioGuideId="B001277" chamber="S" congress="115" gpoId="8332" party="D" role="SPEAKING" state="CT">
+<name type="parsed">Mr. BLUMENTHAL</name>
+<name type="authority-fnf">Richard Blumenthal</name>
+<name type="authority-lnf">Blumenthal, Richard</name>
+</congMember>
+<congMember authorityId="1729" bioGuideId="V000128" chamber="S" congress="115" gpoId="7983" party="D" role="SPEAKING" state="MD">
+<name type="parsed">Mr. VAN HOLLEN</name>
+<name type="authority-fnf">Chris Van Hollen</name>
+<name type="authority-lnf">Van Hollen, Chris</name>
+</congMember>
+<congMember authorityId="1395" bioGuideId="M000355" chamber="S" congress="115" gpoId="8254" party="R" role="SPEAKING" state="KY">
+<name type="parsed">Mr. McCONNELL</name>
+<name type="authority-fnf">Mitch McConnell</name>
+<name type="authority-lnf">McConnell, Mitch</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 738</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem ID="P0b002ee1977f2eed" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 187</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-15/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-15/pdf/CREC-2017-11-15.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H9257</start>
+<end>H9378</end>
+</extent>
+<extent unit="pages">
+<start>S7225</start>
+<end>S7268</end>
+</extent>
+<extent unit="pages">
+<start>E1569</start>
+<end>E1578</end>
+</extent>
+<extent unit="pages">
+<start>D1221</start>
+<end>D1228</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-11-15</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>368 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-15</identifier>
+<identifier type="local">P0b002ee1977f2eed</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr15no17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-11-16</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-11-16</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-11-15</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-11-15</accessId>
+<volume>163</volume>
+<issue>187</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

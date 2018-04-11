@@ -1,0 +1,401 @@
+<mods ID="id-CREC-2017-11-13-pt1-PgH9148" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-11-14</dateIngested>
+</extension>
+<titleInfo>
+<title>EXPRESSING THE SENSE OF THE HOUSE WITH RESPECT TO UNITED STATES POLICY TOWARDS YEMEN</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-11-13/html/CREC-2017-11-13-pt1-PgH9148.htm">
+<identifier type="FDsys Unique ID">D09002ee1977a2838</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-11-13/pdf/CREC-2017-11-13-pt1-PgH9148.pdf">
+<identifier type="FDsys Unique ID">D09002ee1977a2d40</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H9148</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-11-13/CREC-2017-11-13-pt1-PgH9148</identifier>
+<identifier type="former granule identifier">cr13no17-90</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-11-13/CREC-2017-11-13-pt1-PgH9148/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-13/pdf/CREC-2017-11-13-pt1-PgH9148.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-13/html/CREC-2017-11-13-pt1-PgH9148.htm</url>
+</location>
+<physicalDescription>
+<extent>8 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H9148</start>
+<end>H9155</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Edward R. Royce</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ro Khanna</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ileana Ros-Lehtinen</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>James P. McGovern</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Michael T. McCaul</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Richard M. Nolan</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Christopher H. Smith</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jamie Raskin</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Francis Rooney</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Eliot L. Engel</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Steve Chabot</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Nancy Pelosi</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Foreign Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Homeland Security</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H9148</identifier>
+<extension>
+<searchTitle>EXPRESSING THE SENSE OF THE HOUSE WITH RESPECT TO UNITED STATES POLICY TOWARDS YEMEN; Congressional Record Vol. 163, No. 185</searchTitle>
+<associatedBills>H. Res. 599, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-11-13-pt1-PgH9148</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-11-13</granuleDate>
+<time from="16:45:00" to="17:45:00"/>
+<bill congress="115" context="OTHER" number="81" type="HCONRES"/>
+<bill congress="115" context="HEADERLINE" number="599" type="HRES"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="599" type="HRES"/>
+<bill congress="115" context="OTHER" number="599" type="HRES"/>
+<congCommittee authorityId="hsfa00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Foreign Affairs</name>
+<name type="authority-short">Foreign Affairs</name>
+</congCommittee>
+<congCommittee authorityId="hshm00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Homeland Security</name>
+<name type="authority-short">Homeland Security</name>
+</congCommittee>
+<congMember authorityId="998" bioGuideId="R000487" chamber="H" congress="115" gpoId="7845" party="R" role="SPEAKING" state="CA">
+<name type="parsed">Mr. ROYCE of California</name>
+<name type="authority-fnf">Edward R. Royce</name>
+<name type="authority-lnf">Royce, Edward R.</name>
+<name type="authority-other">Ed Royce</name>
+</congMember>
+<congMember authorityId="2308" bioGuideId="K000389" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. KHANNA</name>
+<name type="authority-fnf">Ro Khanna</name>
+<name type="authority-lnf">Khanna, Ro</name>
+</congMember>
+<congMember authorityId="985" bioGuideId="R000435" chamber="H" congress="115" gpoId="7890" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Ms. ROS-LEHTINEN</name>
+<name type="authority-fnf">Ileana Ros-Lehtinen</name>
+<name type="authority-lnf">Ros-Lehtinen, Ileana</name>
+</congMember>
+<congMember authorityId="1504" bioGuideId="M000312" chamber="H" congress="115" gpoId="7968" party="D" role="SPEAKING" state="MA">
+<name type="parsed">Mr. McGOVERN</name>
+<name type="authority-fnf">James P. McGovern</name>
+<name type="authority-lnf">McGovern, James P.</name>
+<name type="authority-other">James Mcgovern</name>
+</congMember>
+<congMember authorityId="1804" bioGuideId="M001157" chamber="H" congress="115" gpoId="8166" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. McCAUL</name>
+<name type="authority-fnf">Michael T. McCaul</name>
+<name type="authority-lnf">McCaul, Michael T.</name>
+<name type="authority-other">Mr. Michael Mccaul</name>
+</congMember>
+<congMember authorityId="867" bioGuideId="N000127" chamber="H" congress="115" party="D" role="SPEAKING" state="MN">
+<name type="parsed">Mr. NOLAN</name>
+<name type="authority-fnf">Richard M. Nolan</name>
+<name type="authority-lnf">Nolan, Richard M.</name>
+<name type="authority-other">Richard Nolan</name>
+</congMember>
+<congMember authorityId="1071" bioGuideId="S000522" chamber="H" congress="115" gpoId="8046" party="R" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. SMITH of New Jersey</name>
+<name type="authority-fnf">Christopher H. Smith</name>
+<name type="authority-lnf">Smith, Christopher H.</name>
+<name type="authority-other">Christopher Smith</name>
+</congMember>
+<congMember authorityId="2332" bioGuideId="R000606" chamber="H" congress="115" party="D" role="SPEAKING" state="MD">
+<name type="parsed">Mr. RASKIN</name>
+<name type="authority-fnf">Jamie Raskin</name>
+<name type="authority-lnf">Raskin, Jamie</name>
+</congMember>
+<congMember authorityId="2323" bioGuideId="R000607" chamber="H" congress="115" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Mr. FRANCIS ROONEY of Florida</name>
+<name type="authority-fnf">Francis Rooney</name>
+<name type="authority-lnf">Rooney, Francis</name>
+</congMember>
+<congMember authorityId="344" bioGuideId="E000179" chamber="H" congress="115" gpoId="8078" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mr. ENGEL</name>
+<name type="authority-fnf">Eliot L. Engel</name>
+<name type="authority-lnf">Engel, Eliot L.</name>
+<name type="authority-other">Eliot Engel</name>
+</congMember>
+<congMember authorityId="186" bioGuideId="C000266" chamber="H" congress="115" gpoId="8091" party="R" role="SPEAKING" state="OH">
+<name type="parsed">Mr. CHABOT</name>
+<name type="authority-fnf">Steve Chabot</name>
+<name type="authority-lnf">Chabot, Steve</name>
+</congMember>
+<congMember authorityId="905" bioGuideId="P000197" chamber="H" congress="115" gpoId="7813" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. PELOSI</name>
+<name type="authority-fnf">Nancy Pelosi</name>
+<name type="authority-lnf">Pelosi, Nancy</name>
+</congMember>
+<law congress="107" isPrivate="false" number="40"/>
+<law congress="107" isPrivate="false" number="243"/>
+<USCode title="50">
+<section detail="(4)" number="3003"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Concurrent Resolution 81  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Con. Res. 81</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 599  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 599</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 599  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 599</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 599  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 599</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 50 Section 3003(4)</partNumber>
+</titleInfo>
+<identifier type="USC citation">50 U.S.C. 3003(4)</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 107-40</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 107-40</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 107-243</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 107-243</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee1977a1bc5" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 185</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-13/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-13/pdf/CREC-2017-11-13.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H9139</start>
+<end>H9179</end>
+</extent>
+<extent unit="pages">
+<start>S7169</start>
+<end>S7183</end>
+</extent>
+<extent unit="pages">
+<start>E1549</start>
+<end>E1562</end>
+</extent>
+<extent unit="pages">
+<start>D1206</start>
+<end>D1212</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-11-13</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>154 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-13</identifier>
+<identifier type="local">P0b002ee1977a1bc5</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr13no17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-11-14</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-11-14</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-11-13</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-11-13</accessId>
+<volume>163</volume>
+<issue>185</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>
