@@ -64,7 +64,7 @@ ltd-darkblue #1B3949*/
 	top: 13vh;
 }
 
-.home .querybutton p{
+.home .querybutton p {
 	position: relative;
 	font-size: 60;
 	color: #AFD9D3;
@@ -72,30 +72,32 @@ ltd-darkblue #1B3949*/
 	top: 13vh;
 }
 
-.query-button a {
+.query-button {
+	text-align: center;
 	position: relative;
 	left: 8vw;
-	top: 15vh;
-	font-family: 'Lato', sans-serif;
-	font-size: 36px
-	height: 5vh;
-	width: 10vw;
+	top: 18vh;
+	font-family: 'Black Han Sans', sans-serif;
+	font-size: 36px;
+	height: 80px;
+	width: 240px;
 	background-color: #AFD9D3;
 	color: white;
-
-
-
-	margin-top: 50px;
-	
-	font-size: 36px;
-	font-family: 'Lato', sans-serif;
-	padding: 20px 40px;
 	border-radius: 10px;
+
+/*	margin-top: 50px;
+	padding: 20px 40px;*/
 }
 
-.querybutton a :hover {
+.query-button a {
+	position: relative;
+	top: 20px;
+	color: #34393A;
+}
+
+.query-button :hover {
 	text-decoration: none;
-	color: #1B3949;
+	color: #F2F2F2;
 	cursor: pointer;
 }
 
