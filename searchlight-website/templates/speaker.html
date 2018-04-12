@@ -47,18 +47,18 @@
 					<input class="form-control" type="text" placeholder="Enter speaker surname" value="{{speaker}}" id="speaker"/>
 				</div>
 				<div class="col-md-3">
-					<select class="form-control" id="year">
-						<option value="">Month</option>
-						{% for year in years %}
-						<option value="{{year}}" {% if selected_year == year %}selected{%endif%}>{{year}}</option>
+					<select class="form-control" id="month">
+						<option value="" selected>Month</option>
+						{% for month in months %}
+						<option value="{{month}}">{{month}}</option>
 						{% endfor %}
 					</select>
 				</div>
 				<div class="col-md-3">
-					<select class="form-control" id="year">
-						<option value="">Day</option>
-						{% for year in years %}
-						<option value="{{year}}" {% if selected_year == year %}selected{%endif%}>{{year}}</option>
+					<select class="form-control" id="day">
+						<option value="" selected>Day</option>
+						{% for day in days %}
+						<option value="{{day}}">{{day}}</option>
 						{% endfor %}
 					</select>
 				</div>
@@ -124,7 +124,7 @@
 	</div>
 	<!-- Load the javascript down here -->
 	<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
-	<script src="static/js/main.js"></script>
+	<script src="static/assets/js/main.js"></script>
 </body>
 
 

@@ -112,8 +112,10 @@ def speakers():
 		return download_csv(records, "speeches_%s.csv" % (speaker.lower()))
 	else:
 		years = [x for x in range(2018, 1995, -1)]
+		months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+		days = [x for x in range(1, 32)]
 		selected_year = int(year) if year else None
-		return flask.render_template('speaker.html', records=records, no_of_records=no_of_records[0]['count'], speaker=speaker, years=years, selected_year=selected_year)
+		return flask.render_template('speaker.html', records=records, no_of_records=no_of_records[0]['count'], speaker=speaker, years=years, months=months, days=days, selected_year=selected_year)
 
 ########################################################################
 # The following are helper functions. They do not have a @app.route decorator
