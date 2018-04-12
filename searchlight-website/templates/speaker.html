@@ -30,7 +30,9 @@
 		</div>
 	</div>
 
-	<!-- filters: surname, month, day, year,  -->
+<!-- 	first name
+	district state party type
+	month day year -->
 
 	<div class="query">
 		<div class="container">
@@ -43,10 +45,55 @@
 			<br clear="all">
 
 			<div class="row filters-1">
+				<div class="col-md-6">
+					<input class="form-control" type="text" placeholder="Enter speaker surname" value="{{speaker}}" id="surname"/>
+				</div>
+				<div class="col-md-6">
+					<input class="form-control" type="text" placeholder="Enter speaker first name" value="{{speaker}}" id="firstname"/>
+				</div>
+			</div>
+
+			<br clear="all">
+
+			<div class="row filters-2">
 				<div class="col-md-3">
-					<input class="form-control" type="text" placeholder="Enter speaker surname" value="{{speaker}}" id="speaker"/>
+					<select class="form-control" id="district">
+						<option value="" selected>Congressional District</option>
+						{% for district in districts %}
+						<option value="{{district}}">{{district}}</option>
+						{% endfor %}
+					</select>
 				</div>
 				<div class="col-md-3">
+					<select class="form-control" id="state">
+						<option value="" selected>State</option>
+						{% for state in states %}
+						<option value="{{state}}">{{state}}</option>
+						{% endfor %}
+					</select>
+				</div>
+				<div class="col-md-3">
+					<select class="form-control" id="party">
+						<option value="" selected>Party</option>
+						{% for party in parties %}
+						<option value="{{party}}">{{party}}</option>
+						{% endfor %}
+					</select>
+				</div>
+				<div class="col-md-3">
+					<select class="form-control" id="type">
+						<option value="" selected>Type</option>
+						{% for type in types %}
+						<option value="{{type}}">{{type}}</option>
+						{% endfor %}
+					</select>
+				</div>
+			</div>
+
+			<br clear="all">
+
+			<div class="row filters-3">
+				<div class="col-md-4">
 					<select class="form-control" id="month">
 						<option value="" selected>Month</option>
 						{% for month in months %}
@@ -54,7 +101,7 @@
 						{% endfor %}
 					</select>
 				</div>
-				<div class="col-md-3">
+				<div class="col-md-4">
 					<select class="form-control" id="day">
 						<option value="" selected>Day</option>
 						{% for day in days %}
@@ -62,7 +109,7 @@
 						{% endfor %}
 					</select>
 				</div>
-				<div class="col-md-3">
+				<div class="col-md-4">
 					<select class="form-control" id="year">
 						<option value="">Year</option>
 						{% for year in years %}
