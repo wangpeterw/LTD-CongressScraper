@@ -1,0 +1,453 @@
+<mods ID="id-CREC-2017-10-12-pt1-PgH7998" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-10-13</dateIngested>
+</extension>
+<titleInfo>
+<title>DR. CHRIS KIRKPATRICK WHISTLEBLOWER PROTECTION ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-10-12/html/CREC-2017-10-12-pt1-PgH7998.htm">
+<identifier type="FDsys Unique ID">D09002ee19728b335</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-10-12/pdf/CREC-2017-10-12-pt1-PgH7998.pdf">
+<identifier type="FDsys Unique ID">D09002ee19728b559</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H7998</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-10-12/CREC-2017-10-12-pt1-PgH7998</identifier>
+<identifier type="former granule identifier">cr12oc17-116</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-10-12/CREC-2017-10-12-pt1-PgH7998/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-12/pdf/CREC-2017-10-12-pt1-PgH7998.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-12/html/CREC-2017-10-12-pt1-PgH7998.htm</url>
+</location>
+<physicalDescription>
+<extent>7 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H7998</start>
+<end>H8004</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Rod Blum</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Elijah E. Cummings</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ron Kind</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Peter A. DeFazio</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ann M. Kuster</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>David P. Roe</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sean P. Duffy</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tom O'Halleran</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Homeland Security and Governmental Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Oversight and Government Reform</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Homeland Security</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Veterans' Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Veterans' Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H7998</identifier>
+<extension>
+<searchTitle>DR. CHRIS KIRKPATRICK WHISTLEBLOWER PROTECTION ACT OF 2017; Congressional Record Vol. 163, No. 164</searchTitle>
+<associatedBills>S. 585, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-10-12-pt1-PgH7998</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-10-12</granuleDate>
+<time from="13:15:00" to="13:45:00"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="562" type="HRES"/>
+<bill congress="115" context="OTHER" number="562" type="HRES"/>
+<bill congress="115" context="HEADERLINE" number="585" type="S"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="585" type="S"/>
+<bill congress="115" context="OTHER" number="585" type="S"/>
+<bill congress="115" context="OTHER" number="702" type="HR"/>
+<congCommittee authorityId="ssga00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Homeland Security and Governmental Affairs</name>
+<name type="authority-short">Homeland and Governmental Affairs</name>
+</congCommittee>
+<congCommittee authorityId="hsgo00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Oversight and Government Reform</name>
+<name type="authority-short">Oversight and Government Reform</name>
+</congCommittee>
+<congCommittee authorityId="hshm00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Homeland Security</name>
+<name type="authority-short">Homeland Security</name>
+</congCommittee>
+<congCommittee authorityId="ssva00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Veterans' Affairs</name>
+<name type="authority-short">Veterans' Affairs</name>
+</congCommittee>
+<congCommittee authorityId="hsvr00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Veterans' Affairs</name>
+<name type="authority-short">Veterans' Affairs</name>
+</congCommittee>
+<congMember authorityId="2241" bioGuideId="B001294" chamber="H" congress="115" party="R" role="SPEAKING" state="IA">
+<name type="parsed">Mr. BLUM</name>
+<name type="authority-fnf">Rod Blum</name>
+<name type="authority-lnf">Blum, Rod</name>
+</congMember>
+<congMember authorityId="256" bioGuideId="C000984" chamber="H" congress="115" gpoId="7982" party="D" role="SPEAKING" state="MD">
+<name type="parsed">Mr. CUMMINGS</name>
+<name type="authority-fnf">Elijah E. Cummings</name>
+<name type="authority-lnf">Cummings, Elijah E.</name>
+<name type="authority-other">Elijah Cummings</name>
+</congMember>
+<congMember authorityId="1498" bioGuideId="K000188" chamber="H" congress="115" gpoId="8216" party="D" role="SPEAKING" state="WI">
+<name type="parsed">Mr. KIND</name>
+<name type="authority-fnf">Ron Kind</name>
+<name type="authority-lnf">Kind, Ron</name>
+</congMember>
+<congMember authorityId="279" bioGuideId="D000191" chamber="H" congress="115" gpoId="8117" party="D" role="SPEAKING" state="OR">
+<name type="parsed">Mr. DeFAZIO</name>
+<name type="authority-fnf">Peter A. DeFazio</name>
+<name type="authority-lnf">DeFazio, Peter A.</name>
+<name type="authority-other">Peter Defazio</name>
+</congMember>
+<congMember authorityId="2145" bioGuideId="K000382" chamber="H" congress="115" party="D" role="SPEAKING" state="NH">
+<name type="parsed">Ms. KUSTER of New Hampshire</name>
+<name type="authority-fnf">Ann M. Kuster</name>
+<name type="authority-lnf">Kuster, Ann M.</name>
+<name type="authority-other">Ms. Ann Kuster</name>
+</congMember>
+<congMember authorityId="1954" bioGuideId="R000582" chamber="H" congress="115" gpoId="8148" party="R" role="SPEAKING" state="TN">
+<name type="parsed">Mr. ROE of Tennessee</name>
+<name type="authority-fnf">David P. Roe</name>
+<name type="authority-lnf">Roe, David P.</name>
+<name type="authority-other">Mr. David Roe</name>
+</congMember>
+<congMember authorityId="2072" bioGuideId="D000614" chamber="H" congress="115" gpoId="8220" party="R" role="SPEAKING" state="WI">
+<name type="parsed">Mr. DUFFY</name>
+<name type="authority-fnf">Sean P. Duffy</name>
+<name type="authority-lnf">Duffy, Sean P.</name>
+<name type="authority-other">Mr. Sean Duffy</name>
+</congMember>
+<congMember authorityId="2306" bioGuideId="O000171" chamber="H" congress="115" party="D" role="SPEAKING" state="AZ">
+<name type="parsed">Mr. O'HALLERAN</name>
+<name type="authority-fnf">Tom O'Halleran</name>
+<name type="authority-lnf">O'Halleran, Tom</name>
+</congMember>
+<USCode title="5">
+<section detail="(b)(1)" number="1214"/>
+<section number="1221"/>
+<section number="2105"/>
+<section number="2302"/>
+<section detail="(b)" number="2302"/>
+<section detail="note" number="2302"/>
+<section number="2307"/>
+<section detail="(b)(2)" number="4505a"/>
+<section detail="(b)(2)" number="5755"/>
+<chapter number="12"/>
+<chapter number="23"/>
+<chapter number="75"/>
+</USCode>
+<USCode title="22">
+<section detail="(d)(3)" number="3657"/>
+<section detail="(b)" number="3673"/>
+</USCode>
+<USCode title="50">
+<section detail="(4)" number="3003"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 562  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 562</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 562  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 562</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 585  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 585</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 585  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 585</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 585  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 585</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 702  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 702</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 5 Section 1214(b)(1)</partNumber>
+<partNumber>Title 5 Section 1221</partNumber>
+<partNumber>Title 5 Section 2105</partNumber>
+<partNumber>Title 5 Section 2302</partNumber>
+<partNumber>Title 5 Section 2302(b)</partNumber>
+<partNumber>Title 5 Section 2302note</partNumber>
+<partNumber>Title 5 Section 2307</partNumber>
+<partNumber>Title 5 Section 4505a(b)(2)</partNumber>
+<partNumber>Title 5 Section 5755(b)(2)</partNumber>
+<partNumber>Title 5 Chapter 12</partNumber>
+<partNumber>Title 5 Chapter 23</partNumber>
+<partNumber>Title 5 Chapter 75</partNumber>
+</titleInfo>
+<identifier type="USC citation">5 U.S.C. 1214(b)(1)</identifier>
+<identifier type="USC citation">5 U.S.C. 1221</identifier>
+<identifier type="USC citation">5 U.S.C. 2105</identifier>
+<identifier type="USC citation">5 U.S.C. 2302</identifier>
+<identifier type="USC citation">5 U.S.C. 2302(b)</identifier>
+<identifier type="USC citation">5 U.S.C. 2302note</identifier>
+<identifier type="USC citation">5 U.S.C. 2307</identifier>
+<identifier type="USC citation">5 U.S.C. 4505a(b)(2)</identifier>
+<identifier type="USC citation">5 U.S.C. 5755(b)(2)</identifier>
+<identifier type="USC citation">5 U.S.C. Chapter 12</identifier>
+<identifier type="USC citation">5 U.S.C. Chapter 23</identifier>
+<identifier type="USC citation">5 U.S.C. Chapter 75</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 22 Section 3657(d)(3)</partNumber>
+<partNumber>Title 22 Section 3673(b)</partNumber>
+</titleInfo>
+<identifier type="USC citation">22 U.S.C. 3657(d)(3)</identifier>
+<identifier type="USC citation">22 U.S.C. 3673(b)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 50 Section 3003(4)</partNumber>
+</titleInfo>
+<identifier type="USC citation">50 U.S.C. 3003(4)</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee197281a9d" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 164</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-12/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-12/pdf/CREC-2017-10-12.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H7977</start>
+<end>H8034</end>
+</extent>
+<extent unit="pages">
+<start>E1363</start>
+<end>E1378</end>
+</extent>
+<extent unit="pages">
+<start>D1079</start>
+<end>D1084</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-10-12</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>160 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-12</identifier>
+<identifier type="local">P0b002ee197281a9d</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr12oc17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-10-13</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-10-13</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-10-12</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-10-12</accessId>
+<volume>163</volume>
+<issue>164</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

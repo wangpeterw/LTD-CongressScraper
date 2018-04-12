@@ -1,0 +1,215 @@
+<mods ID="id-CREC-2018-03-05-pt1-PgH1348" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-03-06</dateIngested>
+</extension>
+<titleInfo>
+<title>LANCE CORPORAL JORDAN S. BASTEAN POST OFFICE</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-03-05/html/CREC-2018-03-05-pt1-PgH1348.htm">
+<identifier type="FDsys Unique ID">D09002ee198b81385</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-03-05/pdf/CREC-2018-03-05-pt1-PgH1348.pdf">
+<identifier type="FDsys Unique ID">D09002ee198b81441</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. H1348</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-03-05/CREC-2018-03-05-pt1-PgH1348</identifier>
+<identifier type="former granule identifier">cr05mr18-69</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-03-05/CREC-2018-03-05-pt1-PgH1348/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-05/pdf/CREC-2018-03-05-pt1-PgH1348.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-05/html/CREC-2018-03-05-pt1-PgH1348.htm</url>
+</location>
+<physicalDescription>
+<extent>1 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H1348</start>
+<end>H1348</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Gary J. Palmer</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Wm. Lacy Clay</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Cheri Bustos</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. H1348</identifier>
+<extension>
+<searchTitle>LANCE CORPORAL JORDAN S. BASTEAN POST OFFICE; Congressional Record Vol. 164, No. 38</searchTitle>
+<associatedBills>H.R. 2673, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2018-03-05-pt1-PgH1348</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2018-03-05</granuleDate>
+<time from="17:00:00" to="17:00:00"/>
+<bill congress="115" context="HEADERLINE" number="2673" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="2673" type="HR"/>
+<bill congress="115" context="OTHER" number="2673" type="HR"/>
+<congMember authorityId="2221" bioGuideId="P000609" chamber="H" congress="115" party="R" role="SPEAKING" state="AL">
+<name type="parsed">Mr. PALMER</name>
+<name type="authority-fnf">Gary J. Palmer</name>
+<name type="authority-lnf">Palmer, Gary J.</name>
+<name type="authority-other">Mr. Gary Palmer</name>
+</congMember>
+<congMember authorityId="1654" bioGuideId="C001049" chamber="H" congress="115" gpoId="8009" party="D" role="SPEAKING" state="MO">
+<name type="parsed">Mr. CLAY</name>
+<name type="authority-fnf">Wm. Lacy Clay</name>
+<name type="authority-lnf">Clay, Wm. Lacy</name>
+<name type="authority-other">William Lacy Clay</name>
+</congMember>
+<congMember authorityId="2127" bioGuideId="B001286" chamber="H" congress="115" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Mrs. BUSTOS</name>
+<name type="authority-fnf">Cheri Bustos</name>
+<name type="authority-lnf">Bustos, Cheri</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2673  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2673</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2673  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2673</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2673  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2673</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee198b76f53" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 38</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-05/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-05/pdf/CREC-2018-03-05.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H1345</start>
+<end>H1374</end>
+</extent>
+<extent unit="pages">
+<start>S1325</start>
+<end>S1342</end>
+</extent>
+<extent unit="pages">
+<start>E251</start>
+<end>E262</end>
+</extent>
+<extent unit="pages">
+<start>D218</start>
+<end>D224</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-03-05</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>134 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-05</identifier>
+<identifier type="local">P0b002ee198b76f53</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr05mr18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-03-06</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-03-06</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-03-05</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-03-05</accessId>
+<volume>164</volume>
+<issue>38</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

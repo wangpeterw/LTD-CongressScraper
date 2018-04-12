@@ -1,0 +1,203 @@
+<mods ID="id-CREC-2018-01-18-pt1-PgS270-4" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-01-19</dateIngested>
+</extension>
+<titleInfo>
+<title>PROTECTING LIFE</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-18/html/CREC-2018-01-18-pt1-PgS270-4.htm">
+<identifier type="FDsys Unique ID">D09002ee1980a8b76</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-18/pdf/CREC-2018-01-18-pt1-PgS270-4.pdf">
+<identifier type="FDsys Unique ID">D09002ee1980a8c61</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. S270</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-01-18/CREC-2018-01-18-pt1-PgS270-4</identifier>
+<identifier type="former granule identifier">cr18ja18-183</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-01-18/CREC-2018-01-18-pt1-PgS270-4/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-18/pdf/CREC-2018-01-18-pt1-PgS270-4.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-18/html/CREC-2018-01-18-pt1-PgS270-4.htm</url>
+</location>
+<physicalDescription>
+<extent>6 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S270</start>
+<end>S275</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>James Lankford</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Roy Blunt</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Joni Ernst</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ben Sasse</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Steve Daines</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. S270</identifier>
+<extension>
+<searchTitle>PROTECTING LIFE; Congressional Record Vol. 164, No. 11</searchTitle>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2018-01-18-pt1-PgS270-4</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2018-01-18</granuleDate>
+<congMember authorityId="2050" bioGuideId="L000575" chamber="S" congress="115" gpoId="8113" party="R" role="SPEAKING" state="OK">
+<name type="parsed">Mr. LANKFORD</name>
+<name type="authority-fnf">James Lankford</name>
+<name type="authority-lnf">Lankford, James</name>
+</congMember>
+<congMember authorityId="1464" bioGuideId="B000575" chamber="S" congress="115" gpoId="8313" party="R" role="SPEAKING" state="MO">
+<name type="parsed">Mr. BLUNT</name>
+<name type="authority-fnf">Roy Blunt</name>
+<name type="authority-lnf">Blunt, Roy</name>
+</congMember>
+<congMember authorityId="2283" bioGuideId="E000295" chamber="S" congress="115" party="R" role="SPEAKING" state="IA">
+<name type="parsed">Mrs. ERNST</name>
+<name type="authority-fnf">Joni Ernst</name>
+<name type="authority-lnf">Ernst, Joni</name>
+</congMember>
+<congMember authorityId="2289" bioGuideId="S001197" chamber="S" congress="115" party="R" role="SPEAKING" state="NE">
+<name type="parsed">Mr. SASSE</name>
+<name type="authority-fnf">Ben Sasse</name>
+<name type="authority-lnf">Sasse, Ben</name>
+</congMember>
+<congMember authorityId="2138" bioGuideId="D000618" chamber="S" congress="115" party="R" role="SPEAKING" state="MT">
+<name type="parsed">Mr. DAINES</name>
+<name type="authority-fnf">Steve Daines</name>
+<name type="authority-lnf">Daines, Steve</name>
+</congMember>
+</extension>
+<relatedItem ID="P0b002ee1980950bf" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 11</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-18/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-18/pdf/CREC-2018-01-18.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H479</start>
+<end>H555</end>
+</extent>
+<extent unit="pages">
+<start>S265</start>
+<end>S313</end>
+</extent>
+<extent unit="pages">
+<start>E57</start>
+<end>E67</end>
+</extent>
+<extent unit="pages">
+<start>D55</start>
+<end>D62</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-01-18</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>290 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-18</identifier>
+<identifier type="local">P0b002ee1980950bf</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr18ja18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-01-19</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-01-19</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-01-18</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-01-18</accessId>
+<volume>164</volume>
+<issue>11</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

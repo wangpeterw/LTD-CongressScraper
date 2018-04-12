@@ -1,0 +1,458 @@
+<mods ID="id-CREC-2017-09-06-pt1-PgH6660-6" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-01-17</dateIngested>
+</extension>
+<titleInfo>
+<title>MAKING SUPPLEMENTAL APPROPRIATIONS FOR DISASTER RELIEF</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-09-06/html/CREC-2017-09-06-pt1-PgH6660-6.htm">
+<identifier type="FDsys Unique ID">D09002ee1980417b2</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-09-06/pdf/CREC-2017-09-06-pt1-PgH6660-6.pdf">
+<identifier type="FDsys Unique ID">D09002ee1980418e5</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H6660</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-09-06/CREC-2017-09-06-pt1-PgH6660-6</identifier>
+<identifier type="former granule identifier">cr06se17-70</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-09-06/CREC-2017-09-06-pt1-PgH6660-6/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-06/pdf/CREC-2017-09-06-pt1-PgH6660-6.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-06/html/CREC-2017-09-06-pt1-PgH6660-6.htm</url>
+</location>
+<physicalDescription>
+<extent>8 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H6660</start>
+<end>H6667</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Rodney P. Frelinghuysen</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Nita M. Lowey</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John R. Carter</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Henry Cuellar</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jodey C. Arrington</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Gene Green</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Brian Babin</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheila Jackson Lee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Abney Culberson</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Al Green</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ted Poe</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Lucille Roybal-Allard</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Blake Farenthold</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Stacey E. Plaskett</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Leonard Lance</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Joseph Crowley</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Eliot L. Engel</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Albio Sires</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H6660</identifier>
+<extension>
+<searchTitle>MAKING SUPPLEMENTAL APPROPRIATIONS FOR DISASTER RELIEF; Congressional Record Vol. 163, No. 143</searchTitle>
+<associatedBills>H. Res. 502, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-09-06-pt1-PgH6660-6</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-09-06</granuleDate>
+<time from="10:15:00" to="11:15:00"/>
+<bill congress="115" context="HEADERLINE" number="502" type="HRES"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="502" type="HRES"/>
+<bill congress="115" context="OTHER" number="502" type="HRES"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="601" type="HR"/>
+<bill congress="115" context="OTHER" number="601" type="HR"/>
+<bill congress="115" context="OTHER" number="3672" type="HR"/>
+<congMember authorityId="414" bioGuideId="F000372" chamber="H" congress="115" gpoId="8053" party="R" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. FRELINGHUYSEN</name>
+<name type="authority-fnf">Rodney P. Frelinghuysen</name>
+<name type="authority-lnf">Frelinghuysen, Rodney P.</name>
+<name type="authority-other">Rodney Frelinghuysen</name>
+</congMember>
+<congMember authorityId="709" bioGuideId="L000480" chamber="H" congress="115" gpoId="8079" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mrs. LOWEY</name>
+<name type="authority-fnf">Nita M. Lowey</name>
+<name type="authority-lnf">Lowey, Nita M.</name>
+<name type="authority-other">Nita Lowey</name>
+</congMember>
+<congMember authorityId="1752" bioGuideId="C001051" chamber="H" congress="115" gpoId="8187" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. CARTER of Texas</name>
+<name type="authority-fnf">John R. Carter</name>
+<name type="authority-lnf">Carter, John R.</name>
+<name type="authority-other">Mr. John Carter</name>
+</congMember>
+<congMember authorityId="1807" bioGuideId="C001063" chamber="H" congress="115" gpoId="8184" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Mr. CUELLAR</name>
+<name type="authority-fnf">Henry Cuellar</name>
+<name type="authority-lnf">Cuellar, Henry</name>
+</congMember>
+<congMember authorityId="2350" bioGuideId="A000375" chamber="H" congress="115" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. ARRINGTON</name>
+<name type="authority-fnf">Jodey C. Arrington</name>
+<name type="authority-lnf">Arrington, Jodey C.</name>
+<name type="authority-other">Mr. Jodey Arrington</name>
+</congMember>
+<congMember authorityId="462" bioGuideId="G000410" chamber="H" congress="115" gpoId="8185" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Mr. GENE GREEN of Texas</name>
+<name type="authority-fnf">Gene Green</name>
+<name type="authority-lnf">Green, Gene</name>
+</congMember>
+<congMember authorityId="2270" bioGuideId="B001291" chamber="H" congress="115" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. BABIN</name>
+<name type="authority-fnf">Brian Babin</name>
+<name type="authority-lnf">Babin, Brian</name>
+</congMember>
+<congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="115" gpoId="8174" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Ms. JACKSON LEE</name>
+<name type="authority-fnf">Sheila Jackson Lee</name>
+<name type="authority-lnf">Jackson Lee, Sheila</name>
+</congMember>
+<congMember authorityId="1670" bioGuideId="C001048" chamber="H" congress="115" gpoId="8163" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. CULBERSON</name>
+<name type="authority-fnf">John Abney Culberson</name>
+<name type="authority-lnf">Culberson, John Abney</name>
+<name type="authority-other">John Culberson</name>
+</congMember>
+<congMember authorityId="1803" bioGuideId="G000553" chamber="H" congress="115" gpoId="8165" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Mr. AL GREEN of Texas</name>
+<name type="authority-fnf">Al Green</name>
+<name type="authority-lnf">Green, Al</name>
+</congMember>
+<congMember authorityId="1802" bioGuideId="P000592" chamber="H" congress="115" gpoId="8158" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. POE of Texas</name>
+<name type="authority-fnf">Ted Poe</name>
+<name type="authority-lnf">Poe, Ted</name>
+</congMember>
+<congMember authorityId="997" bioGuideId="R000486" chamber="H" congress="115" gpoId="7839" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. ROYBAL-ALLARD</name>
+<name type="authority-fnf">Lucille Roybal-Allard</name>
+<name type="authority-lnf">Roybal-Allard, Lucille</name>
+</congMember>
+<congMember authorityId="2067" bioGuideId="F000460" chamber="H" congress="115" gpoId="8183" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. FARENTHOLD</name>
+<name type="authority-fnf">Blake Farenthold</name>
+<name type="authority-lnf">Farenthold, Blake</name>
+</congMember>
+<congMember authorityId="2274" bioGuideId="P000610" chamber="H" congress="115" party="D" role="SPEAKING" state="VI">
+<name type="parsed">Ms. PLASKETT</name>
+<name type="authority-fnf">Stacey E. Plaskett</name>
+<name type="authority-lnf">Plaskett, Stacey E.</name>
+<name type="authority-other">Ms. Stacey Plaskett</name>
+</congMember>
+<congMember authorityId="1936" bioGuideId="L000567" chamber="H" congress="115" gpoId="8049" party="R" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. LANCE</name>
+<name type="authority-fnf">Leonard Lance</name>
+<name type="authority-lnf">Lance, Leonard</name>
+</congMember>
+<congMember authorityId="1604" bioGuideId="C001038" chamber="H" congress="115" gpoId="8068" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mr. CROWLEY</name>
+<name type="authority-fnf">Joseph Crowley</name>
+<name type="authority-lnf">Crowley, Joseph</name>
+</congMember>
+<congMember authorityId="344" bioGuideId="E000179" chamber="H" congress="115" gpoId="8078" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mr. ENGEL</name>
+<name type="authority-fnf">Eliot L. Engel</name>
+<name type="authority-lnf">Engel, Eliot L.</name>
+<name type="authority-other">Eliot Engel</name>
+</congMember>
+<congMember authorityId="1818" bioGuideId="S001165" chamber="H" congress="115" gpoId="8055" party="D" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. SIRES</name>
+<name type="authority-fnf">Albio Sires</name>
+<name type="authority-lnf">Sires, Albio</name>
+</congMember>
+<USCode title="42">
+<section detail="et seq." number="5121"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 502  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 502</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 502  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 502</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 502  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 502</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 601  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 601</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 601  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 601</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3672  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3672</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 5121et seq.</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 5121et seq.</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee198037eac" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 143</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-06/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-06/pdf/CREC-2017-09-06.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H6657</start>
+<end>H7090</end>
+</extent>
+<extent unit="pages">
+<start>S4971</start>
+<end>S5021</end>
+</extent>
+<extent unit="pages">
+<start>E1165</start>
+<end>E1172</end>
+</extent>
+<extent unit="pages">
+<start>D922</start>
+<end>D932</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-09-06</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>1008 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-06</identifier>
+<identifier type="local">P0b002ee198037eac</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr06se17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-01-17</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-01-17</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-09-06</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-09-06</accessId>
+<volume>163</volume>
+<issue>143</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

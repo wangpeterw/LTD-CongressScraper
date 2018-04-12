@@ -1,0 +1,268 @@
+<mods ID="id-CREC-2018-02-07-pt1-PgS705" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-02-08</dateIngested>
+</extension>
+<titleInfo>
+<title>STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-02-07/html/CREC-2018-02-07-pt1-PgS705.htm">
+<identifier type="FDsys Unique ID">D09002ee1985bcecf</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-02-07/pdf/CREC-2018-02-07-pt1-PgS705.pdf">
+<identifier type="FDsys Unique ID">D09002ee1985bcf1d</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. S705</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-02-07/CREC-2018-02-07-pt1-PgS705</identifier>
+<identifier type="former granule identifier">cr07fe18-137</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-02-07/CREC-2018-02-07-pt1-PgS705/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-07/pdf/CREC-2018-02-07-pt1-PgS705.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-07/html/CREC-2018-02-07-pt1-PgS705.htm</url>
+</location>
+<physicalDescription>
+<extent>2 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S705</start>
+<end>S706</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Steve Daines</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Chuck Grassley</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Homeland Security and Governmental Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. S705</identifier>
+<extension>
+<searchTitle>STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS; Congressional Record Vol. 164, No. 24</searchTitle>
+<associatedBills>S. 2392, 115th Congress
+        </associatedBills>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2018-02-07-pt1-PgS705</accessId>
+<subGranuleClass>SSTATEMENTS</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2018-02-07</granuleDate>
+<bill congress="115" context="HEADERLINE" number="2392" type="S"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="2392" type="S"/>
+<bill congress="115" context="OTHER" number="2392" type="S"/>
+<bill congress="115" context="OTHER" number="2401" type="S"/>
+<congCommittee authorityId="ssga00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Homeland Security and Governmental Affairs</name>
+<name type="authority-short">Homeland and Governmental Affairs</name>
+</congCommittee>
+<congMember authorityId="2138" bioGuideId="D000618" chamber="S" congress="115" party="R" role="SPEAKING" state="MT">
+<name type="parsed">Mr. DAINES</name>
+<name type="authority-fnf">Steve Daines</name>
+<name type="authority-lnf">Daines, Steve</name>
+</congMember>
+<congMember authorityId="457" bioGuideId="G000386" chamber="S" congress="115" gpoId="8316" party="R" role="SPEAKING" state="IA">
+<name type="parsed">Mr. GRASSLEY</name>
+<name type="authority-fnf">Chuck Grassley</name>
+<name type="authority-lnf">Grassley, Chuck</name>
+<name type="authority-other">Charles Ernest Grassley</name>
+</congMember>
+<USCode title="5">
+<chapter number="7"/>
+</USCode>
+<USCode title="6">
+<section detail="(b)" number="441"/>
+<section detail="et seq." number="441"/>
+<section number="442"/>
+<section number="443"/>
+<section number="444"/>
+</USCode>
+<USCode title="44">
+<section detail="(b)" number="3552"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2392  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2392</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2392  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2392</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2392  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2392</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2401  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2401</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 5 Chapter 7</partNumber>
+</titleInfo>
+<identifier type="USC citation">5 U.S.C. Chapter 7</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 6 Section 441(b)</partNumber>
+<partNumber>Title 6 Section 441et seq.</partNumber>
+<partNumber>Title 6 Section 442</partNumber>
+<partNumber>Title 6 Section 443</partNumber>
+<partNumber>Title 6 Section 444</partNumber>
+</titleInfo>
+<identifier type="USC citation">6 U.S.C. 441(b)</identifier>
+<identifier type="USC citation">6 U.S.C. 441et seq.</identifier>
+<identifier type="USC citation">6 U.S.C. 442</identifier>
+<identifier type="USC citation">6 U.S.C. 443</identifier>
+<identifier type="USC citation">6 U.S.C. 444</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 44 Section 3552(b)</partNumber>
+</titleInfo>
+<identifier type="USC citation">44 U.S.C. 3552(b)</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee1985baa79" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 24</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-07/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-07/pdf/CREC-2018-02-07.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H905</start>
+<end>H976</end>
+</extent>
+<extent unit="pages">
+<start>S667</start>
+<end>S792</end>
+</extent>
+<extent unit="pages">
+<start>E149</start>
+<end>E160</end>
+</extent>
+<extent unit="pages">
+<start>D129</start>
+<end>D134</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-02-07</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>432 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-07</identifier>
+<identifier type="local">P0b002ee1985baa79</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr07fe18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-02-08</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-02-08</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-02-07</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-02-07</accessId>
+<volume>164</volume>
+<issue>24</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

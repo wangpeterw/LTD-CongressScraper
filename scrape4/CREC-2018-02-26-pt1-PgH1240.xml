@@ -1,0 +1,264 @@
+<mods ID="id-CREC-2018-02-26-pt1-PgH1240" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-02-28</dateIngested>
+</extension>
+<titleInfo>
+<title>SICKLE CELL DISEASE RESEARCH, SURVEILLANCE, PREVENTION, AND TREATMENT ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-02-26/html/CREC-2018-02-26-pt1-PgH1240.htm">
+<identifier type="FDsys Unique ID">D09002ee198a29904</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-02-26/pdf/CREC-2018-02-26-pt1-PgH1240.pdf">
+<identifier type="FDsys Unique ID">D09002ee198a2994c</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. H1240</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-02-26/CREC-2018-02-26-pt1-PgH1240</identifier>
+<identifier type="former granule identifier">CR26FE18-80</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-02-26/CREC-2018-02-26-pt1-PgH1240/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-26/pdf/CREC-2018-02-26-pt1-PgH1240.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-26/html/CREC-2018-02-26-pt1-PgH1240.htm</url>
+</location>
+<physicalDescription>
+<extent>4 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H1240</start>
+<end>H1243</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Michael C. Burgess</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Gene Green</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Danny K. Davis</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>G. K. Butterfield</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheila Jackson Lee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. H1240</identifier>
+<extension>
+<searchTitle>SICKLE CELL DISEASE RESEARCH, SURVEILLANCE, PREVENTION, AND TREATMENT ACT OF 2017; Congressional Record Vol. 164, No. 34</searchTitle>
+<associatedBills>H.R. 2410, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2018-02-26-pt1-PgH1240</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2018-02-26</granuleDate>
+<time from="17:30:00" to="17:45:00"/>
+<bill congress="115" context="HEADERLINE" number="2410" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="2410" type="HR"/>
+<bill congress="115" context="OTHER" number="2410" type="HR"/>
+<congMember authorityId="1751" bioGuideId="B001248" chamber="H" congress="115" gpoId="8182" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. BURGESS</name>
+<name type="authority-fnf">Michael C. Burgess</name>
+<name type="authority-lnf">Burgess, Michael C.</name>
+<name type="authority-other">Mr. Michael Burgess</name>
+</congMember>
+<congMember authorityId="462" bioGuideId="G000410" chamber="H" congress="115" gpoId="8185" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Mr. GENE GREEN of Texas</name>
+<name type="authority-fnf">Gene Green</name>
+<name type="authority-lnf">Green, Gene</name>
+</congMember>
+<congMember authorityId="1477" bioGuideId="D000096" chamber="H" congress="115" gpoId="7927" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Mr. DANNY K. DAVIS of Illinois</name>
+<name type="authority-fnf">Danny K. Davis</name>
+<name type="authority-lnf">Davis, Danny K.</name>
+<name type="authority-other">Danny Davis</name>
+</congMember>
+<congMember authorityId="1761" bioGuideId="B001251" chamber="H" congress="115" gpoId="8024" party="D" role="SPEAKING" state="NC">
+<name type="parsed">Mr. BUTTERFIELD</name>
+<name type="authority-fnf">G. K. Butterfield</name>
+<name type="authority-lnf">Butterfield, G. K.</name>
+</congMember>
+<congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="115" gpoId="8174" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Ms. JACKSON LEE</name>
+<name type="authority-fnf">Sheila Jackson Lee</name>
+<name type="authority-lnf">Jackson Lee, Sheila</name>
+</congMember>
+<law congress="108" isPrivate="false" number="357"/>
+<USCode title="42">
+<section detail="et seq." number="201"/>
+<section number="280g-17"/>
+<section detail="note" number="300b-1"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2410  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2410</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2410  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2410</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2410  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2410</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 201et seq.</partNumber>
+<partNumber>Title 42 Section 280g-17</partNumber>
+<partNumber>Title 42 Section 300b-1note</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 201et seq.</identifier>
+<identifier type="USC citation">42 U.S.C. 280g-17</identifier>
+<identifier type="USC citation">42 U.S.C. 300b-1note</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 108-357</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 108-357</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee19898bf03" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 34</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-26/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-26/pdf/CREC-2018-02-26.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H1229</start>
+<end>H1268</end>
+</extent>
+<extent unit="pages">
+<start>S1199</start>
+<end>S1222</end>
+</extent>
+<extent unit="pages">
+<start>E215</start>
+<end>E224</end>
+</extent>
+<extent unit="pages">
+<start>D190</start>
+<end>D196</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-02-26</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>162 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-26</identifier>
+<identifier type="local">P0b002ee19898bf03</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR26FE18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-02-28</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-02-28</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-02-26</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-02-26</accessId>
+<volume>164</volume>
+<issue>34</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

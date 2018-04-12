@@ -1,0 +1,415 @@
+<mods ID="id-CREC-2018-02-15-pt1-PgH1183-2" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-02-16</dateIngested>
+</extension>
+<titleInfo>
+<title>ADA EDUCATION AND REFORM ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-02-15/html/CREC-2018-02-15-pt1-PgH1183-2.htm">
+<identifier type="FDsys Unique ID">D09002ee198799575</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-02-15/pdf/CREC-2018-02-15-pt1-PgH1183-2.pdf">
+<identifier type="FDsys Unique ID">D09002ee1987996bc</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. H1183</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-02-15/CREC-2018-02-15-pt1-PgH1183-2</identifier>
+<identifier type="former granule identifier">cr15fe18-55</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-02-15/CREC-2018-02-15-pt1-PgH1183-2/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-15/pdf/CREC-2018-02-15-pt1-PgH1183-2.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-15/html/CREC-2018-02-15-pt1-PgH1183-2.htm</url>
+</location>
+<physicalDescription>
+<extent>10 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H1183</start>
+<end>H1192</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Bob Goodlatte</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jerrold Nadler</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ken Calvert</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Lewis</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ted Poe</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Robert C. "Bobby" Scott</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Scott H. Peters</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheila Jackson Lee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jamie Raskin</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Rob Woodall</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Janice D. Schakowsky</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Steny H. Hoyer</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>James R. Langevin</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Duncan Hunter</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Earl Blumenauer</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on the Judiciary</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Education and the Workforce</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. H1183</identifier>
+<extension>
+<searchTitle>ADA EDUCATION AND REFORM ACT OF 2017; Congressional Record Vol. 164, No. 30</searchTitle>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2018-02-15-pt1-PgH1183-2</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2018-02-15</granuleDate>
+<time from="09:00:00" to="10:15:00"/>
+<bill congress="115" context="OTHER" number="269" type="S"/>
+<bill congress="115" context="OTHER" number="620" type="HR"/>
+<bill congress="115" context="OTHER" number="736" type="HRES"/>
+<bill congress="115" context="OTHER" number="777" type="HR"/>
+<congCommittee authorityId="hsju00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on the Judiciary</name>
+<name type="authority-short">Judiciary</name>
+</congCommittee>
+<congCommittee authorityId="hsed00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Education and the Workforce</name>
+<name type="authority-short">Education and the Workforce</name>
+</congCommittee>
+<congMember authorityId="446" bioGuideId="G000289" chamber="H" congress="115" gpoId="8197" party="R" role="SPEAKING" state="VA">
+<name type="parsed">Mr. GOODLATTE</name>
+<name type="authority-fnf">Bob Goodlatte</name>
+<name type="authority-lnf">Goodlatte, Bob</name>
+<name type="authority-other">Robert Goodlatte</name>
+</congMember>
+<congMember authorityId="850" bioGuideId="N000002" chamber="H" congress="115" gpoId="8069" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mr. NADLER</name>
+<name type="authority-fnf">Jerrold Nadler</name>
+<name type="authority-lnf">Nadler, Jerrold</name>
+</congMember>
+<congMember authorityId="165" bioGuideId="C000059" chamber="H" congress="115" gpoId="7849" party="R" role="SPEAKING" state="CA">
+<name type="parsed">Mr. CALVERT</name>
+<name type="authority-fnf">Ken Calvert</name>
+<name type="authority-lnf">Calvert, Ken</name>
+</congMember>
+<congMember authorityId="688" bioGuideId="L000287" chamber="H" congress="115" gpoId="7902" party="D" role="SPEAKING" state="GA">
+<name type="parsed">Mr. LEWIS of Georgia</name>
+<name type="authority-fnf">John Lewis</name>
+<name type="authority-lnf">Lewis, John</name>
+</congMember>
+<congMember authorityId="1802" bioGuideId="P000592" chamber="H" congress="115" gpoId="8158" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. POE of Texas</name>
+<name type="authority-fnf">Ted Poe</name>
+<name type="authority-lnf">Poe, Ted</name>
+</congMember>
+<congMember authorityId="1037" bioGuideId="S000185" chamber="H" congress="115" gpoId="8194" party="D" role="SPEAKING" state="VA">
+<name type="parsed">Mr. SCOTT of Virginia</name>
+<name type="authority-fnf">Robert C. "Bobby" Scott</name>
+<name type="authority-lnf">Scott, Robert C. "Bobby"</name>
+<name type="authority-other">Robert Scott</name>
+</congMember>
+<congMember authorityId="2113" bioGuideId="P000608" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. PETERS</name>
+<name type="authority-fnf">Scott H. Peters</name>
+<name type="authority-lnf">Peters, Scott H.</name>
+<name type="authority-other">Mr. Scott Peters</name>
+</congMember>
+<congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="115" gpoId="8174" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Ms. JACKSON LEE</name>
+<name type="authority-fnf">Sheila Jackson Lee</name>
+<name type="authority-lnf">Jackson Lee, Sheila</name>
+</congMember>
+<congMember authorityId="2332" bioGuideId="R000606" chamber="H" congress="115" party="D" role="SPEAKING" state="MD">
+<name type="parsed">Mr. RASKIN</name>
+<name type="authority-fnf">Jamie Raskin</name>
+<name type="authority-lnf">Raskin, Jamie</name>
+</congMember>
+<congMember authorityId="2008" bioGuideId="W000810" chamber="H" congress="115" gpoId="7904" party="R" role="SPEAKING" state="GA">
+<name type="parsed">Mr. WOODALL</name>
+<name type="authority-fnf">Rob Woodall</name>
+<name type="authority-lnf">Woodall, Rob</name>
+</congMember>
+<congMember authorityId="1588" bioGuideId="S001145" chamber="H" congress="115" gpoId="7929" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Ms. SCHAKOWSKY</name>
+<name type="authority-fnf">Janice D. Schakowsky</name>
+<name type="authority-lnf">Schakowsky, Janice D.</name>
+<name type="authority-other">Janice Schakowsky</name>
+</congMember>
+<congMember authorityId="566" bioGuideId="H000874" chamber="H" congress="115" gpoId="7980" party="D" role="SPEAKING" state="MD">
+<name type="parsed">Mr. HOYER</name>
+<name type="authority-fnf">Steny H. Hoyer</name>
+<name type="authority-lnf">Hoyer, Steny H.</name>
+<name type="authority-other">Steny Hoyer</name>
+</congMember>
+<congMember authorityId="1668" bioGuideId="L000559" chamber="H" congress="115" gpoId="8140" party="D" role="SPEAKING" state="RI">
+<name type="parsed">Mr. LANGEVIN</name>
+<name type="authority-fnf">James R. Langevin</name>
+<name type="authority-lnf">Langevin, James R.</name>
+<name type="authority-other">James Langevin</name>
+</congMember>
+<congMember authorityId="1909" bioGuideId="H001048" chamber="H" congress="115" gpoId="7857" party="R" role="SPEAKING" state="CA">
+<name type="parsed">Mr. HUNTER</name>
+<name type="authority-fnf">Duncan Hunter</name>
+<name type="authority-lnf">Hunter, Duncan D.</name>
+<name type="authority-other">Mr. Duncan D. Hunter</name>
+</congMember>
+<congMember authorityId="99" bioGuideId="B000574" chamber="H" congress="115" gpoId="8116" party="D" role="SPEAKING" state="OR">
+<name type="parsed">Mr. BLUMENAUER</name>
+<name type="authority-fnf">Earl Blumenauer</name>
+<name type="authority-lnf">Blumenauer, Earl</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 269  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 269</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 620  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 620</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 736  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 736</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 777  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 777</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee19879783c" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 30</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-15/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-15/pdf/CREC-2018-02-15.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H1181</start>
+<end>H1214</end>
+</extent>
+<extent unit="pages">
+<start>S1131</start>
+<end>S1192</end>
+</extent>
+<extent unit="pages">
+<start>E191</start>
+<end>E198</end>
+</extent>
+<extent unit="pages">
+<start>D171</start>
+<end>D180</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-02-15</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>228 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-15</identifier>
+<identifier type="local">P0b002ee19879783c</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr15fe18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-02-16</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-02-16</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-02-15</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-02-15</accessId>
+<volume>164</volume>
+<issue>30</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

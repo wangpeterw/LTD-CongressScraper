@@ -1,0 +1,424 @@
+<mods ID="id-CREC-2017-11-02-pt1-PgH8402" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-11-16</dateIngested>
+</extension>
+<titleInfo>
+<title>PROVIDING FOR CONSIDERATION OF H.R. 3922, COMMUNITY HEALTH AND MEDICAL PROFESSIONALS IMPROVE OUR NATION ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-11-02/html/CREC-2017-11-02-pt1-PgH8402.htm">
+<identifier type="FDsys Unique ID">D09002ee1977f46b3</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-11-02/pdf/CREC-2017-11-02-pt1-PgH8402.pdf">
+<identifier type="FDsys Unique ID">D09002ee1977f470f</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H8402</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-11-02/CREC-2017-11-02-pt1-PgH8402</identifier>
+<identifier type="former granule identifier">CR02NO17-95</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-11-02/CREC-2017-11-02-pt1-PgH8402/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-02/pdf/CREC-2017-11-02-pt1-PgH8402.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-02/html/CREC-2017-11-02-pt1-PgH8402.htm</url>
+</location>
+<physicalDescription>
+<extent>9 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H8402</start>
+<end>H8410</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Michael C. Burgess</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Louise McIntosh Slaughter</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Pete Sessions</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Doris O. Matsui</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Earl L. "Buddy" Carter</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Rosa L. DeLauro</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bradley Byrne</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Frank Pallone, Jr.</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Marsha Blackburn</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheila Jackson Lee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Rules</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Energy and Commerce</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart/>
+<namePart>Joint Committee on Taxation</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H8402</identifier>
+<extension>
+<searchTitle>PROVIDING FOR CONSIDERATION OF H.R. 3922, COMMUNITY HEALTH AND MEDICAL PROFESSIONALS IMPROVE OUR NATION ACT OF 2017; Congressional Record Vol. 163, No. 178</searchTitle>
+<associatedBills>H. Res. 601, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-11-02-pt1-PgH8402</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-11-02</granuleDate>
+<time from="12:45:00" to="13:45:00"/>
+<bill congress="115" context="OTHER" number="7" type="HCONRES"/>
+<bill congress="115" context="OTHER" number="71" type="HCONRES"/>
+<bill congress="115" context="HEADERLINE" number="601" type="HRES"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="601" type="HRES"/>
+<bill congress="115" context="OTHER" number="601" type="HRES"/>
+<bill congress="115" context="OTHER" number="3921" type="HR"/>
+<bill congress="115" context="TITLE" number="3922" type="HR"/>
+<bill congress="115" context="OTHER" number="3922" type="HR"/>
+<congCommittee authorityId="hsru00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Rules</name>
+<name type="authority-short">Rules</name>
+</congCommittee>
+<congCommittee authorityId="hsif00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Energy and Commerce</name>
+<name type="authority-short">Energy and Commerce</name>
+</congCommittee>
+<congCommittee authorityId="jstx00" chamber="J" congress="115" type="J">
+<name type="authority-standard">Joint Committee on Taxation</name>
+<name type="authority-short">Joint Taxation</name>
+</congCommittee>
+<congMember authorityId="1751" bioGuideId="B001248" chamber="H" congress="115" gpoId="8182" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. BURGESS</name>
+<name type="authority-fnf">Michael C. Burgess</name>
+<name type="authority-lnf">Burgess, Michael C.</name>
+<name type="authority-other">Mr. Michael Burgess</name>
+</congMember>
+<congMember authorityId="1069" bioGuideId="S000480" chamber="H" congress="115" gpoId="8089" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Ms. SLAUGHTER</name>
+<name type="authority-fnf">Louise McIntosh Slaughter</name>
+<name type="authority-lnf">Slaughter, Louise McIntosh</name>
+<name type="authority-other">Louise Slaughter</name>
+</congMember>
+<congMember authorityId="1525" bioGuideId="S000250" chamber="H" congress="115" gpoId="8188" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. SESSIONS</name>
+<name type="authority-fnf">Pete Sessions</name>
+<name type="authority-lnf">Sessions, Pete</name>
+</congMember>
+<congMember authorityId="1814" bioGuideId="M001163" chamber="H" congress="115" gpoId="7810" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. MATSUI</name>
+<name type="authority-fnf">Doris O. Matsui</name>
+<name type="authority-lnf">Matsui, Doris O.</name>
+<name type="authority-other">Ms. Doris Matsui</name>
+</congMember>
+<congMember authorityId="2236" bioGuideId="C001103" chamber="H" congress="115" party="R" role="SPEAKING" state="GA">
+<name type="parsed">Mr. CARTER of Georgia</name>
+<name type="authority-fnf">Earl L. "Buddy" Carter</name>
+<name type="authority-lnf">Carter, Earl L. "Buddy"</name>
+<name type="authority-other">Mr. Earl Carter</name>
+</congMember>
+<congMember authorityId="281" bioGuideId="D000216" chamber="H" congress="115" gpoId="7868" party="D" role="SPEAKING" state="CT">
+<name type="parsed">Ms. DeLAURO</name>
+<name type="authority-fnf">Rosa L. DeLauro</name>
+<name type="authority-lnf">DeLauro, Rosa L.</name>
+<name type="authority-other">Rosa Delauro</name>
+</congMember>
+<congMember authorityId="2197" bioGuideId="B001289" chamber="H" congress="115" party="R" role="SPEAKING" state="AL">
+<name type="parsed">Mr. BYRNE</name>
+<name type="authority-fnf">Bradley Byrne</name>
+<name type="authority-lnf">Byrne, Bradley</name>
+</congMember>
+<congMember authorityId="887" bioGuideId="P000034" chamber="H" congress="115" gpoId="8048" party="D" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. PALLONE</name>
+<name type="authority-fnf">Frank Pallone, Jr.</name>
+<name type="authority-lnf">Pallone, Frank, Jr.</name>
+<name type="authority-other">Frank Pallone Jr.</name>
+</congMember>
+<congMember authorityId="1748" bioGuideId="B001243" chamber="H" congress="115" gpoId="8154" party="R" role="SPEAKING" state="TN">
+<name type="parsed">Mrs. BLACKBURN</name>
+<name type="authority-fnf">Marsha Blackburn</name>
+<name type="authority-lnf">Blackburn, Marsha</name>
+</congMember>
+<congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="115" gpoId="8174" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Ms. JACKSON LEE</name>
+<name type="authority-fnf">Sheila Jackson Lee</name>
+<name type="authority-lnf">Jackson Lee, Sheila</name>
+</congMember>
+<law congress="111" isPrivate="false" number="148"/>
+<law congress="111" isPrivate="false" number="152"/>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Concurrent Resolution 7  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Con. Res. 7</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Concurrent Resolution 71  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Con. Res. 71</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 601  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 601</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 601  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 601</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 601  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 601</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3921  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3921</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3922  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3922</identifier>
+<extension>
+<congress>115</congress>
+<context>TITLE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3922  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3922</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 111-148</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 111-148</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 111-152</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 111-152</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee1977eedce" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 178</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-02/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-02/pdf/CREC-2017-11-02.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H8389</start>
+<end>H8445</end>
+</extent>
+<extent unit="pages">
+<start>S6975</start>
+<end>S7004</end>
+</extent>
+<extent unit="pages">
+<start>E1489</start>
+<end>E1499</end>
+</extent>
+<extent unit="pages">
+<start>D1162</start>
+<end>D1168</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-11-02</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>210 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-02</identifier>
+<identifier type="local">P0b002ee1977eedce</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR02NO17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-11-16</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-11-16</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-11-02</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-11-02</accessId>
+<volume>163</volume>
+<issue>178</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

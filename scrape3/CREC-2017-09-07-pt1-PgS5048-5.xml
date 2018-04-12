@@ -1,0 +1,467 @@
+<mods ID="id-CREC-2017-09-07-pt1-PgS5048-5" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-01-11</dateIngested>
+</extension>
+<titleInfo>
+<title>BUDGET SCOREKEEPING REPORT</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-09-07/html/CREC-2017-09-07-pt1-PgS5048-5.htm">
+<identifier type="FDsys Unique ID">D09002ee197f7aae9</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-09-07/pdf/CREC-2017-09-07-pt1-PgS5048-5.pdf">
+<identifier type="FDsys Unique ID">D09002ee197f7ab69</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S5048</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-09-07/CREC-2017-09-07-pt1-PgS5048-5</identifier>
+<identifier type="former granule identifier">CR07SE17-187</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-09-07/CREC-2017-09-07-pt1-PgS5048-5/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-07/pdf/CREC-2017-09-07-pt1-PgS5048-5.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-07/html/CREC-2017-09-07-pt1-PgS5048-5.htm</url>
+</location>
+<physicalDescription>
+<extent>4 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S5048</start>
+<end>S5051</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Michael B. Enzi</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on the Budget</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Judiciary</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Foreign Relations</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Appropriations</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. S5048</identifier>
+<extension>
+<searchTitle>BUDGET SCOREKEEPING REPORT; Congressional Record Vol. 163, No. 144</searchTitle>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-09-07-pt1-PgS5048-5</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-09-07</granuleDate>
+<bill congress="115" context="FIRSTPARAGRAPH" number="3" type="SCONRES"/>
+<bill congress="115" context="OTHER" number="3" type="SCONRES"/>
+<bill congress="115" context="OTHER" number="21" type="SCONRES"/>
+<bill congress="115" context="OTHER" number="371" type="S"/>
+<bill congress="115" context="OTHER" number="1616" type="S"/>
+<bill congress="115" context="OTHER" number="1628" type="HR"/>
+<congCommittee authorityId="ssbu00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on the Budget</name>
+<name type="authority-short">Budget</name>
+</congCommittee>
+<congCommittee authorityId="ssju00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Judiciary</name>
+<name type="authority-short">Judiciary</name>
+</congCommittee>
+<congCommittee authorityId="ssfr00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Foreign Relations</name>
+<name type="authority-short">Foreign Relations</name>
+</congCommittee>
+<congCommittee authorityId="ssap00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Appropriations</name>
+<name type="authority-short">Appropriations</name>
+</congCommittee>
+<congMember authorityId="1542" bioGuideId="E000285" chamber="S" congress="115" gpoId="8328" party="R" role="SPEAKING" state="WY">
+<name type="parsed">Mr. ENZI</name>
+<name type="authority-fnf">Michael B. Enzi</name>
+<name type="authority-lnf">Enzi, Michael B.</name>
+<name type="authority-other">Michael Enzi</name>
+</congMember>
+<law congress="114" isPrivate="false" number="223"/>
+<law congress="114" isPrivate="false" number="254"/>
+<law congress="114" isPrivate="false" number="255"/>
+<law congress="115" isPrivate="false" number="1"/>
+<law congress="115" isPrivate="false" number="2"/>
+<law congress="115" isPrivate="false" number="5"/>
+<law congress="115" isPrivate="false" number="10"/>
+<law congress="115" isPrivate="false" number="14"/>
+<law congress="115" isPrivate="false" number="21"/>
+<law congress="115" isPrivate="false" number="24"/>
+<law congress="115" isPrivate="false" number="26"/>
+<law congress="115" isPrivate="false" number="30"/>
+<law congress="115" isPrivate="false" number="31"/>
+<law congress="115" isPrivate="false" number="32"/>
+<law congress="115" isPrivate="false" number="34"/>
+<law congress="115" isPrivate="false" number="35"/>
+<law congress="115" isPrivate="false" number="36"/>
+<law congress="115" isPrivate="false" number="41"/>
+<law congress="115" isPrivate="false" number="42"/>
+<law congress="115" isPrivate="false" number="44"/>
+<law congress="115" isPrivate="false" number="45"/>
+<law congress="115" isPrivate="false" number="46"/>
+<law congress="115" isPrivate="false" number="48"/>
+<law congress="115" isPrivate="false" number="51"/>
+<law congress="115" isPrivate="false" number="52"/>
+<law congress="115" isPrivate="false" number="53"/>
+<law congress="115" isPrivate="false" number="54"/>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Concurrent Resolution 3  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. Con. Res. 3</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Concurrent Resolution 3  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. Con. Res. 3</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Concurrent Resolution 21  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. Con. Res. 21</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 371  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 371</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1616  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1616</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1628  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1628</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-223</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-223</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-254</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-254</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-255</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-255</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-1</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-1</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-2</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-2</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-5</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-5</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-10</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-10</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-14</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-14</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-21</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-21</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-24</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-24</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-26</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-26</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-30</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-30</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-31</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-31</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-32</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-32</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-34</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-34</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-35</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-35</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-36</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-36</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-41</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-41</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-42</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-42</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-44</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-44</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-45</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-45</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-46</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-46</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-48</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-48</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-51</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-51</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-52</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-52</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-53</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-53</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-54</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-54</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee197f7a5c5" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 144</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-07/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-07/pdf/CREC-2017-09-07.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H7091</start>
+<end>H7183</end>
+</extent>
+<extent unit="pages">
+<start>S5023</start>
+<end>S5083</end>
+</extent>
+<extent unit="pages">
+<start>E1173</start>
+<end>E1183</end>
+</extent>
+<extent unit="pages">
+<start>D933</start>
+<end>D944</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-09-07</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>354 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-07</identifier>
+<identifier type="local">P0b002ee197f7a5c5</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR07SE17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-01-11</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-01-11</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-09-07</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-09-07</accessId>
+<volume>163</volume>
+<issue>144</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

@@ -1,0 +1,335 @@
+<mods ID="id-CREC-2017-11-02-pt1-PgH8429" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-11-16</dateIngested>
+</extension>
+<titleInfo>
+<title>SENATE NEEDS TO TAKE UP HOUSE BILLS</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-11-02/html/CREC-2017-11-02-pt1-PgH8429.htm">
+<identifier type="FDsys Unique ID">D09002ee1977f45ee</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-11-02/pdf/CREC-2017-11-02-pt1-PgH8429.pdf">
+<identifier type="FDsys Unique ID">D09002ee1977f478e</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H8429</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-11-02/CREC-2017-11-02-pt1-PgH8429</identifier>
+<identifier type="former granule identifier">CR02NO17-121</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-11-02/CREC-2017-11-02-pt1-PgH8429/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-02/pdf/CREC-2017-11-02-pt1-PgH8429.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-02/html/CREC-2017-11-02-pt1-PgH8429.htm</url>
+</location>
+<physicalDescription>
+<extent>7 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H8429</start>
+<end>H8435</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Ken Buck</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Steve King</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jody B. Hice</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Daniel M. Donovan Jr.</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Andy Biggs</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Alexander X. Mooney</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Paul A. Gosar</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ted Poe</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H8429</identifier>
+<extension>
+<searchTitle>SENATE NEEDS TO TAKE UP HOUSE BILLS; Congressional Record Vol. 163, No. 178</searchTitle>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-11-02-pt1-PgH8429</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-11-02</granuleDate>
+<time from="18:15:00" to="19:15:00"/>
+<bill congress="115" context="OTHER" number="7" type="HR"/>
+<bill congress="115" context="OTHER" number="10" type="HR"/>
+<bill congress="115" context="OTHER" number="36" type="HR"/>
+<bill congress="115" context="OTHER" number="372" type="HR"/>
+<bill congress="115" context="OTHER" number="387" type="HR"/>
+<bill congress="115" context="OTHER" number="655" type="HR"/>
+<bill congress="115" context="OTHER" number="3003" type="HR"/>
+<bill congress="115" context="OTHER" number="3004" type="HR"/>
+<congMember authorityId="2233" bioGuideId="B001297" chamber="H" congress="115" party="R" role="SPEAKING" state="CO">
+<name type="parsed">Mr. BUCK</name>
+<name type="authority-fnf">Ken Buck</name>
+<name type="authority-lnf">Buck, Ken</name>
+</congMember>
+<congMember authorityId="1724" bioGuideId="K000362" chamber="H" congress="115" gpoId="7918" party="R" role="SPEAKING" state="IA">
+<name type="parsed">Mr. KING of Iowa</name>
+<name type="authority-fnf">Steve King</name>
+<name type="authority-lnf">King, Steve</name>
+</congMember>
+<congMember authorityId="2237" bioGuideId="H001071" chamber="H" congress="115" party="R" role="SPEAKING" state="GA">
+<name type="parsed">Mr. JODY B. HICE of Georgia</name>
+<name type="authority-fnf">Jody B. Hice</name>
+<name type="authority-lnf">Hice, Jody B.</name>
+<name type="authority-other">Mr. Jody Hice</name>
+</congMember>
+<congMember authorityId="2293" bioGuideId="D000625" chamber="H" congress="115" party="R" role="SPEAKING" state="NY">
+<name type="parsed">Mr. DONOVAN</name>
+<name type="authority-fnf">Daniel M. Donovan Jr.</name>
+<name type="authority-lnf">Donovan, Daniel M., Jr.</name>
+<name type="authority-other">Mr. Daniel Donovan Jr.</name>
+</congMember>
+<congMember authorityId="2307" bioGuideId="B001302" chamber="H" congress="115" party="R" role="SPEAKING" state="AZ">
+<name type="parsed">Mr. BIGGS</name>
+<name type="authority-fnf">Andy Biggs</name>
+<name type="authority-lnf">Biggs, Andy</name>
+</congMember>
+<congMember authorityId="2277" bioGuideId="M001195" chamber="H" congress="115" party="R" role="SPEAKING" state="WV">
+<name type="parsed">Mr. MOONEY of West Virginia</name>
+<name type="authority-fnf">Alexander X. Mooney</name>
+<name type="authority-lnf">Mooney, Alexander X.</name>
+<name type="authority-other">Mr. Alexander Mooney</name>
+</congMember>
+<congMember authorityId="1992" bioGuideId="G000565" chamber="H" congress="115" gpoId="7798" party="R" role="SPEAKING" state="AZ">
+<name type="parsed">Mr. GOSAR</name>
+<name type="authority-fnf">Paul A. Gosar</name>
+<name type="authority-lnf">Gosar, Paul A.</name>
+<name type="authority-other">Mr. Paul Gosar</name>
+</congMember>
+<congMember authorityId="1802" bioGuideId="P000592" chamber="H" congress="115" gpoId="8158" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. POE of Texas</name>
+<name type="authority-fnf">Ted Poe</name>
+<name type="authority-lnf">Poe, Ted</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 7  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 7</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 10  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 10</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 36  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 36</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 372  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 372</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 387  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 387</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 655  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 655</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3003  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3003</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3004  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3004</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee1977eedce" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 178</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-02/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-02/pdf/CREC-2017-11-02.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H8389</start>
+<end>H8445</end>
+</extent>
+<extent unit="pages">
+<start>S6975</start>
+<end>S7004</end>
+</extent>
+<extent unit="pages">
+<start>E1489</start>
+<end>E1499</end>
+</extent>
+<extent unit="pages">
+<start>D1162</start>
+<end>D1168</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-11-02</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>210 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-02</identifier>
+<identifier type="local">P0b002ee1977eedce</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR02NO17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-11-16</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-11-16</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-11-02</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-11-02</accessId>
+<volume>163</volume>
+<issue>178</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

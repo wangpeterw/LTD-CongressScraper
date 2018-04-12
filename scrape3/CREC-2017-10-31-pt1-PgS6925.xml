@@ -1,0 +1,347 @@
+<mods ID="id-CREC-2017-10-31-pt1-PgS6925" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-11-16</dateIngested>
+</extension>
+<titleInfo>
+<title>STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-10-31/html/CREC-2017-10-31-pt1-PgS6925.htm">
+<identifier type="FDsys Unique ID">D09002ee1977eeeaa</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-10-31/pdf/CREC-2017-10-31-pt1-PgS6925.pdf">
+<identifier type="FDsys Unique ID">D09002ee1977eef99</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S6925</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-10-31/CREC-2017-10-31-pt1-PgS6925</identifier>
+<identifier type="former granule identifier">CR31OC17-202</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-10-31/CREC-2017-10-31-pt1-PgS6925/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-31/pdf/CREC-2017-10-31-pt1-PgS6925.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-31/html/CREC-2017-10-31-pt1-PgS6925.htm</url>
+</location>
+<physicalDescription>
+<extent>5 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S6925</start>
+<end>S6929</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Richard Durbin</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Chuck Grassley</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Health, Education, Labor, and Pensions</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Foreign Relations</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on the Judiciary</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. S6925</identifier>
+<extension>
+<searchTitle>STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS; Congressional Record Vol. 163, No. 176</searchTitle>
+<associatedBills>S. 2037, 115th Congress
+        </associatedBills>
+<associatedBills>S. 2039, 115th Congress
+        </associatedBills>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-10-31-pt1-PgS6925</accessId>
+<subGranuleClass>SSTATEMENTS</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-10-31</granuleDate>
+<bill congress="115" context="HEADERLINE" number="2037" type="S"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="2037" type="S"/>
+<bill congress="115" context="OTHER" number="2037" type="S"/>
+<bill congress="115" context="HEADERLINE" number="2039" type="S"/>
+<bill congress="115" context="OTHER" number="2039" type="S"/>
+<congCommittee authorityId="sshr00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Health, Education, Labor, and Pensions</name>
+<name type="authority-short">HELP</name>
+</congCommittee>
+<congCommittee authorityId="ssfr00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Foreign Relations</name>
+<name type="authority-short">Foreign Relations</name>
+</congCommittee>
+<congCommittee authorityId="hsju00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on the Judiciary</name>
+<name type="authority-short">Judiciary</name>
+</congCommittee>
+<congMember authorityId="326" bioGuideId="D000563" chamber="S" congress="115" gpoId="8326" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Mr. DURBIN</name>
+<name type="authority-fnf">Richard Durbin</name>
+<name type="authority-lnf">Durbin, Richard</name>
+<name type="authority-other">Richard J. Durbin</name>
+</congMember>
+<congMember authorityId="457" bioGuideId="G000386" chamber="S" congress="115" gpoId="8316" party="R" role="SPEAKING" state="IA">
+<name type="parsed">Mr. GRASSLEY</name>
+<name type="authority-fnf">Chuck Grassley</name>
+<name type="authority-lnf">Grassley, Chuck</name>
+<name type="authority-other">Charles Ernest Grassley</name>
+</congMember>
+<USCode title="2">
+<section detail="et seq." number="1601"/>
+<section number="1604"/>
+</USCode>
+<USCode title="5">
+<section number="552"/>
+</USCode>
+<USCode title="20">
+<section detail="et seq." number="1001"/>
+<section detail="(b)" number="1002"/>
+<section number="1019a"/>
+<section detail="(c)(3)" number="1019b"/>
+<section number="1094"/>
+<section detail="(c)(3)(A)" number="1099b"/>
+<section detail="(k)(1)" number="1099c"/>
+</USCode>
+<USCode title="22">
+<section detail="et seq." number="611"/>
+<section number="612"/>
+<section number="613"/>
+</USCode>
+<USCode title="28">
+<section number="1291"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2037  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2037</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2037  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2037</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2037  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2037</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2039  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2039</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2039  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2039</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 2 Section 1601et seq.</partNumber>
+<partNumber>Title 2 Section 1604</partNumber>
+</titleInfo>
+<identifier type="USC citation">2 U.S.C. 1601et seq.</identifier>
+<identifier type="USC citation">2 U.S.C. 1604</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 5 Section 552</partNumber>
+</titleInfo>
+<identifier type="USC citation">5 U.S.C. 552</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 20 Section 1001et seq.</partNumber>
+<partNumber>Title 20 Section 1002(b)</partNumber>
+<partNumber>Title 20 Section 1019a</partNumber>
+<partNumber>Title 20 Section 1019b(c)(3)</partNumber>
+<partNumber>Title 20 Section 1094</partNumber>
+<partNumber>Title 20 Section 1099b(c)(3)(A)</partNumber>
+<partNumber>Title 20 Section 1099c(k)(1)</partNumber>
+</titleInfo>
+<identifier type="USC citation">20 U.S.C. 1001et seq.</identifier>
+<identifier type="USC citation">20 U.S.C. 1002(b)</identifier>
+<identifier type="USC citation">20 U.S.C. 1019a</identifier>
+<identifier type="USC citation">20 U.S.C. 1019b(c)(3)</identifier>
+<identifier type="USC citation">20 U.S.C. 1094</identifier>
+<identifier type="USC citation">20 U.S.C. 1099b(c)(3)(A)</identifier>
+<identifier type="USC citation">20 U.S.C. 1099c(k)(1)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 22 Section 611et seq.</partNumber>
+<partNumber>Title 22 Section 612</partNumber>
+<partNumber>Title 22 Section 613</partNumber>
+</titleInfo>
+<identifier type="USC citation">22 U.S.C. 611et seq.</identifier>
+<identifier type="USC citation">22 U.S.C. 612</identifier>
+<identifier type="USC citation">22 U.S.C. 613</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 28 Section 1291</partNumber>
+</titleInfo>
+<identifier type="USC citation">28 U.S.C. 1291</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee1977932a1" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 176</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-31/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-31/pdf/CREC-2017-10-31.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H8277</start>
+<end>H8296</end>
+</extent>
+<extent unit="pages">
+<start>S6885</start>
+<end>S6935</end>
+</extent>
+<extent unit="pages">
+<start>E1453</start>
+<end>E1473</end>
+</extent>
+<extent unit="pages">
+<start>D1145</start>
+<end>D1150</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-10-31</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>196 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-31</identifier>
+<identifier type="local">P0b002ee1977932a1</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR31OC17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-11-16</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-11-16</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-10-31</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-10-31</accessId>
+<volume>163</volume>
+<issue>176</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

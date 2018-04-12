@@ -1,0 +1,477 @@
+<mods ID="id-CREC-2017-12-06-pt1-PgH9674" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-12-07</dateIngested>
+</extension>
+<titleInfo>
+<title>PROVIDING FOR CONSIDERATION OF H.R. 38, CONCEALED CARRY RECIPROCITY ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-12-06/html/CREC-2017-12-06-pt1-PgH9674.htm">
+<identifier type="FDsys Unique ID">D09002ee197b20047</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-12-06/pdf/CREC-2017-12-06-pt1-PgH9674.pdf">
+<identifier type="FDsys Unique ID">D09002ee197b200c2</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H9674</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-12-06/CREC-2017-12-06-pt1-PgH9674</identifier>
+<identifier type="former granule identifier">cr06de17-63</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-12-06/CREC-2017-12-06-pt1-PgH9674/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-06/pdf/CREC-2017-12-06-pt1-PgH9674.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-06/html/CREC-2017-12-06-pt1-PgH9674.htm</url>
+</location>
+<physicalDescription>
+<extent>9 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H9674</start>
+<end>H9682</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Doug Collins</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Alcee L. Hastings</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Vicky Hartzler</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Eliot L. Engel</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Steve King</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Pramila Jayapal</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Paul Mitchell</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Earl Blumenauer</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>A. Drew Ferguson IV</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>David E. Price</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Rick W. Allen</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bill Pascrell, Jr.</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Liz Cheney</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Seth Moulton</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>James R. Langevin</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ed Perlmutter</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Raul M. Grijalva</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Rules</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on the Judiciary</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H9674</identifier>
+<extension>
+<searchTitle>PROVIDING FOR CONSIDERATION OF H.R. 38, CONCEALED CARRY RECIPROCITY ACT OF 2017; Congressional Record Vol. 163, No. 199</searchTitle>
+<associatedBills>H. Res. 645, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-12-06-pt1-PgH9674</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-12-06</granuleDate>
+<time from="12:30:00" to="13:30:00"/>
+<bill congress="115" context="TITLE" number="38" type="HR"/>
+<bill congress="115" context="OTHER" number="38" type="HR"/>
+<bill congress="115" context="HEADERLINE" number="645" type="HRES"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="645" type="HRES"/>
+<bill congress="115" context="OTHER" number="645" type="HRES"/>
+<bill congress="115" context="OTHER" number="3440" type="HR"/>
+<bill congress="115" context="OTHER" number="4477" type="HR"/>
+<congCommittee authorityId="hsru00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Rules</name>
+<name type="authority-short">Rules</name>
+</congCommittee>
+<congCommittee authorityId="hsju00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on the Judiciary</name>
+<name type="authority-short">Judiciary</name>
+</congCommittee>
+<congMember authorityId="2121" bioGuideId="C001093" chamber="H" congress="115" party="R" role="SPEAKING" state="GA">
+<name type="parsed">Mr. COLLINS of Georgia</name>
+<name type="authority-fnf">Doug Collins</name>
+<name type="authority-lnf">Collins, Doug</name>
+</congMember>
+<congMember authorityId="511" bioGuideId="H000324" chamber="H" congress="115" gpoId="7895" party="D" role="SPEAKING" state="FL">
+<name type="parsed">Mr. HASTINGS</name>
+<name type="authority-fnf">Alcee L. Hastings</name>
+<name type="authority-lnf">Hastings, Alcee L.</name>
+<name type="authority-other">Alcee Hastings</name>
+</congMember>
+<congMember authorityId="2032" bioGuideId="H001053" chamber="H" congress="115" gpoId="8012" party="R" role="SPEAKING" state="MO">
+<name type="parsed">Mrs. HARTZLER</name>
+<name type="authority-fnf">Vicky Hartzler</name>
+<name type="authority-lnf">Hartzler, Vicky</name>
+</congMember>
+<congMember authorityId="344" bioGuideId="E000179" chamber="H" congress="115" gpoId="8078" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mr. ENGEL</name>
+<name type="authority-fnf">Eliot L. Engel</name>
+<name type="authority-lnf">Engel, Eliot L.</name>
+<name type="authority-other">Eliot Engel</name>
+</congMember>
+<congMember authorityId="1724" bioGuideId="K000362" chamber="H" congress="115" gpoId="7918" party="R" role="SPEAKING" state="IA">
+<name type="parsed">Mr. KING of Iowa</name>
+<name type="authority-fnf">Steve King</name>
+<name type="authority-lnf">King, Steve</name>
+</congMember>
+<congMember authorityId="2354" bioGuideId="J000298" chamber="H" congress="115" party="D" role="SPEAKING" state="WA">
+<name type="parsed">Ms. JAYAPAL</name>
+<name type="authority-fnf">Pramila Jayapal</name>
+<name type="authority-lnf">Jayapal, Pramila</name>
+</congMember>
+<congMember authorityId="2334" bioGuideId="M001201" chamber="H" congress="115" party="R" role="SPEAKING" state="MI">
+<name type="parsed">Mr. MITCHELL</name>
+<name type="authority-fnf">Paul Mitchell</name>
+<name type="authority-lnf">Mitchell, Paul</name>
+</congMember>
+<congMember authorityId="99" bioGuideId="B000574" chamber="H" congress="115" gpoId="8116" party="D" role="SPEAKING" state="OR">
+<name type="parsed">Mr. BLUMENAUER</name>
+<name type="authority-fnf">Earl Blumenauer</name>
+<name type="authority-lnf">Blumenauer, Earl</name>
+</congMember>
+<congMember authorityId="2324" bioGuideId="F000465" chamber="H" congress="115" party="R" role="SPEAKING" state="GA">
+<name type="parsed">Mr. FERGUSON</name>
+<name type="authority-fnf">A. Drew Ferguson IV</name>
+<name type="authority-lnf">Ferguson, A. Drew IV</name>
+<name type="authority-other">Mr. A. Drew Ferguson IV</name>
+</congMember>
+<congMember authorityId="930" bioGuideId="P000523" chamber="H" congress="115" gpoId="8027" party="D" role="SPEAKING" state="NC">
+<name type="parsed">Mr. PRICE of North Carolina</name>
+<name type="authority-fnf">David E. Price</name>
+<name type="authority-lnf">Price, David E.</name>
+<name type="authority-other">David Price</name>
+</congMember>
+<congMember authorityId="2239" bioGuideId="A000372" chamber="H" congress="115" party="R" role="SPEAKING" state="GA">
+<name type="parsed">Mr. ALLEN</name>
+<name type="authority-fnf">Rick W. Allen</name>
+<name type="authority-lnf">Allen, Rick W.</name>
+<name type="authority-other">Mr. Rick Allen</name>
+</congMember>
+<congMember authorityId="1510" bioGuideId="P000096" chamber="H" congress="115" gpoId="8050" party="D" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. PASCRELL</name>
+<name type="authority-fnf">Bill Pascrell, Jr.</name>
+<name type="authority-lnf">Pascrell, Bill, Jr.</name>
+<name type="authority-other">William Pascrell Jr.</name>
+</congMember>
+<congMember authorityId="2356" bioGuideId="C001109" chamber="H" congress="115" party="R" role="SPEAKING" state="WY">
+<name type="parsed">Ms. CHENEY</name>
+<name type="authority-fnf">Liz Cheney</name>
+<name type="authority-lnf">Cheney, Liz</name>
+</congMember>
+<congMember authorityId="2246" bioGuideId="M001196" chamber="H" congress="115" party="D" role="SPEAKING" state="MA">
+<name type="parsed">Mr. MOULTON</name>
+<name type="authority-fnf">Seth Moulton</name>
+<name type="authority-lnf">Moulton, Seth</name>
+</congMember>
+<congMember authorityId="1668" bioGuideId="L000559" chamber="H" congress="115" gpoId="8140" party="D" role="SPEAKING" state="RI">
+<name type="parsed">Mr. LANGEVIN</name>
+<name type="authority-fnf">James R. Langevin</name>
+<name type="authority-lnf">Langevin, James R.</name>
+<name type="authority-other">James Langevin</name>
+</congMember>
+<congMember authorityId="1835" bioGuideId="P000593" chamber="H" congress="115" gpoId="7865" party="D" role="SPEAKING" state="CO">
+<name type="parsed">Mr. PERLMUTTER</name>
+<name type="authority-fnf">Ed Perlmutter</name>
+<name type="authority-lnf">Perlmutter, Ed</name>
+</congMember>
+<congMember authorityId="1708" bioGuideId="G000551" chamber="H" congress="115" gpoId="7804" party="D" role="SPEAKING" state="AZ">
+<name type="parsed">Mr. GRIJALVA</name>
+<name type="authority-fnf">Raul M. Grijalva</name>
+<name type="authority-lnf">Grijalva, Raul M.</name>
+<name type="authority-other">Mr. Raul Grijalva</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 38  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 38</identifier>
+<extension>
+<congress>115</congress>
+<context>TITLE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 38  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 38</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 645  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 645</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 645  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 645</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 645  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 645</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3440  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3440</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4477  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4477</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee197b1d9be" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 199</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-06/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-06/pdf/CREC-2017-12-06.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H9667</start>
+<end>H9710</end>
+</extent>
+<extent unit="pages">
+<start>S7859</start>
+<end>S7896</end>
+</extent>
+<extent unit="pages">
+<start>E1661</start>
+<end>E1666</end>
+</extent>
+<extent unit="pages">
+<start>D1287</start>
+<end>D1294</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-12-06</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>192 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-06</identifier>
+<identifier type="local">P0b002ee197b1d9be</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr06de17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-12-07</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-12-07</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-12-06</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-12-06</accessId>
+<volume>163</volume>
+<issue>199</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

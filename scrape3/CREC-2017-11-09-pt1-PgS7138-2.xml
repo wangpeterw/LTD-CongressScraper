@@ -1,0 +1,353 @@
+<mods ID="id-CREC-2017-11-09-pt1-PgS7138-2" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-02-24</dateIngested>
+</extension>
+<titleInfo>
+<title>EXECUTIVE SESSION</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-11-09/html/CREC-2017-11-09-pt1-PgS7138-2.htm">
+<identifier type="FDsys Unique ID">D09002ee19891f0cc</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-11-09/pdf/CREC-2017-11-09-pt1-PgS7138-2.pdf">
+<identifier type="FDsys Unique ID">D09002ee19891f10b</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S7138</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-11-09/CREC-2017-11-09-pt1-PgS7138-2</identifier>
+<identifier type="former granule identifier">CR09NO17-159</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-11-09/CREC-2017-11-09-pt1-PgS7138-2/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-09/pdf/CREC-2017-11-09-pt1-PgS7138-2.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-09/html/CREC-2017-11-09-pt1-PgS7138-2.htm</url>
+</location>
+<physicalDescription>
+<extent>13 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S7138</start>
+<end>S7150</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Mitch McConnell</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Cornyn</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Deb Fischer</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Orrin G. Hatch</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Chuck Grassley</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tim Scott</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Thune</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Johnny Isakson</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Patrick J. Toomey</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Rob Portman</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bill Cassidy</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Heidi Heitkamp</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Gary C. Peters</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Amy Klobuchar</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Dan Sullivan</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart/>
+<namePart>Joint Committee on Taxation</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. S7138</identifier>
+<extension>
+<searchTitle>EXECUTIVE SESSION; Congressional Record Vol. 163, No. 183</searchTitle>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-11-09-pt1-PgS7138-2</accessId>
+<subGranuleClass>SEXECSESSION</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-11-09</granuleDate>
+<congCommittee authorityId="jstx00" chamber="J" congress="115" type="J">
+<name type="authority-standard">Joint Committee on Taxation</name>
+<name type="authority-short">Joint Taxation</name>
+</congCommittee>
+<congMember authorityId="1395" bioGuideId="M000355" chamber="S" congress="115" gpoId="8254" party="R" role="SPEAKING" state="KY">
+<name type="parsed">Mr. McCONNELL</name>
+<name type="authority-fnf">Mitch McConnell</name>
+<name type="authority-lnf">McConnell, Mitch</name>
+</congMember>
+<congMember authorityId="1692" bioGuideId="C001056" chamber="S" congress="115" gpoId="8295" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. CORNYN</name>
+<name type="authority-fnf">John Cornyn</name>
+<name type="authority-lnf">Cornyn, John</name>
+</congMember>
+<congMember authorityId="2179" bioGuideId="F000463" chamber="S" congress="115" party="R" role="SPEAKING" state="NE">
+<name type="parsed">Mrs. FISCHER</name>
+<name type="authority-fnf">Deb Fischer</name>
+<name type="authority-lnf">Fischer, Deb</name>
+</congMember>
+<congMember authorityId="1351" bioGuideId="H000338" chamber="S" congress="115" gpoId="8314" party="R" role="SPEAKING" state="UT">
+<name type="parsed">Mr. HATCH</name>
+<name type="authority-fnf">Orrin G. Hatch</name>
+<name type="authority-lnf">Hatch, Orrin G.</name>
+<name type="authority-other">Orrin Grant Hatch</name>
+</congMember>
+<congMember authorityId="457" bioGuideId="G000386" chamber="S" congress="115" gpoId="8316" party="R" role="SPEAKING" state="IA">
+<name type="parsed">Mr. GRASSLEY</name>
+<name type="authority-fnf">Chuck Grassley</name>
+<name type="authority-lnf">Grassley, Chuck</name>
+<name type="authority-other">Charles Ernest Grassley</name>
+</congMember>
+<congMember authorityId="2056" bioGuideId="S001184" chamber="S" congress="115" gpoId="8141" party="R" role="SPEAKING" state="SC">
+<name type="parsed">Mr. SCOTT</name>
+<name type="authority-fnf">Tim Scott</name>
+<name type="authority-lnf">Scott, Tim</name>
+</congMember>
+<congMember authorityId="1534" bioGuideId="T000250" chamber="S" congress="115" gpoId="8257" party="R" role="SPEAKING" state="SD">
+<name type="parsed">Mr. THUNE</name>
+<name type="authority-fnf">John Thune</name>
+<name type="authority-lnf">Thune, John</name>
+<name type="authority-other">John R. Thune</name>
+</congMember>
+<congMember authorityId="1608" bioGuideId="I000055" chamber="S" congress="115" gpoId="8323" party="R" role="SPEAKING" state="GA">
+<name type="parsed">Mr. ISAKSON</name>
+<name type="authority-fnf">Johnny Isakson</name>
+<name type="authority-lnf">Isakson, Johnny</name>
+</congMember>
+<congMember authorityId="1594" bioGuideId="T000461" chamber="S" congress="115" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. TOOMEY</name>
+<name type="authority-fnf">Patrick J. Toomey</name>
+<name type="authority-lnf">Toomey, Patrick J.</name>
+<name type="authority-other">Patrick Toomey</name>
+</congMember>
+<congMember authorityId="924" bioGuideId="P000449" chamber="S" congress="115" gpoId="8266" party="R" role="SPEAKING" state="OH">
+<name type="parsed">Mr. PORTMAN</name>
+<name type="authority-fnf">Rob Portman</name>
+<name type="authority-lnf">Portman, Rob</name>
+</congMember>
+<congMember authorityId="1925" bioGuideId="C001075" chamber="S" congress="115" gpoId="7964" party="R" role="SPEAKING" state="LA">
+<name type="parsed">Mr. CASSIDY</name>
+<name type="authority-fnf">Bill Cassidy</name>
+<name type="authority-lnf">Cassidy, Bill</name>
+</congMember>
+<congMember authorityId="2174" bioGuideId="H001069" chamber="S" congress="115" party="D" role="SPEAKING" state="ND">
+<name type="parsed">Ms. HEITKAMP</name>
+<name type="authority-fnf">Heidi Heitkamp</name>
+<name type="authority-lnf">Heitkamp, Heidi</name>
+</congMember>
+<congMember authorityId="1929" bioGuideId="P000595" chamber="S" congress="115" gpoId="7994" party="D" role="SPEAKING" state="MI">
+<name type="parsed">Mr. PETERS</name>
+<name type="authority-fnf">Gary C. Peters</name>
+<name type="authority-lnf">Peters, Gary C.</name>
+<name type="authority-other">Mr. Gary Peters</name>
+</congMember>
+<congMember authorityId="1826" bioGuideId="K000367" chamber="S" congress="115" gpoId="8249" party="D" role="SPEAKING" state="MN">
+<name type="parsed">Ms. KLOBUCHAR</name>
+<name type="authority-fnf">Amy Klobuchar</name>
+<name type="authority-lnf">Klobuchar, Amy</name>
+</congMember>
+<congMember authorityId="2290" bioGuideId="S001198" chamber="S" congress="115" party="R" role="SPEAKING" state="AK">
+<name type="parsed">Mr. SULLIVAN</name>
+<name type="authority-fnf">Dan Sullivan</name>
+<name type="authority-lnf">Sullivan, Dan</name>
+</congMember>
+</extension>
+<relatedItem ID="P0b002ee19891dcde" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 183</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-09/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-09/pdf/CREC-2017-11-09.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H8665</start>
+<end>H9136</end>
+</extent>
+<extent unit="pages">
+<start>S7125</start>
+<end>S7168</end>
+</extent>
+<extent unit="pages">
+<start>E1541</start>
+<end>E1545</end>
+</extent>
+<extent unit="pages">
+<start>D1197</start>
+<end>D1202</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-11-09</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>1066 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-09</identifier>
+<identifier type="local">P0b002ee19891dcde</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR09NO17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-02-24</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-02-24</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-11-09</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-11-09</accessId>
+<volume>163</volume>
+<issue>183</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>2</bookCount>
+</extension>
+</relatedItem>
+</mods>

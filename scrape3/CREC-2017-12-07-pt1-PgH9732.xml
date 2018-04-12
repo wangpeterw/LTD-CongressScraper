@@ -1,0 +1,490 @@
+<mods ID="id-CREC-2017-12-07-pt1-PgH9732" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-03-31</dateIngested>
+</extension>
+<titleInfo>
+<title>FURTHER CONTINUING APPROPRIATIONS ACT, 2018</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-12-07/html/CREC-2017-12-07-pt1-PgH9732.htm">
+<identifier type="FDsys Unique ID">D09002ee199ee9c83</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-12-07/pdf/CREC-2017-12-07-pt1-PgH9732.pdf">
+<identifier type="FDsys Unique ID">D09002ee199ee9d9c</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H9732</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-12-07/CREC-2017-12-07-pt1-PgH9732</identifier>
+<identifier type="former granule identifier">CR07DE17-94</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-12-07/CREC-2017-12-07-pt1-PgH9732/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-07/pdf/CREC-2017-12-07-pt1-PgH9732.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-07/html/CREC-2017-12-07-pt1-PgH9732.htm</url>
+</location>
+<physicalDescription>
+<extent>8 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H9732</start>
+<end>H9739</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Rodney P. Frelinghuysen</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Nita M. Lowey</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Harold Rogers</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Marcy Kaptur</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Robert B. Aderholt</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Debbie Wasserman Schultz</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Kay Granger</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Rosa L. DeLauro</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Michael K. Simpson</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheila Jackson Lee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Abney Culberson</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John R. Carter</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ken Calvert</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tom Cole</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mario Diaz-Balart</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Charles W. Dent</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Greg Walden</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Michael C. Burgess</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tom Emmer</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Peter A. DeFazio</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Eddie Bernice Johnson</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Appropriations</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H9732</identifier>
+<extension>
+<searchTitle>FURTHER CONTINUING APPROPRIATIONS ACT, 2018; Congressional Record Vol. 163, No. 200</searchTitle>
+<associatedBills>H.J. Res. 123, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-12-07-pt1-PgH9732</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-12-07</granuleDate>
+<time from="14:25:00" to="15:15:00"/>
+<bill congress="115" context="HEADERLINE" number="123" type="HJRES"/>
+<bill congress="115" context="OTHER" number="123" type="HJRES"/>
+<bill congress="115" context="OTHER" number="647" type="HRES"/>
+<congCommittee authorityId="hsap00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Appropriations</name>
+<name type="authority-short">Appropriations</name>
+</congCommittee>
+<congMember authorityId="414" bioGuideId="F000372" chamber="H" congress="115" gpoId="8053" party="R" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. FRELINGHUYSEN</name>
+<name type="authority-fnf">Rodney P. Frelinghuysen</name>
+<name type="authority-lnf">Frelinghuysen, Rodney P.</name>
+<name type="authority-other">Rodney Frelinghuysen</name>
+</congMember>
+<congMember authorityId="709" bioGuideId="L000480" chamber="H" congress="115" gpoId="8079" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mrs. LOWEY</name>
+<name type="authority-fnf">Nita M. Lowey</name>
+<name type="authority-lnf">Lowey, Nita M.</name>
+<name type="authority-other">Nita Lowey</name>
+</congMember>
+<congMember authorityId="977" bioGuideId="R000395" chamber="H" congress="115" gpoId="7957" party="R" role="SPEAKING" state="KY">
+<name type="parsed">Mr. ROGERS of Kentucky</name>
+<name type="authority-fnf">Harold Rogers</name>
+<name type="authority-lnf">Rogers, Harold</name>
+</congMember>
+<congMember authorityId="616" bioGuideId="K000009" chamber="H" congress="115" gpoId="8099" party="D" role="SPEAKING" state="OH">
+<name type="parsed">Ms. KAPTUR</name>
+<name type="authority-fnf">Marcy Kaptur</name>
+<name type="authority-lnf">Kaptur, Marcy</name>
+</congMember>
+<congMember authorityId="1460" bioGuideId="A000055" chamber="H" congress="115" gpoId="7789" party="R" role="SPEAKING" state="AL">
+<name type="parsed">Mr. ADERHOLT</name>
+<name type="authority-fnf">Robert B. Aderholt</name>
+<name type="authority-lnf">Aderholt, Robert B.</name>
+<name type="authority-other">Robert Aderholt</name>
+</congMember>
+<congMember authorityId="1777" bioGuideId="W000797" chamber="H" congress="115" gpoId="7892" party="D" role="SPEAKING" state="FL">
+<name type="parsed">Ms. WASSERMAN SCHULTZ</name>
+<name type="authority-fnf">Debbie Wasserman Schultz</name>
+<name type="authority-lnf">Wasserman Schultz, Debbie</name>
+</congMember>
+<congMember authorityId="1487" bioGuideId="G000377" chamber="H" congress="115" gpoId="8168" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Ms. GRANGER</name>
+<name type="authority-fnf">Kay Granger</name>
+<name type="authority-lnf">Granger, Kay</name>
+</congMember>
+<congMember authorityId="281" bioGuideId="D000216" chamber="H" congress="115" gpoId="7868" party="D" role="SPEAKING" state="CT">
+<name type="parsed">Ms. DeLAURO</name>
+<name type="authority-fnf">Rosa L. DeLauro</name>
+<name type="authority-lnf">DeLauro, Rosa L.</name>
+<name type="authority-other">Rosa Delauro</name>
+</congMember>
+<congMember authorityId="1590" bioGuideId="S001148" chamber="H" congress="115" gpoId="7920" party="R" role="SPEAKING" state="ID">
+<name type="parsed">Mr. SIMPSON</name>
+<name type="authority-fnf">Michael K. Simpson</name>
+<name type="authority-lnf">Simpson, Michael K.</name>
+<name type="authority-other">Michael Simpson</name>
+</congMember>
+<congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="115" gpoId="8174" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Ms. JACKSON LEE</name>
+<name type="authority-fnf">Sheila Jackson Lee</name>
+<name type="authority-lnf">Jackson Lee, Sheila</name>
+</congMember>
+<congMember authorityId="1670" bioGuideId="C001048" chamber="H" congress="115" gpoId="8163" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. CULBERSON</name>
+<name type="authority-fnf">John Abney Culberson</name>
+<name type="authority-lnf">Culberson, John Abney</name>
+<name type="authority-other">John Culberson</name>
+</congMember>
+<congMember authorityId="1752" bioGuideId="C001051" chamber="H" congress="115" gpoId="8187" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. CARTER of Texas</name>
+<name type="authority-fnf">John R. Carter</name>
+<name type="authority-lnf">Carter, John R.</name>
+<name type="authority-other">Mr. John Carter</name>
+</congMember>
+<congMember authorityId="165" bioGuideId="C000059" chamber="H" congress="115" gpoId="7849" party="R" role="SPEAKING" state="CA">
+<name type="parsed">Mr. CALVERT</name>
+<name type="authority-fnf">Ken Calvert</name>
+<name type="authority-lnf">Calvert, Ken</name>
+</congMember>
+<congMember authorityId="1742" bioGuideId="C001053" chamber="H" congress="115" gpoId="8112" party="R" role="SPEAKING" state="OK">
+<name type="parsed">Mr. COLE</name>
+<name type="authority-fnf">Tom Cole</name>
+<name type="authority-lnf">Cole, Tom</name>
+</congMember>
+<congMember authorityId="1717" bioGuideId="D000600" chamber="H" congress="115" gpoId="7893" party="R" role="SPEAKING" state="FL">
+<name type="parsed">Mr. DIAZ-BALART</name>
+<name type="authority-fnf">Mario Diaz-Balart</name>
+<name type="authority-lnf">Diaz-Balart, Mario</name>
+</congMember>
+<congMember authorityId="1799" bioGuideId="D000604" chamber="H" congress="115" gpoId="8133" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. DENT</name>
+<name type="authority-fnf">Charles W. Dent</name>
+<name type="authority-lnf">Dent, Charles W.</name>
+<name type="authority-other">Mr. Charles Dent</name>
+</congMember>
+<congMember authorityId="1596" bioGuideId="W000791" chamber="H" congress="115" gpoId="8115" party="R" role="SPEAKING" state="OR">
+<name type="parsed">Mr. WALDEN</name>
+<name type="authority-fnf">Greg Walden</name>
+<name type="authority-lnf">Walden, Greg</name>
+</congMember>
+<congMember authorityId="1751" bioGuideId="B001248" chamber="H" congress="115" gpoId="8182" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. BURGESS</name>
+<name type="authority-fnf">Michael C. Burgess</name>
+<name type="authority-lnf">Burgess, Michael C.</name>
+<name type="authority-other">Mr. Michael Burgess</name>
+</congMember>
+<congMember authorityId="2253" bioGuideId="E000294" chamber="H" congress="115" party="R" role="SPEAKING" state="MN">
+<name type="parsed">Mr. EMMER</name>
+<name type="authority-fnf">Tom Emmer</name>
+<name type="authority-lnf">Emmer, Tom</name>
+</congMember>
+<congMember authorityId="279" bioGuideId="D000191" chamber="H" congress="115" gpoId="8117" party="D" role="SPEAKING" state="OR">
+<name type="parsed">Mr. DeFAZIO</name>
+<name type="authority-fnf">Peter A. DeFazio</name>
+<name type="authority-lnf">DeFazio, Peter A.</name>
+<name type="authority-other">Peter Defazio</name>
+</congMember>
+<congMember authorityId="599" bioGuideId="J000126" chamber="H" congress="115" gpoId="8186" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Ms. EDDIE BERNICE JOHNSON of Texas</name>
+<name type="authority-fnf">Eddie Bernice Johnson</name>
+<name type="authority-lnf">Johnson, Eddie Bernice</name>
+<name type="authority-other">Eddie Johnson</name>
+</congMember>
+<law congress="115" isPrivate="false" number="56"/>
+<USCode title="42">
+<section detail="(f)(2)" number="1397dd"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Joint Resolution 123  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.J. Res. 123</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Joint Resolution 123  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.J. Res. 123</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 647  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 647</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 1397dd(f)(2)</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 1397dd(f)(2)</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 115-56</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 115-56</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee199ee8c9d" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 200</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-07/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-07/pdf/CREC-2017-12-07.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H9711</start>
+<end>H9758</end>
+</extent>
+<extent unit="pages">
+<start>S7897</start>
+<end>S7935</end>
+</extent>
+<extent unit="pages">
+<start>E1667</start>
+<end>E1675</end>
+</extent>
+<extent unit="pages">
+<start>D1295</start>
+<end>D1300</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-12-07</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>204 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-07</identifier>
+<identifier type="local">P0b002ee199ee8c9d</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR07DE17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-03-31</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-03-31</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-12-07</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-12-07</accessId>
+<volume>163</volume>
+<issue>200</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

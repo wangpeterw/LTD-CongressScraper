@@ -1,0 +1,48 @@
+/*ltd-white #FFFFF3
+F2F2F2
+ltd-grey #34393A
+ltd-blue #2E6171
+ltd-lightblue #AFD9D3
+ltd-darkblue #1B3949*/
+
+@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Lato|Merriweather|Source+Sans+Pro');
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.navbar-brand{
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
+}
+
+.navbar-fixed-top {
+	position: fixed;
+	font-size: 16px;
+	margin-bottom: 0;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
+	border: 0;
+	font-family: 'Lato', sans-serif;
+}
+
+.query {
+	padding-top: 100px;
+	background-color: #F2F2F2;
+	font-family: 'Lato', sans-serif;
+}
+
+.query-title h1 {
+	font-family: 'Black Han Sans', sans-serif;
+	font-size: 48;
+}
+
+.query-title h5 {
+	font-family: 'Black Han Sans', sans-serif;
+	font-size: 16;
+}
+
+.filters-1 .col-md-3 small {
+	position: relative;
+	left: 20px;
+	top: 5px;
+}

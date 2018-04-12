@@ -1,0 +1,394 @@
+<mods ID="id-CREC-2017-08-03-pt1-PgS4883-2" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-01-13</dateIngested>
+</extension>
+<titleInfo>
+<title>TEXT OF AMENDMENTS</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-08-03/html/CREC-2017-08-03-pt1-PgS4883-2.htm">
+<identifier type="FDsys Unique ID">D09002ee197ff0a1a</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-08-03/pdf/CREC-2017-08-03-pt1-PgS4883-2.pdf">
+<identifier type="FDsys Unique ID">D09002ee197ff0aa0</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S4883</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-08-03/CREC-2017-08-03-pt1-PgS4883-2</identifier>
+<identifier type="former granule identifier">CR03AU17-95</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-08-03/CREC-2017-08-03-pt1-PgS4883-2/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-08-03/pdf/CREC-2017-08-03-pt1-PgS4883-2.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-08-03/html/CREC-2017-08-03-pt1-PgS4883-2.htm</url>
+</location>
+<physicalDescription>
+<extent>7 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S4883</start>
+<end>S4889</end>
+</extent>
+</part>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Commerce, Science, and Transportation</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Energy and Natural Resources</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Energy and Commerce</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. S4883</identifier>
+<extension>
+<searchTitle>TEXT OF AMENDMENTS; Congressional Record Vol. 163, No. 132</searchTitle>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-08-03-pt1-PgS4883-2</accessId>
+<subGranuleClass>SAMENDMENTTEXT</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-08-03</granuleDate>
+<bill congress="115" context="OTHER" number="88" type="S"/>
+<bill congress="115" context="OTHER" number="110" type="SRES"/>
+<bill congress="115" context="OTHER" number="204" type="S"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="581" type="S"/>
+<bill congress="115" context="OTHER" number="581" type="S"/>
+<bill congress="115" context="OTHER" number="756" type="S"/>
+<bill congress="115" context="OTHER" number="765" type="S"/>
+<bill congress="115" context="OTHER" number="1099" type="S"/>
+<bill congress="115" context="OTHER" number="1182" type="S"/>
+<bill congress="115" context="OTHER" number="2430" type="HR"/>
+<bill congress="115" context="OTHER" number="2810" type="HR"/>
+<congCommittee authorityId="sscm00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Commerce, Science, and Transportation</name>
+<name type="authority-short">Commerce</name>
+</congCommittee>
+<congCommittee authorityId="sseg00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Energy and Natural Resources</name>
+<name type="authority-short">Energy and Natural Resources</name>
+</congCommittee>
+<congCommittee authorityId="hsif00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Energy and Commerce</name>
+<name type="authority-short">Energy and Commerce</name>
+</congCommittee>
+<law congress="107" isPrivate="false" number="40"/>
+<USCode title="10">
+<section number="1144"/>
+<section detail="(e)(1)" number="130i"/>
+<section number="2273"/>
+<section number="2276"/>
+<section number="2327a"/>
+<chapter number="137"/>
+</USCode>
+<USCode title="11">
+<section detail="(10A)" number="101"/>
+</USCode>
+<USCode title="18">
+<section number="704"/>
+</USCode>
+<USCode title="21">
+<section number="360bbb-0"/>
+<section number="387j"/>
+</USCode>
+<USCode title="29">
+<section detail="(a)" number="2101"/>
+</USCode>
+<USCode title="42">
+<section detail="et seq." number="9601"/>
+</USCode>
+<USCode title="50">
+<section detail="et seq." number="1541"/>
+<section detail="note" number="1541"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 88  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 88</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Resolution 110  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. Res. 110</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 204  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 204</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 581  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 581</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 581  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 581</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 756  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 756</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 765  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 765</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1099  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1099</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1182  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1182</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2430  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2430</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2810  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2810</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 10 Section 1144</partNumber>
+<partNumber>Title 10 Section 130i(e)(1)</partNumber>
+<partNumber>Title 10 Section 2273</partNumber>
+<partNumber>Title 10 Section 2276</partNumber>
+<partNumber>Title 10 Section 2327a</partNumber>
+<partNumber>Title 10 Chapter 137</partNumber>
+</titleInfo>
+<identifier type="USC citation">10 U.S.C. 1144</identifier>
+<identifier type="USC citation">10 U.S.C. 130i(e)(1)</identifier>
+<identifier type="USC citation">10 U.S.C. 2273</identifier>
+<identifier type="USC citation">10 U.S.C. 2276</identifier>
+<identifier type="USC citation">10 U.S.C. 2327a</identifier>
+<identifier type="USC citation">10 U.S.C. Chapter 137</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 11 Section 101(10A)</partNumber>
+</titleInfo>
+<identifier type="USC citation">11 U.S.C. 101(10A)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 18 Section 704</partNumber>
+</titleInfo>
+<identifier type="USC citation">18 U.S.C. 704</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 21 Section 360bbb-0</partNumber>
+<partNumber>Title 21 Section 387j</partNumber>
+</titleInfo>
+<identifier type="USC citation">21 U.S.C. 360bbb-0</identifier>
+<identifier type="USC citation">21 U.S.C. 387j</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 29 Section 2101(a)</partNumber>
+</titleInfo>
+<identifier type="USC citation">29 U.S.C. 2101(a)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 9601et seq.</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 9601et seq.</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 50 Section 1541et seq.</partNumber>
+<partNumber>Title 50 Section 1541note</partNumber>
+</titleInfo>
+<identifier type="USC citation">50 U.S.C. 1541et seq.</identifier>
+<identifier type="USC citation">50 U.S.C. 1541note</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 107-40</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 107-40</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee197f8386e" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 132</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-08-03/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-08-03/pdf/CREC-2017-08-03.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>S4781</start>
+<end>S4898</end>
+</extent>
+<extent unit="pages">
+<start>D883</start>
+<end>D890</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-08-03</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>252 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-08-03</identifier>
+<identifier type="local">P0b002ee197f8386e</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR03AU17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-01-13</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-01-13</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-08-03</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-08-03</accessId>
+<volume>163</volume>
+<issue>132</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

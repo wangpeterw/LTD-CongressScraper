@@ -1,0 +1,741 @@
+<mods ID="id-CREC-2017-10-31-pt1-PgS6921" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-11-16</dateIngested>
+</extension>
+<titleInfo>
+<title>EXECUTIVE AND OTHER COMMUNICATIONS</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-10-31/html/CREC-2017-10-31-pt1-PgS6921.htm">
+<identifier type="FDsys Unique ID">D09002ee1977eee42</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-10-31/pdf/CREC-2017-10-31-pt1-PgS6921.pdf">
+<identifier type="FDsys Unique ID">D09002ee1977eefb9</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S6921</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-10-31/CREC-2017-10-31-pt1-PgS6921</identifier>
+<identifier type="former granule identifier">CR31OC17-196</identifier>
+<identifier type="Regulation ID Number">RIN 0580-AB28</identifier>
+<identifier type="Regulation ID Number">RIN 0575-AC98</identifier>
+<identifier type="Regulation ID Number">RIN 0694-AH40</identifier>
+<identifier type="Regulation ID Number">RIN 3235-AM07</identifier>
+<identifier type="Regulation ID Number">RIN 2070- AK36</identifier>
+<identifier type="Regulation ID Number">RIN 0610-AA70</identifier>
+<identifier type="Regulation ID Number">RIN 1515- AE27</identifier>
+<identifier type="Regulation ID Number">RIN 0938-AT04</identifier>
+<identifier type="Regulation ID Number">RIN 0938-AS04</identifier>
+<identifier type="Regulation ID Number">RIN 1840-AD25</identifier>
+<identifier type="Regulation ID Number">RIN 3206-AN22</identifier>
+<identifier type="Regulation ID Number">RIN 3206-AN50</identifier>
+<identifier type="Regulation ID Number">RIN 1625-AC37</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-10-31/CREC-2017-10-31-pt1-PgS6921/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-31/pdf/CREC-2017-10-31-pt1-PgS6921.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-31/html/CREC-2017-10-31-pt1-PgS6921.htm</url>
+</location>
+<physicalDescription>
+<extent>2 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S6921</start>
+<end>S6922</end>
+</extent>
+</part>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Agriculture, Nutrition, and Forestry</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Armed Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Banking, Housing, and Urban Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on the Budget</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Energy and Natural Resources</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Environment and Public Works</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Finance</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Foreign Relations</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Health, Education, Labor, and Pensions</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Homeland Security and Governmental Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Judiciary</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Commerce, Science, and Transportation</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. S6921</identifier>
+<extension>
+<searchTitle>EXECUTIVE AND OTHER COMMUNICATIONS; Congressional Record Vol. 163, No. 176</searchTitle>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-10-31-pt1-PgS6921</accessId>
+<subGranuleClass>EXECUTIVECOMM</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-10-31</granuleDate>
+<congCommittee authorityId="ssaf00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Agriculture, Nutrition, and Forestry</name>
+<name type="authority-short">Agriculture</name>
+</congCommittee>
+<congCommittee authorityId="ssas00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Armed Services</name>
+<name type="authority-short">Armed Services</name>
+</congCommittee>
+<congCommittee authorityId="ssbk00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Banking, Housing, and Urban Affairs</name>
+<name type="authority-short">Banking</name>
+</congCommittee>
+<congCommittee authorityId="ssbu00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on the Budget</name>
+<name type="authority-short">Budget</name>
+</congCommittee>
+<congCommittee authorityId="sseg00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Energy and Natural Resources</name>
+<name type="authority-short">Energy and Natural Resources</name>
+</congCommittee>
+<congCommittee authorityId="ssev00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Environment and Public Works</name>
+<name type="authority-short">Environment and Public Works</name>
+</congCommittee>
+<congCommittee authorityId="ssfi00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Finance</name>
+<name type="authority-short">Finance</name>
+</congCommittee>
+<congCommittee authorityId="ssfr00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Foreign Relations</name>
+<name type="authority-short">Foreign Relations</name>
+</congCommittee>
+<congCommittee authorityId="sshr00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Health, Education, Labor, and Pensions</name>
+<name type="authority-short">HELP</name>
+</congCommittee>
+<congCommittee authorityId="ssga00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Homeland Security and Governmental Affairs</name>
+<name type="authority-short">Homeland and Governmental Affairs</name>
+</congCommittee>
+<congCommittee authorityId="ssju00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Judiciary</name>
+<name type="authority-short">Judiciary</name>
+</congCommittee>
+<congCommittee authorityId="sscm00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Commerce, Science, and Transportation</name>
+<name type="authority-short">Commerce</name>
+</congCommittee>
+<law congress="102" isPrivate="false" number="1"/>
+<law congress="107" isPrivate="false" number="243"/>
+<USCode title="1">
+<section number="112b"/>
+</USCode>
+<cfr title="16">
+<part number="1229"/>
+</cfr>
+<cfr title="29">
+<part number="4022"/>
+</cfr>
+<cfr title="31">
+<part number="594"/>
+</cfr>
+<cfr title="7">
+<part number="3560"/>
+</cfr>
+<execCommunication congress="115" number="3276"/>
+<execCommunication congress="115" number="3277"/>
+<execCommunication congress="115" number="3278"/>
+<execCommunication congress="115" number="3279"/>
+<execCommunication congress="115" number="3280"/>
+<execCommunication congress="115" number="3281"/>
+<execCommunication congress="115" number="3282"/>
+<execCommunication congress="115" number="3283"/>
+<execCommunication congress="115" number="3284"/>
+<execCommunication congress="115" number="3285"/>
+<execCommunication congress="115" number="3286"/>
+<execCommunication congress="115" number="3287"/>
+<execCommunication congress="115" number="3288"/>
+<execCommunication congress="115" number="3289"/>
+<execCommunication congress="115" number="3290"/>
+<execCommunication congress="115" number="3291"/>
+<execCommunication congress="115" number="3292"/>
+<execCommunication congress="115" number="3293"/>
+<execCommunication congress="115" number="3294"/>
+<execCommunication congress="115" number="3295"/>
+<execCommunication congress="115" number="3296"/>
+<execCommunication congress="115" number="3297"/>
+<execCommunication congress="115" number="3298"/>
+<execCommunication congress="115" number="3299"/>
+<execCommunication congress="115" number="3300"/>
+<execCommunication congress="115" number="3301"/>
+<execCommunication congress="115" number="3302"/>
+<execCommunication congress="115" number="3303"/>
+<execCommunication congress="115" number="3304"/>
+<execCommunication congress="115" number="3305"/>
+<execCommunication congress="115" number="3306"/>
+<execCommunication congress="115" number="3307"/>
+<execCommunication congress="115" number="3308"/>
+<execCommunication congress="115" number="3309"/>
+<execCommunication congress="115" number="3310"/>
+<execCommunication congress="115" number="3311"/>
+<execCommunication congress="115" number="3312"/>
+<execCommunication congress="115" number="3313"/>
+<execCommunication congress="115" number="3314"/>
+<execCommunication congress="115" number="3315"/>
+<execCommunication congress="115" number="3316"/>
+<execCommunication congress="115" number="3317"/>
+<rin number="0580-AB28"/>
+<rin number="0575-AC98"/>
+<rin number="0694-AH40"/>
+<rin number="3235-AM07"/>
+<rin number="2070- AK36"/>
+<rin number="0610-AA70"/>
+<rin number="1515- AE27"/>
+<rin number="0938-AT04"/>
+<rin number="0938-AS04"/>
+<rin number="1840-AD25"/>
+<rin number="3206-AN22"/>
+<rin number="3206-AN50"/>
+<rin number="1625-AC37"/>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 1 Section 112b</partNumber>
+</titleInfo>
+<identifier type="USC citation">1 U.S.C. 112b</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 102-1</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 102-1</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 107-243</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 107-243</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>Code of Federal Regulations</title>
+<partNumber>Title 16 Part 1229</partNumber>
+</titleInfo>
+<identifier type="CFR citation">16 CFR Part  1229</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>Code of Federal Regulations</title>
+<partNumber>Title 29 Part 4022</partNumber>
+</titleInfo>
+<identifier type="CFR citation">29 CFR Part  4022</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>Code of Federal Regulations</title>
+<partNumber>Title 31 Part 594</partNumber>
+</titleInfo>
+<identifier type="CFR citation">31 CFR Part  594</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>Code of Federal Regulations</title>
+<partNumber>Title 7 Part 3560</partNumber>
+</titleInfo>
+<identifier type="CFR citation">7 CFR Part  3560</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3276</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3277</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3278</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3279</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3280</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3281</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3282</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3283</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3284</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3285</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3286</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3287</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3288</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3289</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3290</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3291</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3292</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3293</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3294</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3295</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3296</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3297</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3298</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3299</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3300</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3301</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3302</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3303</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3304</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3305</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3306</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3307</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3308</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3309</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3310</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3311</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3312</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3313</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3314</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3315</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3316</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="executive communication number">EC-3317</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 0580-AB28</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 0575-AC98</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 0694-AH40</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 3235-AM07</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 2070- AK36</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 0610-AA70</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 1515- AE27</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 0938-AT04</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 0938-AS04</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 1840-AD25</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 3206-AN22</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 3206-AN50</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN 1625-AC37</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee1977932a1" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 176</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-31/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-31/pdf/CREC-2017-10-31.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H8277</start>
+<end>H8296</end>
+</extent>
+<extent unit="pages">
+<start>S6885</start>
+<end>S6935</end>
+</extent>
+<extent unit="pages">
+<start>E1453</start>
+<end>E1473</end>
+</extent>
+<extent unit="pages">
+<start>D1145</start>
+<end>D1150</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-10-31</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>196 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-31</identifier>
+<identifier type="local">P0b002ee1977932a1</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR31OC17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-11-16</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-11-16</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-10-31</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-10-31</accessId>
+<volume>163</volume>
+<issue>176</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

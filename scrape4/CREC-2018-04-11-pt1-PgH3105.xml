@@ -1,0 +1,278 @@
+<mods ID="id-CREC-2018-04-11-pt1-PgH3105" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-04-12</dateIngested>
+</extension>
+<titleInfo>
+<title>PROVIDING FOR CONSIDERATION OF H.R. 4790, VOLCKER RULE REGULATORY HARMONIZATION ACT, AND PROVIDING FOR CONSIDERATION OF MOTIONS TO SUSPEND THE RULES</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-04-11/html/CREC-2018-04-11-pt1-PgH3105.htm">
+<identifier type="FDsys Unique ID">D09002ee19a04a9ab</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-04-11/pdf/CREC-2018-04-11-pt1-PgH3105.pdf">
+<identifier type="FDsys Unique ID">D09002ee19a04aab3</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. H3105</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-04-11/CREC-2018-04-11-pt1-PgH3105</identifier>
+<identifier type="former granule identifier">cr11ap18-77</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-04-11/CREC-2018-04-11-pt1-PgH3105/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-04-11/pdf/CREC-2018-04-11-pt1-PgH3105.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-04-11/html/CREC-2018-04-11-pt1-PgH3105.htm</url>
+</location>
+<physicalDescription>
+<extent>6 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H3105</start>
+<end>H3110</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Ken Buck</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>James P. McGovern</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Theodore E. Deutch</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Rules</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Financial Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. H3105</identifier>
+<extension>
+<searchTitle>PROVIDING FOR CONSIDERATION OF H.R. 4790, VOLCKER RULE REGULATORY HARMONIZATION ACT, AND PROVIDING FOR CONSIDERATION OF MOTIONS TO SUSPEND THE RULES; Congressional Record Vol. 164, No. 58</searchTitle>
+<associatedBills>H. Res. 811, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2018-04-11-pt1-PgH3105</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2018-04-11</granuleDate>
+<time from="12:15:00" to="12:45:00"/>
+<bill congress="115" context="OTHER" number="2" type="HJRES"/>
+<bill congress="115" context="HEADERLINE" number="811" type="HRES"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="811" type="HRES"/>
+<bill congress="115" context="OTHER" number="811" type="HRES"/>
+<bill congress="115" context="TITLE" number="4790" type="HR"/>
+<bill congress="115" context="OTHER" number="4790" type="HR"/>
+<congCommittee authorityId="hsru00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Rules</name>
+<name type="authority-short">Rules</name>
+</congCommittee>
+<congCommittee authorityId="hsba00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Financial Services</name>
+<name type="authority-short">Financial Services</name>
+</congCommittee>
+<congMember authorityId="2233" bioGuideId="B001297" chamber="H" congress="115" party="R" role="SPEAKING" state="CO">
+<name type="parsed">Mr. BUCK</name>
+<name type="authority-fnf">Ken Buck</name>
+<name type="authority-lnf">Buck, Ken</name>
+</congMember>
+<congMember authorityId="1504" bioGuideId="M000312" chamber="H" congress="115" gpoId="7968" party="D" role="SPEAKING" state="MA">
+<name type="parsed">Mr. McGOVERN</name>
+<name type="authority-fnf">James P. McGovern</name>
+<name type="authority-lnf">McGovern, James P.</name>
+<name type="authority-other">James Mcgovern</name>
+</congMember>
+<congMember authorityId="1976" bioGuideId="D000610" chamber="H" congress="115" gpoId="7891" party="D" role="SPEAKING" state="FL">
+<name type="parsed">Mr. DEUTCH</name>
+<name type="authority-fnf">Theodore E. Deutch</name>
+<name type="authority-lnf">Deutch, Theodore E.</name>
+<name type="authority-other">Mr. Theodore Deutch</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Joint Resolution 2  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.J. Res. 2</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 811  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 811</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 811  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 811</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 811  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 811</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4790  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4790</identifier>
+<extension>
+<congress>115</congress>
+<context>TITLE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4790  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4790</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee19a0473f1" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 58</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-04-11/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-04-11/pdf/CREC-2018-04-11.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H3099</start>
+<end>H3149</end>
+</extent>
+<extent unit="pages">
+<start>S2047</start>
+<end>S2082</end>
+</extent>
+<extent unit="pages">
+<start>E429</start>
+<end>E437</end>
+</extent>
+<extent unit="pages">
+<start>D368</start>
+<end>D378</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-04-11</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>214 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-04-11</identifier>
+<identifier type="local">P0b002ee19a0473f1</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr11ap18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-04-12</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-04-12</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-04-11</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-04-11</accessId>
+<volume>164</volume>
+<issue>58</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

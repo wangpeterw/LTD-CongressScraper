@@ -1,0 +1,279 @@
+<mods ID="id-CREC-2017-11-28-pt1-PgH9449" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-02-24</dateIngested>
+</extension>
+<titleInfo>
+<title>LAW ENFORCEMENT MENTAL HEALTH AND WELLNESS ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-11-28/html/CREC-2017-11-28-pt1-PgH9449.htm">
+<identifier type="FDsys Unique ID">D09002ee19891f337</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-11-28/pdf/CREC-2017-11-28-pt1-PgH9449.pdf">
+<identifier type="FDsys Unique ID">D09002ee19891f388</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H9449</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-11-28/CREC-2017-11-28-pt1-PgH9449</identifier>
+<identifier type="former granule identifier">CR28NO17-81</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-11-28/CREC-2017-11-28-pt1-PgH9449/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-28/pdf/CREC-2017-11-28-pt1-PgH9449.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-28/html/CREC-2017-11-28-pt1-PgH9449.htm</url>
+</location>
+<physicalDescription>
+<extent>6 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H9449</start>
+<end>H9454</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Bob Goodlatte</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheila Jackson Lee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Susan W. Brooks</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Val Butler Demings</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jerrold Nadler</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bill Pascrell, Jr.</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Eric Swalwell</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H9449</identifier>
+<extension>
+<searchTitle>LAW ENFORCEMENT MENTAL HEALTH AND WELLNESS ACT OF 2017; Congressional Record Vol. 163, No. 193</searchTitle>
+<associatedBills>H.R. 2228, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-11-28-pt1-PgH9449</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-11-28</granuleDate>
+<time from="17:15:00" to="17:45:00"/>
+<bill congress="115" context="HEADERLINE" number="2228" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="2228" type="HR"/>
+<bill congress="115" context="OTHER" number="2228" type="HR"/>
+<congMember authorityId="446" bioGuideId="G000289" chamber="H" congress="115" gpoId="8197" party="R" role="SPEAKING" state="VA">
+<name type="parsed">Mr. GOODLATTE</name>
+<name type="authority-fnf">Bob Goodlatte</name>
+<name type="authority-lnf">Goodlatte, Bob</name>
+<name type="authority-other">Robert Goodlatte</name>
+</congMember>
+<congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="115" gpoId="8174" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Ms. JACKSON LEE</name>
+<name type="authority-fnf">Sheila Jackson Lee</name>
+<name type="authority-lnf">Jackson Lee, Sheila</name>
+</congMember>
+<congMember authorityId="2129" bioGuideId="B001284" chamber="H" congress="115" party="R" role="SPEAKING" state="IN">
+<name type="parsed">Mrs. BROOKS of Indiana</name>
+<name type="authority-fnf">Susan W. Brooks</name>
+<name type="authority-lnf">Brooks, Susan W.</name>
+<name type="authority-other">Mrs. Susan Brooks</name>
+</congMember>
+<congMember authorityId="2320" bioGuideId="D000627" chamber="H" congress="115" party="D" role="SPEAKING" state="FL">
+<name type="parsed">Mrs. DEMINGS</name>
+<name type="authority-fnf">Val Butler Demings</name>
+<name type="authority-lnf">Demings, Val Butler</name>
+<name type="authority-other">Mrs. Val Demings</name>
+</congMember>
+<congMember authorityId="850" bioGuideId="N000002" chamber="H" congress="115" gpoId="8069" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mr. NADLER</name>
+<name type="authority-fnf">Jerrold Nadler</name>
+<name type="authority-lnf">Nadler, Jerrold</name>
+</congMember>
+<congMember authorityId="1510" bioGuideId="P000096" chamber="H" congress="115" gpoId="8050" party="D" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. PASCRELL</name>
+<name type="authority-fnf">Bill Pascrell, Jr.</name>
+<name type="authority-lnf">Pascrell, Bill, Jr.</name>
+<name type="authority-other">William Pascrell Jr.</name>
+</congMember>
+<congMember authorityId="2104" bioGuideId="S001193" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. SWALWELL of California</name>
+<name type="authority-fnf">Eric Swalwell</name>
+<name type="authority-lnf">Swalwell, Eric</name>
+</congMember>
+<USCode title="34">
+<section detail="(b)" number="10381"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2228  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2228</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2228  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2228</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2228  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2228</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 34 Section 10381(b)</partNumber>
+</titleInfo>
+<identifier type="USC citation">34 U.S.C. 10381(b)</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee19891e16c" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 193</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-28/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-28/pdf/CREC-2017-11-28.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H9437</start>
+<end>H9470</end>
+</extent>
+<extent unit="pages">
+<start>S7337</start>
+<end>S7365</end>
+</extent>
+<extent unit="pages">
+<start>E1601</start>
+<end>E1612</end>
+</extent>
+<extent unit="pages">
+<start>D1249</start>
+<end>D1254</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-11-28</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>162 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-11-28</identifier>
+<identifier type="local">P0b002ee19891e16c</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR28NO17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-02-24</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-02-24</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-11-28</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-11-28</accessId>
+<volume>163</volume>
+<issue>193</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

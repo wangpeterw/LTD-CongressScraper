@@ -1,0 +1,359 @@
+<mods ID="id-CREC-2017-09-27-pt1-PgS6159-7" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-09-28</dateIngested>
+</extension>
+<titleInfo>
+<title>NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2018--MOTION TO PROCEED</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-09-27/html/CREC-2017-09-27-pt1-PgS6159-7.htm">
+<identifier type="FDsys Unique ID">D09002ee19703e6f3</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-09-27/pdf/CREC-2017-09-27-pt1-PgS6159-7.pdf">
+<identifier type="FDsys Unique ID">D09002ee19703e730</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. S6159</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-09-27/CREC-2017-09-27-pt1-PgS6159-7</identifier>
+<identifier type="former granule identifier">cr27se17-114</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-09-27/CREC-2017-09-27-pt1-PgS6159-7/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-27/pdf/CREC-2017-09-27-pt1-PgS6159-7.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-27/html/CREC-2017-09-27-pt1-PgS6159-7.htm</url>
+</location>
+<physicalDescription>
+<extent>17 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S6159</start>
+<end>S6175</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Mitch McConnell</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Charles E. Schumer</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Angus S. King Jr.</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Maria Cantwell</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Cornyn</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jeff Merkley</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Barrasso</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Christopher A. Coons</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheldon Whitehouse</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Roy Blunt</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Shelley Moore Capito</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>David Perdue</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Thom Tillis</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. S6159</identifier>
+<extension>
+<searchTitle>NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2018--MOTION TO PROCEED; Congressional Record Vol. 163, No. 155</searchTitle>
+<associatedBills>H.R. 3354, 115th Congress
+        </associatedBills>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2017-09-27-pt1-PgS6159-7</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2017-09-27</granuleDate>
+<bill congress="115" context="FIRSTPARAGRAPH" number="1519" type="S"/>
+<bill congress="115" context="OTHER" number="1519" type="S"/>
+<bill congress="115" context="HEADERLINE" number="3354" type="HR"/>
+<bill congress="115" context="OTHER" number="3354" type="HR"/>
+<congMember authorityId="1395" bioGuideId="M000355" chamber="S" congress="115" gpoId="8254" party="R" role="SPEAKING" state="KY">
+<name type="parsed">Mr. McCONNELL</name>
+<name type="authority-fnf">Mitch McConnell</name>
+<name type="authority-lnf">McConnell, Mitch</name>
+</congMember>
+<congMember authorityId="1036" bioGuideId="S000148" chamber="S" congress="115" gpoId="8279" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mr. SCHUMER</name>
+<name type="authority-fnf">Charles E. Schumer</name>
+<name type="authority-lnf">Schumer, Charles E.</name>
+<name type="authority-other">Charles Schumer</name>
+</congMember>
+<congMember authorityId="2185" bioGuideId="K000383" chamber="S" congress="115" party="I" role="SPEAKING" state="ME">
+<name type="parsed">Mr. KING</name>
+<name type="authority-fnf">Angus S. King Jr.</name>
+<name type="authority-lnf">King, Angus S., Jr.</name>
+<name type="authority-other">Mr. Angus King Jr.</name>
+</congMember>
+<congMember authorityId="172" bioGuideId="C000127" chamber="S" congress="115" gpoId="8288" party="D" role="SPEAKING" state="WA">
+<name type="parsed">Ms. CANTWELL</name>
+<name type="authority-fnf">Maria Cantwell</name>
+<name type="authority-lnf">Cantwell, Maria</name>
+</congMember>
+<congMember authorityId="1692" bioGuideId="C001056" chamber="S" congress="115" gpoId="8295" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. CORNYN</name>
+<name type="authority-fnf">John Cornyn</name>
+<name type="authority-lnf">Cornyn, John</name>
+</congMember>
+<congMember authorityId="1900" bioGuideId="M001176" chamber="S" congress="115" gpoId="8238" party="D" role="SPEAKING" state="OR">
+<name type="parsed">Mr. MERKLEY</name>
+<name type="authority-fnf">Jeff Merkley</name>
+<name type="authority-lnf">Merkley, Jeff</name>
+</congMember>
+<congMember authorityId="1881" bioGuideId="B001261" chamber="S" congress="115" gpoId="8300" party="R" role="SPEAKING" state="WY">
+<name type="parsed">Mr. BARRASSO</name>
+<name type="authority-fnf">John Barrasso</name>
+<name type="authority-lnf">Barrasso, John</name>
+</congMember>
+<congMember authorityId="1984" bioGuideId="C001088" chamber="S" congress="115" gpoId="8297" party="D" role="SPEAKING" state="DE">
+<name type="parsed">Mr. COONS</name>
+<name type="authority-fnf">Christopher A. Coons</name>
+<name type="authority-lnf">Coons, Christopher A.</name>
+<name type="authority-other">Mr. Christopher Coons</name>
+</congMember>
+<congMember authorityId="1823" bioGuideId="W000802" chamber="S" congress="115" gpoId="8264" party="D" role="SPEAKING" state="RI">
+<name type="parsed">Mr. WHITEHOUSE</name>
+<name type="authority-fnf">Sheldon Whitehouse</name>
+<name type="authority-lnf">Whitehouse, Sheldon</name>
+</congMember>
+<congMember authorityId="1464" bioGuideId="B000575" chamber="S" congress="115" gpoId="8313" party="R" role="SPEAKING" state="MO">
+<name type="parsed">Mr. BLUNT</name>
+<name type="authority-fnf">Roy Blunt</name>
+<name type="authority-lnf">Blunt, Roy</name>
+</congMember>
+<congMember authorityId="1676" bioGuideId="C001047" chamber="S" congress="115" gpoId="8223" party="R" role="SPEAKING" state="WV">
+<name type="parsed">Mrs. CAPITO</name>
+<name type="authority-fnf">Shelley Moore Capito</name>
+<name type="authority-lnf">Capito, Shelley Moore</name>
+<name type="authority-other">Shelley Capito</name>
+</congMember>
+<congMember authorityId="2286" bioGuideId="P000612" chamber="S" congress="115" party="R" role="SPEAKING" state="GA">
+<name type="parsed">Mr. PERDUE</name>
+<name type="authority-fnf">David Perdue</name>
+<name type="authority-lnf">Perdue, David</name>
+<name type="authority-other">Mr. David Alfred Perdue</name>
+</congMember>
+<congMember authorityId="2291" bioGuideId="T000476" chamber="S" congress="115" party="R" role="SPEAKING" state="NC">
+<name type="parsed">Mr. TILLIS</name>
+<name type="authority-fnf">Thom Tillis</name>
+<name type="authority-lnf">Tillis, Thom</name>
+<name type="authority-other">Mr. Thomas Roland Tillis</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1519  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1519</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1519  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1519</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3354  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3354</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3354  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3354</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee19703d923" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 155</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-27/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-27/pdf/CREC-2017-09-27.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H7537</start>
+<end>H7589</end>
+</extent>
+<extent unit="pages">
+<start>S6159</start>
+<end>S6192</end>
+</extent>
+<extent unit="pages">
+<start>E1273</start>
+<end>E1282</end>
+</extent>
+<extent unit="pages">
+<start>D1015</start>
+<end>D1020</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-09-27</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>206 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-09-27</identifier>
+<identifier type="local">P0b002ee19703d923</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr27se17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-09-28</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-09-28</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-09-27</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-09-27</accessId>
+<volume>163</volume>
+<issue>155</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

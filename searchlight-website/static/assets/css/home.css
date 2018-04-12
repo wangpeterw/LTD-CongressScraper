@@ -25,37 +25,6 @@ ltd-darkblue #1B3949*/
 	font-family: 'Lato', sans-serif;
 }
 
-/*.nav a {
-	color: #34393A;
-	text-transform: uppercase;
-	font-family: ‘Merriweather’;
-	font-weight: 700;
-	font-size: 17px;
-	line-height: 1.3em/22px;
-}
-
-.nav .navboxes-left {
-	margin-bottom: 0;
-	padding-left: 0;
-}
-
-.nav .navboxes-right {
-	margin-bottom: 0;
-	padding-right: 0;
-}
-
-.nav .navboxes-left li {
-	padding-top: 12px;
-	display: inline;
-	padding-right: 48;
-}
-
-.nav .navboxes-right li {
-	padding-top: 12px;
-	display: inline;
-	padding-left: 48;
-}*/
-
 .home {
 	margin-top: 55px;
 	font-size: 100;
@@ -95,10 +64,70 @@ ltd-darkblue #1B3949*/
 	top: 13vh;
 }
 
-.home .querybutton {
+.home .querybutton p {
 	position: relative;
-	font-size: 50;
+	font-size: 60;
 	color: #AFD9D3;
 	left: 8vw;
 	top: 13vh;
 }
+
+.query-button {
+	text-align: center;
+	position: relative;
+	left: 8vw;
+	top: 18vh;
+	font-family: 'Black Han Sans', sans-serif;
+	font-size: 36px;
+	height: 80px;
+	width: 240px;
+	background-color: #AFD9D3;
+	color: white;
+	border-radius: 10px;
+
+/*	margin-top: 50px;
+	padding: 20px 40px;*/
+}
+
+.query-button a {
+	position: relative;
+	top: 20px;
+	color: #34393A;
+}
+
+.query-button :hover {
+	text-decoration: none;
+	color: #F2F2F2;
+	cursor: pointer;
+}
+
+/*.nav a {
+	color: #34393A;
+	text-transform: uppercase;
+	font-family: ‘Merriweather’;
+	font-weight: 700;
+	font-size: 17px;
+	line-height: 1.3em/22px;
+}
+
+.nav .navboxes-left {
+	margin-bottom: 0;
+	padding-left: 0;
+}
+
+.nav .navboxes-right {
+	margin-bottom: 0;
+	padding-right: 0;
+}
+
+.nav .navboxes-left li {
+	padding-top: 12px;
+	display: inline;
+	padding-right: 48;
+}
+
+.nav .navboxes-right li {
+	padding-top: 12px;
+	display: inline;
+	padding-left: 48;
+}*/

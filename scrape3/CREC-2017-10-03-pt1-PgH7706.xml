@@ -1,0 +1,263 @@
+<mods ID="id-CREC-2017-10-03-pt1-PgH7706" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-01-27</dateIngested>
+</extension>
+<titleInfo>
+<title>PROVIDING RESOURCES, OFFICERS, AND TECHNOLOGY TO ERADICATE CYBER THREATS TO OUR CHILDREN ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-10-03/html/CREC-2017-10-03-pt1-PgH7706.htm">
+<identifier type="FDsys Unique ID">D09002ee19822198c</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-10-03/pdf/CREC-2017-10-03-pt1-PgH7706.pdf">
+<identifier type="FDsys Unique ID">D09002ee198221a52</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H7706</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-10-03/CREC-2017-10-03-pt1-PgH7706</identifier>
+<identifier type="former granule identifier">CR03OC17-104</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-10-03/CREC-2017-10-03-pt1-PgH7706/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-03/pdf/CREC-2017-10-03-pt1-PgH7706.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-03/html/CREC-2017-10-03-pt1-PgH7706.htm</url>
+</location>
+<physicalDescription>
+<extent>4 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H7706</start>
+<end>H7709</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Bob Goodlatte</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheila Jackson Lee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Conyers, Jr.</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Debbie Wasserman Schultz</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H7706</identifier>
+<extension>
+<searchTitle>PROVIDING RESOURCES, OFFICERS, AND TECHNOLOGY TO ERADICATE CYBER THREATS TO OUR CHILDREN ACT OF 2017; Congressional Record Vol. 163, No. 158</searchTitle>
+<associatedBills>S. 782, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-10-03-pt1-PgH7706</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-10-03</granuleDate>
+<time from="15:15:00" to="15:45:00"/>
+<bill congress="115" context="HEADERLINE" number="782" type="S"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="782" type="S"/>
+<bill congress="115" context="OTHER" number="782" type="S"/>
+<bill congress="115" context="OTHER" number="1738" type="S"/>
+<bill congress="115" context="OTHER" number="3845" type="HR"/>
+<congMember authorityId="446" bioGuideId="G000289" chamber="H" congress="115" gpoId="8197" party="R" role="SPEAKING" state="VA">
+<name type="parsed">Mr. GOODLATTE</name>
+<name type="authority-fnf">Bob Goodlatte</name>
+<name type="authority-lnf">Goodlatte, Bob</name>
+<name type="authority-other">Robert Goodlatte</name>
+</congMember>
+<congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="115" gpoId="8174" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Ms. JACKSON LEE</name>
+<name type="authority-fnf">Sheila Jackson Lee</name>
+<name type="authority-lnf">Jackson Lee, Sheila</name>
+</congMember>
+<congMember authorityId="229" bioGuideId="C000714" chamber="H" congress="115" gpoId="7999" party="D" role="SPEAKING" state="MI">
+<name type="parsed">Mr. CONYERS</name>
+<name type="authority-fnf">John Conyers, Jr.</name>
+<name type="authority-lnf">Conyers, John, Jr.</name>
+<name type="authority-other">John Conyers Jr.</name>
+</congMember>
+<congMember authorityId="1777" bioGuideId="W000797" chamber="H" congress="115" gpoId="7892" party="D" role="SPEAKING" state="FL">
+<name type="parsed">Ms. WASSERMAN SCHULTZ</name>
+<name type="authority-fnf">Debbie Wasserman Schultz</name>
+<name type="authority-lnf">Wasserman Schultz, Debbie</name>
+</congMember>
+<USCode title="42">
+<section detail="et seq." number="17601"/>
+<section detail="(a)(10)" number="17617"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 782  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 782</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 782  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 782</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 782  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 782</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1738  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1738</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3845  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3845</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 17601et seq.</partNumber>
+<partNumber>Title 42 Section 17617(a)(10)</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 17601et seq.</identifier>
+<identifier type="USC citation">42 U.S.C. 17617(a)(10)</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee19822026b" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 158</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-03/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-03/pdf/CREC-2017-10-03.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H7675</start>
+<end>H7752</end>
+</extent>
+<extent unit="pages">
+<start>S6267</start>
+<end>S6292</end>
+</extent>
+<extent unit="pages">
+<start>E1309</start>
+<end>E1318</end>
+</extent>
+<extent unit="pages">
+<start>D1039</start>
+<end>D1048</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-10-03</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>248 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-10-03</identifier>
+<identifier type="local">P0b002ee19822026b</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR03OC17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-01-27</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-01-27</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-10-03</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-10-03</accessId>
+<volume>163</volume>
+<issue>158</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

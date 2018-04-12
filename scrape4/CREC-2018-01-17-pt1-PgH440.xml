@@ -1,0 +1,486 @@
+<mods ID="id-CREC-2018-01-17-pt1-PgH440" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-01-18</dateIngested>
+</extension>
+<titleInfo>
+<title>WORLD BANK ACCOUNTABILITY ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-17/html/CREC-2018-01-17-pt1-PgH440.htm">
+<identifier type="FDsys Unique ID">D09002ee1980762d3</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-17/pdf/CREC-2018-01-17-pt1-PgH440.pdf">
+<identifier type="FDsys Unique ID">D09002ee198076369</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. H440</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-01-17/CREC-2018-01-17-pt1-PgH440</identifier>
+<identifier type="former granule identifier">cr17ja18-90</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-01-17/CREC-2018-01-17-pt1-PgH440/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-17/pdf/CREC-2018-01-17-pt1-PgH440.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-17/html/CREC-2018-01-17-pt1-PgH440.htm</url>
+</location>
+<physicalDescription>
+<extent>13 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H440</start>
+<end>H452</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Jeb Hensarling</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Maxine Waters</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Andy Barr</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Nydia M. Velazquez</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bill Huizenga</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Gregory W. Meeks</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Roger Williams</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bill Foster</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Warren Davidson</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Daniel T. Kildee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>J. French Hill</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ruben J. Kihuen</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ralph Norman</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Gerald E. Connolly</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Financial Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. H440</identifier>
+<extension>
+<searchTitle>WORLD BANK ACCOUNTABILITY ACT OF 2017; Congressional Record Vol. 164, No. 10</searchTitle>
+<associatedBills>H.R. 3326, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2018-01-17-pt1-PgH440</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2018-01-17</granuleDate>
+<time from="14:45:00" to="16:15:00"/>
+<congReport congress="115" context="OTHER" number="518" type="H"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="1"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="2"/>
+<amendment chamber="HOUSE" congress="115" context="HEADERLINE" number="3"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="1"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="1"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="2"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="2"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="3"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="3"/>
+<bill congress="115" context="OTHER" number="693" type="HRES"/>
+<bill congress="115" context="HEADERLINE" number="3326" type="HR"/>
+<bill congress="115" context="OTHER" number="3326" type="HR"/>
+<congCommittee authorityId="hsba00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Financial Services</name>
+<name type="authority-short">Financial Services</name>
+</congCommittee>
+<congMember authorityId="1749" bioGuideId="H001036" chamber="H" congress="115" gpoId="8161" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. HENSARLING</name>
+<name type="authority-fnf">Jeb Hensarling</name>
+<name type="authority-lnf">Hensarling, Jeb</name>
+</congMember>
+<congMember authorityId="1205" bioGuideId="W000187" chamber="H" congress="115" gpoId="7840" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. MAXINE WATERS of California</name>
+<name type="authority-fnf">Maxine Waters</name>
+<name type="authority-lnf">Waters, Maxine</name>
+</congMember>
+<congMember authorityId="2131" bioGuideId="B001282" chamber="H" congress="115" party="R" role="SPEAKING" state="KY">
+<name type="parsed">Mr. BARR</name>
+<name type="authority-fnf">Andy Barr</name>
+<name type="authority-lnf">Barr, Andy</name>
+</congMember>
+<congMember authorityId="1184" bioGuideId="V000081" chamber="H" congress="115" gpoId="8073" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Ms. VELAZQUEZ</name>
+<name type="authority-fnf">Nydia M. Velazquez</name>
+<name type="authority-lnf">Velazquez, Nydia M.</name>
+<name type="authority-other">Nydia Velazquez</name>
+</congMember>
+<congMember authorityId="2028" bioGuideId="H001058" chamber="H" congress="115" gpoId="7987" party="R" role="SPEAKING" state="MI">
+<name type="parsed">Mr. HUIZENGA</name>
+<name type="authority-fnf">Bill Huizenga</name>
+<name type="authority-lnf">Huizenga, Bill</name>
+</congMember>
+<congMember authorityId="1506" bioGuideId="M001137" chamber="H" congress="115" gpoId="8067" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mr. MEEKS</name>
+<name type="authority-fnf">Gregory W. Meeks</name>
+<name type="authority-lnf">Meeks, Gregory W.</name>
+<name type="authority-other">Gregory Meeks</name>
+</congMember>
+<congMember authorityId="2165" bioGuideId="W000816" chamber="H" congress="115" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. WILLIAMS</name>
+<name type="authority-fnf">Roger Williams</name>
+<name type="authority-lnf">Williams, Roger</name>
+</congMember>
+<congMember authorityId="1888" bioGuideId="F000454" chamber="H" congress="115" gpoId="7355" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Mr. FOSTER</name>
+<name type="authority-fnf">Bill Foster</name>
+<name type="authority-lnf">Foster, Bill</name>
+</congMember>
+<congMember authorityId="2296" bioGuideId="D000626" chamber="H" congress="115" party="R" role="SPEAKING" state="OH">
+<name type="parsed">Mr. DAVIDSON</name>
+<name type="authority-fnf">Warren Davidson</name>
+<name type="authority-lnf">Davidson, Warren</name>
+</congMember>
+<congMember authorityId="2134" bioGuideId="K000380" chamber="H" congress="115" party="D" role="SPEAKING" state="MI">
+<name type="parsed">Mr. KILDEE</name>
+<name type="authority-fnf">Daniel T. Kildee</name>
+<name type="authority-lnf">Kildee, Daniel T.</name>
+<name type="authority-other">Mr. Daniel Kildee</name>
+</congMember>
+<congMember authorityId="2223" bioGuideId="H001072" chamber="H" congress="115" party="R" role="SPEAKING" state="AR">
+<name type="parsed">Mr. HILL</name>
+<name type="authority-fnf">J. French Hill</name>
+<name type="authority-lnf">Hill, J. French</name>
+</congMember>
+<congMember authorityId="2340" bioGuideId="K000390" chamber="H" congress="115" party="D" role="SPEAKING" state="NV">
+<name type="parsed">Mr. KIHUEN</name>
+<name type="authority-fnf">Ruben J. Kihuen</name>
+<name type="authority-lnf">Kihuen, Ruben J.</name>
+<name type="authority-other">Mr. Ruben Kihuen</name>
+</congMember>
+<congMember authorityId="2361" bioGuideId="N000190" chamber="H" congress="115" party="R" role="SPEAKING" state="SC">
+<name type="parsed">Mr. NORMAN</name>
+<name type="authority-fnf">Ralph Norman</name>
+<name type="authority-lnf">Norman, Ralph</name>
+</congMember>
+<congMember authorityId="1959" bioGuideId="C001078" chamber="H" congress="115" gpoId="8202" party="D" role="SPEAKING" state="VA">
+<name type="parsed">Mr. CONNOLLY</name>
+<name type="authority-fnf">Gerald E. Connolly</name>
+<name type="authority-lnf">Connolly, Gerald E.</name>
+<name type="authority-other">Mr. Gerald Connolly</name>
+</congMember>
+<law congress="114" isPrivate="false" number="122"/>
+<USCode title="8">
+<section number="1375c"/>
+</USCode>
+<USCode title="22">
+<section detail="et seq." number="284"/>
+<section detail="et seq." number="286"/>
+<section number="9202"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 693  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 693</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3326  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3326</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3326  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3326</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 8 Section 1375c</partNumber>
+</titleInfo>
+<identifier type="USC citation">8 U.S.C. 1375c</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 22 Section 284et seq.</partNumber>
+<partNumber>Title 22 Section 286et seq.</partNumber>
+<partNumber>Title 22 Section 9202</partNumber>
+</titleInfo>
+<identifier type="USC citation">22 U.S.C. 284et seq.</identifier>
+<identifier type="USC citation">22 U.S.C. 286et seq.</identifier>
+<identifier type="USC citation">22 U.S.C. 9202</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 114-122</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-122</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 115-518</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 2</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 3</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 2</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 2</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 3</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 3</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem ID="P0b002ee19806992c" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 10</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-17/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-17/pdf/CREC-2018-01-17.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H415</start>
+<end>H478</end>
+</extent>
+<extent unit="pages">
+<start>S213</start>
+<end>S264</end>
+</extent>
+<extent unit="pages">
+<start>E51</start>
+<end>E56</end>
+</extent>
+<extent unit="pages">
+<start>D46</start>
+<end>D54</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-01-17</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>262 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-17</identifier>
+<identifier type="local">P0b002ee19806992c</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr17ja18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-01-18</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-01-18</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-01-17</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-01-17</accessId>
+<volume>164</volume>
+<issue>10</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

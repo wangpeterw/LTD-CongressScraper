@@ -1,0 +1,376 @@
+<mods ID="id-CREC-2018-02-14-pt1-PgH1147-4" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-02-15</dateIngested>
+</extension>
+<titleInfo>
+<title>PROTECTING CONSUMERS' ACCESS TO CREDIT ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-02-14/html/CREC-2018-02-14-pt1-PgH1147-4.htm">
+<identifier type="FDsys Unique ID">D09002ee19872d191</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-02-14/pdf/CREC-2018-02-14-pt1-PgH1147-4.pdf">
+<identifier type="FDsys Unique ID">D09002ee19872d329</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. H1147</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-02-14/CREC-2018-02-14-pt1-PgH1147-4</identifier>
+<identifier type="former granule identifier">cr14fe18-87</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-02-14/CREC-2018-02-14-pt1-PgH1147-4/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-14/pdf/CREC-2018-02-14-pt1-PgH1147-4.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-14/html/CREC-2018-02-14-pt1-PgH1147-4.htm</url>
+</location>
+<physicalDescription>
+<extent>9 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H1147</start>
+<end>H1155</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Jeb Hensarling</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Maxine Waters</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Patrick T. McHenry</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ro Khanna</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Keith J. Rothfus</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Robert Pittenger</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Carolyn B. Maloney</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Scott R. Tipton</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tom Emmer</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>David A. Trott</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ted Budd</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Trey Hollingsworth</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. H1147</identifier>
+<extension>
+<searchTitle>PROTECTING CONSUMERS' ACCESS TO CREDIT ACT OF 2017; Congressional Record Vol. 164, No. 29</searchTitle>
+<associatedBills>H.R. 3299, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2018-02-14-pt1-PgH1147-4</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2018-02-14</granuleDate>
+<time from="14:05:00" to="15:00:00"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="736" type="HRES"/>
+<bill congress="115" context="OTHER" number="736" type="HRES"/>
+<bill congress="115" context="HEADERLINE" number="3299" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="3299" type="HR"/>
+<bill congress="115" context="OTHER" number="3299" type="HR"/>
+<congMember authorityId="1749" bioGuideId="H001036" chamber="H" congress="115" gpoId="8161" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. HENSARLING</name>
+<name type="authority-fnf">Jeb Hensarling</name>
+<name type="authority-lnf">Hensarling, Jeb</name>
+</congMember>
+<congMember authorityId="1205" bioGuideId="W000187" chamber="H" congress="115" gpoId="7840" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. MAXINE WATERS of California</name>
+<name type="authority-fnf">Maxine Waters</name>
+<name type="authority-lnf">Waters, Maxine</name>
+</congMember>
+<congMember authorityId="1792" bioGuideId="M001156" chamber="H" congress="115" gpoId="8033" party="R" role="SPEAKING" state="NC">
+<name type="parsed">Mr. McHENRY</name>
+<name type="authority-fnf">Patrick T. McHenry</name>
+<name type="authority-lnf">McHenry, Patrick T.</name>
+<name type="authority-other">Mr. Patrick Mchenry</name>
+</congMember>
+<congMember authorityId="2308" bioGuideId="K000389" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. KHANNA</name>
+<name type="authority-fnf">Ro Khanna</name>
+<name type="authority-lnf">Khanna, Ro</name>
+</congMember>
+<congMember authorityId="2158" bioGuideId="R000598" chamber="H" congress="115" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. ROTHFUS</name>
+<name type="authority-fnf">Keith J. Rothfus</name>
+<name type="authority-lnf">Rothfus, Keith J.</name>
+<name type="authority-other">Mr. Keith Rothfus</name>
+</congMember>
+<congMember authorityId="2141" bioGuideId="P000606" chamber="H" congress="115" party="R" role="SPEAKING" state="NC">
+<name type="parsed">Mr. PITTENGER</name>
+<name type="authority-fnf">Robert Pittenger</name>
+<name type="authority-lnf">Pittenger, Robert</name>
+</congMember>
+<congMember authorityId="729" bioGuideId="M000087" chamber="H" congress="115" gpoId="8075" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mrs. CAROLYN B. MALONEY of New York</name>
+<name type="authority-fnf">Carolyn B. Maloney</name>
+<name type="authority-lnf">Maloney, Carolyn B.</name>
+<name type="authority-other">Carolyn Maloney</name>
+</congMember>
+<congMember authorityId="1997" bioGuideId="T000470" chamber="H" congress="115" gpoId="7861" party="R" role="SPEAKING" state="CO">
+<name type="parsed">Mr. TIPTON</name>
+<name type="authority-fnf">Scott R. Tipton</name>
+<name type="authority-lnf">Tipton, Scott R.</name>
+<name type="authority-other">Mr. Scott Tipton</name>
+</congMember>
+<congMember authorityId="2253" bioGuideId="E000294" chamber="H" congress="115" party="R" role="SPEAKING" state="MN">
+<name type="parsed">Mr. EMMER</name>
+<name type="authority-fnf">Tom Emmer</name>
+<name type="authority-lnf">Emmer, Tom</name>
+</congMember>
+<congMember authorityId="2250" bioGuideId="T000475" chamber="H" congress="115" party="R" role="SPEAKING" state="MI">
+<name type="parsed">Mr. TROTT</name>
+<name type="authority-fnf">David A. Trott</name>
+<name type="authority-lnf">Trott, David A.</name>
+<name type="authority-other">Mr. David Trott</name>
+</congMember>
+<congMember authorityId="2336" bioGuideId="B001305" chamber="H" congress="115" party="R" role="SPEAKING" state="NC">
+<name type="parsed">Mr. BUDD</name>
+<name type="authority-fnf">Ted Budd</name>
+<name type="authority-lnf">Budd, Ted</name>
+</congMember>
+<congMember authorityId="2327" bioGuideId="H001074" chamber="H" congress="115" party="R" role="SPEAKING" state="IN">
+<name type="parsed">Mr. HOLLINGSWORTH</name>
+<name type="authority-fnf">Trey Hollingsworth</name>
+<name type="authority-lnf">Hollingsworth, Trey</name>
+</congMember>
+<USCode title="12">
+<section detail="(g)" number="1463"/>
+<section detail="(g)" number="1785"/>
+<section number="1831d"/>
+<section number="85"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 736  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 736</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 736  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 736</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3299  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3299</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3299  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3299</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3299  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3299</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 12 Section 1463(g)</partNumber>
+<partNumber>Title 12 Section 1785(g)</partNumber>
+<partNumber>Title 12 Section 1831d</partNumber>
+<partNumber>Title 12 Section 85</partNumber>
+</titleInfo>
+<identifier type="USC citation">12 U.S.C. 1463(g)</identifier>
+<identifier type="USC citation">12 U.S.C. 1785(g)</identifier>
+<identifier type="USC citation">12 U.S.C. 1831d</identifier>
+<identifier type="USC citation">12 U.S.C. 85</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee198720ea1" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 29</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-14/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-14/pdf/CREC-2018-02-14.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H1129</start>
+<end>H1179</end>
+</extent>
+<extent unit="pages">
+<start>S929</start>
+<end>S1130</end>
+</extent>
+<extent unit="pages">
+<start>E181</start>
+<end>E189</end>
+</extent>
+<extent unit="pages">
+<start>D162</start>
+<end>D170</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-02-14</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>542 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-14</identifier>
+<identifier type="local">P0b002ee198720ea1</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr14fe18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-02-15</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-02-15</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-02-14</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-02-14</accessId>
+<volume>164</volume>
+<issue>29</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

@@ -1,0 +1,416 @@
+<mods ID="id-CREC-2018-01-11-pt1-PgS154" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-01-12</dateIngested>
+</extension>
+<titleInfo>
+<title>RAPID DNA ACT OF 2017</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-11/html/CREC-2018-01-11-pt1-PgS154.htm">
+<identifier type="FDsys Unique ID">D09002ee197fc0854</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-11/pdf/CREC-2018-01-11-pt1-PgS154.pdf">
+<identifier type="FDsys Unique ID">D09002ee197fc08ed</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. S154</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-01-11/CREC-2018-01-11-pt1-PgS154</identifier>
+<identifier type="former granule identifier">cr11ja18-114</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-01-11/CREC-2018-01-11-pt1-PgS154/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-11/pdf/CREC-2018-01-11-pt1-PgS154.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-11/html/CREC-2018-01-11-pt1-PgS154.htm</url>
+</location>
+<physicalDescription>
+<extent>12 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S154</start>
+<end>S165</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Mitch McConnell</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Benjamin L. Cardin</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Orrin G. Hatch</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Rob Portman</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>David Perdue</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mazie K. Hirono</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Dan Sullivan</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Christopher S. Murphy</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Judiciary</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart/>
+<namePart>Joint Committee on Taxation</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. S154</identifier>
+<extension>
+<searchTitle>RAPID DNA ACT OF 2017; Congressional Record Vol. 164, No. 7</searchTitle>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2018-01-11-pt1-PgS154</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2018-01-11</granuleDate>
+<amendment chamber="SENATE" congress="115" context="HEADERLINE" number="1870"/>
+<amendment chamber="SENATE" congress="115" context="HEADERLINE" number="1871"/>
+<amendment chamber="SENATE" congress="115" context="HEADERLINE" number="1870"/>
+<amendment chamber="SENATE" congress="115" context="HEADERLINE" number="1872"/>
+<amendment chamber="SENATE" congress="115" context="HEADERLINE" number="1873"/>
+<amendment chamber="SENATE" congress="115" context="HEADERLINE" number="1874"/>
+<amendment chamber="SENATE" congress="115" context="HEADERLINE" number="1873"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1870"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1871"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1870"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1870"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1872"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1873"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1874"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1873"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1873"/>
+<bill congress="115" context="OTHER" number="139" type="S"/>
+<congCommittee authorityId="ssju00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Judiciary</name>
+<name type="authority-short">Judiciary</name>
+</congCommittee>
+<congCommittee authorityId="jstx00" chamber="J" congress="115" type="J">
+<name type="authority-standard">Joint Committee on Taxation</name>
+<name type="authority-short">Joint Taxation</name>
+</congCommittee>
+<congMember authorityId="1395" bioGuideId="M000355" chamber="S" congress="115" gpoId="8254" party="R" role="SPEAKING" state="KY">
+<name type="parsed">Mr. McCONNELL</name>
+<name type="authority-fnf">Mitch McConnell</name>
+<name type="authority-lnf">McConnell, Mitch</name>
+</congMember>
+<congMember authorityId="174" bioGuideId="C000141" chamber="S" congress="115" gpoId="8287" party="D" role="SPEAKING" state="MD">
+<name type="parsed">Mr. CARDIN</name>
+<name type="authority-fnf">Benjamin L. Cardin</name>
+<name type="authority-lnf">Cardin, Benjamin L.</name>
+<name type="authority-other">Benjamin Cardin</name>
+</congMember>
+<congMember authorityId="1351" bioGuideId="H000338" chamber="S" congress="115" gpoId="8314" party="R" role="SPEAKING" state="UT">
+<name type="parsed">Mr. HATCH</name>
+<name type="authority-fnf">Orrin G. Hatch</name>
+<name type="authority-lnf">Hatch, Orrin G.</name>
+<name type="authority-other">Orrin Grant Hatch</name>
+</congMember>
+<congMember authorityId="924" bioGuideId="P000449" chamber="S" congress="115" gpoId="8266" party="R" role="SPEAKING" state="OH">
+<name type="parsed">Mr. PORTMAN</name>
+<name type="authority-fnf">Rob Portman</name>
+<name type="authority-lnf">Portman, Rob</name>
+</congMember>
+<congMember authorityId="2286" bioGuideId="P000612" chamber="S" congress="115" party="R" role="SPEAKING" state="GA">
+<name type="parsed">Mr. PERDUE</name>
+<name type="authority-fnf">David Perdue</name>
+<name type="authority-lnf">Perdue, David</name>
+<name type="authority-other">Mr. David Alfred Perdue</name>
+</congMember>
+<congMember authorityId="1844" bioGuideId="H001042" chamber="S" congress="115" gpoId="7913" party="D" role="SPEAKING" state="HI">
+<name type="parsed">Ms. HIRONO</name>
+<name type="authority-fnf">Mazie K. Hirono</name>
+<name type="authority-lnf">Hirono, Mazie K.</name>
+<name type="authority-other">Ms. Mazie Hirono</name>
+</congMember>
+<congMember authorityId="2290" bioGuideId="S001198" chamber="S" congress="115" party="R" role="SPEAKING" state="AK">
+<name type="parsed">Mr. SULLIVAN</name>
+<name type="authority-fnf">Dan Sullivan</name>
+<name type="authority-lnf">Sullivan, Dan</name>
+</congMember>
+<congMember authorityId="1837" bioGuideId="M001169" chamber="S" congress="115" gpoId="7870" party="D" role="SPEAKING" state="CT">
+<name type="parsed">Mr. MURPHY</name>
+<name type="authority-fnf">Christopher S. Murphy</name>
+<name type="authority-lnf">Murphy, Christopher S.</name>
+<name type="authority-other">Mr. Christopher Murphy</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 139  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 139</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1870</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1871</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1870</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1872</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1873</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1874</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1873</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1870</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1871</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1870</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1870</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1872</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1873</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1874</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1873</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1873</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem ID="P0b002ee197fc095c" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 7</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-11/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-11/pdf/CREC-2018-01-11.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H135</start>
+<end>H170</end>
+</extent>
+<extent unit="pages">
+<start>S143</start>
+<end>S170</end>
+</extent>
+<extent unit="pages">
+<start>E33</start>
+<end>E37</end>
+</extent>
+<extent unit="pages">
+<start>D31</start>
+<end>D34</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-01-11</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>146 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-11</identifier>
+<identifier type="local">P0b002ee197fc095c</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr11ja18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-01-12</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-01-12</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-01-11</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-01-11</accessId>
+<volume>164</volume>
+<issue>7</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

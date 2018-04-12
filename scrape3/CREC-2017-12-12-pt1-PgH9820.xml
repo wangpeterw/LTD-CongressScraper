@@ -1,0 +1,215 @@
+<mods ID="id-CREC-2017-12-12-pt1-PgH9820" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2017_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2017-12-13</dateIngested>
+</extension>
+<titleInfo>
+<title>JAMES C. ``BILLY'' JOHNSON POST OFFICE BUILDING</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-12-12/html/CREC-2017-12-12-pt1-PgH9820.htm">
+<identifier type="FDsys Unique ID">D09002ee197c57afb</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2017-12-12/pdf/CREC-2017-12-12-pt1-PgH9820.pdf">
+<identifier type="FDsys Unique ID">D09002ee197c57b5f</identifier>
+</relatedItem>
+<identifier type="congressional record citation">163 Cong. Rec. H9820</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2017-12-12/CREC-2017-12-12-pt1-PgH9820</identifier>
+<identifier type="former granule identifier">cr12de17-80</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2017-12-12/CREC-2017-12-12-pt1-PgH9820/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-12/pdf/CREC-2017-12-12-pt1-PgH9820.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-12/html/CREC-2017-12-12-pt1-PgH9820.htm</url>
+</location>
+<physicalDescription>
+<extent>2 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H9820</start>
+<end>H9821</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Greg Gianforte</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Frank A. LoBiondo</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Val Butler Demings</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">163 Cong. Rec. H9820</identifier>
+<extension>
+<searchTitle>JAMES C. ``BILLY'' JOHNSON POST OFFICE BUILDING; Congressional Record Vol. 163, No. 202</searchTitle>
+<associatedBills>H.R. 4285, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2017-12-12-pt1-PgH9820</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2017-12-12</granuleDate>
+<time from="15:15:00" to="15:15:00"/>
+<bill congress="115" context="HEADERLINE" number="4285" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="4285" type="HR"/>
+<bill congress="115" context="OTHER" number="4285" type="HR"/>
+<congMember authorityId="2359" bioGuideId="G000584" chamber="H" congress="115" party="R" role="SPEAKING" state="MT">
+<name type="parsed">Mr. GIANFORTE</name>
+<name type="authority-fnf">Greg Gianforte</name>
+<name type="authority-lnf">Gianforte, Greg</name>
+</congMember>
+<congMember authorityId="699" bioGuideId="L000554" chamber="H" congress="115" gpoId="8044" party="R" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. LoBIONDO</name>
+<name type="authority-fnf">Frank A. LoBiondo</name>
+<name type="authority-lnf">LoBiondo, Frank A.</name>
+<name type="authority-other">Frank Lobiondo</name>
+</congMember>
+<congMember authorityId="2320" bioGuideId="D000627" chamber="H" congress="115" party="D" role="SPEAKING" state="FL">
+<name type="parsed">Mrs. DEMINGS</name>
+<name type="authority-fnf">Val Butler Demings</name>
+<name type="authority-lnf">Demings, Val Butler</name>
+<name type="authority-other">Mrs. Val Demings</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4285  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4285</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4285  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4285</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4285  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4285</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee197c56387" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 163, no. 202</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-12/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-12/pdf/CREC-2017-12-12.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H9791</start>
+<end>H9846</end>
+</extent>
+<extent unit="pages">
+<start>S7949</start>
+<end>S7978</end>
+</extent>
+<extent unit="pages">
+<start>E1685</start>
+<end>E1690</end>
+</extent>
+<extent unit="pages">
+<start>D1309</start>
+<end>D1318</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2017-12-12</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>204 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2017-12-12</identifier>
+<identifier type="local">P0b002ee197c56387</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr12de17</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2017-12-13</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2017-12-13</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2017-12-12</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2017-12-12</accessId>
+<volume>163</volume>
+<issue>202</issue>
+<congress>115</congress>
+<session>1</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

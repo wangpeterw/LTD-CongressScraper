@@ -1,0 +1,546 @@
+<mods ID="id-CREC-2018-02-08-pt1-PgS799" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-02-09</dateIngested>
+</extension>
+<titleInfo>
+<title>HONORING HOMETOWN HEROES ACT</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-02-08/html/CREC-2018-02-08-pt1-PgS799.htm">
+<identifier type="FDsys Unique ID">D09002ee1985ed5e0</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-02-08/pdf/CREC-2018-02-08-pt1-PgS799.pdf">
+<identifier type="FDsys Unique ID">D09002ee1985ed629</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. S799</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-02-08/CREC-2018-02-08-pt1-PgS799</identifier>
+<identifier type="former granule identifier">cr08fe18-123</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-02-08/CREC-2018-02-08-pt1-PgS799/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-08/pdf/CREC-2018-02-08-pt1-PgS799.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-08/html/CREC-2018-02-08-pt1-PgS799.htm</url>
+</location>
+<physicalDescription>
+<extent>40 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S799</start>
+<end>S838</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Mitch McConnell</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Orrin G. Hatch</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheldon Whitehouse</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Roger F. Wicker</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Dan Sullivan</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Robert P. Casey Jr.</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jeff Flake</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Richard Durbin</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mike Rounds</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Patrick J. Leahy</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Cornyn</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Gary C. Peters</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Steve Daines</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Rob Portman</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mike Lee</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bill Cassidy</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Thad Cochran</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Charles E. Schumer</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Rand Paul</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Lindsey Graham</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Thom Tillis</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Angus S. King Jr.</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Appropriations</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. S799</identifier>
+<extension>
+<searchTitle>HONORING HOMETOWN HEROES ACT; Congressional Record Vol. 164, No. 25</searchTitle>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2018-02-08-pt1-PgS799</accessId>
+<subGranuleClass>HONORING</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2018-02-08</granuleDate>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1930"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1931"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1930"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1932"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1933"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1932"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1934"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1933"/>
+<bill congress="115" context="OTHER" number="1129" type="S"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="1892" type="HR"/>
+<bill congress="115" context="OTHER" number="1892" type="HR"/>
+<congCommittee authorityId="ssap00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Appropriations</name>
+<name type="authority-short">Appropriations</name>
+</congCommittee>
+<congMember authorityId="1395" bioGuideId="M000355" chamber="S" congress="115" gpoId="8254" party="R" role="SPEAKING" state="KY">
+<name type="parsed">Mr. McCONNELL</name>
+<name type="authority-fnf">Mitch McConnell</name>
+<name type="authority-lnf">McConnell, Mitch</name>
+</congMember>
+<congMember authorityId="1351" bioGuideId="H000338" chamber="S" congress="115" gpoId="8314" party="R" role="SPEAKING" state="UT">
+<name type="parsed">Mr. HATCH</name>
+<name type="authority-fnf">Orrin G. Hatch</name>
+<name type="authority-lnf">Hatch, Orrin G.</name>
+<name type="authority-other">Orrin Grant Hatch</name>
+</congMember>
+<congMember authorityId="1823" bioGuideId="W000802" chamber="S" congress="115" gpoId="8264" party="D" role="SPEAKING" state="RI">
+<name type="parsed">Mr. WHITEHOUSE</name>
+<name type="authority-fnf">Sheldon Whitehouse</name>
+<name type="authority-lnf">Whitehouse, Sheldon</name>
+</congMember>
+<congMember authorityId="1226" bioGuideId="W000437" chamber="S" congress="115" gpoId="8263" party="R" role="SPEAKING" state="MS">
+<name type="parsed">Mr. WICKER</name>
+<name type="authority-fnf">Roger F. Wicker</name>
+<name type="authority-lnf">Wicker, Roger F.</name>
+<name type="authority-other">Roger Wicker</name>
+</congMember>
+<congMember authorityId="2290" bioGuideId="S001198" chamber="S" congress="115" party="R" role="SPEAKING" state="AK">
+<name type="parsed">Mr. SULLIVAN</name>
+<name type="authority-fnf">Dan Sullivan</name>
+<name type="authority-lnf">Sullivan, Dan</name>
+</congMember>
+<congMember authorityId="1828" bioGuideId="C001070" chamber="S" congress="115" gpoId="8282" party="D" role="SPEAKING" state="PA">
+<name type="parsed">Mr. CASEY</name>
+<name type="authority-fnf">Robert P. Casey Jr.</name>
+<name type="authority-lnf">Casey, Robert P., Jr.</name>
+<name type="authority-other">Mr. Bob Casey Jr.</name>
+</congMember>
+<congMember authorityId="1633" bioGuideId="F000444" chamber="S" congress="115" gpoId="7803" party="R" role="SPEAKING" state="AZ">
+<name type="parsed">Mr. FLAKE</name>
+<name type="authority-fnf">Jeff Flake</name>
+<name type="authority-lnf">Flake, Jeff</name>
+</congMember>
+<congMember authorityId="326" bioGuideId="D000563" chamber="S" congress="115" gpoId="8326" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Mr. DURBIN</name>
+<name type="authority-fnf">Richard Durbin</name>
+<name type="authority-lnf">Durbin, Richard</name>
+<name type="authority-other">Richard J. Durbin</name>
+</congMember>
+<congMember authorityId="2288" bioGuideId="R000605" chamber="S" congress="115" party="R" role="SPEAKING" state="SD">
+<name type="parsed">Mr. ROUNDS</name>
+<name type="authority-fnf">Mike Rounds</name>
+<name type="authority-lnf">Rounds, Mike</name>
+</congMember>
+<congMember authorityId="1383" bioGuideId="L000174" chamber="S" congress="115" gpoId="8244" party="D" role="SPEAKING" state="VT">
+<name type="parsed">Mr. LEAHY</name>
+<name type="authority-fnf">Patrick J. Leahy</name>
+<name type="authority-lnf">Leahy, Patrick J.</name>
+<name type="authority-other">Patrick Joseph Leahy</name>
+</congMember>
+<congMember authorityId="1692" bioGuideId="C001056" chamber="S" congress="115" gpoId="8295" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. CORNYN</name>
+<name type="authority-fnf">John Cornyn</name>
+<name type="authority-lnf">Cornyn, John</name>
+</congMember>
+<congMember authorityId="1929" bioGuideId="P000595" chamber="S" congress="115" gpoId="7994" party="D" role="SPEAKING" state="MI">
+<name type="parsed">Mr. PETERS</name>
+<name type="authority-fnf">Gary C. Peters</name>
+<name type="authority-lnf">Peters, Gary C.</name>
+<name type="authority-other">Mr. Gary Peters</name>
+</congMember>
+<congMember authorityId="2138" bioGuideId="D000618" chamber="S" congress="115" party="R" role="SPEAKING" state="MT">
+<name type="parsed">Mr. DAINES</name>
+<name type="authority-fnf">Steve Daines</name>
+<name type="authority-lnf">Daines, Steve</name>
+</congMember>
+<congMember authorityId="924" bioGuideId="P000449" chamber="S" congress="115" gpoId="8266" party="R" role="SPEAKING" state="OH">
+<name type="parsed">Mr. PORTMAN</name>
+<name type="authority-fnf">Rob Portman</name>
+<name type="authority-lnf">Portman, Rob</name>
+</congMember>
+<congMember authorityId="2080" bioGuideId="L000577" chamber="S" congress="115" gpoId="8303" party="R" role="SPEAKING" state="UT">
+<name type="parsed">Mr. LEE</name>
+<name type="authority-fnf">Mike Lee</name>
+<name type="authority-lnf">Lee, Mike</name>
+</congMember>
+<congMember authorityId="1925" bioGuideId="C001075" chamber="S" congress="115" gpoId="7964" party="R" role="SPEAKING" state="LA">
+<name type="parsed">Mr. CASSIDY</name>
+<name type="authority-fnf">Bill Cassidy</name>
+<name type="authority-lnf">Cassidy, Bill</name>
+</congMember>
+<congMember authorityId="213" bioGuideId="C000567" chamber="S" congress="115" gpoId="8292" party="R" role="SPEAKING" state="MS">
+<name type="parsed">Mr. COCHRAN</name>
+<name type="authority-fnf">Thad Cochran</name>
+<name type="authority-lnf">Cochran, Thad</name>
+</congMember>
+<congMember authorityId="1036" bioGuideId="S000148" chamber="S" congress="115" gpoId="8279" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mr. SCHUMER</name>
+<name type="authority-fnf">Charles E. Schumer</name>
+<name type="authority-lnf">Schumer, Charles E.</name>
+<name type="authority-other">Charles Schumer</name>
+</congMember>
+<congMember authorityId="2082" bioGuideId="P000603" chamber="S" congress="115" gpoId="8308" party="R" role="SPEAKING" state="KY">
+<name type="parsed">Mr. PAUL</name>
+<name type="authority-fnf">Rand Paul</name>
+<name type="authority-lnf">Paul, Rand</name>
+</congMember>
+<congMember authorityId="452" bioGuideId="G000359" chamber="S" congress="115" gpoId="8335" party="R" role="SPEAKING" state="SC">
+<name type="parsed">Mr. GRAHAM</name>
+<name type="authority-fnf">Lindsey Graham</name>
+<name type="authority-lnf">Graham, Lindsey</name>
+<name type="authority-other">Lindsey O. Graham</name>
+</congMember>
+<congMember authorityId="2291" bioGuideId="T000476" chamber="S" congress="115" party="R" role="SPEAKING" state="NC">
+<name type="parsed">Mr. TILLIS</name>
+<name type="authority-fnf">Thom Tillis</name>
+<name type="authority-lnf">Tillis, Thom</name>
+<name type="authority-other">Mr. Thomas Roland Tillis</name>
+</congMember>
+<congMember authorityId="2185" bioGuideId="K000383" chamber="S" congress="115" party="I" role="SPEAKING" state="ME">
+<name type="parsed">Mr. KING</name>
+<name type="authority-fnf">Angus S. King Jr.</name>
+<name type="authority-lnf">King, Angus S., Jr.</name>
+<name type="authority-other">Mr. Angus King Jr.</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1129  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1129</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1892  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1892</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1892  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1892</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1930</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1931</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1930</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1932</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1933</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1932</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1934</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1933</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem ID="P0b002ee1985ebf22" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 25</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-08/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-08/pdf/CREC-2018-02-08.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H977</start>
+<end>H1076</end>
+</extent>
+<extent unit="pages">
+<start>S793</start>
+<end>S846</end>
+</extent>
+<extent unit="pages">
+<start>E161</start>
+<end>E165</end>
+</extent>
+<extent unit="pages">
+<start>D136</start>
+<end>D140</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-02-08</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>328 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-08</identifier>
+<identifier type="local">P0b002ee1985ebf22</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr08fe18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-02-09</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-02-09</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-02-08</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-02-08</accessId>
+<volume>164</volume>
+<issue>25</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

@@ -1,0 +1,240 @@
+<mods ID="id-CREC-2018-03-22-pt1-PgS1886-4" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-03-28</dateIngested>
+</extension>
+<titleInfo>
+<title>NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2018-- MOTION TO PROCEED</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-03-22/html/CREC-2018-03-22-pt1-PgS1886-4.htm">
+<identifier type="FDsys Unique ID">D09002ee199cf0e41</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-03-22/pdf/CREC-2018-03-22-pt1-PgS1886-4.pdf">
+<identifier type="FDsys Unique ID">D09002ee199cf0f54</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. S1886</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-03-22/CREC-2018-03-22-pt1-PgS1886-4</identifier>
+<identifier type="former granule identifier">CR22MR18-133</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-03-22/CREC-2018-03-22-pt1-PgS1886-4/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-22/pdf/CREC-2018-03-22-pt1-PgS1886-4.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-22/html/CREC-2018-03-22-pt1-PgS1886-4.htm</url>
+</location>
+<physicalDescription>
+<extent>7 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S1886</start>
+<end>S1892</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Mitch McConnell</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Charles E. Schumer</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bob Corker</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Richard Durbin</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mike Lee</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Cornyn</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. S1886</identifier>
+<extension>
+<searchTitle>NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2018-- MOTION TO PROCEED; Congressional Record Vol. 164, No. 50</searchTitle>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2018-03-22-pt1-PgS1886-4</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2018-03-22</granuleDate>
+<bill congress="115" context="FIRSTPARAGRAPH" number="1519" type="S"/>
+<bill congress="115" context="OTHER" number="1519" type="S"/>
+<congMember authorityId="1395" bioGuideId="M000355" chamber="S" congress="115" gpoId="8254" party="R" role="SPEAKING" state="KY">
+<name type="parsed">Mr. McCONNELL</name>
+<name type="authority-fnf">Mitch McConnell</name>
+<name type="authority-lnf">McConnell, Mitch</name>
+</congMember>
+<congMember authorityId="1036" bioGuideId="S000148" chamber="S" congress="115" gpoId="8279" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mr. SCHUMER</name>
+<name type="authority-fnf">Charles E. Schumer</name>
+<name type="authority-lnf">Schumer, Charles E.</name>
+<name type="authority-other">Charles Schumer</name>
+</congMember>
+<congMember authorityId="1825" bioGuideId="C001071" chamber="S" congress="115" gpoId="8294" party="R" role="SPEAKING" state="TN">
+<name type="parsed">Mr. CORKER</name>
+<name type="authority-fnf">Bob Corker</name>
+<name type="authority-lnf">Corker, Bob</name>
+</congMember>
+<congMember authorityId="326" bioGuideId="D000563" chamber="S" congress="115" gpoId="8326" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Mr. DURBIN</name>
+<name type="authority-fnf">Richard Durbin</name>
+<name type="authority-lnf">Durbin, Richard</name>
+<name type="authority-other">Richard J. Durbin</name>
+</congMember>
+<congMember authorityId="2080" bioGuideId="L000577" chamber="S" congress="115" gpoId="8303" party="R" role="SPEAKING" state="UT">
+<name type="parsed">Mr. LEE</name>
+<name type="authority-fnf">Mike Lee</name>
+<name type="authority-lnf">Lee, Mike</name>
+</congMember>
+<congMember authorityId="1692" bioGuideId="C001056" chamber="S" congress="115" gpoId="8295" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. CORNYN</name>
+<name type="authority-fnf">John Cornyn</name>
+<name type="authority-lnf">Cornyn, John</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1519  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1519</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1519  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1519</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee199cef57f" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 50</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-22/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-22/pdf/CREC-2018-03-22.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H1757</start>
+<end>H2901</end>
+</extent>
+<extent unit="pages">
+<start>S1885</start>
+<end>S1984</end>
+</extent>
+<extent unit="pages">
+<start>E359</start>
+<end>E364</end>
+</extent>
+<extent unit="pages">
+<start>D330</start>
+<end>D338</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-03-22</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>2554 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-22</identifier>
+<identifier type="local">P0b002ee199cef57f</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR22MR18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-03-28</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-03-28</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-03-22</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-03-22</accessId>
+<volume>164</volume>
+<issue>50</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>3</bookCount>
+</extension>
+</relatedItem>
+</mods>

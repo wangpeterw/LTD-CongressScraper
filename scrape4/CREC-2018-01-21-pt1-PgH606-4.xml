@@ -1,0 +1,174 @@
+<mods ID="id-CREC-2018-01-21-pt1-PgH606-4" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-01-22</dateIngested>
+</extension>
+<titleInfo>
+<title>REPUBLICANS IN SPIN MODE</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-21/html/CREC-2018-01-21-pt1-PgH606-4.htm">
+<identifier type="FDsys Unique ID">D09002ee1980eaf43</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-21/pdf/CREC-2018-01-21-pt1-PgH606-4.pdf">
+<identifier type="FDsys Unique ID">D09002ee1980eaf97</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. H606</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-01-21/CREC-2018-01-21-pt1-PgH606-4</identifier>
+<identifier type="former granule identifier">cr21ja18-25</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-01-21/CREC-2018-01-21-pt1-PgH606-4/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-21/pdf/CREC-2018-01-21-pt1-PgH606-4.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-21/html/CREC-2018-01-21-pt1-PgH606-4.htm</url>
+</location>
+<physicalDescription>
+<extent>1 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H606</start>
+<end>H606</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Mark Pocan</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. H606</identifier>
+<extension>
+<searchTitle>REPUBLICANS IN SPIN MODE; Congressional Record Vol. 164, No. 14</searchTitle>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2018-01-21-pt1-PgH606-4</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2018-01-21</granuleDate>
+<time from="14:00:00" to="14:00:00"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="4872" type="HR"/>
+<bill congress="115" context="OTHER" number="4872" type="HR"/>
+<congMember authorityId="2171" bioGuideId="P000607" chamber="H" congress="115" party="D" role="SPEAKING" state="WI">
+<name type="parsed">Mr. POCAN</name>
+<name type="authority-fnf">Mark Pocan</name>
+<name type="authority-lnf">Pocan, Mark</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4872  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4872</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4872  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4872</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee1980eae5a" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 14</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-21/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-21/pdf/CREC-2018-01-21.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H605</start>
+<end>H610</end>
+</extent>
+<extent unit="pages">
+<start>S395</start>
+<end>S428</end>
+</extent>
+<extent unit="pages">
+<start>E83</start>
+<end>E83</end>
+</extent>
+<extent unit="pages">
+<start>D74</start>
+<end>D76</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-01-21</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>88 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-21</identifier>
+<identifier type="local">P0b002ee1980eae5a</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr21ja18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-01-22</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-01-22</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-01-21</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-01-21</accessId>
+<volume>164</volume>
+<issue>14</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

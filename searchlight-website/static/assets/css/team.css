@@ -1,9 +1,11 @@
 /*ltd-white #FFFFF3
+F2F2F2
 ltd-grey #34393A
 ltd-blue #2E6171
 ltd-lightblue #AFD9D3
 ltd-darkblue #1B3949*/
 
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Lato|Merriweather|Source+Sans+Pro');
 
 .navbar {
@@ -23,3 +25,26 @@ ltd-darkblue #1B3949*/
 	border: 0;
 	font-family: 'Lato', sans-serif;
 }
+=======
+.navbar {
+	margin-bottom: 0px;
+}
+
+.navbar-brand{
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
+}
+
+.navbar-fixed-top {
+	position: fixed;
+	font-size: 16px;
+	margin-bottom: 55px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
+	border: 0;
+	font-family: 'Lato', sans-serif;
+}
+
+.team {
+	margin-top: 55px;
+}
+>>>>>>> 5b5a26b9c56c40b4e11f7ed251853a3726bda637

@@ -1,0 +1,300 @@
+<mods ID="id-CREC-2018-03-19-pt1-PgH1669" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-03-20</dateIngested>
+</extension>
+<titleInfo>
+<title>SURFACE TRANSPORTATION SECURITY IMPROVEMENT ACT OF 2018</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-03-19/html/CREC-2018-03-19-pt1-PgH1669.htm">
+<identifier type="FDsys Unique ID">D09002ee199b85afb</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-03-19/pdf/CREC-2018-03-19-pt1-PgH1669.pdf">
+<identifier type="FDsys Unique ID">D09002ee199b85b51</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. H1669</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-03-19/CREC-2018-03-19-pt1-PgH1669</identifier>
+<identifier type="former granule identifier">cr19mr18-70</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-03-19/CREC-2018-03-19-pt1-PgH1669/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-19/pdf/CREC-2018-03-19-pt1-PgH1669.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-19/html/CREC-2018-03-19-pt1-PgH1669.htm</url>
+</location>
+<physicalDescription>
+<extent>3 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H1669</start>
+<end>H1671</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Don Bacon</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bonnie Watson Coleman</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheila Jackson Lee</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Homeland Security</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Commerce, Science, and Transportation</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. H1669</identifier>
+<extension>
+<searchTitle>SURFACE TRANSPORTATION SECURITY IMPROVEMENT ACT OF 2018; Congressional Record Vol. 164, No. 47</searchTitle>
+<associatedBills>H.R. 5131, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2018-03-19-pt1-PgH1669</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2018-03-19</granuleDate>
+<time from="16:45:00" to="16:45:00"/>
+<bill congress="115" context="HEADERLINE" number="5131" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="5131" type="HR"/>
+<bill congress="115" context="OTHER" number="5131" type="HR"/>
+<congCommittee authorityId="hshm00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Homeland Security</name>
+<name type="authority-short">Homeland Security</name>
+</congCommittee>
+<congCommittee authorityId="sscm00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Commerce, Science, and Transportation</name>
+<name type="authority-short">Commerce</name>
+</congCommittee>
+<congMember authorityId="2337" bioGuideId="B001298" chamber="H" congress="115" party="R" role="SPEAKING" state="NE">
+<name type="parsed">Mr. BACON</name>
+<name type="authority-fnf">Don Bacon</name>
+<name type="authority-lnf">Bacon, Don</name>
+</congMember>
+<congMember authorityId="2259" bioGuideId="W000822" chamber="H" congress="115" party="D" role="SPEAKING" state="NJ">
+<name type="parsed">Mrs. WATSON COLEMAN</name>
+<name type="authority-fnf">Bonnie Watson Coleman</name>
+<name type="authority-lnf">Watson Coleman, Bonnie</name>
+</congMember>
+<congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="115" gpoId="8174" party="D" role="SPEAKING" state="TX">
+<name type="parsed">Ms. JACKSON LEE</name>
+<name type="authority-fnf">Sheila Jackson Lee</name>
+<name type="authority-lnf">Jackson Lee, Sheila</name>
+</congMember>
+<law congress="110" isPrivate="false" number="53"/>
+<USCode title="6">
+<section detail="(5)" number="1131"/>
+<section number="1134"/>
+<section number="1137"/>
+<section detail="(4)" number="1151"/>
+<section number="1162"/>
+<section number="1167"/>
+<section number="1181"/>
+<section number="1184"/>
+</USCode>
+<USCode title="49">
+<section detail="(s)" number="114"/>
+<section detail="(u)(1)(C)" number="114"/>
+<section detail="(3)" number="20102"/>
+<section number="44946"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 5131  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 5131</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 5131  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 5131</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 5131  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 5131</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 6 Section 1131(5)</partNumber>
+<partNumber>Title 6 Section 1134</partNumber>
+<partNumber>Title 6 Section 1137</partNumber>
+<partNumber>Title 6 Section 1151(4)</partNumber>
+<partNumber>Title 6 Section 1162</partNumber>
+<partNumber>Title 6 Section 1167</partNumber>
+<partNumber>Title 6 Section 1181</partNumber>
+<partNumber>Title 6 Section 1184</partNumber>
+</titleInfo>
+<identifier type="USC citation">6 U.S.C. 1131(5)</identifier>
+<identifier type="USC citation">6 U.S.C. 1134</identifier>
+<identifier type="USC citation">6 U.S.C. 1137</identifier>
+<identifier type="USC citation">6 U.S.C. 1151(4)</identifier>
+<identifier type="USC citation">6 U.S.C. 1162</identifier>
+<identifier type="USC citation">6 U.S.C. 1167</identifier>
+<identifier type="USC citation">6 U.S.C. 1181</identifier>
+<identifier type="USC citation">6 U.S.C. 1184</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 49 Section 114(s)</partNumber>
+<partNumber>Title 49 Section 114(u)(1)(C)</partNumber>
+<partNumber>Title 49 Section 20102(3)</partNumber>
+<partNumber>Title 49 Section 44946</partNumber>
+</titleInfo>
+<identifier type="USC citation">49 U.S.C. 114(s)</identifier>
+<identifier type="USC citation">49 U.S.C. 114(u)(1)(C)</identifier>
+<identifier type="USC citation">49 U.S.C. 20102(3)</identifier>
+<identifier type="USC citation">49 U.S.C. 44946</identifier>
+</relatedItem>
+<relatedItem>
+<titleInfo>
+<title>United States Public Law 110-53</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 110-53</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee199b850c0" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 47</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-19/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-19/pdf/CREC-2018-03-19.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H1655</start>
+<end>H1699</end>
+</extent>
+<extent unit="pages">
+<start>S1773</start>
+<end>S1797</end>
+</extent>
+<extent unit="pages">
+<start>E333</start>
+<end>E339</end>
+</extent>
+<extent unit="pages">
+<start>D300</start>
+<end>D310</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-03-19</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>176 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-19</identifier>
+<identifier type="local">P0b002ee199b850c0</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr19mr18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-03-20</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-03-20</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-03-19</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-03-19</accessId>
+<volume>164</volume>
+<issue>47</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>
