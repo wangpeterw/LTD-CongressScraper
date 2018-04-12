@@ -52,7 +52,26 @@ def speakers():
 	"""
 
 	format_ = request.args.get("format", None)
-	speaker = request.args.get("name", "")
+
+	num_get_requests = 0
+
+	speaker_firstname_raw = request.args.get("firstname", "")
+	speaker = request.args.get("surname", "")
+
+	speaker_surname = speaker.upper()
+	try:
+		speaker_firstname = first_name_format(speaker_firstname_raw)
+		print(speaker_firstname)
+	except:
+		speaker_firstname = speaker_firstname_raw
+
+	district_query = request.args.get("district", "")
+	state_query = request.args.get("state", "")
+	party_query = request.args.get("party", "")
+	type_query = request.args.get("type", "")
+
+	month = request.args.get("month", "")
+	day = request.args.get("day", "")
 	year = request.args.get("year", "")
 
 	connection = sqlite3.connect("mydatabase.sqlite")
@@ -114,8 +133,18 @@ def speakers():
 		years = [x for x in range(2018, 1995, -1)]
 		months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 		days = [x for x in range(1, 32)]
+		parties = ['R', 'D', 'I']
+		states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DC", "DE", "FL", "GA", 
+		"HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", 
+		"MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", 
+		"NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", 
+		"SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"]
+		districts = [x for x in range(1, 436)]
+		types = ['SENATOR', 'REPRESENTATIVE', 'DELEGATE']
 		selected_year = int(year) if year else None
-		return flask.render_template('speaker.html', records=records, no_of_records=no_of_records[0]['count'], speaker=speaker, years=years, months=months, days=days, selected_year=selected_year)
+		return flask.render_template('speaker.html', records=records, no_of_records=no_of_records[0]['count'], 
+			speaker=speaker, years=years, months=months, days=days, states=states, parties=parties, districts=districts,
+			types=types, selected_year=selected_year)
 
 ########################################################################
 # The following are helper functions. They do not have a @app.route decorator
@@ -146,6 +175,11 @@ def download_csv(data, filename):
 				 attachment_filename=filename,
 				 as_attachment=True)
 
+def first_name_format(name):
+	first_char = name[0]
+	rest_name = name[1:]
+	return first_char.upper() + rest_name.lower() 
+# function to make first name Rubio
 
 if __name__ == '__main__':
 	app.debug=True
