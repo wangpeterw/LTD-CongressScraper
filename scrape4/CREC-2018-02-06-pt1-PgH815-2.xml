@@ -1,0 +1,359 @@
+<mods ID="id-CREC-2018-02-06-pt1-PgH815-2" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-02-08</dateIngested>
+</extension>
+<titleInfo>
+<title>COMMON SENSE NUTRITION DISCLOSURE ACT OF 2017</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-02-06/html/CREC-2018-02-06-pt1-PgH815-2.htm">
+<identifier type="FDsys Unique ID">D09002ee1985b2b9d</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-02-06/pdf/CREC-2018-02-06-pt1-PgH815-2.pdf">
+<identifier type="FDsys Unique ID">D09002ee1985b2c42</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. H815</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-02-06/CREC-2018-02-06-pt1-PgH815-2</identifier>
+<identifier type="former granule identifier">CR06FE18-81</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-02-06/CREC-2018-02-06-pt1-PgH815-2/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-06/pdf/CREC-2018-02-06-pt1-PgH815-2.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-06/html/CREC-2018-02-06-pt1-PgH815-2.htm</url>
+</location>
+<physicalDescription>
+<extent>7 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H815</start>
+<end>H821</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Fred Upton</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Janice D. Schakowsky</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tim Walberg</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Rosa L. DeLauro</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Cathy McMorris Rodgers</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Eliot L. Engel</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Earl L. "Buddy" Carter</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tony Cardenas</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Frank Pallone, Jr.</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mark DeSaulnier</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Energy and Commerce</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. H815</identifier>
+<extension>
+<searchTitle>COMMON SENSE NUTRITION DISCLOSURE ACT OF 2017; Congressional Record Vol. 164, No. 23</searchTitle>
+<associatedBills>H.R. 772, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2018-02-06-pt1-PgH815-2</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2018-02-06</granuleDate>
+<time from="12:30:00" to="13:30:00"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="725" type="HRES"/>
+<bill congress="115" context="OTHER" number="725" type="HRES"/>
+<bill congress="115" context="HEADERLINE" number="772" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="772" type="HR"/>
+<bill congress="115" context="OTHER" number="772" type="HR"/>
+<congCommittee authorityId="hsif00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Energy and Commerce</name>
+<name type="authority-short">Energy and Commerce</name>
+</congCommittee>
+<congMember authorityId="1177" bioGuideId="U000031" chamber="H" congress="115" gpoId="7991" party="R" role="SPEAKING" state="MI">
+<name type="parsed">Mr. UPTON</name>
+<name type="authority-fnf">Fred Upton</name>
+<name type="authority-lnf">Upton, Fred</name>
+</congMember>
+<congMember authorityId="1588" bioGuideId="S001145" chamber="H" congress="115" gpoId="7929" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Ms. SCHAKOWSKY</name>
+<name type="authority-fnf">Janice D. Schakowsky</name>
+<name type="authority-lnf">Schakowsky, Janice D.</name>
+<name type="authority-other">Janice Schakowsky</name>
+</congMember>
+<congMember authorityId="1855" bioGuideId="W000798" chamber="H" congress="115" gpoId="7992" party="R" role="SPEAKING" state="MI">
+<name type="parsed">Mr. WALBERG</name>
+<name type="authority-fnf">Tim Walberg</name>
+<name type="authority-lnf">Walberg, Tim</name>
+</congMember>
+<congMember authorityId="281" bioGuideId="D000216" chamber="H" congress="115" gpoId="7868" party="D" role="SPEAKING" state="CT">
+<name type="parsed">Ms. DeLAURO</name>
+<name type="authority-fnf">Rosa L. DeLauro</name>
+<name type="authority-lnf">DeLauro, Rosa L.</name>
+<name type="authority-other">Rosa Delauro</name>
+</congMember>
+<congMember authorityId="1809" bioGuideId="M001159" chamber="H" congress="115" gpoId="8209" party="R" role="SPEAKING" state="WA">
+<name type="parsed">Mrs. McMORRIS RODGERS</name>
+<name type="authority-fnf">Cathy McMorris Rodgers</name>
+<name type="authority-lnf">McMorris Rodgers, Cathy</name>
+</congMember>
+<congMember authorityId="344" bioGuideId="E000179" chamber="H" congress="115" gpoId="8078" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mr. ENGEL</name>
+<name type="authority-fnf">Eliot L. Engel</name>
+<name type="authority-lnf">Engel, Eliot L.</name>
+<name type="authority-other">Eliot Engel</name>
+</congMember>
+<congMember authorityId="2236" bioGuideId="C001103" chamber="H" congress="115" party="R" role="SPEAKING" state="GA">
+<name type="parsed">Mr. CARTER of Georgia</name>
+<name type="authority-fnf">Earl L. "Buddy" Carter</name>
+<name type="authority-lnf">Carter, Earl L. "Buddy"</name>
+<name type="authority-other">Mr. Earl Carter</name>
+</congMember>
+<congMember authorityId="2107" bioGuideId="C001097" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. CARDENAS</name>
+<name type="authority-fnf">Tony Cardenas</name>
+<name type="authority-lnf">Cardenas, Tony</name>
+</congMember>
+<congMember authorityId="887" bioGuideId="P000034" chamber="H" congress="115" gpoId="8048" party="D" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. PALLONE</name>
+<name type="authority-fnf">Frank Pallone, Jr.</name>
+<name type="authority-lnf">Pallone, Frank, Jr.</name>
+<name type="authority-other">Frank Pallone Jr.</name>
+</congMember>
+<congMember authorityId="2227" bioGuideId="D000623" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. DeSAULNIER</name>
+<name type="authority-fnf">Mark DeSaulnier</name>
+<name type="authority-lnf">DeSaulnier, Mark</name>
+</congMember>
+<USCode title="21">
+<section detail="(b)" number="343-1"/>
+<section detail="(q)(5)(H)" number="343"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 725  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 725</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 725  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 725</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 772  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 772</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 772  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 772</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 772  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 772</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 21 Section 343-1(b)</partNumber>
+<partNumber>Title 21 Section 343(q)(5)(H)</partNumber>
+</titleInfo>
+<identifier type="USC citation">21 U.S.C. 343-1(b)</identifier>
+<identifier type="USC citation">21 U.S.C. 343(q)(5)(H)</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee1982b966d" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 23</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-06/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-06/pdf/CREC-2018-02-06.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H787</start>
+<end>H903</end>
+</extent>
+<extent unit="pages">
+<start>S617</start>
+<end>S665</end>
+</extent>
+<extent unit="pages">
+<start>E139</start>
+<end>E148</end>
+</extent>
+<extent unit="pages">
+<start>D121</start>
+<end>D128</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-02-06</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>368 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-06</identifier>
+<identifier type="local">P0b002ee1982b966d</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR06FE18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-02-08</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-02-08</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-02-06</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-02-06</accessId>
+<volume>164</volume>
+<issue>23</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

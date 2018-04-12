@@ -1,0 +1,325 @@
+<mods ID="id-CREC-2018-01-29-pt1-PgH647" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-01-30</dateIngested>
+</extension>
+<titleInfo>
+<title>CLARIFYING ACCEPTANCE OF DONATED MORTGAGE APPRAISALS BY NONPROFIT ORGANIZATIONS</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-29/html/CREC-2018-01-29-pt1-PgH647.htm">
+<identifier type="FDsys Unique ID">D09002ee19825d155</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-29/pdf/CREC-2018-01-29-pt1-PgH647.pdf">
+<identifier type="FDsys Unique ID">D09002ee19825d181</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. H647</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-01-29/CREC-2018-01-29-pt1-PgH647</identifier>
+<identifier type="former granule identifier">cr29ja18-82</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-01-29/CREC-2018-01-29-pt1-PgH647/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-29/pdf/CREC-2018-01-29-pt1-PgH647.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-29/html/CREC-2018-01-29-pt1-PgH647.htm</url>
+</location>
+<physicalDescription>
+<extent>4 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H647</start>
+<end>H650</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Scott R. Tipton</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Nydia M. Velazquez</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Kyrsten Sinema</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>David A. Trott</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ruben J. Kihuen</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bruce Poliquin</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. H647</identifier>
+<extension>
+<searchTitle>CLARIFYING ACCEPTANCE OF DONATED MORTGAGE APPRAISALS BY NONPROFIT ORGANIZATIONS; Congressional Record Vol. 164, No. 19</searchTitle>
+<associatedBills>H.R. 2255, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2018-01-29-pt1-PgH647</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2018-01-29</granuleDate>
+<time from="18:00:00" to="18:15:00"/>
+<bill congress="115" context="HEADERLINE" number="2255" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="2255" type="HR"/>
+<bill congress="115" context="OTHER" number="2255" type="HR"/>
+<bill congress="115" context="OTHER" number="3758" type="HR"/>
+<bill congress="115" context="OTHER" number="4281" type="HR"/>
+<congMember authorityId="1997" bioGuideId="T000470" chamber="H" congress="115" gpoId="7861" party="R" role="SPEAKING" state="CO">
+<name type="parsed">Mr. TIPTON</name>
+<name type="authority-fnf">Scott R. Tipton</name>
+<name type="authority-lnf">Tipton, Scott R.</name>
+<name type="authority-other">Mr. Scott Tipton</name>
+</congMember>
+<congMember authorityId="1184" bioGuideId="V000081" chamber="H" congress="115" gpoId="8073" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Ms. VELAZQUEZ</name>
+<name type="authority-fnf">Nydia M. Velazquez</name>
+<name type="authority-lnf">Velazquez, Nydia M.</name>
+<name type="authority-other">Nydia Velazquez</name>
+</congMember>
+<congMember authorityId="2099" bioGuideId="S001191" chamber="H" congress="115" party="D" role="SPEAKING" state="AZ">
+<name type="parsed">Ms. SINEMA</name>
+<name type="authority-fnf">Kyrsten Sinema</name>
+<name type="authority-lnf">Sinema, Kyrsten</name>
+</congMember>
+<congMember authorityId="2250" bioGuideId="T000475" chamber="H" congress="115" party="R" role="SPEAKING" state="MI">
+<name type="parsed">Mr. TROTT</name>
+<name type="authority-fnf">David A. Trott</name>
+<name type="authority-lnf">Trott, David A.</name>
+<name type="authority-other">Mr. David Trott</name>
+</congMember>
+<congMember authorityId="2340" bioGuideId="K000390" chamber="H" congress="115" party="D" role="SPEAKING" state="NV">
+<name type="parsed">Mr. KIHUEN</name>
+<name type="authority-fnf">Ruben J. Kihuen</name>
+<name type="authority-lnf">Kihuen, Ruben J.</name>
+<name type="authority-other">Mr. Ruben Kihuen</name>
+</congMember>
+<congMember authorityId="2247" bioGuideId="P000611" chamber="H" congress="115" party="R" role="SPEAKING" state="ME">
+<name type="parsed">Mr. POLIQUIN</name>
+<name type="authority-fnf">Bruce Poliquin</name>
+<name type="authority-lnf">Poliquin, Bruce</name>
+</congMember>
+<USCode title="12">
+<section detail="(c)" number="1813"/>
+<section number="3303"/>
+<section number="5301"/>
+</USCode>
+<USCode title="15">
+<section detail="(i)" number="1639e"/>
+<section number="6735"/>
+<section detail="(a)" number="78c"/>
+<section number="78d"/>
+<section number="78o-3"/>
+<section detail="(f)(4)" number="78x"/>
+<section detail="(a)" number="80a-2"/>
+<section detail="(a)" number="80b-2"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2255  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2255</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2255  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2255</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2255  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2255</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3758  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3758</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4281  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4281</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 12 Section 1813(c)</partNumber>
+<partNumber>Title 12 Section 3303</partNumber>
+<partNumber>Title 12 Section 5301</partNumber>
+</titleInfo>
+<identifier type="USC citation">12 U.S.C. 1813(c)</identifier>
+<identifier type="USC citation">12 U.S.C. 3303</identifier>
+<identifier type="USC citation">12 U.S.C. 5301</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 15 Section 1639e(i)</partNumber>
+<partNumber>Title 15 Section 6735</partNumber>
+<partNumber>Title 15 Section 78c(a)</partNumber>
+<partNumber>Title 15 Section 78d</partNumber>
+<partNumber>Title 15 Section 78o-3</partNumber>
+<partNumber>Title 15 Section 78x(f)(4)</partNumber>
+<partNumber>Title 15 Section 80a-2(a)</partNumber>
+<partNumber>Title 15 Section 80b-2(a)</partNumber>
+</titleInfo>
+<identifier type="USC citation">15 U.S.C. 1639e(i)</identifier>
+<identifier type="USC citation">15 U.S.C. 6735</identifier>
+<identifier type="USC citation">15 U.S.C. 78c(a)</identifier>
+<identifier type="USC citation">15 U.S.C. 78d</identifier>
+<identifier type="USC citation">15 U.S.C. 78o-3</identifier>
+<identifier type="USC citation">15 U.S.C. 78x(f)(4)</identifier>
+<identifier type="USC citation">15 U.S.C. 80a-2(a)</identifier>
+<identifier type="USC citation">15 U.S.C. 80b-2(a)</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee19825c895" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 19</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-29/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-29/pdf/CREC-2018-01-29.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H631</start>
+<end>H681</end>
+</extent>
+<extent unit="pages">
+<start>S527</start>
+<end>S556</end>
+</extent>
+<extent unit="pages">
+<start>E101</start>
+<end>E111</end>
+</extent>
+<extent unit="pages">
+<start>D93</start>
+<end>D98</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-01-29</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>196 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-29</identifier>
+<identifier type="local">P0b002ee19825c895</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr29ja18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-01-30</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-01-30</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-01-29</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-01-29</accessId>
+<volume>164</volume>
+<issue>19</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

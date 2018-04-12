@@ -1,0 +1,512 @@
+<mods ID="id-CREC-2018-01-17-pt1-PgH462" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-01-18</dateIngested>
+</extension>
+<titleInfo>
+<title>THE MARCH FOR LIFE</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-17/html/CREC-2018-01-17-pt1-PgH462.htm">
+<identifier type="FDsys Unique ID">D09002ee1980762bd</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-17/pdf/CREC-2018-01-17-pt1-PgH462.pdf">
+<identifier type="FDsys Unique ID">D09002ee198076408</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. H462</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-01-17/CREC-2018-01-17-pt1-PgH462</identifier>
+<identifier type="former granule identifier">cr17ja18-107</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-01-17/CREC-2018-01-17-pt1-PgH462/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-17/pdf/CREC-2018-01-17-pt1-PgH462.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-17/html/CREC-2018-01-17-pt1-PgH462.htm</url>
+</location>
+<physicalDescription>
+<extent>8 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H462</start>
+<end>H469</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Christopher H. Smith</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jackie Walorski</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Robert Pittenger</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Andy Harris</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Virginia Foxx</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tim Walberg</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jim Banks</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mike Kelly</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Evan H. Jenkins</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jack Bergman</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jody B. Hice</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Glenn Grothman</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Garret Graves</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Pete Olson</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Andy Biggs</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ron Estes</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Keith J. Rothfus</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ralph Lee Abraham</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mike Johnson</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Rodney Davis</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Lloyd Smucker</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Glenn Thompson</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Education and the Workforce</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Ways and Means</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Science, Space, and Technology</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Homeland Security</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. H462</identifier>
+<extension>
+<searchTitle>THE MARCH FOR LIFE; Congressional Record Vol. 164, No. 10</searchTitle>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2018-01-17-pt1-PgH462</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2018-01-17</granuleDate>
+<time from="19:00:00" to="20:00:00"/>
+<bill congress="115" context="OTHER" number="490" type="HR"/>
+<bill congress="115" context="OTHER" number="4712" type="HR"/>
+<congCommittee authorityId="hsed00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Education and the Workforce</name>
+<name type="authority-short">Education and the Workforce</name>
+</congCommittee>
+<congCommittee authorityId="hswm00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Ways and Means</name>
+<name type="authority-short">Ways and Means</name>
+</congCommittee>
+<congCommittee authorityId="hssy00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Science, Space, and Technology</name>
+<name type="authority-short">Science, Space, and Technology</name>
+</congCommittee>
+<congCommittee authorityId="hshm00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Homeland Security</name>
+<name type="authority-short">Homeland Security</name>
+</congCommittee>
+<congMember authorityId="1071" bioGuideId="S000522" chamber="H" congress="115" gpoId="8046" party="R" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. SMITH of New Jersey</name>
+<name type="authority-fnf">Christopher H. Smith</name>
+<name type="authority-lnf">Smith, Christopher H.</name>
+<name type="authority-other">Christopher Smith</name>
+</congMember>
+<congMember authorityId="2128" bioGuideId="W000813" chamber="H" congress="115" party="R" role="SPEAKING" state="IN">
+<name type="parsed">Mrs. WALORSKI</name>
+<name type="authority-fnf">Jackie Walorski</name>
+<name type="authority-lnf">Walorski, Jackie</name>
+</congMember>
+<congMember authorityId="2141" bioGuideId="P000606" chamber="H" congress="115" party="R" role="SPEAKING" state="NC">
+<name type="parsed">Mr. PITTENGER</name>
+<name type="authority-fnf">Robert Pittenger</name>
+<name type="authority-lnf">Pittenger, Robert</name>
+</congMember>
+<congMember authorityId="2026" bioGuideId="H001052" chamber="H" congress="115" gpoId="7976" party="R" role="SPEAKING" state="MD">
+<name type="parsed">Mr. HARRIS</name>
+<name type="authority-fnf">Andy Harris</name>
+<name type="authority-lnf">Harris, Andy</name>
+</congMember>
+<congMember authorityId="1791" bioGuideId="F000450" chamber="H" congress="115" gpoId="8028" party="R" role="SPEAKING" state="NC">
+<name type="parsed">Ms. FOXX</name>
+<name type="authority-fnf">Virginia Foxx</name>
+<name type="authority-lnf">Foxx, Virginia</name>
+</congMember>
+<congMember authorityId="1855" bioGuideId="W000798" chamber="H" congress="115" gpoId="7992" party="R" role="SPEAKING" state="MI">
+<name type="parsed">Mr. WALBERG</name>
+<name type="authority-fnf">Tim Walberg</name>
+<name type="authority-lnf">Walberg, Tim</name>
+</congMember>
+<congMember authorityId="2326" bioGuideId="B001299" chamber="H" congress="115" party="R" role="SPEAKING" state="IN">
+<name type="parsed">Mr. BANKS of Indiana</name>
+<name type="authority-fnf">Jim Banks</name>
+<name type="authority-lnf">Banks, Jim</name>
+</congMember>
+<congMember authorityId="2051" bioGuideId="K000376" chamber="H" congress="115" gpoId="8708" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. KELLY of Pennsylvania</name>
+<name type="authority-fnf">Mike Kelly</name>
+<name type="authority-lnf">Kelly, Mike</name>
+</congMember>
+<congMember authorityId="2278" bioGuideId="J000297" chamber="H" congress="115" party="R" role="SPEAKING" state="WV">
+<name type="parsed">Mr. JENKINS of West Virginia</name>
+<name type="authority-fnf">Evan H. Jenkins</name>
+<name type="authority-lnf">Jenkins, Evan H.</name>
+<name type="authority-other">Mr. Evan Jenkins</name>
+</congMember>
+<congMember authorityId="2333" bioGuideId="B001301" chamber="H" congress="115" party="R" role="SPEAKING" state="MI">
+<name type="parsed">Mr. BERGMAN</name>
+<name type="authority-fnf">Jack Bergman</name>
+<name type="authority-lnf">Bergman, Jack</name>
+</congMember>
+<congMember authorityId="2237" bioGuideId="H001071" chamber="H" congress="115" party="R" role="SPEAKING" state="GA">
+<name type="parsed">Mr. JODY B. HICE of Georgia</name>
+<name type="authority-fnf">Jody B. Hice</name>
+<name type="authority-lnf">Hice, Jody B.</name>
+<name type="authority-other">Mr. Jody Hice</name>
+</congMember>
+<congMember authorityId="2276" bioGuideId="G000576" chamber="H" congress="115" party="R" role="SPEAKING" state="WI">
+<name type="parsed">Mr. GROTHMAN</name>
+<name type="authority-fnf">Glenn Grothman</name>
+<name type="authority-lnf">Grothman, Glenn</name>
+</congMember>
+<congMember authorityId="2245" bioGuideId="G000577" chamber="H" congress="115" party="R" role="SPEAKING" state="LA">
+<name type="parsed">Mr. GRAVES of Louisiana</name>
+<name type="authority-fnf">Garret Graves</name>
+<name type="authority-lnf">Graves, Garret</name>
+</congMember>
+<congMember authorityId="1955" bioGuideId="O000168" chamber="H" congress="115" gpoId="8178" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. OLSON</name>
+<name type="authority-fnf">Pete Olson</name>
+<name type="authority-lnf">Olson, Pete</name>
+</congMember>
+<congMember authorityId="2307" bioGuideId="B001302" chamber="H" congress="115" party="R" role="SPEAKING" state="AZ">
+<name type="parsed">Mr. BIGGS</name>
+<name type="authority-fnf">Andy Biggs</name>
+<name type="authority-lnf">Biggs, Andy</name>
+</congMember>
+<congMember authorityId="2358" bioGuideId="E000298" chamber="H" congress="115" party="R" role="SPEAKING" state="KS">
+<name type="parsed">Mr. ESTES of Kansas</name>
+<name type="authority-fnf">Ron Estes</name>
+<name type="authority-lnf">Estes, Ron</name>
+</congMember>
+<congMember authorityId="2158" bioGuideId="R000598" chamber="H" congress="115" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. ROTHFUS</name>
+<name type="authority-fnf">Keith J. Rothfus</name>
+<name type="authority-lnf">Rothfus, Keith J.</name>
+<name type="authority-other">Mr. Keith Rothfus</name>
+</congMember>
+<congMember authorityId="2244" bioGuideId="A000374" chamber="H" congress="115" party="R" role="SPEAKING" state="LA">
+<name type="parsed">Mr. ABRAHAM</name>
+<name type="authority-fnf">Ralph Lee Abraham</name>
+<name type="authority-lnf">Abraham, Ralph Lee</name>
+<name type="authority-other">Mr. Ralph Abraham</name>
+</congMember>
+<congMember authorityId="2330" bioGuideId="J000299" chamber="H" congress="115" party="R" role="SPEAKING" state="LA">
+<name type="parsed">Mr. JOHNSON of Louisiana</name>
+<name type="authority-fnf">Mike Johnson</name>
+<name type="authority-lnf">Johnson, Mike</name>
+</congMember>
+<congMember authorityId="2126" bioGuideId="D000619" chamber="H" congress="115" party="R" role="SPEAKING" state="IL">
+<name type="parsed">Mr. RODNEY DAVIS of Illinois</name>
+<name type="authority-fnf">Rodney Davis</name>
+<name type="authority-lnf">Davis, Rodney</name>
+</congMember>
+<congMember authorityId="2346" bioGuideId="S001199" chamber="H" congress="115" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. SMUCKER</name>
+<name type="authority-fnf">Lloyd Smucker</name>
+<name type="authority-lnf">Smucker, Lloyd</name>
+</congMember>
+<congMember authorityId="1952" bioGuideId="T000467" chamber="H" congress="115" gpoId="8123" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. THOMPSON of Pennsylvania</name>
+<name type="authority-fnf">Glenn Thompson</name>
+<name type="authority-lnf">Thompson, Glenn</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 490  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 490</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4712  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4712</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee19806992c" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 10</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-17/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-17/pdf/CREC-2018-01-17.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H415</start>
+<end>H478</end>
+</extent>
+<extent unit="pages">
+<start>S213</start>
+<end>S264</end>
+</extent>
+<extent unit="pages">
+<start>E51</start>
+<end>E56</end>
+</extent>
+<extent unit="pages">
+<start>D46</start>
+<end>D54</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-01-17</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>262 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-17</identifier>
+<identifier type="local">P0b002ee19806992c</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr17ja18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-01-18</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-01-18</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-01-17</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-01-17</accessId>
+<volume>164</volume>
+<issue>10</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

@@ -1,0 +1,505 @@
+<mods ID="id-CREC-2018-01-24-pt1-PgS500-7" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-01-25</dateIngested>
+</extension>
+<titleInfo>
+<title>ADDITIONAL COSPONSORS</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-24/html/CREC-2018-01-24-pt1-PgS500-7.htm">
+<identifier type="FDsys Unique ID">D09002ee19815dcef</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-24/pdf/CREC-2018-01-24-pt1-PgS500-7.pdf">
+<identifier type="FDsys Unique ID">D09002ee19815e140</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. S500</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-01-24/CREC-2018-01-24-pt1-PgS500-7</identifier>
+<identifier type="former granule identifier">cr24ja18-42</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-01-24/CREC-2018-01-24-pt1-PgS500-7/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-24/pdf/CREC-2018-01-24-pt1-PgS500-7.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-24/html/CREC-2018-01-24-pt1-PgS500-7.htm</url>
+</location>
+<physicalDescription>
+<extent>2 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S500</start>
+<end>S501</end>
+</extent>
+</part>
+<identifier type="preferred citation">164 Cong. Rec. S500</identifier>
+<extension>
+<searchTitle>ADDITIONAL COSPONSORS; Congressional Record Vol. 164, No. 17</searchTitle>
+<associatedBills>S. 108, 115th Congress
+        </associatedBills>
+<associatedBills>S. 322, 115th Congress
+        </associatedBills>
+<associatedBills>S. 526, 115th Congress
+        </associatedBills>
+<associatedBills>S. 740, 115th Congress
+        </associatedBills>
+<associatedBills>S. 833, 115th Congress
+        </associatedBills>
+<associatedBills>S. 918, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1148, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1354, 115th Congress
+        </associatedBills>
+<associatedBills>S. 1556, 115th Congress
+        </associatedBills>
+<associatedBills>S. 2004, 115th Congress
+        </associatedBills>
+<associatedBills>S. 2127, 115th Congress
+        </associatedBills>
+<associatedBills>S. 2144, 115th Congress
+        </associatedBills>
+<associatedBills>S. 2203, 115th Congress
+        </associatedBills>
+<associatedBills>S. 2255, 115th Congress
+        </associatedBills>
+<associatedBills>S. 2330, 115th Congress
+        </associatedBills>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2018-01-24-pt1-PgS500-7</accessId>
+<subGranuleClass>SCOSPONSORS</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2018-01-24</granuleDate>
+<bill congress="115" context="HEADERLINE" number="108" type="S"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="108" type="S"/>
+<bill congress="115" context="OTHER" number="108" type="S"/>
+<bill congress="115" context="HEADERLINE" number="322" type="S"/>
+<bill congress="115" context="OTHER" number="322" type="S"/>
+<bill congress="115" context="HEADERLINE" number="526" type="S"/>
+<bill congress="115" context="OTHER" number="526" type="S"/>
+<bill congress="115" context="HEADERLINE" number="740" type="S"/>
+<bill congress="115" context="OTHER" number="740" type="S"/>
+<bill congress="115" context="HEADERLINE" number="833" type="S"/>
+<bill congress="115" context="OTHER" number="833" type="S"/>
+<bill congress="115" context="HEADERLINE" number="918" type="S"/>
+<bill congress="115" context="OTHER" number="918" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1148" type="S"/>
+<bill congress="115" context="OTHER" number="1148" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1354" type="S"/>
+<bill congress="115" context="OTHER" number="1354" type="S"/>
+<bill congress="115" context="HEADERLINE" number="1556" type="S"/>
+<bill congress="115" context="OTHER" number="1556" type="S"/>
+<bill congress="115" context="HEADERLINE" number="2004" type="S"/>
+<bill congress="115" context="OTHER" number="2004" type="S"/>
+<bill congress="115" context="HEADERLINE" number="2127" type="S"/>
+<bill congress="115" context="OTHER" number="2127" type="S"/>
+<bill congress="115" context="HEADERLINE" number="2144" type="S"/>
+<bill congress="115" context="OTHER" number="2144" type="S"/>
+<bill congress="115" context="HEADERLINE" number="2203" type="S"/>
+<bill congress="115" context="OTHER" number="2203" type="S"/>
+<bill congress="115" context="HEADERLINE" number="2255" type="S"/>
+<bill congress="115" context="OTHER" number="2255" type="S"/>
+<bill congress="115" context="HEADERLINE" number="2330" type="S"/>
+<bill congress="115" context="OTHER" number="2330" type="S"/>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 108  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 108</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 108  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 108</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 108  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 108</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 322  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 322</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 322  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 322</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 526  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 526</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 526  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 526</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 740  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 740</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 740  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 740</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 833  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 833</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 833  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 833</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 918  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 918</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 918  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 918</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1148  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1148</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1148  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1148</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1354  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1354</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1354  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1354</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1556  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1556</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 1556  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 1556</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2004  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2004</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2004  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2004</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2127  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2127</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2127  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2127</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2144  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2144</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2144  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2144</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2203  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2203</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2203  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2203</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2255  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2255</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2255  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2255</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2330  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2330</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2330  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2330</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee19815c02e" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 17</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-24/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-24/pdf/CREC-2018-01-24.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>S477</start>
+<end>S506</end>
+</extent>
+<extent unit="pages">
+<start>E93</start>
+<end>E93</end>
+</extent>
+<extent unit="pages">
+<start>D85</start>
+<end>D88</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-01-24</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>70 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-24</identifier>
+<identifier type="local">P0b002ee19815c02e</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr24ja18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-01-25</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-01-25</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-01-24</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-01-24</accessId>
+<volume>164</volume>
+<issue>17</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

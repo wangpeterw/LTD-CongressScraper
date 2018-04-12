@@ -1,0 +1,208 @@
+<mods ID="id-CREC-2018-02-27-pt1-PgS1239-5" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-03-08</dateIngested>
+</extension>
+<titleInfo>
+<title>MEASURES REFERRED</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-02-27/html/CREC-2018-02-27-pt1-PgS1239-5.htm">
+<identifier type="FDsys Unique ID">D09002ee198bebaa3</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-02-27/pdf/CREC-2018-02-27-pt1-PgS1239-5.pdf">
+<identifier type="FDsys Unique ID">D09002ee198bec1e8</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. S1239</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-02-27/CREC-2018-02-27-pt1-PgS1239-5</identifier>
+<identifier type="former granule identifier">CR27FE18-210</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-02-27/CREC-2018-02-27-pt1-PgS1239-5/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-27/pdf/CREC-2018-02-27-pt1-PgS1239-5.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-27/html/CREC-2018-02-27-pt1-PgS1239-5.htm</url>
+</location>
+<physicalDescription>
+<extent>1 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S1239</start>
+<end>S1239</end>
+</extent>
+</part>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Health, Education, Labor, and Pensions</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. S1239</identifier>
+<extension>
+<searchTitle>MEASURES REFERRED; Congressional Record Vol. 164, No. 35</searchTitle>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2018-02-27-pt1-PgS1239-5</accessId>
+<subGranuleClass>SREFERRED</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2018-02-27</granuleDate>
+<bill congress="115" context="OTHER" number="767" type="HR"/>
+<bill congress="115" context="OTHER" number="880" type="HR"/>
+<bill congress="115" context="OTHER" number="1222" type="HR"/>
+<bill congress="115" context="OTHER" number="2410" type="HR"/>
+<bill congress="115" context="OTHER" number="2422" type="HR"/>
+<congCommittee authorityId="sshr00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Health, Education, Labor, and Pensions</name>
+<name type="authority-short">HELP</name>
+</congCommittee>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 767  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 767</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 880  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 880</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1222  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1222</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2410  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2410</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2422  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2422</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee198b21de2" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 35</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-27/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-27/pdf/CREC-2018-02-27.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H1269</start>
+<end>H1336</end>
+</extent>
+<extent unit="pages">
+<start>S1223</start>
+<end>S1255</end>
+</extent>
+<extent unit="pages">
+<start>E225</start>
+<end>E239</end>
+</extent>
+<extent unit="pages">
+<start>D197</start>
+<end>D204</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-02-27</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>248 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-02-27</identifier>
+<identifier type="local">P0b002ee198b21de2</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR27FE18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-03-08</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-03-08</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-02-27</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-02-27</accessId>
+<volume>164</volume>
+<issue>35</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

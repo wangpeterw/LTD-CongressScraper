@@ -1,0 +1,362 @@
+<mods ID="id-CREC-2018-03-14-pt1-PgH1554-6" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-03-15</dateIngested>
+</extension>
+<titleInfo>
+<title>PROVIDING FOR CONSIDERATION OF H.R. 4545, FINANCIAL INSTITUTIONS EXAMINATION FAIRNESS AND REFORM ACT; PROVIDING FOR CONSIDERATION OF H.R. 1116, TAKING ACCOUNT OF INSTITUTIONS WITH LOW OPERATION...</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-03-14/html/CREC-2018-03-14-pt1-PgH1554-6.htm">
+<identifier type="FDsys Unique ID">D09002ee199a15e61</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-03-14/pdf/CREC-2018-03-14-pt1-PgH1554-6.pdf">
+<identifier type="FDsys Unique ID">D09002ee199a15f1d</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. H1554</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-03-14/CREC-2018-03-14-pt1-PgH1554-6</identifier>
+<identifier type="former granule identifier">cr14mr18-74</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-03-14/CREC-2018-03-14-pt1-PgH1554-6/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-14/pdf/CREC-2018-03-14-pt1-PgH1554-6.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-14/html/CREC-2018-03-14-pt1-PgH1554-6.htm</url>
+</location>
+<physicalDescription>
+<extent>6 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H1554</start>
+<end>H1559</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Ken Buck</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jared Polis</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>J. Luis Correa</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Thomas MacArthur</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Scott R. Tipton</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Rules</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Financial Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on the Judiciary</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. H1554</identifier>
+<extension>
+<searchTitle>PROVIDING FOR CONSIDERATION OF H.R. 4545, FINANCIAL INSTITUTIONS EXAMINATION FAIRNESS AND REFORM ACT; PROVIDING FOR CONSIDERATION OF H.R. 1116, TAKING ACCOUNT OF INSTITUTIONS WITH LOW OPERATION...; Congressional Record Vol. 164, No. 45</searchTitle>
+<associatedBills>H. Res. 773, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2018-03-14-pt1-PgH1554-6</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2018-03-14</granuleDate>
+<time from="12:15:00" to="12:45:00"/>
+<bill congress="115" context="HEADERLINE" number="773" type="HRES"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="773" type="HRES"/>
+<bill congress="115" context="OTHER" number="773" type="HRES"/>
+<bill congress="115" context="TITLE" number="1116" type="HR"/>
+<bill congress="115" context="OTHER" number="1116" type="HR"/>
+<bill congress="115" context="OTHER" number="3440" type="HR"/>
+<bill congress="115" context="TITLE" number="4263" type="HR"/>
+<bill congress="115" context="OTHER" number="4263" type="HR"/>
+<bill congress="115" context="TITLE" number="4545" type="HR"/>
+<bill congress="115" context="OTHER" number="4545" type="HR"/>
+<congCommittee authorityId="hsru00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Rules</name>
+<name type="authority-short">Rules</name>
+</congCommittee>
+<congCommittee authorityId="hsba00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Financial Services</name>
+<name type="authority-short">Financial Services</name>
+</congCommittee>
+<congCommittee authorityId="hsju00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on the Judiciary</name>
+<name type="authority-short">Judiciary</name>
+</congCommittee>
+<congMember authorityId="2233" bioGuideId="B001297" chamber="H" congress="115" party="R" role="SPEAKING" state="CO">
+<name type="parsed">Mr. BUCK</name>
+<name type="authority-fnf">Ken Buck</name>
+<name type="authority-lnf">Buck, Ken</name>
+</congMember>
+<congMember authorityId="1910" bioGuideId="P000598" chamber="H" congress="115" gpoId="7860" party="D" role="SPEAKING" state="CO">
+<name type="parsed">Mr. POLIS</name>
+<name type="authority-fnf">Jared Polis</name>
+<name type="authority-lnf">Polis, Jared</name>
+</congMember>
+<congMember authorityId="2312" bioGuideId="C001110" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mr. CORREA</name>
+<name type="authority-fnf">J. Luis Correa</name>
+<name type="authority-lnf">Correa, J. Luis</name>
+</congMember>
+<congMember authorityId="2258" bioGuideId="M001193" chamber="H" congress="115" party="R" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. MacARTHUR</name>
+<name type="authority-fnf">Thomas MacArthur</name>
+<name type="authority-lnf">MacArthur, Thomas</name>
+</congMember>
+<congMember authorityId="1997" bioGuideId="T000470" chamber="H" congress="115" gpoId="7861" party="R" role="SPEAKING" state="CO">
+<name type="parsed">Mr. TIPTON</name>
+<name type="authority-fnf">Scott R. Tipton</name>
+<name type="authority-lnf">Tipton, Scott R.</name>
+<name type="authority-other">Mr. Scott Tipton</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 773  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 773</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 773  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 773</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 773  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 773</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1116  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1116</identifier>
+<extension>
+<congress>115</congress>
+<context>TITLE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1116  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1116</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3440  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3440</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4263  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4263</identifier>
+<extension>
+<congress>115</congress>
+<context>TITLE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4263  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4263</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4545  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4545</identifier>
+<extension>
+<congress>115</congress>
+<context>TITLE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4545  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4545</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee199a0e6b4" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 45</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-14/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-14/pdf/CREC-2018-03-14.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H1545</start>
+<end>H1610</end>
+</extent>
+<extent unit="pages">
+<start>S1695</start>
+<end>S1739</end>
+</extent>
+<extent unit="pages">
+<start>E309</start>
+<end>E315</end>
+</extent>
+<extent unit="pages">
+<start>D265</start>
+<end>D274</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-03-14</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>256 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-14</identifier>
+<identifier type="local">P0b002ee199a0e6b4</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr14mr18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-03-15</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-03-15</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-03-14</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-03-14</accessId>
+<volume>164</volume>
+<issue>45</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

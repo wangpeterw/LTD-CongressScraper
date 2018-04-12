@@ -1,0 +1,329 @@
+<mods ID="id-CREC-2018-01-16-pt1-PgH387" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-03-27</dateIngested>
+</extension>
+<titleInfo>
+<title>PERSHING COUNTY ECONOMIC DEVELOPMENT AND CONSERVATION ACT</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-16/html/CREC-2018-01-16-pt1-PgH387.htm">
+<identifier type="FDsys Unique ID">D09002ee199cc61db</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-16/pdf/CREC-2018-01-16-pt1-PgH387.pdf">
+<identifier type="FDsys Unique ID">D09002ee199cc62d8</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. H387</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-01-16/CREC-2018-01-16-pt1-PgH387</identifier>
+<identifier type="former granule identifier">CR16JA18-75</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-01-16/CREC-2018-01-16-pt1-PgH387/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-16/pdf/CREC-2018-01-16-pt1-PgH387.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-16/html/CREC-2018-01-16-pt1-PgH387.htm</url>
+</location>
+<physicalDescription>
+<extent>6 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H387</start>
+<end>H392</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Greg Gianforte</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Colleen W. Hanabusa</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mark E. Amodei</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Interior and Insular Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. H387</identifier>
+<extension>
+<searchTitle>PERSHING COUNTY ECONOMIC DEVELOPMENT AND CONSERVATION ACT; Congressional Record Vol. 164, No. 9</searchTitle>
+<associatedBills>H.R. 1107, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2018-01-16-pt1-PgH387</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2018-01-16</granuleDate>
+<time from="17:00:00" to="17:15:00"/>
+<congReport congress="101" context="OTHER" number="405" type="H"/>
+<bill congress="115" context="HEADERLINE" number="1107" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="1107" type="HR"/>
+<bill congress="115" context="OTHER" number="1107" type="HR"/>
+<bill congress="115" context="OTHER" number="2570" type="HR"/>
+<congCommittee authorityId="hsii00" chamber="H" congress="103" type="S">
+<name type="authority-standard">Committee on Interior and Insular Affairs</name>
+<name type="authority-short">Interior and Insular Affairs</name>
+</congCommittee>
+<congMember authorityId="2359" bioGuideId="G000584" chamber="H" congress="115" party="R" role="SPEAKING" state="MT">
+<name type="parsed">Mr. GIANFORTE</name>
+<name type="authority-fnf">Greg Gianforte</name>
+<name type="authority-lnf">Gianforte, Greg</name>
+</congMember>
+<congMember authorityId="2010" bioGuideId="H001050" chamber="H" congress="115" gpoId="7912" party="D" role="SPEAKING" state="HI">
+<name type="parsed">Ms. HANABUSA</name>
+<name type="authority-fnf">Colleen W. Hanabusa</name>
+<name type="authority-lnf">Hanabusa, Colleen W.</name>
+<name type="authority-other">Ms. Colleen Hanabusa</name>
+</congMember>
+<congMember authorityId="2090" bioGuideId="A000369" chamber="H" congress="115" gpoId="8366" party="R" role="SPEAKING" state="NV">
+<name type="parsed">Mr. AMODEI</name>
+<name type="authority-fnf">Mark E. Amodei</name>
+<name type="authority-lnf">Amodei, Mark E.</name>
+<name type="authority-other">Mr. Mark Amodei</name>
+</congMember>
+<USCode title="16">
+<section number="1131"/>
+<section detail="et seq." number="1131"/>
+<section detail="(d)(1)" number="1133"/>
+<section detail="(d)(4)" number="1133"/>
+<section detail="(d)(7)" number="1133"/>
+</USCode>
+<USCode title="25">
+<section number="5304"/>
+</USCode>
+<USCode title="42">
+<section detail="et seq." number="4321"/>
+</USCode>
+<USCode title="43">
+<section detail="et seq." number="1701"/>
+<section number="1711"/>
+<section number="1712"/>
+<section number="1713"/>
+<section number="1716"/>
+<section detail="(a)" number="1716"/>
+<section number="1719"/>
+<section detail="(c)" number="1782"/>
+</USCode>
+<statuteAtLarge volume="12">
+<pages pages="489"/>
+</statuteAtLarge>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1107  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1107</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1107  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1107</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1107  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1107</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 2570  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 2570</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 16 Section 1131</partNumber>
+<partNumber>Title 16 Section 1131et seq.</partNumber>
+<partNumber>Title 16 Section 1133(d)(1)</partNumber>
+<partNumber>Title 16 Section 1133(d)(4)</partNumber>
+<partNumber>Title 16 Section 1133(d)(7)</partNumber>
+</titleInfo>
+<identifier type="USC citation">16 U.S.C. 1131</identifier>
+<identifier type="USC citation">16 U.S.C. 1131et seq.</identifier>
+<identifier type="USC citation">16 U.S.C. 1133(d)(1)</identifier>
+<identifier type="USC citation">16 U.S.C. 1133(d)(4)</identifier>
+<identifier type="USC citation">16 U.S.C. 1133(d)(7)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 25 Section 5304</partNumber>
+</titleInfo>
+<identifier type="USC citation">25 U.S.C. 5304</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 4321et seq.</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 4321et seq.</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 43 Section 1701et seq.</partNumber>
+<partNumber>Title 43 Section 1711</partNumber>
+<partNumber>Title 43 Section 1712</partNumber>
+<partNumber>Title 43 Section 1713</partNumber>
+<partNumber>Title 43 Section 1716</partNumber>
+<partNumber>Title 43 Section 1716(a)</partNumber>
+<partNumber>Title 43 Section 1719</partNumber>
+<partNumber>Title 43 Section 1782(c)</partNumber>
+</titleInfo>
+<identifier type="USC citation">43 U.S.C. 1701et seq.</identifier>
+<identifier type="USC citation">43 U.S.C. 1711</identifier>
+<identifier type="USC citation">43 U.S.C. 1712</identifier>
+<identifier type="USC citation">43 U.S.C. 1713</identifier>
+<identifier type="USC citation">43 U.S.C. 1716</identifier>
+<identifier type="USC citation">43 U.S.C. 1716(a)</identifier>
+<identifier type="USC citation">43 U.S.C. 1719</identifier>
+<identifier type="USC citation">43 U.S.C. 1782(c)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 12 Page 489</partNumber>
+</titleInfo>
+<identifier type="Statute citation">12 Stat. 489</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 101-405</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee199c8e695" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 9</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-16/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-16/pdf/CREC-2018-01-16.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H175</start>
+<end>H413</end>
+</extent>
+<extent unit="pages">
+<start>S173</start>
+<end>S212</end>
+</extent>
+<extent unit="pages">
+<start>E43</start>
+<end>E50</end>
+</extent>
+<extent unit="pages">
+<start>D37</start>
+<end>D44</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-01-16</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>590 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-16</identifier>
+<identifier type="local">P0b002ee199c8e695</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR16JA18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-03-27</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-03-27</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-01-16</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-01-16</accessId>
+<volume>164</volume>
+<issue>9</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

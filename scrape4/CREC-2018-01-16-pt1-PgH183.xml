@@ -1,0 +1,227 @@
+<mods ID="id-CREC-2018-01-16-pt1-PgH183" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-03-27</dateIngested>
+</extension>
+<titleInfo>
+<title>EXPANDING INVESTMENT OPPORTUNITIES ACT</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-16/html/CREC-2018-01-16-pt1-PgH183.htm">
+<identifier type="FDsys Unique ID">D09002ee199cc622e</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-16/pdf/CREC-2018-01-16-pt1-PgH183.pdf">
+<identifier type="FDsys Unique ID">D09002ee199cc62f2</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. H183</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-01-16/CREC-2018-01-16-pt1-PgH183</identifier>
+<identifier type="former granule identifier">CR16JA18-72</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-01-16/CREC-2018-01-16-pt1-PgH183/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-16/pdf/CREC-2018-01-16-pt1-PgH183.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-16/html/CREC-2018-01-16-pt1-PgH183.htm</url>
+</location>
+<physicalDescription>
+<extent>3 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H183</start>
+<end>H185</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Sean P. Duffy</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bill Foster</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Trey Hollingsworth</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. H183</identifier>
+<extension>
+<searchTitle>EXPANDING INVESTMENT OPPORTUNITIES ACT; Congressional Record Vol. 164, No. 9</searchTitle>
+<associatedBills>H.R. 4279, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2018-01-16-pt1-PgH183</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2018-01-16</granuleDate>
+<time from="16:30:00" to="16:45:00"/>
+<bill congress="115" context="HEADERLINE" number="4279" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="4279" type="HR"/>
+<bill congress="115" context="OTHER" number="4279" type="HR"/>
+<congMember authorityId="2072" bioGuideId="D000614" chamber="H" congress="115" gpoId="8220" party="R" role="SPEAKING" state="WI">
+<name type="parsed">Mr. DUFFY</name>
+<name type="authority-fnf">Sean P. Duffy</name>
+<name type="authority-lnf">Duffy, Sean P.</name>
+<name type="authority-other">Mr. Sean Duffy</name>
+</congMember>
+<congMember authorityId="1888" bioGuideId="F000454" chamber="H" congress="115" gpoId="7355" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Mr. FOSTER</name>
+<name type="authority-fnf">Bill Foster</name>
+<name type="authority-lnf">Foster, Bill</name>
+</congMember>
+<congMember authorityId="2327" bioGuideId="H001074" chamber="H" congress="115" party="R" role="SPEAKING" state="IN">
+<name type="parsed">Mr. HOLLINGSWORTH</name>
+<name type="authority-fnf">Trey Hollingsworth</name>
+<name type="authority-lnf">Hollingsworth, Trey</name>
+</congMember>
+<USCode title="15">
+<section number="78m"/>
+<section number="80a-5"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4279  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4279</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4279  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4279</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4279  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4279</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 15 Section 78m</partNumber>
+<partNumber>Title 15 Section 80a-5</partNumber>
+</titleInfo>
+<identifier type="USC citation">15 U.S.C. 78m</identifier>
+<identifier type="USC citation">15 U.S.C. 80a-5</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee199c8e695" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 9</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-16/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-16/pdf/CREC-2018-01-16.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H175</start>
+<end>H413</end>
+</extent>
+<extent unit="pages">
+<start>S173</start>
+<end>S212</end>
+</extent>
+<extent unit="pages">
+<start>E43</start>
+<end>E50</end>
+</extent>
+<extent unit="pages">
+<start>D37</start>
+<end>D44</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-01-16</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>590 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-16</identifier>
+<identifier type="local">P0b002ee199c8e695</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR16JA18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-03-27</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-03-27</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-01-16</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-01-16</accessId>
+<volume>164</volume>
+<issue>9</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

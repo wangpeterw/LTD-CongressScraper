@@ -1,0 +1,307 @@
+<mods ID="id-CREC-2018-03-12-pt1-PgS1635" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-03-13</dateIngested>
+</extension>
+<titleInfo>
+<title>TEXT OF AMENDMENTS</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-03-12/html/CREC-2018-03-12-pt1-PgS1635.htm">
+<identifier type="FDsys Unique ID">D09002ee1997c76c3</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-03-12/pdf/CREC-2018-03-12-pt1-PgS1635.pdf">
+<identifier type="FDsys Unique ID">D09002ee1997c7984</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. S1635</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-03-12/CREC-2018-03-12-pt1-PgS1635</identifier>
+<identifier type="former granule identifier">cr12mr18-51</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-03-12/CREC-2018-03-12-pt1-PgS1635/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-12/pdf/CREC-2018-03-12-pt1-PgS1635.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-12/html/CREC-2018-03-12-pt1-PgS1635.htm</url>
+</location>
+<physicalDescription>
+<extent>8 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S1635</start>
+<end>S1642</end>
+</extent>
+</part>
+<identifier type="preferred citation">164 Cong. Rec. S1635</identifier>
+<extension>
+<searchTitle>TEXT OF AMENDMENTS; Congressional Record Vol. 164, No. 43</searchTitle>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2018-03-12-pt1-PgS1635</accessId>
+<subGranuleClass>SAMENDMENTTEXT</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2018-03-12</granuleDate>
+<bill congress="115" context="FIRSTPARAGRAPH" number="2155" type="S"/>
+<bill congress="115" context="OTHER" number="2155" type="S"/>
+<USCode title="2">
+<section detail="(b)(2)" number="907"/>
+</USCode>
+<USCode title="5">
+<section number="802"/>
+<section number="802"/>
+<section number="804"/>
+<chapter number="8"/>
+</USCode>
+<USCode title="11">
+<section number="322"/>
+</USCode>
+<USCode title="12">
+<section number="1752"/>
+<section number="1813"/>
+<section number="1828"/>
+<section number="484"/>
+<section detail="et seq." number="5211"/>
+<section detail="et seq." number="5481"/>
+</USCode>
+<USCode title="15">
+<section detail="et seq." number="1681"/>
+<section number="1681g"/>
+<section number="1681i"/>
+<section detail="(a)" number="1681i"/>
+<section number="1681j"/>
+<section detail="(a)(1)" number="1681j"/>
+<section detail="(a)" number="1681m"/>
+<section detail="(h)" number="1681m"/>
+<section detail="(h)(8)" number="1681m"/>
+<section number="1681n"/>
+<section number="1681o"/>
+<section number="1681s-2"/>
+<section detail="(a)(7)(A)(ii)" number="1681s-2"/>
+<section number="1681s"/>
+<section detail="(d)(3)" number="1693b"/>
+<section detail="et seq." number="78aaa"/>
+<section detail="(b)(3)" number="78eee"/>
+<section detail="(b)(5)" number="78eee"/>
+<section detail="(b)" number="78ggg"/>
+<section detail="(2)(B)" number="78lll"/>
+</USCode>
+<USCode title="42">
+<section number="1306"/>
+</USCode>
+<USCode title="44">
+<section number="3504"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2155  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2155</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2155  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2155</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 2 Section 907(b)(2)</partNumber>
+</titleInfo>
+<identifier type="USC citation">2 U.S.C. 907(b)(2)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 5 Section 802</partNumber>
+<partNumber>Title 5 Section 802</partNumber>
+<partNumber>Title 5 Section 804</partNumber>
+<partNumber>Title 5 Chapter 8</partNumber>
+</titleInfo>
+<identifier type="USC citation">5 U.S.C. 802</identifier>
+<identifier type="USC citation">5 U.S.C. 802</identifier>
+<identifier type="USC citation">5 U.S.C. 804</identifier>
+<identifier type="USC citation">5 U.S.C. Chapter 8</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 11 Section 322</partNumber>
+</titleInfo>
+<identifier type="USC citation">11 U.S.C. 322</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 12 Section 1752</partNumber>
+<partNumber>Title 12 Section 1813</partNumber>
+<partNumber>Title 12 Section 1828</partNumber>
+<partNumber>Title 12 Section 484</partNumber>
+<partNumber>Title 12 Section 5211et seq.</partNumber>
+<partNumber>Title 12 Section 5481et seq.</partNumber>
+</titleInfo>
+<identifier type="USC citation">12 U.S.C. 1752</identifier>
+<identifier type="USC citation">12 U.S.C. 1813</identifier>
+<identifier type="USC citation">12 U.S.C. 1828</identifier>
+<identifier type="USC citation">12 U.S.C. 484</identifier>
+<identifier type="USC citation">12 U.S.C. 5211et seq.</identifier>
+<identifier type="USC citation">12 U.S.C. 5481et seq.</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 15 Section 1681et seq.</partNumber>
+<partNumber>Title 15 Section 1681g</partNumber>
+<partNumber>Title 15 Section 1681i</partNumber>
+<partNumber>Title 15 Section 1681i(a)</partNumber>
+<partNumber>Title 15 Section 1681j</partNumber>
+<partNumber>Title 15 Section 1681j(a)(1)</partNumber>
+<partNumber>Title 15 Section 1681m(a)</partNumber>
+<partNumber>Title 15 Section 1681m(h)</partNumber>
+<partNumber>Title 15 Section 1681m(h)(8)</partNumber>
+<partNumber>Title 15 Section 1681n</partNumber>
+<partNumber>Title 15 Section 1681o</partNumber>
+<partNumber>Title 15 Section 1681s-2</partNumber>
+<partNumber>Title 15 Section 1681s-2(a)(7)(A)(ii)</partNumber>
+<partNumber>Title 15 Section 1681s</partNumber>
+<partNumber>Title 15 Section 1693b(d)(3)</partNumber>
+<partNumber>Title 15 Section 78aaaet seq.</partNumber>
+<partNumber>Title 15 Section 78eee(b)(3)</partNumber>
+<partNumber>Title 15 Section 78eee(b)(5)</partNumber>
+<partNumber>Title 15 Section 78ggg(b)</partNumber>
+<partNumber>Title 15 Section 78lll(2)(B)</partNumber>
+</titleInfo>
+<identifier type="USC citation">15 U.S.C. 1681et seq.</identifier>
+<identifier type="USC citation">15 U.S.C. 1681g</identifier>
+<identifier type="USC citation">15 U.S.C. 1681i</identifier>
+<identifier type="USC citation">15 U.S.C. 1681i(a)</identifier>
+<identifier type="USC citation">15 U.S.C. 1681j</identifier>
+<identifier type="USC citation">15 U.S.C. 1681j(a)(1)</identifier>
+<identifier type="USC citation">15 U.S.C. 1681m(a)</identifier>
+<identifier type="USC citation">15 U.S.C. 1681m(h)</identifier>
+<identifier type="USC citation">15 U.S.C. 1681m(h)(8)</identifier>
+<identifier type="USC citation">15 U.S.C. 1681n</identifier>
+<identifier type="USC citation">15 U.S.C. 1681o</identifier>
+<identifier type="USC citation">15 U.S.C. 1681s-2</identifier>
+<identifier type="USC citation">15 U.S.C. 1681s-2(a)(7)(A)(ii)</identifier>
+<identifier type="USC citation">15 U.S.C. 1681s</identifier>
+<identifier type="USC citation">15 U.S.C. 1693b(d)(3)</identifier>
+<identifier type="USC citation">15 U.S.C. 78aaaet seq.</identifier>
+<identifier type="USC citation">15 U.S.C. 78eee(b)(3)</identifier>
+<identifier type="USC citation">15 U.S.C. 78eee(b)(5)</identifier>
+<identifier type="USC citation">15 U.S.C. 78ggg(b)</identifier>
+<identifier type="USC citation">15 U.S.C. 78lll(2)(B)</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 42 Section 1306</partNumber>
+</titleInfo>
+<identifier type="USC citation">42 U.S.C. 1306</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 44 Section 3504</partNumber>
+</titleInfo>
+<identifier type="USC citation">44 U.S.C. 3504</identifier>
+</relatedItem>
+<relatedItem ID="P0b002ee1997a3a6b" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 43</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-12/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-12/pdf/CREC-2018-03-12.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>S1617</start>
+<end>S1644</end>
+</extent>
+<extent unit="pages">
+<start>E295</start>
+<end>E296</end>
+</extent>
+<extent unit="pages">
+<start>D252</start>
+<end>D258</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-03-12</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>74 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-12</identifier>
+<identifier type="local">P0b002ee1997a3a6b</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr12mr18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-03-13</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-03-13</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-03-12</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-03-12</accessId>
+<volume>164</volume>
+<issue>43</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

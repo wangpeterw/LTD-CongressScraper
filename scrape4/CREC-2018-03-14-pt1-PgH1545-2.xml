@@ -1,0 +1,139 @@
+<mods ID="id-CREC-2018-03-14-pt1-PgH1545-2" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-03-15</dateIngested>
+</extension>
+<titleInfo>
+<title>DESIGNATION OF SPEAKER PRO TEMPORE</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-03-14/html/CREC-2018-03-14-pt1-PgH1545-2.htm">
+<identifier type="FDsys Unique ID">D09002ee199a15e91</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-03-14/pdf/CREC-2018-03-14-pt1-PgH1545-2.pdf">
+<identifier type="FDsys Unique ID">D09002ee199a15f6f</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. H1545</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-03-14/CREC-2018-03-14-pt1-PgH1545-2</identifier>
+<identifier type="former granule identifier">cr14mr18-41</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-03-14/CREC-2018-03-14-pt1-PgH1545-2/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-14/pdf/CREC-2018-03-14-pt1-PgH1545-2.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-14/html/CREC-2018-03-14-pt1-PgH1545-2.htm</url>
+</location>
+<physicalDescription>
+<extent>1 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H1545</start>
+<end>H1545</end>
+</extent>
+</part>
+<identifier type="preferred citation">164 Cong. Rec. H1545</identifier>
+<extension>
+<searchTitle>DESIGNATION OF SPEAKER PRO TEMPORE; Congressional Record Vol. 164, No. 45</searchTitle>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2018-03-14-pt1-PgH1545-2</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2018-03-14</granuleDate>
+<time from="10:00:00" to="10:00:00"/>
+</extension>
+<relatedItem ID="P0b002ee199a0e6b4" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 45</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-14/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-14/pdf/CREC-2018-03-14.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H1545</start>
+<end>H1610</end>
+</extent>
+<extent unit="pages">
+<start>S1695</start>
+<end>S1739</end>
+</extent>
+<extent unit="pages">
+<start>E309</start>
+<end>E315</end>
+</extent>
+<extent unit="pages">
+<start>D265</start>
+<end>D274</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-03-14</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>256 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-14</identifier>
+<identifier type="local">P0b002ee199a0e6b4</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr14mr18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-03-15</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-03-15</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-03-14</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-03-14</accessId>
+<volume>164</volume>
+<issue>45</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

@@ -1,0 +1,493 @@
+<mods ID="id-CREC-2018-03-15-pt1-PgH1624-3" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-03-30</dateIngested>
+</extension>
+<titleInfo>
+<title>FINANCIAL INSTITUTIONS EXAMINATION FAIRNESS AND REFORM ACT</title>
+<partName>House</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-03-15/html/CREC-2018-03-15-pt1-PgH1624-3.htm">
+<identifier type="FDsys Unique ID">D09002ee199df9a52</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-03-15/pdf/CREC-2018-03-15-pt1-PgH1624-3.pdf">
+<identifier type="FDsys Unique ID">D09002ee199df9b4f</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. H1624</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-03-15/CREC-2018-03-15-pt1-PgH1624-3</identifier>
+<identifier type="former granule identifier">CR15MR18-113</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-03-15/CREC-2018-03-15-pt1-PgH1624-3/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-15/pdf/CREC-2018-03-15-pt1-PgH1624-3.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-15/html/CREC-2018-03-15-pt1-PgH1624-3.htm</url>
+</location>
+<physicalDescription>
+<extent>11 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>H1624</start>
+<end>H1634</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Jeb Hensarling</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Emanuel Cleaver</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Scott R. Tipton</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Blaine Luetkemeyer</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Robert Pittenger</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Keith J. Rothfus</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Maxine Waters</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>David Kustoff</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sean P. Duffy</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Frank D. Lucas</namePart>
+<affiliation>United States House of Representatives</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>House of Representatives</namePart>
+<namePart>Committee on Financial Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Banking, Housing, and Urban Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. H1624</identifier>
+<extension>
+<searchTitle>FINANCIAL INSTITUTIONS EXAMINATION FAIRNESS AND REFORM ACT; Congressional Record Vol. 164, No. 46</searchTitle>
+<associatedBills>H.R. 4545, 115th Congress
+        </associatedBills>
+<granuleClass>HOUSE</granuleClass>
+<accessId>CREC-2018-03-15-pt1-PgH1624-3</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>H</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>HOUSE</chamber>
+<granuleDate>2018-03-15</granuleDate>
+<time from="13:00:00" to="14:15:00"/>
+<congReport congress="115" context="FIRSTPARAGRAPH" number="595" type="H"/>
+<congReport congress="115" context="OTHER" number="595" type="H"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="1"/>
+<amendment chamber="HOUSE" congress="115" context="OTHER" number="1"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="773" type="HRES"/>
+<bill congress="115" context="OTHER" number="773" type="HRES"/>
+<bill congress="115" context="OTHER" number="1116" type="HR"/>
+<bill congress="115" context="OTHER" number="2155" type="S"/>
+<bill congress="115" context="OTHER" number="3937" type="HR"/>
+<bill congress="115" context="OTHER" number="4061" type="HR"/>
+<bill congress="115" context="OTHER" number="4293" type="HR"/>
+<bill congress="115" context="HEADERLINE" number="4545" type="HR"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="4545" type="HR"/>
+<bill congress="115" context="OTHER" number="4545" type="HR"/>
+<bill congress="115" context="OTHER" number="4566" type="HR"/>
+<congCommittee authorityId="hsba00" chamber="H" congress="115" type="S">
+<name type="authority-standard">Committee on Financial Services</name>
+<name type="authority-short">Financial Services</name>
+</congCommittee>
+<congCommittee authorityId="ssbk00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Banking, Housing, and Urban Affairs</name>
+<name type="authority-short">Banking</name>
+</congCommittee>
+<congMember authorityId="1749" bioGuideId="H001036" chamber="H" congress="115" gpoId="8161" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. HENSARLING</name>
+<name type="authority-fnf">Jeb Hensarling</name>
+<name type="authority-lnf">Hensarling, Jeb</name>
+</congMember>
+<congMember authorityId="1790" bioGuideId="C001061" chamber="H" congress="115" gpoId="8013" party="D" role="SPEAKING" state="MO">
+<name type="parsed">Mr. CLEAVER</name>
+<name type="authority-fnf">Emanuel Cleaver</name>
+<name type="authority-lnf">Cleaver, Emanuel</name>
+</congMember>
+<congMember authorityId="1997" bioGuideId="T000470" chamber="H" congress="115" gpoId="7861" party="R" role="SPEAKING" state="CO">
+<name type="parsed">Mr. TIPTON</name>
+<name type="authority-fnf">Scott R. Tipton</name>
+<name type="authority-lnf">Tipton, Scott R.</name>
+<name type="authority-other">Mr. Scott Tipton</name>
+</congMember>
+<congMember authorityId="1931" bioGuideId="L000569" chamber="H" congress="115" gpoId="8017" party="R" role="SPEAKING" state="MO">
+<name type="parsed">Mr. LUETKEMEYER</name>
+<name type="authority-fnf">Blaine Luetkemeyer</name>
+<name type="authority-lnf">Luetkemeyer, Blaine</name>
+</congMember>
+<congMember authorityId="2141" bioGuideId="P000606" chamber="H" congress="115" party="R" role="SPEAKING" state="NC">
+<name type="parsed">Mr. PITTENGER</name>
+<name type="authority-fnf">Robert Pittenger</name>
+<name type="authority-lnf">Pittenger, Robert</name>
+</congMember>
+<congMember authorityId="2158" bioGuideId="R000598" chamber="H" congress="115" party="R" role="SPEAKING" state="PA">
+<name type="parsed">Mr. ROTHFUS</name>
+<name type="authority-fnf">Keith J. Rothfus</name>
+<name type="authority-lnf">Rothfus, Keith J.</name>
+<name type="authority-other">Mr. Keith Rothfus</name>
+</congMember>
+<congMember authorityId="1205" bioGuideId="W000187" chamber="H" congress="115" gpoId="7840" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Ms. MAXINE WATERS of California</name>
+<name type="authority-fnf">Maxine Waters</name>
+<name type="authority-lnf">Waters, Maxine</name>
+</congMember>
+<congMember authorityId="2348" bioGuideId="K000392" chamber="H" congress="115" party="R" role="SPEAKING" state="TN">
+<name type="parsed">Mr. KUSTOFF of Tennessee</name>
+<name type="authority-fnf">David Kustoff</name>
+<name type="authority-lnf">Kustoff, David</name>
+</congMember>
+<congMember authorityId="2072" bioGuideId="D000614" chamber="H" congress="115" gpoId="8220" party="R" role="SPEAKING" state="WI">
+<name type="parsed">Mr. DUFFY</name>
+<name type="authority-fnf">Sean P. Duffy</name>
+<name type="authority-lnf">Duffy, Sean P.</name>
+<name type="authority-other">Mr. Sean Duffy</name>
+</congMember>
+<congMember authorityId="711" bioGuideId="L000491" chamber="H" congress="115" gpoId="8111" party="R" role="SPEAKING" state="OK">
+<name type="parsed">Mr. LUCAS</name>
+<name type="authority-fnf">Frank D. Lucas</name>
+<name type="authority-lnf">Lucas, Frank D.</name>
+<name type="authority-other">Frank Lucas</name>
+</congMember>
+<USCode title="5">
+<section number="556"/>
+<section number="557"/>
+</USCode>
+<USCode title="12">
+<section detail="(j)" number="1785"/>
+<section detail="(a)(3)(A)" number="289"/>
+<section detail="et seq." number="3301"/>
+<section number="3302"/>
+<section detail="(3)" number="3302"/>
+<section number="4806"/>
+<section number="5514"/>
+</USCode>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 773  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 773</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Resolution 773  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H. Res. 773</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1116  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1116</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2155  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2155</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 3937  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 3937</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4061  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4061</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4293  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4293</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4545  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4545</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4545  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4545</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4545  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4545</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 4566  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 4566</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 5 Section 556</partNumber>
+<partNumber>Title 5 Section 557</partNumber>
+</titleInfo>
+<identifier type="USC citation">5 U.S.C. 556</identifier>
+<identifier type="USC citation">5 U.S.C. 557</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 12 Section 1785(j)</partNumber>
+<partNumber>Title 12 Section 289(a)(3)(A)</partNumber>
+<partNumber>Title 12 Section 3301et seq.</partNumber>
+<partNumber>Title 12 Section 3302</partNumber>
+<partNumber>Title 12 Section 3302(3)</partNumber>
+<partNumber>Title 12 Section 4806</partNumber>
+<partNumber>Title 12 Section 5514</partNumber>
+</titleInfo>
+<identifier type="USC citation">12 U.S.C. 1785(j)</identifier>
+<identifier type="USC citation">12 U.S.C. 289(a)(3)(A)</identifier>
+<identifier type="USC citation">12 U.S.C. 3301et seq.</identifier>
+<identifier type="USC citation">12 U.S.C. 3302</identifier>
+<identifier type="USC citation">12 U.S.C. 3302(3)</identifier>
+<identifier type="USC citation">12 U.S.C. 4806</identifier>
+<identifier type="USC citation">12 U.S.C. 5514</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 115-595</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional report citation">
+          H. Rept. 115-595</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>HOUSE</chamber>
+</extension>
+<relatedItem ID="P0b002ee199c8e69a" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 46</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-15/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-15/pdf/CREC-2018-03-15.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H1611</start>
+<end>H1654</end>
+</extent>
+<extent unit="pages">
+<start>S1741</start>
+<end>S1771</end>
+</extent>
+<extent unit="pages">
+<start>E317</start>
+<end>E331</end>
+</extent>
+<extent unit="pages">
+<start>D276</start>
+<end>D298</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-03-15</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>226 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-15</identifier>
+<identifier type="local">P0b002ee199c8e69a</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">CR15MR18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-03-30</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-03-30</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-03-15</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-03-15</accessId>
+<volume>164</volume>
+<issue>46</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

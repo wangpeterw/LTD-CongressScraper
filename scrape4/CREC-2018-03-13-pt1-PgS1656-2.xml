@@ -1,0 +1,590 @@
+<mods ID="id-CREC-2018-03-13-pt1-PgS1656-2" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-03-14</dateIngested>
+</extension>
+<titleInfo>
+<title>ECONOMIC GROWTH, REGULATORY RELIEF, AND CONSUMER PROTECTION ACT-- Continued</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-03-13/html/CREC-2018-03-13-pt1-PgS1656-2.htm">
+<identifier type="FDsys Unique ID">D09002ee1999eb35a</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-03-13/pdf/CREC-2018-03-13-pt1-PgS1656-2.pdf">
+<identifier type="FDsys Unique ID">D09002ee1999eb3de</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. S1656</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-03-13/CREC-2018-03-13-pt1-PgS1656-2</identifier>
+<identifier type="former granule identifier">cr13mr18-147</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-03-13/CREC-2018-03-13-pt1-PgS1656-2/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-13/pdf/CREC-2018-03-13-pt1-PgS1656-2.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-13/html/CREC-2018-03-13-pt1-PgS1656-2.htm</url>
+</location>
+<physicalDescription>
+<extent>29 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S1656</start>
+<end>S1684</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Dean Heller</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Heidi Heitkamp</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Elizabeth Warren</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Rob Portman</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jeff Flake</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>David Perdue</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bernard Sanders</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mike Lee</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Christopher S. Murphy</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Richard Durbin</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bill Nelson</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Charles E. Schumer</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Christopher A. Coons</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Thomas R. Carper</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Brian Schatz</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sherrod Brown</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Dianne Feinstein</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Benjamin L. Cardin</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Edward J. Markey</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Angus S. King Jr.</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Robert Menendez</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tom Udall</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jack Reed</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tammy Baldwin</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Sheldon Whitehouse</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>James M. Inhofe</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mazie K. Hirono</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Amy Klobuchar</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jeff Merkley</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Banking, Housing, and Urban Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. S1656</identifier>
+<extension>
+<searchTitle>ECONOMIC GROWTH, REGULATORY RELIEF, AND CONSUMER PROTECTION ACT-- Continued; Congressional Record Vol. 164, No. 44</searchTitle>
+<associatedBills>H.R. 1551, 115th Congress
+        </associatedBills>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2018-03-13-pt1-PgS1656-2</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2018-03-13</granuleDate>
+<bill congress="115" context="OTHER" number="54" type="SJRES"/>
+<bill congress="115" context="HEADERLINE" number="1551" type="HR"/>
+<bill congress="115" context="OTHER" number="1551" type="HR"/>
+<bill congress="115" context="OTHER" number="2155" type="S"/>
+<congCommittee authorityId="ssbk00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Banking, Housing, and Urban Affairs</name>
+<name type="authority-short">Banking</name>
+</congCommittee>
+<congMember authorityId="1863" bioGuideId="H001041" chamber="S" congress="115" gpoId="8060" party="R" role="SPEAKING" state="NV">
+<name type="parsed">Mr. HELLER</name>
+<name type="authority-fnf">Dean Heller</name>
+<name type="authority-lnf">Heller, Dean</name>
+</congMember>
+<congMember authorityId="2174" bioGuideId="H001069" chamber="S" congress="115" party="D" role="SPEAKING" state="ND">
+<name type="parsed">Ms. HEITKAMP</name>
+<name type="authority-fnf">Heidi Heitkamp</name>
+<name type="authority-lnf">Heitkamp, Heidi</name>
+</congMember>
+<congMember authorityId="2182" bioGuideId="W000817" chamber="S" congress="115" party="D" role="SPEAKING" state="MA">
+<name type="parsed">Ms. WARREN</name>
+<name type="authority-fnf">Elizabeth Warren</name>
+<name type="authority-lnf">Warren, Elizabeth</name>
+<name type="authority-other">Ms. Elizabeth A. Warren</name>
+</congMember>
+<congMember authorityId="924" bioGuideId="P000449" chamber="S" congress="115" gpoId="8266" party="R" role="SPEAKING" state="OH">
+<name type="parsed">Mr. PORTMAN</name>
+<name type="authority-fnf">Rob Portman</name>
+<name type="authority-lnf">Portman, Rob</name>
+</congMember>
+<congMember authorityId="1633" bioGuideId="F000444" chamber="S" congress="115" gpoId="7803" party="R" role="SPEAKING" state="AZ">
+<name type="parsed">Mr. FLAKE</name>
+<name type="authority-fnf">Jeff Flake</name>
+<name type="authority-lnf">Flake, Jeff</name>
+</congMember>
+<congMember authorityId="2286" bioGuideId="P000612" chamber="S" congress="115" party="R" role="SPEAKING" state="GA">
+<name type="parsed">Mr. PERDUE</name>
+<name type="authority-fnf">David Perdue</name>
+<name type="authority-lnf">Perdue, David</name>
+<name type="authority-other">Mr. David Alfred Perdue</name>
+</congMember>
+<congMember authorityId="1010" bioGuideId="S000033" chamber="S" congress="115" gpoId="8270" party="I" role="SPEAKING" state="VT">
+<name type="parsed">Mr. SANDERS</name>
+<name type="authority-fnf">Bernard Sanders</name>
+<name type="authority-lnf">Sanders, Bernard</name>
+</congMember>
+<congMember authorityId="2080" bioGuideId="L000577" chamber="S" congress="115" gpoId="8303" party="R" role="SPEAKING" state="UT">
+<name type="parsed">Mr. LEE</name>
+<name type="authority-fnf">Mike Lee</name>
+<name type="authority-lnf">Lee, Mike</name>
+</congMember>
+<congMember authorityId="1837" bioGuideId="M001169" chamber="S" congress="115" gpoId="7870" party="D" role="SPEAKING" state="CT">
+<name type="parsed">Mr. MURPHY</name>
+<name type="authority-fnf">Christopher S. Murphy</name>
+<name type="authority-lnf">Murphy, Christopher S.</name>
+<name type="authority-other">Mr. Christopher Murphy</name>
+</congMember>
+<congMember authorityId="326" bioGuideId="D000563" chamber="S" congress="115" gpoId="8326" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Mr. DURBIN</name>
+<name type="authority-fnf">Richard Durbin</name>
+<name type="authority-lnf">Durbin, Richard</name>
+<name type="authority-other">Richard J. Durbin</name>
+</congMember>
+<congMember authorityId="859" bioGuideId="N000032" chamber="S" congress="115" gpoId="8236" party="D" role="SPEAKING" state="FL">
+<name type="parsed">Mr. NELSON</name>
+<name type="authority-fnf">Bill Nelson</name>
+<name type="authority-lnf">Nelson, Bill</name>
+<name type="authority-other">Clarence William Nelson</name>
+</congMember>
+<congMember authorityId="1036" bioGuideId="S000148" chamber="S" congress="115" gpoId="8279" party="D" role="SPEAKING" state="NY">
+<name type="parsed">Mr. SCHUMER</name>
+<name type="authority-fnf">Charles E. Schumer</name>
+<name type="authority-lnf">Schumer, Charles E.</name>
+<name type="authority-other">Charles Schumer</name>
+</congMember>
+<congMember authorityId="1984" bioGuideId="C001088" chamber="S" congress="115" gpoId="8297" party="D" role="SPEAKING" state="DE">
+<name type="parsed">Mr. COONS</name>
+<name type="authority-fnf">Christopher A. Coons</name>
+<name type="authority-lnf">Coons, Christopher A.</name>
+<name type="authority-other">Mr. Christopher Coons</name>
+</congMember>
+<congMember authorityId="179" bioGuideId="C000174" chamber="S" congress="115" gpoId="8283" party="D" role="SPEAKING" state="DE">
+<name type="parsed">Mr. CARPER</name>
+<name type="authority-fnf">Thomas R. Carper</name>
+<name type="authority-lnf">Carper, Thomas R.</name>
+<name type="authority-other">Thomas Carper</name>
+</congMember>
+<congMember authorityId="2173" bioGuideId="S001194" chamber="S" congress="115" party="D" role="SPEAKING" state="HI">
+<name type="parsed">Mr. SCHATZ</name>
+<name type="authority-fnf">Brian Schatz</name>
+<name type="authority-lnf">Schatz, Brian</name>
+</congMember>
+<congMember authorityId="136" bioGuideId="B000944" chamber="S" congress="115" gpoId="8309" party="D" role="SPEAKING" state="OH">
+<name type="parsed">Mr. BROWN</name>
+<name type="authority-fnf">Sherrod Brown</name>
+<name type="authority-lnf">Brown, Sherrod</name>
+</congMember>
+<congMember authorityId="1332" bioGuideId="F000062" chamber="S" congress="115" gpoId="8338" party="D" role="SPEAKING" state="CA">
+<name type="parsed">Mrs. FEINSTEIN</name>
+<name type="authority-fnf">Dianne Feinstein</name>
+<name type="authority-lnf">Feinstein, Dianne</name>
+</congMember>
+<congMember authorityId="174" bioGuideId="C000141" chamber="S" congress="115" gpoId="8287" party="D" role="SPEAKING" state="MD">
+<name type="parsed">Mr. CARDIN</name>
+<name type="authority-fnf">Benjamin L. Cardin</name>
+<name type="authority-lnf">Cardin, Benjamin L.</name>
+<name type="authority-other">Benjamin Cardin</name>
+</congMember>
+<congMember authorityId="735" bioGuideId="M000133" chamber="S" congress="115" gpoId="7972" party="D" role="SPEAKING" state="MA">
+<name type="parsed">Mr. MARKEY</name>
+<name type="authority-fnf">Edward J. Markey</name>
+<name type="authority-lnf">Markey, Edward J.</name>
+<name type="authority-other">Edward Markey</name>
+</congMember>
+<congMember authorityId="2185" bioGuideId="K000383" chamber="S" congress="115" party="I" role="SPEAKING" state="ME">
+<name type="parsed">Mr. KING</name>
+<name type="authority-fnf">Angus S. King Jr.</name>
+<name type="authority-lnf">King, Angus S., Jr.</name>
+<name type="authority-other">Mr. Angus King Jr.</name>
+</congMember>
+<congMember authorityId="791" bioGuideId="M000639" chamber="S" congress="115" gpoId="8239" party="D" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. MENENDEZ</name>
+<name type="authority-fnf">Robert Menendez</name>
+<name type="authority-lnf">Menendez, Robert</name>
+</congMember>
+<congMember authorityId="1567" bioGuideId="U000039" chamber="S" congress="115" gpoId="8260" party="D" role="SPEAKING" state="NM">
+<name type="parsed">Mr. UDALL</name>
+<name type="authority-fnf">Tom Udall</name>
+<name type="authority-lnf">Udall, Tom</name>
+</congMember>
+<congMember authorityId="949" bioGuideId="R000122" chamber="S" congress="115" gpoId="8272" party="D" role="SPEAKING" state="RI">
+<name type="parsed">Mr. REED</name>
+<name type="authority-fnf">Jack Reed</name>
+<name type="authority-lnf">Reed, Jack</name>
+<name type="authority-other">John Reed</name>
+</congMember>
+<congMember authorityId="1558" bioGuideId="B001230" chamber="S" congress="115" gpoId="8215" party="D" role="SPEAKING" state="WI">
+<name type="parsed">Ms. BALDWIN</name>
+<name type="authority-fnf">Tammy Baldwin</name>
+<name type="authority-lnf">Baldwin, Tammy</name>
+</congMember>
+<congMember authorityId="1823" bioGuideId="W000802" chamber="S" congress="115" gpoId="8264" party="D" role="SPEAKING" state="RI">
+<name type="parsed">Mr. WHITEHOUSE</name>
+<name type="authority-fnf">Sheldon Whitehouse</name>
+<name type="authority-lnf">Whitehouse, Sheldon</name>
+</congMember>
+<congMember authorityId="583" bioGuideId="I000024" chamber="S" congress="115" gpoId="8322" party="R" role="SPEAKING" state="OK">
+<name type="parsed">Mr. INHOFE</name>
+<name type="authority-fnf">James M. Inhofe</name>
+<name type="authority-lnf">Inhofe, James M.</name>
+<name type="authority-other">Jim Inhofe</name>
+</congMember>
+<congMember authorityId="1844" bioGuideId="H001042" chamber="S" congress="115" gpoId="7913" party="D" role="SPEAKING" state="HI">
+<name type="parsed">Ms. HIRONO</name>
+<name type="authority-fnf">Mazie K. Hirono</name>
+<name type="authority-lnf">Hirono, Mazie K.</name>
+<name type="authority-other">Ms. Mazie Hirono</name>
+</congMember>
+<congMember authorityId="1826" bioGuideId="K000367" chamber="S" congress="115" gpoId="8249" party="D" role="SPEAKING" state="MN">
+<name type="parsed">Ms. KLOBUCHAR</name>
+<name type="authority-fnf">Amy Klobuchar</name>
+<name type="authority-lnf">Klobuchar, Amy</name>
+</congMember>
+<congMember authorityId="1900" bioGuideId="M001176" chamber="S" congress="115" gpoId="8238" party="D" role="SPEAKING" state="OR">
+<name type="parsed">Mr. MERKLEY</name>
+<name type="authority-fnf">Jeff Merkley</name>
+<name type="authority-lnf">Merkley, Jeff</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Joint Resolution 54  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S.J. Res. 54</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1551  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1551</identifier>
+<extension>
+<congress>115</congress>
+<context>HEADERLINE</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 1551  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 1551</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States Senate Bill 2155  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">S. 2155</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem ID="P0b002ee1999e7c70" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 44</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-13/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-13/pdf/CREC-2018-03-13.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H1509</start>
+<end>H1544</end>
+</extent>
+<extent unit="pages">
+<start>S1645</start>
+<end>S1693</end>
+</extent>
+<extent unit="pages">
+<start>E297</start>
+<end>E307</end>
+</extent>
+<extent unit="pages">
+<start>D259</start>
+<end>D264</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-03-13</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>204 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-03-13</identifier>
+<identifier type="local">P0b002ee1999e7c70</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr13mr18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-03-14</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-03-14</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-03-13</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-03-13</accessId>
+<volume>164</volume>
+<issue>44</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>

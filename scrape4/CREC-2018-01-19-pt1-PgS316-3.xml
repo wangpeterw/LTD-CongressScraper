@@ -1,0 +1,561 @@
+<mods ID="id-CREC-2018-01-19-pt1-PgS316-3" version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:exslt="http://exslt.org/common" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>CREC</collectionCode>
+<category>Proceedings of Congress and General Congressional Publications</category>
+<waisDatabaseName>2018_record</waisDatabaseName>
+<branch>legislative</branch>
+<dateIngested>2018-01-20</dateIngested>
+</extension>
+<titleInfo>
+<title>FEDERAL REGISTER PRINTING SAVINGS ACT OF 2017</title>
+<partName>Senate</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-19/html/CREC-2018-01-19-pt1-PgS316-3.htm">
+<identifier type="FDsys Unique ID">D09002ee1980d6ffd</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/CREC-2018-01-19/pdf/CREC-2018-01-19-pt1-PgS316-3.pdf">
+<identifier type="FDsys Unique ID">D09002ee1980d7924</identifier>
+</relatedItem>
+<identifier type="congressional record citation">164 Cong. Rec. S316</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/CREC-2018-01-19/CREC-2018-01-19-pt1-PgS316-3</identifier>
+<identifier type="former granule identifier">cr19ja18-146</identifier>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/granule/CREC-2018-01-19/CREC-2018-01-19-pt1-PgS316-3/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-19/pdf/CREC-2018-01-19-pt1-PgS316-3.pdf</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-19/html/CREC-2018-01-19-pt1-PgS316-3.htm</url>
+</location>
+<physicalDescription>
+<extent>29 p.</extent>
+</physicalDescription>
+<part type="article">
+<extent unit="pages">
+<start>S316</start>
+<end>S344</end>
+</extent>
+</part>
+<name type="personal">
+<namePart>Richard Durbin</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Orrin G. Hatch</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Chris Van Hollen</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Edward J. Markey</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mike Lee</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Bernard Sanders</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Thune</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Benjamin L. Cardin</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Ron Wyden</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Dan Sullivan</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Jon Tester</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Cory Gardner</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Barrasso</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Tim Kaine</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Joe Donnelly</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Thom Tillis</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>James Lankford</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Cornyn</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>John Boozman</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Steve Daines</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Robert P. Casey Jr.</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Mitch McConnell</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="personal">
+<namePart>Robert Menendez</namePart>
+<affiliation>United States Senate</affiliation>
+<role>
+<roleTerm type="text">speaking</roleTerm>
+</role>
+<description>United States Congress Member</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Appropriations</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Congress</namePart>
+<namePart>Senate</namePart>
+<namePart>Committee on Veterans' Affairs</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+<roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<identifier type="preferred citation">164 Cong. Rec. S316</identifier>
+<extension>
+<searchTitle>FEDERAL REGISTER PRINTING SAVINGS ACT OF 2017; Congressional Record Vol. 164, No. 12</searchTitle>
+<granuleClass>SENATE</granuleClass>
+<accessId>CREC-2018-01-19-pt1-PgS316-3</accessId>
+<subGranuleClass>ALLOTHER</subGranuleClass>
+<pagePrefix>S</pagePrefix>
+<bookNumber>1</bookNumber>
+<chamber>SENATE</chamber>
+<granuleDate>2018-01-19</granuleDate>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1903"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1904"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1903"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1905"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1906"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1905"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1907"/>
+<amendment chamber="SENATE" congress="115" context="OTHER" number="1906"/>
+<bill congress="115" context="FIRSTPARAGRAPH" number="195" type="HR"/>
+<bill congress="115" context="OTHER" number="195" type="HR"/>
+<congCommittee authorityId="ssap00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Appropriations</name>
+<name type="authority-short">Appropriations</name>
+</congCommittee>
+<congCommittee authorityId="ssva00" chamber="S" congress="115" type="S">
+<name type="authority-standard">Committee on Veterans' Affairs</name>
+<name type="authority-short">Veterans' Affairs</name>
+</congCommittee>
+<congMember authorityId="326" bioGuideId="D000563" chamber="S" congress="115" gpoId="8326" party="D" role="SPEAKING" state="IL">
+<name type="parsed">Mr. DURBIN</name>
+<name type="authority-fnf">Richard Durbin</name>
+<name type="authority-lnf">Durbin, Richard</name>
+<name type="authority-other">Richard J. Durbin</name>
+</congMember>
+<congMember authorityId="1351" bioGuideId="H000338" chamber="S" congress="115" gpoId="8314" party="R" role="SPEAKING" state="UT">
+<name type="parsed">Mr. HATCH</name>
+<name type="authority-fnf">Orrin G. Hatch</name>
+<name type="authority-lnf">Hatch, Orrin G.</name>
+<name type="authority-other">Orrin Grant Hatch</name>
+</congMember>
+<congMember authorityId="1729" bioGuideId="V000128" chamber="S" congress="115" gpoId="7983" party="D" role="SPEAKING" state="MD">
+<name type="parsed">Mr. VAN HOLLEN</name>
+<name type="authority-fnf">Chris Van Hollen</name>
+<name type="authority-lnf">Van Hollen, Chris</name>
+</congMember>
+<congMember authorityId="735" bioGuideId="M000133" chamber="S" congress="115" gpoId="7972" party="D" role="SPEAKING" state="MA">
+<name type="parsed">Mr. MARKEY</name>
+<name type="authority-fnf">Edward J. Markey</name>
+<name type="authority-lnf">Markey, Edward J.</name>
+<name type="authority-other">Edward Markey</name>
+</congMember>
+<congMember authorityId="2080" bioGuideId="L000577" chamber="S" congress="115" gpoId="8303" party="R" role="SPEAKING" state="UT">
+<name type="parsed">Mr. LEE</name>
+<name type="authority-fnf">Mike Lee</name>
+<name type="authority-lnf">Lee, Mike</name>
+</congMember>
+<congMember authorityId="1010" bioGuideId="S000033" chamber="S" congress="115" gpoId="8270" party="I" role="SPEAKING" state="VT">
+<name type="parsed">Mr. SANDERS</name>
+<name type="authority-fnf">Bernard Sanders</name>
+<name type="authority-lnf">Sanders, Bernard</name>
+</congMember>
+<congMember authorityId="1534" bioGuideId="T000250" chamber="S" congress="115" gpoId="8257" party="R" role="SPEAKING" state="SD">
+<name type="parsed">Mr. THUNE</name>
+<name type="authority-fnf">John Thune</name>
+<name type="authority-lnf">Thune, John</name>
+<name type="authority-other">John R. Thune</name>
+</congMember>
+<congMember authorityId="174" bioGuideId="C000141" chamber="S" congress="115" gpoId="8287" party="D" role="SPEAKING" state="MD">
+<name type="parsed">Mr. CARDIN</name>
+<name type="authority-fnf">Benjamin L. Cardin</name>
+<name type="authority-lnf">Cardin, Benjamin L.</name>
+<name type="authority-other">Benjamin Cardin</name>
+</congMember>
+<congMember authorityId="1247" bioGuideId="W000779" chamber="S" congress="115" gpoId="8265" party="D" role="SPEAKING" state="OR">
+<name type="parsed">Mr. WYDEN</name>
+<name type="authority-fnf">Ron Wyden</name>
+<name type="authority-lnf">Wyden, Ron</name>
+</congMember>
+<congMember authorityId="2290" bioGuideId="S001198" chamber="S" congress="115" party="R" role="SPEAKING" state="AK">
+<name type="parsed">Mr. SULLIVAN</name>
+<name type="authority-fnf">Dan Sullivan</name>
+<name type="authority-lnf">Sullivan, Dan</name>
+</congMember>
+<congMember authorityId="1829" bioGuideId="T000464" chamber="S" congress="115" gpoId="8258" party="D" role="SPEAKING" state="MT">
+<name type="parsed">Mr. TESTER</name>
+<name type="authority-fnf">Jon Tester</name>
+<name type="authority-lnf">Tester, Jon</name>
+</congMember>
+<congMember authorityId="1998" bioGuideId="G000562" chamber="S" congress="115" gpoId="7862" party="R" role="SPEAKING" state="CO">
+<name type="parsed">Mr. GARDNER</name>
+<name type="authority-fnf">Cory Gardner</name>
+<name type="authority-lnf">Gardner, Cory</name>
+</congMember>
+<congMember authorityId="1881" bioGuideId="B001261" chamber="S" congress="115" gpoId="8300" party="R" role="SPEAKING" state="WY">
+<name type="parsed">Mr. BARRASSO</name>
+<name type="authority-fnf">John Barrasso</name>
+<name type="authority-lnf">Barrasso, John</name>
+</congMember>
+<congMember authorityId="2176" bioGuideId="K000384" chamber="S" congress="115" party="D" role="SPEAKING" state="VA">
+<name type="parsed">Mr. KAINE</name>
+<name type="authority-fnf">Tim Kaine</name>
+<name type="authority-lnf">Kaine, Tim</name>
+<name type="authority-other">Mr. Timothy Kaine</name>
+</congMember>
+<congMember authorityId="1850" bioGuideId="D000607" chamber="S" congress="115" gpoId="7941" party="D" role="SPEAKING" state="IN">
+<name type="parsed">Mr. DONNELLY</name>
+<name type="authority-fnf">Joe Donnelly</name>
+<name type="authority-lnf">Donnelly, Joe</name>
+</congMember>
+<congMember authorityId="2291" bioGuideId="T000476" chamber="S" congress="115" party="R" role="SPEAKING" state="NC">
+<name type="parsed">Mr. TILLIS</name>
+<name type="authority-fnf">Thom Tillis</name>
+<name type="authority-lnf">Tillis, Thom</name>
+<name type="authority-other">Mr. Thomas Roland Tillis</name>
+</congMember>
+<congMember authorityId="2050" bioGuideId="L000575" chamber="S" congress="115" gpoId="8113" party="R" role="SPEAKING" state="OK">
+<name type="parsed">Mr. LANKFORD</name>
+<name type="authority-fnf">James Lankford</name>
+<name type="authority-lnf">Lankford, James</name>
+</congMember>
+<congMember authorityId="1692" bioGuideId="C001056" chamber="S" congress="115" gpoId="8295" party="R" role="SPEAKING" state="TX">
+<name type="parsed">Mr. CORNYN</name>
+<name type="authority-fnf">John Cornyn</name>
+<name type="authority-lnf">Cornyn, John</name>
+</congMember>
+<congMember authorityId="1687" bioGuideId="B001236" chamber="S" congress="115" gpoId="8247" party="R" role="SPEAKING" state="AR">
+<name type="parsed">Mr. BOOZMAN</name>
+<name type="authority-fnf">John Boozman</name>
+<name type="authority-lnf">Boozman, John</name>
+</congMember>
+<congMember authorityId="2138" bioGuideId="D000618" chamber="S" congress="115" party="R" role="SPEAKING" state="MT">
+<name type="parsed">Mr. DAINES</name>
+<name type="authority-fnf">Steve Daines</name>
+<name type="authority-lnf">Daines, Steve</name>
+</congMember>
+<congMember authorityId="1828" bioGuideId="C001070" chamber="S" congress="115" gpoId="8282" party="D" role="SPEAKING" state="PA">
+<name type="parsed">Mr. CASEY</name>
+<name type="authority-fnf">Robert P. Casey Jr.</name>
+<name type="authority-lnf">Casey, Robert P., Jr.</name>
+<name type="authority-other">Mr. Bob Casey Jr.</name>
+</congMember>
+<congMember authorityId="1395" bioGuideId="M000355" chamber="S" congress="115" gpoId="8254" party="R" role="SPEAKING" state="KY">
+<name type="parsed">Mr. McCONNELL</name>
+<name type="authority-fnf">Mitch McConnell</name>
+<name type="authority-lnf">McConnell, Mitch</name>
+</congMember>
+<congMember authorityId="791" bioGuideId="M000639" chamber="S" congress="115" gpoId="8239" party="D" role="SPEAKING" state="NJ">
+<name type="parsed">Mr. MENENDEZ</name>
+<name type="authority-fnf">Robert Menendez</name>
+<name type="authority-lnf">Menendez, Robert</name>
+</congMember>
+</extension>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 195  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 195</identifier>
+<extension>
+<congress>115</congress>
+<context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>United States House Bill 195  (115th Congress)</title>
+</titleInfo>
+<identifier type="Congressional Bill citation">H.R. 195</identifier>
+<extension>
+<congress>115</congress>
+<context>OTHER</context>
+</extension>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1903</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1904</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1903</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1905</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1906</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1905</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1907</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem type="isReferencedBy">
+<identifier type="congressional amendment citation"> Amendment No. 1906</identifier>
+</relatedItem>
+<extension>
+<congress>115</congress>
+<chamber>SENATE</chamber>
+</extension>
+<relatedItem ID="P0b002ee1980d731e" type="host">
+<titleInfo>
+<title>Congressional Record</title>
+<partNumber>Vol. 164, no. 12</partNumber>
+</titleInfo>
+<location>
+<url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-19/content-detail.html</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-19/pdf/CREC-2018-01-19.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>H557</start>
+<end>H584</end>
+</extent>
+<extent unit="pages">
+<start>S315</start>
+<end>S357</end>
+</extent>
+<extent unit="pages">
+<start>E69</start>
+<end>E81</end>
+</extent>
+<extent unit="pages">
+<start>D64</start>
+<end>D68</end>
+</extent>
+</part>
+<originInfo>
+<publisher>U.S. Government Publishing Office</publisher>
+<dateIssued encoding="w3cdtf">2018-01-19</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>178 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/CREC-2018-01-19</identifier>
+<identifier type="local">P0b002ee1980d731e</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr19ja18</identifier>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-01-20</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-01-20</recordChangeDate>
+<recordIdentifier source="DGPO">CREC-2018-01-19</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+<docClass>CREC</docClass>
+<accessId>CREC-2018-01-19</accessId>
+<volume>164</volume>
+<issue>12</issue>
+<congress>115</congress>
+<session>2</session>
+<bookCount>1</bookCount>
+</extension>
+</relatedItem>
+</mods>
