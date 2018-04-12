@@ -5,7 +5,6 @@ ltd-blue #2E6171
 ltd-lightblue #AFD9D3
 ltd-darkblue #1B3949*/
 
-<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Lato|Merriweather|Source+Sans+Pro');
 
 .navbar {
@@ -25,7 +24,7 @@ ltd-darkblue #1B3949*/
 	border: 0;
 	font-family: 'Lato', sans-serif;
 }
-=======
+
 .navbar {
 	margin-bottom: 0px;
 }
@@ -47,4 +46,26 @@ ltd-darkblue #1B3949*/
 .team {
 	margin-top: 55px;
 }
->>>>>>> 5b5a26b9c56c40b4e11f7ed251853a3726bda637
+
+.team {
+	margin-top: 120px;
+	background-color: white;
+}
+
+.team h1 {
+	position: relative;
+	margin: 0;
+	color: #34393A;
+	font-size: 48;
+	font-family: 'Black Han Sans', sans-serif;
+	font-weight: 50%;
+	line-height: 1.3em/52px;
+}
+
+.team .member-img {
+	width: 250px;
+  height: 250px;
+  border: 2px solid transparent;
+  border-radius: 50%;
+  transition: all 0.5s;
+}
