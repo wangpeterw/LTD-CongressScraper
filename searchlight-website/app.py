@@ -79,24 +79,71 @@ def speakers():
 	cursor = connection.cursor()
 
 	#Query that gets the records that match the query
-	all_records_query = "SELECT hearing.hearing_title as title, hearing.date as date, speech.text as text, \
-				speaker.surname as name FROM hearing inner join speech on \
-				speech.hearing_id = hearing.hearing_id inner join speaker \
-				on speaker.speech_id = speech.speech_id %s %s;"
+	# all_records_query = "SELECT speakers_2017_Jan_3_to_10.session_title as title, \
+	#  			speakers_2017_Jan_3_to_10.date as date, speakers_2017_Jan_3_to_10.speech_text as text, \
+	# 			speakers_2017_Jan_3_to_10.last_name as surname, speakers_2017_Jan_3_to_10.first_name as first_name, \
+	# 			 FROM speakers_2017_Jan_3_to_10 inner join speeches_2017_Jan_3_to_10 on \
+	# 			speakers_2017_Jan_3_to_10.speaker_id = speeches_2017_Jan_3_to_10.speaker_id \
+	# 			%s %s;"
+
+	all_records_query = "SELECT * FROM speakers_2017_Jan_3_to_10 as speakers, speeches_2017_Jan_3_to_10 as speeches \
+						inner join speeches on speakers.speaker_id = speeches.speaker_id \
+						%s %s;"
 
 	where_clause = ""
-	if speaker or year:
+	if speaker_surname or speaker_firstname or district_query or state_query or party_query or type_query or month or day or year:
 		where_clause = "where "
-		if speaker:
+		where_array = []
+		condition_tuple = []
+
+		if speaker_surname:
+			where_array.append("last_name like ? ")
+			condition_tuple.append("%" + str(speaker_surname) + "%")
+			+ str(speaker_surname))
+		if speaker_firstname:
+			where_array.append("first_name like ? ")
+			condition_tuple.append("%" + str(speaker_firstname_raw) + "%")
+		if type_query:
+			where_array.append("type = ? ")
+			condition_tuple.append(str(type_query))
+		if party_query:
+			where_array.append("party = " + str(party_query))
+			condition_tuple.append()
+		if state_query:
+			where_array.append("state = " + str(state_query))
+		if district_query:
+			where_array.append("district = " + str(district_query)
+		if month:
+			where_array.append("month = " + str(month))
+		if day:
+			where_array.append("day = " + str(day))
+		if year:
+			where_array.append("year = " + str(year))
+
+	where_clause = "where " +
+	start_var = true;
+	for query in where_array:
+		if start_var:
+			where_clause += query
+			start_var = false
+		else:
+			where_clause += " and " + query
+	limit_statement = "limit 20" if format_ != "csv" else ""
+
+
+"""		if speaker:
 			where_clause += " speaker.surname = ? " if speaker else ""
 		if year and speaker:
 			where_clause += " and "
 		if year:
 			where_clause += " hearing.date like ? " if len(year)>2 else ""
 	limit_statement = "limit 20" if format_ != "csv" else ""
+"""
 
 	all_records_query = all_records_query % (where_clause, limit_statement)
 	print(all_records_query)
+
+	cursor
 
 	if speaker and year:
 		cursor.execute(all_records_query ,(speaker.lower(), "%"+ year))
@@ -134,15 +181,15 @@ def speakers():
 		months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 		days = [x for x in range(1, 32)]
 		parties = ['R', 'D', 'I']
-		states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DC", "DE", "FL", "GA", 
-		"HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", 
-		"MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", 
-		"NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", 
+		states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DC", "DE", "FL", "GA",
+		"HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD",
+		"MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ",
+		"NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC",
 		"SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"]
 		districts = [x for x in range(1, 436)]
 		types = ['SENATOR', 'REPRESENTATIVE', 'DELEGATE']
 		selected_year = int(year) if year else None
-		return flask.render_template('speaker.html', records=records, no_of_records=no_of_records[0]['count'], 
+		return flask.render_template('speaker.html', records=records, no_of_records=no_of_records[0]['count'],
 			speaker=speaker, years=years, months=months, days=days, states=states, parties=parties, districts=districts,
 			types=types, selected_year=selected_year)
 
@@ -178,7 +225,7 @@ def download_csv(data, filename):
 def first_name_format(name):
 	first_char = name[0]
 	rest_name = name[1:]
-	return first_char.upper() + rest_name.lower() 
+	return first_char.upper() + rest_name.lower()
 # function to make first name Rubio
 
 if __name__ == '__main__':
