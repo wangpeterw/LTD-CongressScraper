@@ -69,3 +69,20 @@ ltd-darkblue #1B3949*/
   border-radius: 50%;
   transition: all 0.5s;
 }
+
+.team td {
+	padding-bottom: 60px
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+
+.team .info {
+    text-align: left;
+    padding-left: 20px;
+    text-justify: auto;
+}
