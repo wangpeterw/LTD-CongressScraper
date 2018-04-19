@@ -132,7 +132,7 @@ def speakers():
 
 		cursor.execute(all_records_query, condition_tuple)
 		records = cursor.fetchall()
-		print(records)
+		#print(records)
 		connection.close()
 
 
