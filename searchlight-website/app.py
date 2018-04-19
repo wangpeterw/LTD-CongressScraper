@@ -86,20 +86,21 @@ def speakers():
 	# 			speakers_2017_Jan_3_to_10.speaker_id = speeches_2017_Jan_3_to_10.speaker_id \
 	# 			%s %s;"
 
-	all_records_query = "SELECT * FROM speakers_2017_Jan_3_to_10 as speakers, speeches_2017_Jan_3_to_10 as speeches \
-						inner join speeches on speakers.speaker_id = speeches.speaker_id \
+	all_records_query = "SELECT * FROM speakers_2017_Jan_3_to_10, speeches_2017_Jan_3_to_10 \
+						inner join speeches_2017_Jan_3_to_10 on speakers_2017_Jan_3_to_10.speaker_id = speeches_2017_Jan_3_to_10.speaker_id \
 						%s %s;"
-
-	where_clause = "where "
+	records = []
+	where_clause = ""
 	where_array = []
 	condition_tuple = []
 	if speaker_surname or speaker_firstname or district_query or state_query or party_query or type_query or month or day or year:
+		where_clause += "where "
 		if speaker_surname:
 			where_array.append("last_name like ? ")
-			condition_tuple.append("%" + str(speaker_surname) + "%")
+			condition_tuple.append("%" + speaker_surname + "%")
 		if speaker_firstname:
 			where_array.append("first_name like ? ")
-			condition_tuple.append("%" + str(speaker_firstname_raw) + "%")
+			condition_tuple.append("%" + speaker_firstname_raw + "%")
 		if type_query:
 			where_array.append("type = ? ")
 			condition_tuple.append(str(type_query))
@@ -113,7 +114,7 @@ def speakers():
 			where_array.append("day = ? ")
 			condition_tuple.append(str(day))
 		if year:
-			where_array.append("year = ? ")
+			where_array.append("year = ? " if len(year) > 2 else "")
 			condition_tuple.append(str(year))
 		if month:
 			where_array.append("month = ? ")
@@ -122,14 +123,16 @@ def speakers():
 			where_array.append("district = ? ")
 			condition_tuple.append(str(district_query))
 
+		where_clause += "and ".join(where_array)
 		condition_tuple = tuple(condition_tuple)
-	limit_statement = "LIMIT 20" if format_ != "csv" else ""
-	all_records_query = all_records_query % (where_clause, limit_statement)
-	print(all_records_query)
+		limit_statement = "LIMIT 20" if format_ != "csv" else ""
+		all_records_query = all_records_query % (where_clause, limit_statement)
+		print(all_records_query)
+		print(condition_tuple)
 
-	cursor.execute(all_records_query, condition_tuple)
-	records = cursor.fetchall()
-	connection.close()
+		cursor.execute(all_records_query, condition_tuple)
+		records = cursor.fetchall()
+		connection.close()
 
 
 	#if speaker:
@@ -187,7 +190,7 @@ def speakers():
 		districts = [x for x in range(1, 436)]
 		types = ['SENATOR', 'REPRESENTATIVE', 'DELEGATE']
 		selected_year = int(year) if year else None
-		return flask.render_template('speaker.html', records=records, no_of_records=no_of_records[0]['count'],
+		return flask.render_template('speaker.html', records=records, no_of_records=0,
 			speaker=speaker, years=years, months=months, days=days, states=states, parties=parties, districts=districts,
 			types=types, selected_year=selected_year)
 
