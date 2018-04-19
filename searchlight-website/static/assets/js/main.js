@@ -14,5 +14,7 @@ $('#filter-btn').click(function() {
 });
 
 $('#download-btn').click(function() {
-	window.location.href="/query?format=csv&surname=" + $("#speaker").val() + "&year=" + $("#year").val()
+	window.location.href="/query?format=csv&surname=" + $("#surname").val() + "&firstname=" + $("#firstname").val() +
+	"&district=" + $("#district").val() + "&state=" + $("#state").val() + "&party=" + $("#party").val() + "&type=" + $("#type").val() +
+	"&month=" + $("#month").val() + "&day=" + $("#day").val() + "&year=" + $("#year").val()
 });

@@ -178,7 +178,7 @@ def speakers():
 	#Send the information back to the view
 	#if the user specified csv send the data as a file for download else visualize the data on the web page
 	if format_ == "csv":
-		return download_csv(records, "speeches_%s.csv" % (speaker.lower()))
+		return download_csv(records, "speeches_%s.csv" % (speaker_surname.lower()))
 	else:
 		years = [x for x in range(2018, 1995, -1)]
 		months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
@@ -193,7 +193,8 @@ def speakers():
 		types = ['SENATOR', 'REPRESENTATIVE', 'DELEGATE']
 		selected_year = int(year) if year else None
 		return flask.render_template('speaker.html', records=records, no_of_records=0,
-			speaker=speaker, years=years, months=months, days=days, states=states, parties=parties, districts=districts,
+			speaker_firstname=speaker_firstname_raw, speaker_surname=speaker, 
+			years=years, months=months, days=days, states=states, parties=parties, districts=districts,
 			types=types, selected_year=selected_year)
 
 ########################################################################
