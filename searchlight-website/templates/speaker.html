@@ -137,30 +137,29 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-12 text-center">
+				<div class="text-center">
 					<table class="table table-striped thead-dark">
-						<thead class="text-center">
-							<td>Session Title</td>
-							<td>Month</td>
+						<thead class="text-left">
+							<td class="col-md-3">Session Title</td>
+<!-- 							<td>Month</td>
 							<td>Day</td>
-							<td>Year</td>
-							<td>First Name</td>
-							<td>Last Name</td>
-							<td>Word Count</td>
-							<td>Speech Text</td>
+							<td>Year</td> -->
+							<td class="col-md-1">Date</td>
+							<td class="col-md-1">First Name</td>
+							<td class="col-md-1">Last Name</td>
+							<td class="col-md-2">Word Count</td>
+							<td class="col-md-4">Speech Text</td>
 						</thead>
-						<tbody>
+						<tbody class="text-left">
 							{% if (records is defined) and records %}
 								{% for record in records %}
 									<tr>
-										<td>{{record.session_title}}</td>
-										<td>{{record.month}}</td>
-										<td>{{record.day}}</td>
-										<td>{{record.year}}</td>
-										<td>{{record.first_name}}</td>
-										<td>{{record.last_name}}</td>
-										<td>{{record.word_count}}</td>
-										<td>{{record.speech_text[0:100] + " ..."}}</td>
+										<td class="col-md-3">{{record.session_title}}</td>
+										<td class="col-md-1">{{date_format(record.month, record.day, record.year)}}</td>
+										<td class="col-md-1">{{record.first_name}}</td>
+										<td class="col-md-1">{{record.last_name}}</td>
+										<td class="col-md-2">{{record.word_count}}</td>
+										<td class="col-md-4">{{record.speech_text[0:100] + " ..."}}</td>
 										<!-- This line shows just the first 100 characters and cuts it after that -->
 									</tr>
 								{% endfor %}

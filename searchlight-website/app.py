@@ -195,7 +195,7 @@ def speakers():
 		return flask.render_template('speaker.html', records=records, no_of_records=0,
 			speaker_firstname=speaker_firstname_raw, speaker_surname=speaker, 
 			years=years, months=months, days=days, states=states, parties=parties, districts=districts,
-			types=types, selected_year=selected_year)
+			types=types, selected_year=selected_year, date_format=date_format)
 
 ########################################################################
 # The following are helper functions. They do not have a @app.route decorator
@@ -233,9 +233,9 @@ def first_name_format(name):
 # function to make first name Rubio
 
 def date_format(month, day, year):
-	month_dict = {'January' : '01', 'February' : '02', 'March': '03', 'April': '04', 'May': '05', 'June': '06', 'July': '07', 'August': '08', 'September': '09', 'October': '10', 'November': '11', 'December': '12'}
-	month_str = month_dict['month']
-	return month_str + '/' + str()
+	month_dict = {'January' : '1', 'February' : '2', 'March': '3', 'April': '4', 'May': '5', 'June': '6', 'July': '7', 'August': '8', 'September': '9', 'October': '10', 'November': '11', 'December': '12'}
+	month_str = month_dict[month]
+	return month_str + '/' + str(day) + '/' + str(year)
 if __name__ == '__main__':
 	app.debug=True
 	app.run()
