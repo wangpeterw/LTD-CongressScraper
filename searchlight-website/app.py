@@ -86,7 +86,7 @@ def speakers():
 	# 			speakers_2017_Jan_3_to_10.speaker_id = speeches_2017_Jan_3_to_10.speaker_id \
 	# 			%s %s;"
 
-	all_records_query = "SELECT * FROM speakers_2017_Jan_3_to_10, speeches_2017_Jan_3_to_10 \
+	all_records_query = "SELECT * FROM speakers_2017_Jan_3_to_10 \
 						inner join speeches_2017_Jan_3_to_10 on speakers_2017_Jan_3_to_10.speaker_id = speeches_2017_Jan_3_to_10.speaker_id \
 						%s %s;"
 	records = []
@@ -132,7 +132,9 @@ def speakers():
 
 		cursor.execute(all_records_query, condition_tuple)
 		records = cursor.fetchall()
+		print(records)
 		connection.close()
+
 
 
 	#if speaker:
