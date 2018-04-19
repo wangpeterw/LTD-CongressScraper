@@ -229,6 +229,10 @@ def first_name_format(name):
 	return first_char.upper() + rest_name.lower()
 # function to make first name Rubio
 
+def date_format(month, day, year):
+	month_dict = {'January' : '01', 'February' : '02', 'March': '03', 'April': '04', 'May': '05', 'June': '06', 'July': '07', 'August': '08', 'September': '09', 'October': '10', 'November': '11', 'December': '12'}
+	month_str = month_dict['month']
+	return month_str + '/' + str()
 if __name__ == '__main__':
 	app.debug=True
 	app.run()
