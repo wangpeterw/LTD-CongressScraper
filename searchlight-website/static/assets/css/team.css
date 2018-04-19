@@ -86,3 +86,11 @@ table {
     padding-left: 20px;
     text-justify: auto;
 }
+
+.team .team-members .team-members-row {
+	margin: 10px;
+}
+
+.team .team-members #omkar{
+	text-align: right;
+}
