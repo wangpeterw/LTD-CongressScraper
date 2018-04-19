@@ -140,25 +140,33 @@
 				<div class="col-md-12 text-center">
 					<table class="table table-striped thead-dark">
 						<thead class="text-center">
-							<td>Hearing Title</td>
-							<td>Date</td>
-							<td>Speaker</td>
-							<td>Speech</td>
+							<td>Session Title</td>
+							<td>Month</td>
+							<td>Day</td>
+							<td>Year</td>
+							<td>First Name</td>
+							<td>Last Name</td>
+							<td>Word Count</td>
+							<td>Speech Text</td>
 						</thead>
 						<tbody>
 							{% if (records is defined) and records %}
 								{% for record in records %}
 									<tr>
-										<td>{{record.title}}</td>
-										<td>{{record.date}}</td>
-										<td>{{record.name}}</td>
+										<td>{{record.session_title}}</td>
+										<td>{{record.month}}</td>
+										<td>{{record.day}}</td>
+										<td>{{record.year}}</td>
+										<td>{{record.first_name}}</td>
+										<td>{{record.last_name}}</td>
+										<td>{{record.word_count}}</td>
+										<td>{{record.speech_text[0:100] + " ..."}}</td>
 										<!-- This line shows just the first 100 characters and cuts it after that -->
-										<td>{{record.text[0:100] + " ..."}}</td>
 									</tr>
 								{% endfor %}
 							{% else %}
 							<tr>
-								<td colspan="4">No results</td>
+								<td colspan="8">No results</td>
 							</tr>
 							{% endif %}
 						</tbody>
