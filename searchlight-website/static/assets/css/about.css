@@ -39,3 +39,10 @@ ltd-darkblue #1B3949*/
 	font-weight: 50%;
 	line-height: 1.3em/52px;
 }
+
+.about p {
+	position: relative;
+	font-size: 16;
+	margin: 20px;
+
+}
