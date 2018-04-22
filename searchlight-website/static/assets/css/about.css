@@ -33,6 +33,7 @@ ltd-darkblue #1B3949*/
 .about h1 {
 	position: relative;
 	margin: 0;
+	margin-bottom: 20px;
 	color: #34393A;
 	font-size: 48;
 	font-family: 'Black Han Sans', sans-serif;
@@ -40,9 +41,12 @@ ltd-darkblue #1B3949*/
 	line-height: 1.3em/52px;
 }
 
-.about p {
+.about box {
+	position: relative;
+	margin: 20px;
+}
+
+.about box p {
 	position: relative;
 	font-size: 16;
-	margin: 20px;
-
 }
