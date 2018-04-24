@@ -332,8 +332,20 @@ for folder in list_of_dirs:
 
     newcol = make_array()
     for name in speeches.sort('speaker_id').column('speaker_id'):
+        if name == 'SOUZZI':
+            name = 'SUOZZI'
+            name_to_id['SUOZZI'] = name_to_id['SOUZZI']
+        if name == 'VANHOLLEN':
+            name = 'VAN HOLLEN'
+            name_to_id['VAN HOLLEN'] = name_to_id['VANHOLLEN']
+            print("Dict change happened")
+        if name == 'FISHCER':
+            name = 'FISCHER'
+            name_to_id['FISCHER'] = name_to_id['FISHCER']
         newcol = np.append(name_to_id[name], newcol)
-    speeches = speeches.sort('speaker_id').drop('speaker_id').with_column('speaker_id', np.flip(newcol, 0))
+    speeches = speeches.sort('speaker_id')
+    speeches = speeches.relabel('speaker_id', 'last_name_id')
+    speeches = speeches.with_column('speaker_id', np.flip(newcol, 0))
 
     title_column = make_array()
     year_column = make_array()
@@ -347,9 +359,9 @@ for folder in list_of_dirs:
         month_column = np.append(int(month), month_column)
         day_column = np.append(int(day), day_column)
 
-        title_column = np.flip(title_column, 0)
+    title_column = np.flip(title_column, 0)
     year_column = np.flip(year_column, 0)
-    mont_column = np.flip(month_column, 0)
+    month_column = np.flip(month_column, 0)
     day_column = np.flip(day_column, 0)
 
     speeches = speeches.drop('proceeding_id')
