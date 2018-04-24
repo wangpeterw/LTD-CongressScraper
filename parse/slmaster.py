@@ -42,7 +42,7 @@ def remove_space(regex):
 
 def sep_speech(string, folder_str):
     parse_file = ''
-    with open("/Users/halliday/Desktop/parsing/scrape1/" + folder_str + "/" + string) as file:
+    with open("/Users/halliday/Desktop/parsing/runparse/" + folder_str + "/" + string) as file:
         for line in file:
             parse_file += line
     parse_file = parse_file.replace('\n', '')
@@ -69,7 +69,7 @@ def sep_date_from_file(file):
 
 def find_title(folder_str, file_name):
     parse_file = ''
-    with open("/Users/halliday/Desktop/parsing/scrape1/" + folder_str + "/" + file_name) as file:
+    with open("/Users/halliday/Desktop/parsing/runparse/" + folder_str + "/" + file_name) as file:
         for line in file:
             parse_file += line
     parse_file = parse_file.replace('Mr. President', 'MrPresident')
@@ -90,7 +90,7 @@ def getCongMemberExtension(extensions, last_name):
             return extension
 
 def getCongMemberExtensionFromFile(folder_str, last_name, filename):
-    handler = open("/Users/halliday/Desktop/parsing/scrape1/" + folder_str + "/" + filename).read()
+    handler = open("/Users/halliday/Desktop/parsing/runparse/" + folder_str + "/" + filename).read()
     soup = Soup(handler, "lxml")
     extensions = soup.find_all('extension')
     for extension in extensions:
@@ -98,12 +98,13 @@ def getCongMemberExtensionFromFile(folder_str, last_name, filename):
         if last_name in ext:
             return extension
 
-def getCongMemberTag(congMemberExtension):
+def getCongMemberTag(last_name, congMemberExtension):
     contents = congMemberExtension.contents
     for tag in contents:
         tag_str = str(tag)
         if 'congmember' in tag_str:
-            return tag
+            if last_name in tag_str:
+                return tag
 
 def getParty(congMemberTag):
     return congMemberTag.attrs['party']
@@ -146,7 +147,7 @@ def getCongMemberInfoFromMaster(last_name, mods_filename):
         extension = getCongMemberExtension(master_extensions, last_name)
         if extension is None:
             return getCongMemberInfoFromLocal(last_name, mods_filename)
-        congMemberTag = getCongMemberTag(extension)
+        congMemberTag = getCongMemberTag(last_name, extension)
         if congMemberTag == None:
             return getCongMemberInfoFromLocal(last_name, mods_filename)
     except:
@@ -190,8 +191,11 @@ def getCongMemberInfoFromLocal(last_name, mods_filename):
         info = [99999999999999, 'First Name unavailable', last_name, 'Type Unavailable', 'Party Info Unavailable','state info unavailable', 'District Unavailable', 'BioGuideID unavailable', 'CongressID unavailable']
         return info
     info = make_array()
-    congMemberTag = getCongMemberTag(extension)
+    congMemberTag = getCongMemberTag(last_name, extension)
     
+    if congMemberTag is None:
+        return [99999999999999, 'First Name unavailable', last_name, 'Type Unavailable', 'Party Info Unavailable','state info unavailable', 'District Unavailable', 'BioGuideID unavailable', 'CongressID unavailable']
+
     congMemChamber = getChamber(congMemberTag)
     congMemType = 'N/A'
     if congMemChamber == 'H':
@@ -238,14 +242,13 @@ def getCongMemberInfoFromLocal(last_name, mods_filename):
 #Populate the Speech Table
 speech_count = 0
 count = 0
-list_of_dirs = os.listdir("/Users/halliday/Desktop/parsing/scrape1")
-
+list_of_dirs = os.listdir("/Users/halliday/Desktop/parsing/runparse")
+list_of_dirs.remove('.DS_Store')
 print(list_of_dirs)
 y = 0
-# list_of_dirs.remove('.DS_Store')
 for folder in list_of_dirs:
     print("         " + folder + "          ")
-    list_of_files = os.listdir("/Users/halliday/Desktop/parsing/scrape1/" + folder)
+    list_of_files = os.listdir("/Users/halliday/Desktop/parsing/runparse/" + folder)
     for file in list_of_files:
         if file.endswith(".txt"):
             # if count > 1100:
@@ -253,7 +256,7 @@ for folder in list_of_dirs:
             if file == 'CREC-2018-03-22-pt1-PgH1769-2.txt':
                 continue
             if file == 'CREC-2017-09-06-pt1-PgH6695.txt':
-            	continue
+                continue
             separated = sep_speech(file, folder)
             i = 0
             while i < len(separated):
@@ -271,6 +274,40 @@ for folder in list_of_dirs:
     #create dictionairy of unique last names to files
     distinct_lastname_table = speeches.group('speaker_id')
     lastname_file_table = speeches.join('speaker_id', distinct_lastname_table, 'speaker_id')
+
+    if lastname_file_table is None:
+
+        print("               " + "DONE" + " with " + folder)
+        print("resetting")
+
+        speeches = Table().with_columns("speech_id", make_array(), 
+                                        "speaker_id", make_array(), 
+                                        "proceeding_id", make_array(), 
+                                        "topic_id", make_array(), 
+                                        "word_count", make_array(), 
+                                        "speech_text", make_array(),
+                                        'file_name', make_array())
+
+        #Speaker Table
+        speakers = Table().with_columns("speaker_id", make_array(), 
+                                        "first_name", make_array(), 
+                                        "last_name", make_array(), 
+                                        "type" , make_array(),
+                                        "party", make_array(), 
+                                        "state", make_array(), 
+                                        "district", make_array(),
+                                        "bio_guide_id", make_array(),
+                                        "congress_id", make_array())
+
+        topics = Table().with_columns("topic_id", make_array(), 
+                                        "topic_name", make_array())
+
+        #Proceedings Table
+        proceedings = Table().with_columns("proceeding_id", make_array(), 
+                                      "date", make_array(),
+                                      "title", make_array())
+        continue
+
     lastname_file_table = lastname_file_table.drop('count').drop('speech_id').drop('proceeding_id').drop('topic_id').drop('word_count').drop('speech_text')
     name_to_xml = {}
     lastnames = lastname_file_table.column(0)
@@ -295,13 +332,26 @@ for folder in list_of_dirs:
 
     newcol = make_array()
     for name in speeches.sort('speaker_id').column('speaker_id'):
+        if name == 'SOUZZI':
+            name = 'SUOZZI'
+            name_to_id['SUOZZI'] = name_to_id['SOUZZI']
+        if name == 'VANHOLLEN':
+            name = 'VAN HOLLEN'
+            name_to_id['VAN HOLLEN'] = name_to_id['VANHOLLEN']
+            print("Dict change happened")
+        if name == 'FISHCER':
+            name = 'FISCHER'
+            name_to_id['FISCHER'] = name_to_id['FISHCER']
         newcol = np.append(name_to_id[name], newcol)
-    speeches = speeches.sort('speaker_id').drop('speaker_id').with_column('speaker_id', np.flip(newcol, 0))
+    speeches = speeches.sort('speaker_id')
+    speeches = speeches.relabel('speaker_id', 'last_name_id')
+    speeches = speeches.with_column('speaker_id', np.flip(newcol, 0))
 
     title_column = make_array()
     year_column = make_array()
     month_column = make_array()
     day_column = make_array()
+
     for file_name in speeches.column('file_name'):
         title_column = np.append(find_title(folder, file_name), title_column)
         year, month, day = sep_date_from_file(file_name)
@@ -309,9 +359,9 @@ for folder in list_of_dirs:
         month_column = np.append(int(month), month_column)
         day_column = np.append(int(day), day_column)
 
-        title_column = np.flip(title_column, 0)
+    title_column = np.flip(title_column, 0)
     year_column = np.flip(year_column, 0)
-    mont_column = np.flip(month_column, 0)
+    month_column = np.flip(month_column, 0)
     day_column = np.flip(day_column, 0)
 
     speeches = speeches.drop('proceeding_id')
@@ -326,8 +376,8 @@ for folder in list_of_dirs:
     new_month
     speeches = speeches.drop('month').with_column('month', new_month)
 
-    speech_string = 'scrape1speeches' + folder + '.csv'
-    speakers_string = 'scrape1speakers' + folder + '.csv'
+    speech_string = 'speeches' + folder + '.csv'
+    speakers_string = 'speakers' + folder + '.csv'
 
     speeches.to_csv(speech_string)
     speakers.to_csv(speakers_string)
