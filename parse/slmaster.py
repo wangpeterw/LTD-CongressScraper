@@ -16,7 +16,8 @@ speeches = Table().with_columns("speech_id", make_array(),
                                 "topic_id", make_array(), 
                                 "word_count", make_array(), 
                                 "speech_text", make_array(),
-                                'file_name', make_array())
+                                'file_name', make_array(),
+                                'mods_file', make_array())
 
 #Speaker Table
 speakers = Table().with_columns("speaker_id", make_array(), 
@@ -141,19 +142,9 @@ def getFirstName(congMemberTag):
 
 def getCongMemberInfoFromMaster(last_name, mods_filename):
     info = make_array()
-    if last_name == 'BORDALLO' or last_name == 'CAPITO':
-        return getCongMemberInfoFromLocal(last_name, mods_filename)
-    try:
-        extension = getCongMemberExtension(master_extensions, last_name)
-        if extension is None:
-            return getCongMemberInfoFromLocal(last_name, mods_filename)
-        congMemberTag = getCongMemberTag(last_name, extension)
-        if congMemberTag == None:
-            return getCongMemberInfoFromLocal(last_name, mods_filename)
-    except:
-        return getCongMemberInfoFromLocal(last_name, mods_filename)
-    
-    
+
+    extension = getCongMemberExtension(master_extensions, last_name)
+    congMemberTag = getCongMemberTag(last_name, extension)
     
     congMemType = getType(congMemberTag)
     district = 'N/A'
@@ -185,28 +176,49 @@ def getCongMemberInfoFromLocal(last_name, mods_filename):
     try:
         extension = getCongMemberExtensionFromFile(folder, last_name, mods_filename)
         if extension is None:
-            info = [99999999999999, 'First Name unavailable', last_name, 'Type Unavailable', 'Party Info Unavailable','state info unavailable', 'District Unavailable', 'BioGuideID unavailable', 'CongressID unavailable']
+            try:
+                info = getCongMemberInfoFromMaster(last_name, mods_filename)
+            except:
+                info = [99999999999999, 'First Name unavailable', last_name, 'Type Unavailable', 'Party Info Unavailable','state info unavailable', 'District Unavailable', 'BioGuideID unavailable', 'CongressID unavailable']
             return info
     except:
-        info = [99999999999999, 'First Name unavailable', last_name, 'Type Unavailable', 'Party Info Unavailable','state info unavailable', 'District Unavailable', 'BioGuideID unavailable', 'CongressID unavailable']
+        try:
+            info = getCongMemberInfoFromMaster(last_name, mods_filename)
+        except:
+            info = [99999999999999, 'First Name unavailable', last_name, 'Type Unavailable', 'Party Info Unavailable','state info unavailable', 'District Unavailable', 'BioGuideID unavailable', 'CongressID unavailable']
         return info
+
     info = make_array()
     congMemberTag = getCongMemberTag(last_name, extension)
+
+    try:
+        masterCongMemberExtension = getCongMemberExtension(master_extensions, last_name)
+        masterCongMemberTag = getCongMemberTag(last_name, masterCongMemberExtension)
+    except:
+        masterCongMemberTag = congMemberTag
     
     if congMemberTag is None:
         return [99999999999999, 'First Name unavailable', last_name, 'Type Unavailable', 'Party Info Unavailable','state info unavailable', 'District Unavailable', 'BioGuideID unavailable', 'CongressID unavailable']
 
-    congMemChamber = getChamber(congMemberTag)
-    congMemType = 'N/A'
-    if congMemChamber == 'H':
-        congMemType = 'REPRESENTATIVE'
-    elif congMemChamber == 'S':
-        congMemType = "SENATOR"
+    # congMemChamber = getChamber(congMemberTag)
+    # congMemType = 'N/A'
+    # if congMemChamber == 'H':
+    #     congMemType = 'REPRESENTATIVE'
+    # elif congMemChamber == 'S':
+    #     congMemType = "SENATOR"
+
+    try:
+        congMemType = getType(congMemberTag)
+    except:
+        try:
+            congMemType = getType(masterCongMemberTag)
+        except:
+            congMemType = 'N/A'
     
     district = 'N/A'
     if congMemType == 'REPRESENTATIVE':
         try:
-            district_tag = getDistrictTag(extension)
+            district_tag = getDistrictTag(masterCongMemberExtension)
             district = district_tag.string
         except:
             district = 'N/A'
@@ -239,6 +251,15 @@ def getCongMemberInfoFromLocal(last_name, mods_filename):
     info = [authID, getFirstName(congMemberTag), last_name, congMemType, party, state, district, bioID, getCongressId(congMemberTag) ]
     return info
 
+def fixSurnameTypos(name):
+    if name == 'SOUZZI':
+        return 'SUOZZI'
+    if name == 'VANHOLLEN':
+        return 'VAN HOLLEN'
+    if name == 'FISHCER':
+        return 'FISCHER'
+    return name
+
 #Populate the Speech Table
 speech_count = 0
 count = 0
@@ -257,14 +278,16 @@ for folder in list_of_dirs:
                 continue
             if file == 'CREC-2017-09-06-pt1-PgH6695.txt':
                 continue
+            mods_file = file.replace('.txt', '.xml')
             separated = sep_speech(file, folder)
             i = 0
             while i < len(separated):
                 row = make_array()
+                separated_surname = fixSurnameTypos(separated[i])
                 text = separated[i+1]
                 text = text.replace('MrPresident', 'Mr. President')
                 if len(text) > 30:
-                    row = [speech_count, separated[i], 'proceeding_id', 'topic-id', len(text.split()), text, file] 
+                    row = [speech_count, separated_surname, 'proceeding_id', 'topic-id', len(text.split()), text, file, mods_file] 
                     speech_count += 1
                     speeches = speeches.with_row(row)     
                 i +=2
@@ -286,7 +309,8 @@ for folder in list_of_dirs:
                                         "topic_id", make_array(), 
                                         "word_count", make_array(), 
                                         "speech_text", make_array(),
-                                        'file_name', make_array())
+                                        'file_name', make_array(),
+                                        'mods_file', make_array())
 
         #Speaker Table
         speakers = Table().with_columns("speaker_id", make_array(), 
@@ -308,44 +332,66 @@ for folder in list_of_dirs:
                                       "title", make_array())
         continue
 
-    lastname_file_table = lastname_file_table.drop('count').drop('speech_id').drop('proceeding_id').drop('topic_id').drop('word_count').drop('speech_text')
-    name_to_xml = {}
-    lastnames = lastname_file_table.column(0)
-    files = lastname_file_table.column(1)
-    count = 0
-    while count < len(lastnames):
-        name_to_xml[lastnames[count]] = files[count].replace('.txt', '.xml')
-        count += 1
+    # lastname_file_table = lastname_file_table.drop('count').drop('speech_id').drop('proceeding_id').drop('topic_id').drop('word_count').drop('speech_text')
+    # name_to_xml = {}
+    # lastnames = lastname_file_table.column(0)
+    # files = lastname_file_table.column(1)
+    # count = 0
+    # while count < len(lastnames):
+    #     name_to_xml[lastnames[count]] = files[count].replace('.txt', '.xml')
+    #     count += 1
 
 
     #Populate Speaker Table
-
-    for name in list(name_to_xml.keys()):
-        # print(name)
-        row = getCongMemberInfoFromMaster(name, name_to_xml[name])
+    for i in np.arange(speeches.num_rows):
+        curr_row = speeches.row(i)
+        name = curr_row.item("speaker_id")
+        xml = curr_row.item("mods_file")
+        row = getCongMemberInfoFromLocal(name, xml)
         speakers = speakers.with_row(row)
 
-    names = speakers.column('last_name')
-    ids = speakers.column('speaker_id')
-    name_to_id = dict(zip(names, ids))
-    name_to_id['CAPITO'] = 1676
+    # names = speakers.column('first_name') + speakers.column('last_name')
+    # speakers = speakers.with_columns('full_name', names)
+    # ids = speakers.column('speaker_id')
+    # name_to_id = dict(zip(names, ids))
+    # name_to_id['ShelleyCAPITO'] = 1676
 
-    newcol = make_array()
-    for name in speeches.sort('speaker_id').column('speaker_id'):
-        if name == 'SOUZZI':
-            name = 'SUOZZI'
-            name_to_id['SUOZZI'] = name_to_id['SOUZZI']
-        if name == 'VANHOLLEN':
-            name = 'VAN HOLLEN'
-            name_to_id['VAN HOLLEN'] = name_to_id['VANHOLLEN']
-            print("Dict change happened")
-        if name == 'FISHCER':
-            name = 'FISCHER'
-            name_to_id['FISCHER'] = name_to_id['FISHCER']
-        newcol = np.append(name_to_id[name], newcol)
-    speeches = speeches.sort('speaker_id')
-    speeches = speeches.relabel('speaker_id', 'last_name_id')
-    speeches = speeches.with_column('speaker_id', np.flip(newcol, 0))
+    newcol_id = make_array()
+    newcol_first = make_array()
+
+    for i in np.arange(speakers.num_rows):
+        row = speakers.row(i)
+        first = row.item("first_name")
+        idd = row.item("speaker_id")
+        newcol_first = np.append(first, newcol_first)
+        newcol_id = np.append(idd, newcol_id)
+
+    # for name in speeches.sort('speaker_id').column('speaker_id'):
+    #     if name == 'SOUZZI':
+    #         name = 'SUOZZI'
+    #         name_to_id['SUOZZI'] = name_to_id['SOUZZI']
+    #     if name == 'VANHOLLEN':
+    #         name = 'VAN HOLLEN'
+    #         name_to_id['VAN HOLLEN'] = name_to_id['VANHOLLEN']
+    #         print("Dict change happened")
+    #     if name == 'FISHCER':
+    #         name = 'FISCHER'
+    #         name_to_id['FISCHER'] = name_to_id['FISHCER']
+
+    #     # try:
+    #     #     first = getFirstName(getCongMemberTag(name, getCongMemberExtension(master_extensions, name)))
+    #     # except:
+    #     #     try:
+    #     #         first = getFirstName(getCongMemberTag(name, getCongMemberExtension(master_extensions, name)))
+    #     #     first = ["FirstNameNotFound"]
+
+    #     newcol_last = np.append(name_to_id[name], newcol_last)
+        # newcol_first = np.append(first, newcol_first)
+
+    # speeches = speeches.sort('speaker_id')
+    speeches = speeches.relabel('speaker_id', 'last_name')
+    speeches = speeches.with_column('speaker_id', np.flip(newcol_id, 0))
+    speeches = speeches.with_column('first_name', np.flip(newcol_first, 0))
 
     title_column = make_array()
     year_column = make_array()
@@ -391,7 +437,8 @@ for folder in list_of_dirs:
                                     "topic_id", make_array(), 
                                     "word_count", make_array(), 
                                     "speech_text", make_array(),
-                                    'file_name', make_array())
+                                    'file_name', make_array(),
+                                    'mods_file', make_array())
 
     #Speaker Table
     speakers = Table().with_columns("speaker_id", make_array(), 
