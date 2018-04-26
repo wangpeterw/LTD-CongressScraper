@@ -28,14 +28,43 @@ ltd-darkblue #1B3949*/
 .contact {
 	margin-top: 120px;
 	background-color: white;
+	border-radius: 5px;
+	background-color: #f2f2f2;
+	padding: 20px;
 }
 
 .contact h1 {
 	position: relative;
 	margin: 0;
+	margin-bottom: 30px;
 	color: #34393A;
 	font-size: 48;
 	font-family: 'Black Han Sans', sans-serif;
 	font-weight: 50%;
 	line-height: 1.3em/52px;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical
+}
+
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
 }
