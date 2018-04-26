@@ -30,7 +30,12 @@ def team():
 
 @app.route('/contact')
 def contact():
-	return flask.render_template('contact.html')
+	states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DC", "DE", "FL", "GA",
+	"HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD",
+	"MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ",
+	"NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC",
+	"SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"]
+	return flask.render_template('contact.html', states=states)
 
 @app.route('/database')
 def database():
@@ -193,7 +198,7 @@ def speakers():
 		types = ['SENATOR', 'REPRESENTATIVE', 'DELEGATE']
 		selected_year = int(year) if year else None
 		return flask.render_template('speaker.html', records=records, no_of_records=0,
-			speaker_firstname=speaker_firstname_raw, speaker_surname=speaker, 
+			speaker_firstname=speaker_firstname_raw, speaker_surname=speaker,
 			years=years, months=months, days=days, states=states, parties=parties, districts=districts,
 			types=types, selected_year=selected_year, date_format=date_format)
 
