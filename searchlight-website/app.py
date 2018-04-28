@@ -91,8 +91,8 @@ def speakers():
 	# 			speakers_2017_Jan_3_to_10.speaker_id = speeches_2017_Jan_3_to_10.speaker_id \
 	# 			%s %s;"
 
-	all_records_query = "SELECT * FROM speakers_2017_Jan_3_to_10 \
-						inner join speeches_2017_Jan_3_to_10 on speeches_2017_Jan_3_to_10.speaker_id = speakers_2017_Jan_3_to_10.speaker_id \
+	all_records_query = "SELECT * FROM allspeakers \
+						inner join allspeeches on allspeeches.speaker_id = allspeakers.speaker_id \
 						%s %s;"
 
 	# "SELECT * FROM allspeakers \
