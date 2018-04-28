@@ -92,9 +92,14 @@ def speakers():
 	# 			%s %s;"
 
 	all_records_query = "SELECT * FROM speakers_2017_Jan_3_to_10 \
-						inner join speeches_2017_Jan_3_to_10 on speakers_2017_Jan_3_to_10.speaker_id = speeches_2017_Jan_3_to_10.speaker_id \
+						inner join speeches_2017_Jan_3_to_10 on speeches_2017_Jan_3_to_10.speaker_id = speakers_2017_Jan_3_to_10.speaker_id \
 						%s %s;"
+
+	# "SELECT * FROM allspeakers \
+	# 					inner join allspeeches on allspeeches.speaker_id = allspeakers.speaker_id \
+	# 					%s %s;"
 	records = []
+	records_total = []
 	where_clause = ""
 	where_array = []
 	condition_tuple = []
@@ -130,58 +135,20 @@ def speakers():
 
 		where_clause += "and ".join(where_array)
 		condition_tuple = tuple(condition_tuple)
-		limit_statement = "LIMIT 20" if format_ != "csv" else ""
+		limit_statement = ""
 		all_records_query = all_records_query % (where_clause, limit_statement)
 		print(all_records_query)
 		print(condition_tuple)
 
 		cursor.execute(all_records_query, condition_tuple)
-		records = cursor.fetchall()
-		#print(records)
+		records_total = cursor.fetchall()
+
+		# "LIMIT 20" if format_ != "csv" else ""
+		records = records_total[:20]
 		connection.close()
 
 
 
-	#if speaker:
-	#	where_clause += " speaker.surname = ? " if speaker else ""
-	#if year and speaker:
-	#	where_clause += " and "
-	#if year:
-	#	where_clause += " hearing.date like ? " if len(year)>2 else ""
-
-
-
-	# if speaker and year:
-	# 	cursor.execute(all_records_query ,(speaker.lower(), "%"+ year))
-	# elif speaker:
-	# 	cursor.execute(all_records_query ,(speaker.lower(),))
-	# elif year:
-	# 	cursor.execute(all_records_query ,("%"+ year,))
-	# else:
-	# 	cursor.execute(all_records_query)
-	# records = cursor.fetchall()
-
-	# #Query to count the number of records
-	# count_query =  "SELECT count(*) as count FROM hearing inner join speech on \
-	# 			speech.hearing_id = hearing.hearing_id inner join speaker \
-	# 			on speaker.speech_id = speech.speech_id %s;"
-	# count_query = count_query % (where_clause)
-	# if speaker and year:
-	# 	cursor.execute(count_query, (speaker.lower(), "%"+ year))
-	# elif year:
-	# 	cursor.execute(count_query, ("%"+ year,))
-	# elif speaker:
-	# 	cursor.execute(count_query, (speaker.lower()))
-	# else:
-	# 	cursor.execute(count_query)
-
-
-
-	#There's a lot of if else going on here but I will send a better solution for you guys to work with
-	#no_of_records = cursor.fetchall()
-	#connection.close()
-	#Send the information back to the view
-	#if the user specified csv send the data as a file for download else visualize the data on the web page
 	if format_ == "csv":
 		return download_csv(records, "speeches_%s.csv" % (speaker_surname.lower()))
 	else:
@@ -196,11 +163,21 @@ def speakers():
 		"SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"]
 		districts = [x for x in range(1, 436)]
 		types = ['SENATOR', 'REPRESENTATIVE', 'DELEGATE']
-		selected_year = int(year) if year else None
-		return flask.render_template('speaker.html', records=records, no_of_records=0,
+
+		selected_dict = {}
+		selected_dict["year"] = int(year) if year else None
+		selected_dict["month"] = month if month else None
+		selected_dict["day"] = int(day) if day else None
+		selected_dict["state"] = state_query if state_query else None
+		selected_dict["party"] = party_query if party_query else None
+		selected_dict["type"] = type_query if type_query else None
+		selected_dict["district"] = int(district_query) if district_query else None
+		print(selected_dict)
+
+		return flask.render_template('speaker.html', records=records, no_of_records=len(records_total),
 			speaker_firstname=speaker_firstname_raw, speaker_surname=speaker,
 			years=years, months=months, days=days, states=states, parties=parties, districts=districts,
-			types=types, selected_year=selected_year, date_format=date_format)
+			types=types, selected_dict = selected_dict, date_format=date_format)
 
 ########################################################################
 # The following are helper functions. They do not have a @app.route decorator

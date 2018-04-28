@@ -60,15 +60,15 @@
 					<select class="form-control" id="district">
 						<option value="" selected>Congressional District</option>
 						{% for district in districts %}
-						<option value="{{district}}">{{district}}</option>
+						<option value="{{district}}" {% if selected_dict['district'] == district %}selected{%endif%}>{{district}}</option>
 						{% endfor %}
 					</select>
 				</div>
 				<div class="col-md-3">
 					<select class="form-control" id="state">
-						<option value="" selected>State</option>
+						<option value="{{state}}" selected>State</option>
 						{% for state in states %}
-						<option value="{{state}}">{{state}}</option>
+						<option value="{{state}}" {% if selected_dict['state'] == state %}selected{%endif%}>{{state}}</option>
 						{% endfor %}
 					</select>
 				</div>
@@ -76,7 +76,7 @@
 					<select class="form-control" id="party">
 						<option value="" selected>Party</option>
 						{% for party in parties %}
-						<option value="{{party}}">{{party}}</option>
+						<option value="{{party}}" {% if selected_dict['party'] == party %}selected{%endif%}>{{party}}</option>
 						{% endfor %}
 					</select>
 				</div>
@@ -84,7 +84,7 @@
 					<select class="form-control" id="type">
 						<option value="" selected>Type</option>
 						{% for type in types %}
-						<option value="{{type}}">{{type}}</option>
+						<option value="{{type}}" {% if selected_dict['type'] == type %}selected{%endif%}>{{type}}</option>
 						{% endfor %}
 					</select>
 				</div>
@@ -97,15 +97,15 @@
 					<select class="form-control" id="month">
 						<option value="" selected>Month</option>
 						{% for month in months %}
-						<option value="{{month}}">{{month}}</option>
+						<option value="{{month}}" {% if selected_dict['month'] == month %}selected{%endif%}>{{month}}</option>
 						{% endfor %}
 					</select>
 				</div>
 				<div class="col-md-4">
 					<select class="form-control" id="day">
-						<option value="" selected>Day</option>
+						<option value="">Day</option>
 						{% for day in days %}
-						<option value="{{day}}">{{day}}</option>
+						<option value="{{day}}" {% if selected_dict['day'] == day %}selected{%endif%}>{{day}}</option>
 						{% endfor %}
 					</select>
 				</div>
@@ -113,7 +113,7 @@
 					<select class="form-control" id="year">
 						<option value="">Year</option>
 						{% for year in years %}
-						<option value="{{year}}" {% if selected_year == year %}selected{%endif%}>{{year}}</option>
+						<option value="{{year}}" {% if selected_dict['year'] == year %}selected{%endif%}>{{year}}</option>
 						{% endfor %}
 					</select>
 					<!-- <small>Try 2015,2016</small> -->
