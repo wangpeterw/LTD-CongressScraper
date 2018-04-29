@@ -26,17 +26,19 @@ ltd-darkblue #1B3949*/
 }
 
 .contact {
+
 	margin-top: 120px;
+
+	;
+	/* background-color: #f2f2f2; */
 	background-color: white;
-	border-radius: 5px;
-	background-color: #f2f2f2;
-	padding: 20px;
+	/* padding: 20px; */
 }
 
 .contact h1 {
-	position: relative;
+	/* position: relative; */
 	margin: 0;
-	margin-bottom: 30px;
+	margin-bottom: 20px;
 	color: #34393A;
 	font-size: 48;
 	font-family: 'Black Han Sans', sans-serif;

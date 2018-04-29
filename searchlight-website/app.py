@@ -30,12 +30,9 @@ def team():
 
 @app.route('/contact')
 def contact():
-	states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DC", "DE", "FL", "GA",
-	"HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD",
-	"MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ",
-	"NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC",
-	"SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"]
-	return flask.render_template('contact.html', states=states)
+	message_type = ["More Information about Goodly Labs",
+	 "Potential Errors in the Dataset", "Suggestions", "Questions and Concerns", "Other"]
+	return flask.render_template('contact.html', message_type=message_type)
 
 @app.route('/database')
 def database():
