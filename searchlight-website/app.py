@@ -1,13 +1,33 @@
 #!/usr/bin/env python
 
 import flask
-from flask import Response, request, send_file
+from flask import Response, request, send_file, flash
 import json
 import sqlite3
 import csv
 
-# Create the application.
+from flask_wtf import Form
+from flask_wtf.csrf import CSRFProtect
+from wtforms import TextField, BooleanField,IntegerField
+from wtforms.validators import Required
+from flask_mail import Message, Mail
+from flask import request
+
+
 app = flask.Flask(__name__)
+# app = CSRFProtect(app)
+
+mail = Mail()
+
+# app.secret_key = 'development key'
+#
+# app.config["MAIL_SERVER"] = "smtp.gmail.com"
+# app.config["MAIL_PORT"] = 465
+# app.config["MAIL_USE_SSL"] = True
+# app.config["MAIL_USERNAME"] = 'contact@example.com'
+# app.config["MAIL_PASSWORD"] = 'your-password'
+#
+# mail.init_app(app)
 
 @app.route('/')
 def index():
@@ -28,11 +48,30 @@ def process():
 def team():
 	return flask.render_template('team.html')
 
-@app.route('/contact')
+@app.route('/contact', methods=["GET", "POST"])
 def contact():
-	message_type = ["More Information about Goodly Labs",
-	 "Potential Errors in the Dataset", "Suggestions", "Questions and Concerns", "Other"]
+
+	if request.method == 'POST':
+		email = request.form.get('email')
+		name = request.form.get('message')
+		subject = request.form.get('subject')
+		message = request.form.get("message")
+        # # send_email(message, reply_to)
+		return flask.render_template('contact.html', success=True)
+	else:
+
+		message_type = ["More Information about Goodly Labs",
+		"Potential Errors in the Dataset", "Suggestions", "Questions and Concerns", "Other"]
+		return flask.render_template('contact.html', success=False, message_type=message_type)
+
+
 	return flask.render_template('contact.html', message_type=message_type)
+
+@app.route('/form_submission')
+def form_submission():
+
+	return flask.render_template('form_submission.html')
+
 
 @app.route('/database')
 def database():

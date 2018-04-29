@@ -46,6 +46,11 @@ ltd-darkblue #1B3949*/
 	line-height: 1.3em/52px;
 }
 
+.contact h2 {
+	font-size: 14;
+	font-family: 'Black Han Sans', sans-serif;
+}
+
 input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
