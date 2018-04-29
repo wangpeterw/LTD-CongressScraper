@@ -34,25 +34,25 @@
 			<div class="container">
 					<h1>Contact Us!</h1>
 
-					<form action="action_page.php">
-				    <label for="fname">First Name</label>
-				    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+					<form action="action_page.php" method="post">
+				    <label for="name">Name</label>
+				    <input type="text" id="name" name="name" placeholder="Your name.." required>
 
-				    <label for="lname">Last Name</label>
-				    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+				    <label for="email">Email</label>
+				    <input type="email" id="email" name="email" placeholder="Your email.." required>
 
-				    <label for="state">Message Subject</label>
-				    <select id="" name="state">
+				    <label for="subject">Message Subject</label>
+				    <select id="subject" name="subject" required>
 							<option value="" selected>Select a subject...</option>
 							{% for msg in message_type %}
 							<option value="{{msg}}">{{msg}}</option>
 							{% endfor %}
 				    </select>
 
-				    <label for="subject">Subject</label>
+				    <label for="subject">Message</label>
 
 				    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-				    <input type="submit" value="Submit">
+				    <input type="submit" data-submit="...Sending" value="Submit">
 				  </form>
 			</div>
 		</div>
