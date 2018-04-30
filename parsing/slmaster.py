@@ -47,8 +47,6 @@ def sep_speech(string, folder_str):
         for line in file:
             parse_file += line
     parse_file = parse_file.replace('\n', '')
-#     parse_file = parse_file.replace('Mr. President', 'MrPresident')
-#     parse_file = parse_file.replace('Mr. Short', 'Mr.Short')
     parse_file = re.sub('Mr. [A-Z][a-z]', remove_space, parse_file)
     
     split = re.split(r'Mr. |Ms. |Mrs. ', parse_file)
@@ -61,7 +59,7 @@ def sep_speech(string, folder_str):
             value = re.sub('[A-Z]\w*\. ', '', split[i])
             name_and_speech = np.append(name_and_speech, value)
         except:
-            abcabcabc = 1
+            continue
     return name_and_speech
 
 def sep_date_from_file(file):
@@ -172,7 +170,6 @@ def getChamber(congMemberTag):
     return congMemberTag.attrs['chamber']
 
 def getCongMemberInfoFromLocal(last_name, mods_filename):
-    # print('checking local file')
     try:
         extension = getCongMemberExtensionFromFile(folder, last_name, mods_filename)
         if extension is None:
@@ -200,13 +197,6 @@ def getCongMemberInfoFromLocal(last_name, mods_filename):
     if congMemberTag is None:
         return [99999999999999, 'First Name unavailable', last_name, 'Type Unavailable', 'Party Info Unavailable','state info unavailable', 'District Unavailable', 'BioGuideID unavailable', 'CongressID unavailable']
 
-    # congMemChamber = getChamber(congMemberTag)
-    # congMemType = 'N/A'
-    # if congMemChamber == 'H':
-    #     congMemType = 'REPRESENTATIVE'
-    # elif congMemChamber == 'S':
-    #     congMemType = "SENATOR"
-
     try:
         congMemType = getType(congMemberTag)
     except:
@@ -222,16 +212,7 @@ def getCongMemberInfoFromLocal(last_name, mods_filename):
             district = district_tag.string
         except:
             district = 'N/A'
-            
-#     info = np.append(info, getAuthorityId(congMemberTag))
-#     info = np.append(info, getFirstName(congMemberTag))
-#     info = np.append(info, last_name)
-#     info = np.append(info, congMemType)
-#     info = np.append(info, getParty(congMemberTag))
-#     info = np.append(info, getState(congMemberTag))
-#     info = np.append(info, district)
-#     info = np.append(info, getBioGuideId(congMemberTag))
-#     info = np.append(info, getCongressId(congMemberTag))
+
     try:
         authID = getAuthorityId(congMemberTag)
     except:
@@ -294,7 +275,7 @@ for folder in list_of_dirs:
             speech_count+= 1
             print('finished with file ', speech_count)
 
-    #create dictionairy of unique last names to files
+    #Used to check if any speeches/speakers were actually collected
     distinct_lastname_table = speeches.group('speaker_id')
     lastname_file_table = speeches.join('speaker_id', distinct_lastname_table, 'speaker_id')
 
@@ -332,16 +313,6 @@ for folder in list_of_dirs:
                                       "title", make_array())
         continue
 
-    # lastname_file_table = lastname_file_table.drop('count').drop('speech_id').drop('proceeding_id').drop('topic_id').drop('word_count').drop('speech_text')
-    # name_to_xml = {}
-    # lastnames = lastname_file_table.column(0)
-    # files = lastname_file_table.column(1)
-    # count = 0
-    # while count < len(lastnames):
-    #     name_to_xml[lastnames[count]] = files[count].replace('.txt', '.xml')
-    #     count += 1
-
-
     #Populate Speaker Table
     for i in np.arange(speeches.num_rows):
         curr_row = speeches.row(i)
@@ -350,15 +321,10 @@ for folder in list_of_dirs:
         row = getCongMemberInfoFromLocal(name, xml)
         speakers = speakers.with_row(row)
 
-    # names = speakers.column('first_name') + speakers.column('last_name')
-    # speakers = speakers.with_columns('full_name', names)
-    # ids = speakers.column('speaker_id')
-    # name_to_id = dict(zip(names, ids))
-    # name_to_id['ShelleyCAPITO'] = 1676
-
     newcol_id = make_array()
     newcol_first = make_array()
 
+    #Append speaker_id, first_name Columns, rename speaker_id to be last_name in speeches table
     for i in np.arange(speakers.num_rows):
         row = speakers.row(i)
         first = row.item("first_name")
@@ -366,33 +332,11 @@ for folder in list_of_dirs:
         newcol_first = np.append(first, newcol_first)
         newcol_id = np.append(idd, newcol_id)
 
-    # for name in speeches.sort('speaker_id').column('speaker_id'):
-    #     if name == 'SOUZZI':
-    #         name = 'SUOZZI'
-    #         name_to_id['SUOZZI'] = name_to_id['SOUZZI']
-    #     if name == 'VANHOLLEN':
-    #         name = 'VAN HOLLEN'
-    #         name_to_id['VAN HOLLEN'] = name_to_id['VANHOLLEN']
-    #         print("Dict change happened")
-    #     if name == 'FISHCER':
-    #         name = 'FISCHER'
-    #         name_to_id['FISCHER'] = name_to_id['FISHCER']
-
-    #     # try:
-    #     #     first = getFirstName(getCongMemberTag(name, getCongMemberExtension(master_extensions, name)))
-    #     # except:
-    #     #     try:
-    #     #         first = getFirstName(getCongMemberTag(name, getCongMemberExtension(master_extensions, name)))
-    #     #     first = ["FirstNameNotFound"]
-
-    #     newcol_last = np.append(name_to_id[name], newcol_last)
-        # newcol_first = np.append(first, newcol_first)
-
-    # speeches = speeches.sort('speaker_id')
     speeches = speeches.relabel('speaker_id', 'last_name')
     speeches = speeches.with_column('speaker_id', np.flip(newcol_id, 0))
     speeches = speeches.with_column('first_name', np.flip(newcol_first, 0))
 
+    #Add title, year, month, day columns
     title_column = make_array()
     year_column = make_array()
     month_column = make_array()
@@ -410,9 +354,11 @@ for folder in list_of_dirs:
     month_column = np.flip(month_column, 0)
     day_column = np.flip(day_column, 0)
 
+    #Drop and add columns
     speeches = speeches.drop('proceeding_id')
     speeches = speeches.with_columns('session_title', title_column, 'year', year_column, 'month', month_column, 'day', day_column)
 
+    #Reset month numbers to month names
     month_int_name = {1: 'January', 2: 'February', 3: 'March', 4: 'April', 5: 'May', 6: 'June', 7: 'July', 8: 'August', 9: 'September', 
                      10: 'October', 11: 'November', 12: 'December'}
     new_month = make_array()
@@ -422,14 +368,14 @@ for folder in list_of_dirs:
     new_month
     speeches = speeches.drop('month').with_column('month', new_month)
 
+    #Save files locally
     speech_string = 'speeches' + folder + '.csv'
     speakers_string = 'speakers' + folder + '.csv'
-
     speeches.to_csv(speech_string)
     speakers.to_csv(speakers_string)
 
     print("               " + "DONE" + " with " + folder)
-    print("resetting")
+    print("               " + "resetting")
 
     speeches = Table().with_columns("speech_id", make_array(), 
                                     "speaker_id", make_array(), 
@@ -458,10 +404,3 @@ for folder in list_of_dirs:
     proceedings = Table().with_columns("proceeding_id", make_array(), 
                                   "date", make_array(),
                                   "title", make_array())
-
-# print("DONE")
-# print("Don't forget to change speaker and speech strings")
-# print("Dirs to Remove:")
-# print("         " + speech_string)
-# print("         " + speakers_string)
-# print("         " + curr_folders)
