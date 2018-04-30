@@ -147,8 +147,8 @@
 							<td class="col-md-1">Date</td>
 							<td class="col-md-1">First Name</td>
 							<td class="col-md-1">Last Name</td>
-							<td class="col-md-2">Word Count</td>
-							<td class="col-md-4">Speech Text</td>
+							<td class="col-md-1">Words</td>
+							<td class="col-md-5">Speech Text</td>
 						</thead>
 						<tbody class="text-left">
 							{% if (records is defined) and records %}
@@ -158,8 +158,8 @@
 										<td class="col-md-1">{{date_format(record.month, record.day, record.year)}}</td>
 										<td class="col-md-1">{{record.first_name}}</td>
 										<td class="col-md-1">{{record.last_name}}</td>
-										<td class="col-md-2">{{record.word_count}}</td>
-										<td class="col-md-4">{{record.speech_text[0:100] + " ..."}}</td>
+										<td class="col-md-1">{{record.word_count}}</td>
+										<td class="col-md-5">{{record.speech_text[0:120] + " ..."}}</td>
 										<!-- This line shows just the first 100 characters and cuts it after that -->
 									</tr>
 								{% endfor %}
