@@ -56,7 +56,7 @@ def contact():
 		name = request.form.get('message')
 		subject = request.form.get('subject')
 		message = request.form.get("message")
-        # # send_email(message, reply_to)
+		#send_email(message, reply_to)
 		return flask.render_template('contact.html', success=True)
 	else:
 
@@ -197,7 +197,7 @@ def speakers():
 		"MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ",
 		"NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC",
 		"SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"]
-		districts = [x for x in range(1, 436)]
+		districts = [x for x in range(1, 54)]
 		types = ['SENATOR', 'REPRESENTATIVE', 'DELEGATE']
 
 		selected_dict = {}
