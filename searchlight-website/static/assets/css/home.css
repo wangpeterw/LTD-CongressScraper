@@ -5,7 +5,17 @@ ltd-blue #2E6171
 ltd-lightblue #AFD9D3
 ltd-darkblue #1B3949*/
 
-@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Lato|Merriweather|Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Lato:700|Merriweather:300,300italic,700');
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+}
+
+p,a,li,blockquote {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+}
 
 .navbar {
 	margin-bottom: 0;
@@ -13,7 +23,6 @@ ltd-darkblue #1B3949*/
 
 .navbar-brand{
 	font-size: 16px;
-	font-family: 'Lato', sans-serif;
 }
 
 .navbar-fixed-top {
@@ -22,7 +31,6 @@ ltd-darkblue #1B3949*/
 	margin-bottom: 0;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
 	border: 0;
-	font-family: 'Lato', sans-serif;
 }
 
 .home {
@@ -43,44 +51,41 @@ ltd-darkblue #1B3949*/
 	position: relative;
 	margin: 0;
 	color: #1B3949;
-	left: 8vw;
+	/*left: 15vw;*/
 	top: 13vh;
-
-	font-family: 'Black Han Sans', sans-serif;
-	font-weight: 50%;
 	font-size: 140;
-	line-height: 1.3em/52px;
+	/*line-height: 1.3em/52px;*/
+	letter-spacing: -4px;
 }	
 
 .home h3 {
 	position: relative;
 	margin: 0;
-	font-family: 'Black Han Sans', sans-serif;
-	font-weight: 700;
+	margin-top: -10px;
 	font-size: 40px;
 	line-height: 1.3em/26px;
 	color: #34393A;
-	left: 8vw;
+	/*left: 15vw;*/
 	top: 13vh;
+	letter-spacing: -2px;
 }
 
 .home .querybutton p {
 	position: relative;
 	font-size: 60;
 	color: #AFD9D3;
-	left: 8vw;
+	/*left: 15vw;*/
 	top: 13vh;
 }
 
 .query-button {
 	text-align: center;
 	position: relative;
-	left: 8vw;
+	/*left: 15vw;*/
 	top: 18vh;
-	font-family: 'Black Han Sans', sans-serif;
 	font-size: 36px;
 	height: 80px;
-	width: 240px;
+	width: 180px;
 	background-color: #AFD9D3;
 	color: white;
 	border-radius: 10px;
@@ -91,8 +96,10 @@ ltd-darkblue #1B3949*/
 
 .query-button a {
 	position: relative;
-	top: 20px;
+	top: 19px;
 	color: #34393A;
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
 }
 
 .query-button :hover {

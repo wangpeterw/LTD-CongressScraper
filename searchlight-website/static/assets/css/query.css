@@ -5,7 +5,18 @@ ltd-blue #2E6171
 ltd-lightblue #AFD9D3
 ltd-darkblue #1B3949*/
 
-@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Lato|Merriweather|Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Lato:700|Merriweather:300,300italic,700');
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+}
+
+p,a,li,blockquote, select, input, button, table, td, tr, b {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-size: 14px;
+}
 
 .navbar {
 	margin-bottom: 0;
@@ -13,32 +24,37 @@ ltd-darkblue #1B3949*/
 
 .navbar-brand{
 	font-size: 16px;
-	font-family: 'Lato', sans-serif;
 }
 
 .navbar-fixed-top {
 	position: fixed;
-	font-size: 16px;
 	margin-bottom: 0;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
 	border: 0;
-	font-family: 'Lato', sans-serif;
 }
+
+.navbar-fixed-top li a {
+	font-size: 16px;
+}
+
 
 .query {
 	padding-top: 100px;
 	background-color: #F2F2F2;
-	font-family: 'Lato', sans-serif;
 }
 
 .query-title h1 {
-	font-family: 'Black Han Sans', sans-serif;
-	font-size: 48;
+	font-size: 64;
+	text-align: center;
+	border-bottom: 1px solid #e6e6e6;
+	padding-bottom: 36px;
 }
 
-.query-title h5 {
-	font-family: 'Black Han Sans', sans-serif;
-	font-size: 16;
+.query-title h3 {
+	padding-top: 12px;
+	font-size: 32;
+	text-align: center;
+	color: #2E6171;
 }
 
 .filters-1 .col-md-3 small {

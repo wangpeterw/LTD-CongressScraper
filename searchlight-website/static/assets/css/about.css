@@ -5,7 +5,23 @@ ltd-blue #2E6171
 ltd-lightblue #AFD9D3
 ltd-darkblue #1B3949*/
 
-@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Lato|Merriweather|Source+Sans+Pro');
+/*@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Lato|Merriweather|Source+Sans+Pro');*/
+
+@import url('https://fonts.googleapis.com/css?family=Lato:700|Merriweather:300,300italic,700');
+
+body {
+	background-color: #F2F2F2;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+}
+
+p,a,li,blockquote {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+}
 
 .navbar {
 	margin-bottom: 0;
@@ -13,7 +29,7 @@ ltd-darkblue #1B3949*/
 
 .navbar-brand{
 	font-size: 16px;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Merriweather', serif;
 }
 
 .navbar-fixed-top {
@@ -22,31 +38,103 @@ ltd-darkblue #1B3949*/
 	margin-bottom: 0;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
 	border: 0;
-	font-family: 'Lato', sans-serif;
 }
 
 .about {
 	margin-top: 120px;
-	background-color: white;
+	background-color: #F2F2F2;
 }
 
 .about h1 {
 	position: relative;
 	margin: 0;
-	margin-bottom: 20px;
+	/*margin-bottom: 20px;*/
 	color: #34393A;
-	font-size: 48;
-	font-family: 'Black Han Sans', sans-serif;
-	font-weight: 50%;
-	line-height: 1.3em/52px;
+	font-size: 64;
+/*	font-weight: 50%;
+	line-height: 1.3em/52px;*/
+	text-align: center;
+	padding-bottom: 36px;
+	border-bottom: 1px solid #e6e6e6;
 }
 
-.about box {
+.about .box {
 	position: relative;
 	margin: 20px;
 }
 
-.about box p {
+.about .box p {
 	position: relative;
 	font-size: 16;
 }
+
+.about .row {
+	border-bottom: 1px solid #e6e6e6;
+}
+
+.about .text-box-left {
+	padding: 64px;
+	padding-right: 10px;
+}
+
+.about .text-box-right {
+	padding: 64px;
+	padding-left: 10px;
+	/*border-bottom: 1px solid #e6e6e6;*/
+}
+
+.about .text-box-left h3 {
+	text-align: left;
+	color: #2E6171;
+	font-size: 32px;
+}
+
+.about .text-box-left p {
+	text-align: left;
+	font-size: 15px;
+}
+
+.about .text-box-right p {
+	text-align: right;
+	font-size: 15px;
+}
+
+.about .text-box-right h3 {
+	text-align: right;
+	color: #2E6171;
+	font-size: 32px;
+}
+
+.about .space {
+	padding: 36px;
+}
+
+/*.about .cong-floor-img {
+	height: 80%;
+	width: 80%;
+	padding: 64px;
+	display: block;
+	margin: auto;
+	background-image: url('https://www.brookings.edu/wp-content/uploads/2016/06/congress006-1.jpg');
+}*/
+
+.about img {
+	display: block;
+	margin-top: 48px;
+	margin-bottom: 48px;
+	margin-left: auto;
+	margin-right: auto;
+	max-height: 100%;
+	max-width: 90%;
+	border-radius: 10px;
+}
+
+.about #record-img {
+	border: 2px solid #1B3949;
+}
+
+.about #query-img {
+	border: 2px solid #1B3949;
+}
+
+

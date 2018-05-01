@@ -5,7 +5,21 @@ ltd-blue #2E6171
 ltd-lightblue #AFD9D3
 ltd-darkblue #1B3949*/
 
-@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Lato|Merriweather|Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Lato:700|Merriweather:300,300italic,700');
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+}
+
+p,a,li,blockquote {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+}
+
+body {
+	background-color: #F2F2F2;
+}
 
 .navbar {
 	margin-bottom: 0;
@@ -13,7 +27,6 @@ ltd-darkblue #1B3949*/
 
 .navbar-brand{
 	font-size: 16px;
-	font-family: 'Lato', sans-serif;
 }
 
 .navbar-fixed-top {
@@ -22,25 +35,6 @@ ltd-darkblue #1B3949*/
 	margin-bottom: 0;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
 	border: 0;
-	font-family: 'Lato', sans-serif;
-}
-
-.navbar {
-	margin-bottom: 0px;
-}
-
-.navbar-brand{
-	font-size: 16px;
-	font-family: 'Lato', sans-serif;
-}
-
-.navbar-fixed-top {
-	position: fixed;
-	font-size: 16px;
-	margin-bottom: 55px;
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
-	border: 0;
-	font-family: 'Lato', sans-serif;
 }
 
 .team {
@@ -49,17 +43,20 @@ ltd-darkblue #1B3949*/
 
 .team {
 	margin-top: 120px;
-	background-color: white;
+	background-color: #F2F2F2;
 }
 
 .team h1 {
 	position: relative;
 	margin: 0;
 	color: #34393A;
-	font-size: 48;
-	font-family: 'Black Han Sans', sans-serif;
-	font-weight: 50%;
+	font-size: 64;
 	line-height: 1.3em/52px;
+	text-align: center;
+	font-weight: 700;
+	border-bottom: 1px solid #e6e6e6;
+	padding-bottom: 36px;
+	/*padding: 36px;*/
 }
 
 .team .member-img {
@@ -88,9 +85,43 @@ table {
 }
 
 .team .team-members .team-members-row {
-	margin: 10px;
+	padding: 36px;
+	border-radius: 1%;
+	border-bottom: 1px solid #e6e6e6;
 }
 
 .team .team-members #omkar{
 	text-align: right;
+/*	background-color: #ccebff;*/
+}
+
+.team .team-members #nalin{
+	/*background-color: #ccebff;*/
+}
+
+.team .team-members #peter{
+	/*background-color: #dcefeb;*/
+	/*background-color: #ccebff;*/
+}
+
+.team .team-members h3 {
+	font-size: 32px;
+	color: #2E6171;
+}
+
+.team .team-members p {
+	font-size: 16px;
+}
+
+.team .team-members i {
+	font-size: 24px;
+	padding: 8px;
+	border-radius: 5px;
+	background-color: #0077B5;
+	color: white;
+}
+
+.team .team-members i:hover {
+	background-color: white;
+	color: #0077B5;
 }
