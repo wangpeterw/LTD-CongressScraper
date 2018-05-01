@@ -47,11 +47,11 @@ p,a,li,blockquote, select, input, button, table, td, tr, b {
 	font-size: 64;
 	text-align: center;
 	border-bottom: 1px solid #e6e6e6;
-	padding-bottom: 36px;
+	padding-bottom: 24px;
 }
 
 .query-title h3 {
-	padding-top: 12px;
+	padding-top: 6px;
 	font-size: 32;
 	text-align: center;
 	color: #2E6171;

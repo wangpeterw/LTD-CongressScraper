@@ -35,20 +35,27 @@ ltd-darkblue #1B3949*/
 	/* padding: 20px; */
 }
 
+.contact label {
+	font-family: "Lato", sans-serif;
+  font-weight: 700;
+	font-size: 14;
+}
+
 .contact h1 {
 	/* position: relative; */
 	margin: 0;
 	margin-bottom: 20px;
 	color: #34393A;
 	font-size: 48;
-	font-family: 'Black Han Sans', sans-serif;
-	font-weight: 50%;
+	font-family: "Lato", sans-serif;
+  font-weight: 700;
 	line-height: 1.3em/52px;
 }
 
 .contact h2 {
 	font-size: 14;
-	font-family: 'Black Han Sans', sans-serif;
+	font-family: "Lato", sans-serif;
+  font-weight: 700;
 }
 
 input[type=text], select, textarea {
