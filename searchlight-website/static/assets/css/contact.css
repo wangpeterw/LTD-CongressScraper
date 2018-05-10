@@ -58,6 +58,10 @@ ltd-darkblue #1B3949*/
   font-weight: 700;
 }
 
+.contact #subject {
+    padding: 12px;
+}
+
 input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
