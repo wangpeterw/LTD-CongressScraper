@@ -75,13 +75,32 @@ def contact():
 	if form.validate_on_submit():
 
 		email = request.form.get('email')
-		name = request.form.get('message')
+		name = request.form.get('name')
 		subject = request.form.get('subject')
 		message = request.form.get("message")
+		body = "Name: " + name + "\nEmail: " + email + "\n\nSubject: " + subject + "\n\nBody: " + message + "\n\n"
 
 		print("RETRIEVED")
 
+		msg_for_us = Message(subject="Searchlight Contact Form Submission", sender=app.config.get("MAIL_USERNAME"),
+					recipients=["omkar.waingankar@berkeley.edu"], # replace with your email for testing
+					body=body)
+
+		mail.send(msg_for_us)
+
+		msg_for_sender = Message(subject="Searchlight Contact Form Receipt", sender=app.config.get("MAIL_USERNAME"),
+					recipients=[email], # replace with your email for testing
+					body="Hi " + name + ",\n\n" + "Thanks for connecting with us. " + 
+					"We'll be sure to get back in touch with you as soon as possible!\n\n" + 
+					"Contact Form Receipt: \n\n" + body +
+					"Best,\nThe Searchlight Team")
+
+		mail.send(msg_for_sender)
+
+		print("MESSAGE SENT BY " + name)
+
 		return flask.render_template('contact.html', title='Submitted', success=True)
+		
 	return flask.render_template('contact.html', title='Contact Us', form=form, message_type=message_type, success=False)
 
 @app.route('/form_submission')
