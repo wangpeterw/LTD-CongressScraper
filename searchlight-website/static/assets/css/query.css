@@ -18,6 +18,10 @@ p,a,li,blockquote, select, input, button, table, td, tr, b {
   font-size: 14px;
 }
 
+body {
+	background-color: #F2F2F2;
+}
+
 .navbar {
 	margin-bottom: 0;
 }
@@ -37,13 +41,12 @@ p,a,li,blockquote, select, input, button, table, td, tr, b {
 	font-size: 16px;
 }
 
-
 .query {
-	padding-top: 100px;
-	background-color: #F2F2F2;
+	margin-top: 100px;
 }
 
 .query-title h1 {
+	margin-top: 0px;
 	font-size: 64;
 	text-align: center;
 	border-bottom: 1px solid #e6e6e6;

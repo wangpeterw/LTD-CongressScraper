@@ -31,54 +31,84 @@
 		</div>
 
 		<div class="contact">
+
 			<div class="container">
+				<div class="contact-title">
+					<h1>CONTACT US</h1>
+				</div>
+			</div>
 
-					{% if success %}
-						<h1>Form submitted!</h1>
+			<div class="contact-form">
+				<div class="container">
 
-						<h2>Thanks for connecting with us. We'll be sure to get back in touch with you as soon as possible.</h2>
+						{% if success %}
 
-					{% else %}
+							<p>Form submitted!</p>
+							<p>Thanks for connecting with us. We'll be sure to get back in touch with you as soon as possible.</h2>
 
+						{% else %}
 
-						<h1>CONTACT US!</h1>
+							<!-- <form method="post" action="/contact">
 
-						<form method="post" action="/contact">
+							    <label for="name">Name</label>
+							    <input type="text" name="name" placeholder="Your name.." required>
 
-					    <label for="name">Name</label>
-					    <input type="text" name="name" placeholder="Your name.." required>
+							    <label for="email">Email</label>
+							    <input type="email" name="email" placeholder="Your email.." required>
 
-					    <label for="email">Email</label>
-					    <input type="email" name="email" placeholder="Your email.." required>
+							    <label for="subject">Message Subject</label>
+							    <select id="subject" name="subject" required>
+										<option value="" selected>Select a subject...</option>
+										{% for msg in message_type %}
+										<option value="{{msg}}">{{msg}}</option>
+										{% endfor %}
+							    </select>
 
-					    <label for="subject">Message Subject</label>
+							    <label for="message">Message</label>
+							    <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea>
 
-					    <select id="subject" name="subject" required>
-								<option value="" selected>Select a subject...</option>
-								{% for msg in message_type %}
-								<option value="{{msg}}">{{msg}}</option>
-								{% endfor %}
-					    </select>
+							    <input type="submit" name="submit" data-submit="...Sending" value="Submit">
 
-					    <label for="message">Message</label>
+							</form> -->
 
-					    <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea>
-					    <input type="submit" name="submit" data-submit="...Sending" value="Submit">
-					  </form>
-					{% endif %}
+							<form action="" method="post">
 
+						        {{ form.hidden_tag() }}
 
+						        <p>
+						            {{ form.name.label }}
+						            {{ form.name(type="text", placeholder="Your name..", required=true) }}
+						        </p>
+
+						        <p>
+						            {{ form.email.label }}
+						            {{ form.email(type="email", placeholder="Your email..", required=true) }}
+						        </p>
+
+						        <p>
+						            {{ form.subject.label }}
+						            <select id="subject" name="subject" required>
+										<option value="" selected>Select a subject...</option>
+										{% for msg in message_type %}
+										<option value="{{msg}}">{{msg}}</option>
+										{% endfor %}
+							    	</select>
+						        </p>					       
+
+						        <p>
+						            {{ form.message.label }}
+						            <textarea id="message" name="message" placeholder="Write something.."></textarea>
+						        </p>
+
+						        <p>{{ form.submit() }}</p>
+
+						    </form>
+
+						{% endif %}
+
+				</div>
 			</div>
 		</div>
-<!-- 
 
-		#started google form stuff, honestly looks kinda shitty lol
-		<div class="contact">
-			<div class="container">
-				<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfj2bNTCN1WTEl6fnJXjIUtqtWvJC2ZLPfO_c7G4TT-tQnW1w/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-			</div>
-		</div> -->
-		
-
-</body>
+	</body>
 </html>

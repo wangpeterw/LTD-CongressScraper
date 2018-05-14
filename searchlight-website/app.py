@@ -5,20 +5,22 @@ from flask import Response, request, send_file, flash
 import json
 import sqlite3
 import csv
+from config import Config
+from contactform import ContactForm
 
-from flask_wtf import Form
-from flask_wtf.csrf import CSRFProtect
-from wtforms import TextField, BooleanField,IntegerField
-from wtforms.validators import Required
-from flask_mail import Message, Mail
-from flask import request
 
+from flask_wtf import FlaskForm
+from wtforms import StringField, PasswordField, BooleanField, SubmitField
+from wtforms.validators import DataRequired
+from flask_mail import Mail, Message
+# from flask_wtf.csrf import CSRFProtect
+# from flask_mail import Message, Mail
 
 app = flask.Flask(__name__)
-# app = CSRFProtect(app)
+app.config.from_object(Config)
+mail = Mail(app)
 
-mail = Mail()
-
+# mail = Mail()
 # app.secret_key = 'development key'
 #
 # app.config["MAIL_SERVER"] = "smtp.gmail.com"
@@ -48,34 +50,43 @@ def process():
 def team():
 	return flask.render_template('team.html')
 
+# @app.route('/contact', methods=["GET", "POST"])
+# def contact():
+
+# 	if request.method == 'POST':
+# 		email = request.form.get('email')
+# 		name = request.form.get('message')
+# 		subject = request.form.get('subject')
+# 		message = request.form.get("message")
+# 		#send_email(message, reply_to)
+# 		return flask.render_template('contact.html', success=True)
+# 	else:
+
+		# return flask.render_template('contact.html', success=False, message_type=message_type)
+
+
+# 	return flask.render_template('contact.html', message_type=message_type)
+
 @app.route('/contact', methods=["GET", "POST"])
 def contact():
+	form = ContactForm()
+	message_type = ["More Information about Goodly Labs",
+	"Potential Errors in the Dataset", "Suggestions", "Questions and Concerns", "Other"]
+	if form.validate_on_submit():
 
-	if request.method == 'POST':
 		email = request.form.get('email')
 		name = request.form.get('message')
 		subject = request.form.get('subject')
 		message = request.form.get("message")
-		#send_email(message, reply_to)
-		return flask.render_template('contact.html', success=True)
-	else:
 
-		message_type = ["More Information about Goodly Labs",
-		"Potential Errors in the Dataset", "Suggestions", "Questions and Concerns", "Other"]
-		return flask.render_template('contact.html', success=False, message_type=message_type)
+		print("RETRIEVED")
 
-
-	return flask.render_template('contact.html', message_type=message_type)
+		return flask.render_template('contact.html', title='Submitted', success=True)
+	return flask.render_template('contact.html', title='Contact Us', form=form, message_type=message_type, success=False)
 
 @app.route('/form_submission')
 def form_submission():
-
 	return flask.render_template('form_submission.html')
-
-
-@app.route('/database')
-def database():
-	return flask.render_template('database.html')
 
 @app.route('/query')
 def speakers():

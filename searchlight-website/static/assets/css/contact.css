@@ -5,15 +5,33 @@ ltd-blue #2E6171
 ltd-lightblue #AFD9D3
 ltd-darkblue #1B3949*/
 
-@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Lato|Merriweather|Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Lato:700|Merriweather:300,300italic,700');
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+}
+
+p,a,li,blockquote, select, input, button, table, td, tr, b, label {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-size: 14px;
+}
+
+body {
+    background-color: #F2F2F2;
+}
 
 .navbar {
 	margin-bottom: 0;
 }
 
-.navbar-brand{
+.navbar a {
+    font-size: 16px;
+}
+
+.navbar-brand a {
 	font-size: 16px;
-	font-family: 'Lato', sans-serif;
 }
 
 .navbar-fixed-top {
@@ -22,47 +40,41 @@ ltd-darkblue #1B3949*/
 	margin-bottom: 0;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
 	border: 0;
-	font-family: 'Lato', sans-serif;
 }
 
 .contact {
-
-	margin-top: 120px;
-
-	;
-	/* background-color: #f2f2f2; */
-	background-color: white;
-	/* padding: 20px; */
+    margin-top: 100px;
+    background-color: #F2F2F2;
 }
 
 .contact label {
-	font-family: "Lato", sans-serif;
-  font-weight: 700;
-	font-size: 14;
+	font-size: 18;
 }
 
 .contact h1 {
-	/* position: relative; */
-	margin: 0;
-	margin-bottom: 20px;
-	color: #34393A;
-	font-size: 48;
-	font-family: "Lato", sans-serif;
-  font-weight: 700;
-	line-height: 1.3em/52px;
+    position: relative;
+    margin: 0;
+    color: #34393A;
+    font-size: 64;
+    line-height: 1.3em/52px;
+    text-align: center;
+    font-weight: 700;
+    border-bottom: 1px solid #e6e6e6;
+    padding-bottom: 36px;
+    /*padding: 36px;*/
 }
 
 .contact h2 {
 	font-size: 14;
 	font-family: "Lato", sans-serif;
-  font-weight: 700;
+    font-weight: 700;
 }
 
 .contact #subject {
     padding: 12px;
 }
 
-input[type=text], select, textarea {
+input[type=email], input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
     border: 1px solid #ccc;
@@ -70,20 +82,15 @@ input[type=text], select, textarea {
     box-sizing: border-box;
     margin-top: 6px;
     margin-bottom: 16px;
-    resize: vertical
+    resize: vertical;
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-size: 14px;
 }
 
-input[type=email], select, textarea {
-    width: 100%;
-    padding: 12px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-    margin-top: 6px;
-    margin-bottom: 16px;
-    resize: vertical
+textarea {
+    height: 200px;
 }
-
 
 input[type=submit] {
     background-color: #4CAF50;
@@ -96,4 +103,8 @@ input[type=submit] {
 
 input[type=submit]:hover {
     background-color: #45a049;
+}
+
+.contact-form {
+    margin-top: 36px;
 }
