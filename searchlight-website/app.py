@@ -80,24 +80,23 @@ def contact():
 		message = request.form.get("message")
 		body = "Name: " + name + "\nEmail: " + email + "\n\nSubject: " + subject + "\n\nBody: " + message + "\n\n"
 
-		print("RETRIEVED")
+		#print("RETRIEVED")
 
 		msg_for_us = Message(subject="Searchlight Contact Form Submission", sender=app.config.get("MAIL_USERNAME"),
-					recipients=["omkar.waingankar@berkeley.edu"],
+					recipients=["omkar.waingankar@berkeley.edu", "nalinchopra123@gmail.com"],
 					body=body)
-
 		mail.send(msg_for_us)
 
 		msg_for_sender = Message(subject="Searchlight Contact Form Receipt", sender=app.config.get("MAIL_USERNAME"),
 					recipients=[email],
-					body="Hi " + name + ",\n\n" + "Thanks for connecting with us. " + 
-					"We'll be sure to get back in touch with you as soon as possible!\n\n" + 
+					body="Hi " + name + ",\n\n" + "Thanks for connecting with us. " +
+					"We'll be sure to get back in touch with you as soon as possible!\n\n" +
 					"Contact Form Receipt: \n\n" + body +
 					"Best,\nThe Searchlight Team")
 
 		mail.send(msg_for_sender)
 
-		print("MESSAGE SENT BY " + name)
+		#print("MESSAGE SENT BY " + name)
 
 		return flask.render_template('contact.html', title='Submitted', success=True)
 
