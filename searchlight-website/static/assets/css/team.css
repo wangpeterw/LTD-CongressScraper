@@ -110,14 +110,15 @@ table {
 }
 
 .team .team-members i {
-	font-size: 24px;
-	padding: 8px;
 	border-radius: 5px;
-	background-color: #0077B5;
-	color: white;
+	color: #0077B5;
+	font-size: 36px;
 }
 
-.team .team-members i:hover {
-	background-color: white;
-	color: #0077B5;
+.team .team-members #mail {
+	color: #dd4b39;
+}
+
+.team .team-members i:hover, .team .team-members #mail:hover {
+	color: white;
 }

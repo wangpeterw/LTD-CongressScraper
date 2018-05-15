@@ -83,13 +83,13 @@ def contact():
 		print("RETRIEVED")
 
 		msg_for_us = Message(subject="Searchlight Contact Form Submission", sender=app.config.get("MAIL_USERNAME"),
-					recipients=["omkar.waingankar@berkeley.edu"], # replace with your email for testing
+					recipients=["omkar.waingankar@berkeley.edu"],
 					body=body)
 
 		mail.send(msg_for_us)
 
 		msg_for_sender = Message(subject="Searchlight Contact Form Receipt", sender=app.config.get("MAIL_USERNAME"),
-					recipients=[email], # replace with your email for testing
+					recipients=[email],
 					body="Hi " + name + ",\n\n" + "Thanks for connecting with us. " + 
 					"We'll be sure to get back in touch with you as soon as possible!\n\n" + 
 					"Contact Form Receipt: \n\n" + body +
@@ -100,12 +100,8 @@ def contact():
 		print("MESSAGE SENT BY " + name)
 
 		return flask.render_template('contact.html', title='Submitted', success=True)
-		
-	return flask.render_template('contact.html', title='Contact Us', form=form, message_type=message_type, success=False)
 
-@app.route('/form_submission')
-def form_submission():
-	return flask.render_template('form_submission.html')
+	return flask.render_template('contact.html', title='Contact Us', form=form, message_type=message_type, success=False)
 
 @app.route('/query')
 def speakers():
@@ -218,7 +214,7 @@ def speakers():
 	if format_ == "csv":
 		return download_csv(records, "speeches_%s.csv" % (speaker_surname.lower()))
 	else:
-		years = [x for x in range(2018, 1995, -1)]
+		years = [x for x in range(2018, 2016, -1)]
 		months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 		days = [x for x in range(1, 32)]
 		parties = ['R', 'D', 'I']

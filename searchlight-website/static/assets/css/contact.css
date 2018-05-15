@@ -48,7 +48,8 @@ body {
 }
 
 .contact label {
-	font-size: 18;
+	font-size: 16;
+    font-weight: bold;
 }
 
 .contact h1 {
@@ -78,7 +79,7 @@ input[type=email], input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
     border: 1px solid #ccc;
-    border-radius: 4px;
+    border-radius: 5px;
     box-sizing: border-box;
     margin-top: 6px;
     margin-bottom: 16px;
@@ -86,6 +87,11 @@ input[type=email], input[type=text], select, textarea {
     font-family: "Merriweather", serif;
     font-weight: 300;
     font-size: 14px;
+}
+
+select {
+    -webkit-appearance: menulist-button;
+    height: 44px;
 }
 
 textarea {
@@ -99,6 +105,7 @@ input[type=submit] {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    font-weight: bold;
 }
 
 input[type=submit]:hover {

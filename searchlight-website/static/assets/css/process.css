@@ -5,15 +5,32 @@ ltd-blue #2E6171
 ltd-lightblue #AFD9D3
 ltd-darkblue #1B3949*/
 
-@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Lato|Merriweather|Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Lato:700|Merriweather:300,300italic,700');
+
+body {
+	background-color: #F2F2F2;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+}
+
+p,a,li,blockquote {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+}
 
 .navbar {
 	margin-bottom: 0;
 }
 
-.navbar-brand{
+.navbar a {
+    font-size: 16px;
+}
+
+.navbar-brand a {
 	font-size: 16px;
-	font-family: 'Lato', sans-serif;
 }
 
 .navbar-fixed-top {
@@ -22,21 +39,23 @@ ltd-darkblue #1B3949*/
 	margin-bottom: 0;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
 	border: 0;
-	font-family: 'Lato', sans-serif;
 }
 
-.process {
-	margin-top: 120px;
-	background-color: white;
+.process-title {
+	margin-top: 100px;
 }
 
-.process h1 {
+.process-title h1 {
 	position: relative;
 	margin: 0;
 	color: #34393A;
-	font-size: 48;
-	font-family: "Lato", sans-serif;
-  font-weight: 700;
-	font-weight: 50%;
+	font-size: 64;
 	line-height: 1.3em/52px;
+	border-bottom: 1px solid #e6e6e6;
+    padding-bottom: 36px;
+    text-align: center;
+}
+
+.process-body {
+	margin-top: 36px;
 }
