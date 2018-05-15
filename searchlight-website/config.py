@@ -8,6 +8,4 @@ class Config(object):
     MAIL_USE_TLS = True
     MAIL_USE_SSL = False
     MAIL_USERNAME = os.environ["MAIL_USER"]
-    # "info.searchlight.ltd@gmail.com"
     MAIL_PASSWORD = os.environ["MAIL_PASS"]
-    # "libtexdat127!"
